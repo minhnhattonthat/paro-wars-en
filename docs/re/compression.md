@@ -16,7 +16,7 @@ stops when the read pointer passes the end
 ```
 
 The game's copies run byte by byte through the window, so an overlapping source reads freshly written bytes; `compress()` mirrors that.
-`tools/lzkc.py compress` is a greedy encoder: it decodes correctly but is not byte-identical to Konami's output. So **only recompress files you changed**, and check that they still fit their sectors (`disc.md`). Its worst case is about 9/8 of the input.
+`lzkc.compress()` is a greedy encoder: it decodes correctly but is not byte-identical to Konami's output. So **only recompress files you changed**, and check that they still fit their sectors (`disc.md`). Its worst case is about 9/8 of the input.
 
 ## Where it is used
 `tools/unpack_all.py` decodes whole files: 3,597 hit (BK_DT 3347, DEMO 166, ENDING 64, DATA 16, NYANTV 4); list in `work/recon/lz.tsv`. Its header test has false negatives by design and prints reason counts (no-header 691, too-small 1603, bad-stream 916).

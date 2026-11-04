@@ -23,7 +23,7 @@ Offsets are in the decoded file for LZ families. `max` is what the original fiel
 | `ENDING/TXT_END` (raw), `ENDING/{PEN,LOV,BAU,TAK,KOI,MOA,PAN,BUT}_TXT` (LZ) | 9 | Same 150-byte pages, `name：「line」` | Endings | **verified** by decode |
 | `P_00`-`P_73`, `P_<name>` (LZ at an offset) | ~86 | After the pixels: `◆強さ５段階評価◆`, stat lines, then description lines 52 bytes wide | Unit encyclopedia | **verified** on P_08 |
 | `DEMO/KABE4` +0x10000 (LZ) | 1 | Country and unit data pages, fixed 26-byte lines | Country info | **guess** on the record shape |
-| `X_<character>` (raw) | 12 | Header offsets, then records with `u32` fields + text in 0x3C-byte slots (from about +0x4B0): attack and reaction shouts | ~11,000 chars | **guess** on record layout; fixed stride **verified** by hexdump |
+| `X_<character>` (raw) | 12 | Header offsets, then records with `u32` fields + text in 0x3C-byte slots (from about +0x4B0): attack and reaction shouts | ~9,000 chars by `scan_jp.py` | **guess** on record layout; fixed stride **verified** by hexdump |
 | `BAKU.BIN` (raw) | 1 | Shouts, 0x32-byte slots | | **guess** |
 | `UNITINFO.BIN` (raw) | 1 | 40-byte records: name 30 bytes, 10 stat bytes | Commander names | **verified** by hexdump |
 | `ITEM.BIN` +0 (raw) | 1 | 96-byte records: `name：description`, ＠ line break, 16 entries | Items | **verified** |

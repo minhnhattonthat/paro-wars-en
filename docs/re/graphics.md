@@ -1,6 +1,6 @@
 # Graphics text survey
 
-Ruling D5: translate all of it; the パロウォーズ logo may stay because the art already has the official PARO WARS subtitle.
+Ruling D5: translate all of it; the パロウォーズ logo stays because no official English logo exists (Japan-only release). The art already carries a PARO WARS subtitle.
 
 Images are raw pixels inside LZ files: no TIM headers except `CNTRY_ST`. Typical shape: 256 px wide, 8bpp, or 4bpp at 128 bytes a row, palette elsewhere (`COL_*`, `BKAO_COL`) or in the file header. Re-import goes through `tools/lzkc.py` and must fit the sectors (`disc.md`). Pixel formats per row are read from the sheets: **guess** until a re-import is proven in phase 8.
 
@@ -22,9 +22,11 @@ Images are raw pixels inside LZ files: no TIM headers except `CNTRY_ST`. Typical
 | 13 | Title screen | tour | `ROGO` logo stays; `NEW GAME`, `CONTINUE`, copyright already English | | none |
 | 14 | Memory card screens | sweep | `MCWGRPH` shows `MEMORY CARD` in English; the text around it is strings in `MEMCARD.BIN` | | check in tour |
 | 15 | Map compass N/E/S/W, `TV` on the cat's hat, FIX.BIN digits and letters | tour, sweep | `FIX` | already Latin | none; check `FIX` kana cells in tour |
+| 16 | Banners and signs painted into story backdrops: パウンド, フォーバウンド in チェス (BACK10A), パロワールド対抗 超シング＆ダンス大会 (BACK11A), a sign in the crowd scene (BACK13A/B) | sweep | `DEMO/BACK10A`, `BACK11A`, `BACK13A`, `BACK13B`; `BACK12A/B` has small marks to check | set dressing with story jokes | redraw over art; read these at full colour first |
+| 17 | `Thank you for playing this game!` | sweep | `ENDING/ENDKABE` | already English | none |
 
 ## Coverage: what this list does and does not rest on
-- **Static sweep:** `tools/sweep.py` rendered 776 unique files on 65 sheets in `work/recon/sweep/` (index in `index.tsv`, every skipped family printed). I read 19 of the sheets: 1, 3, 7, 10, 15, 18, 19, 22, 25, 27, 28, 29, 31, 32, 33, 43, 44, 47, 49, 50, 61, 62, 63. The rest are siblings of those families (more DEMO scenario files, NYANTV, OP/OPF, PUP, P_), so element types should repeat but **individual rows and copies can be missing**. Read them before redrawing a family.
+- **Static sweep:** `tools/sweep.py` rendered 776 unique files on 65 sheets in `work/recon/sweep/` (index in `index.tsv`, every skipped family printed). I read 30 of the 65 sheets: 0, 1, 2, 3, 6, 7, 10, 15, 18, 19, 20, 22, 24, 25, 27, 28, 29, 31, 32, 33, 43, 44, 47, 49, 50, 54, 60, 61, 62, 63. **The other 35 are unread:** 4, 5, 8, 9, 11-14, 16, 17, 21, 23, 26, 30, 34-42, 45, 46, 48, 51-53, 55-59, 64. They are siblings of families I did read (DEMO scenario files, ENDING, NYANTV, OP/OPF, PUP, P_), so most should only add copies, but a new element can hide there: reading sheet 6 late is what found row 16. Read them in phase 2, and list every copy before redrawing a family.
 - **Large families, sampled only:** BK_DT 3,349 and BTL 2,115 and ATAMA 353, from `work/recon/sweep_s/`: backdrops, terrain and battle frames, no text in the sample. Not proven text-free; the marker tour in phase 5 is the check.
 - **Tour so far:** title, mode select, level select, story map, story dialogue, VS card, mission card, tactical map. Not yet seen in game: unit command menus, battle scenes, shop, NYANTV, memory card, unit info pages, win/lose, game over, ending, credits. Phase 2's debug tool must reach those, and each adds rows here if something new shows up.
 - Sheets are greyscale without palettes at fixed widths, so low-contrast or odd-width text can hide.

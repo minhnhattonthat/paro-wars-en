@@ -3,15 +3,13 @@
 Single MODE2/2352 data track, 702,250,752 bytes, 6,885 ISO files. Serial SLPM-86016. Unpacks with dumpsxiso 2.30.
 
 ## Executables
-- `SLPM_860.16` (boot; 307,200 bytes, loads at 0x800D0400 per its header, pc 0x800DF77C): holds 5 file records (0x2C8E8-0x2C918), one of
-  which loads `PAW.EXE` (LBA 0x12C, RAM 0x80010010). Only 7 Japanese characters. **verified** (records); what else it does is not read yet.
-- `PAW.EXE` (main; 1,634,304 bytes): header t_addr 0x80010010, t_size 0x18E800, pc 0x8007FC10. **verified**: its image matches RAM at 0x80010010 outside the
-  areas the game rewrites (`work/qa/d2` RAM dump).
+- `SLPM_860.16` (boot; 307,200 bytes, loads at 0x800D0400 per its header, pc 0x800DF77C). Only 7 Japanese characters. File 0x2C8E0 onward holds `{size, lba, ram}` records, ending with `{0xEA40, 1212, 0x80010010}` (FIX.BIN), `{0x800, 300, 0x80010010}` (PAW.EXE header), then `{0xBC000, 301, ...}` whose third word does not look like an address. **guess**: boot loads 0xBC000 bytes of PAW.EXE's image, not the 0x18E800 its header claims. Its code is not read yet.
+- `PAW.EXE` (main; 1,634,304 bytes): header t_addr 0x80010010, t_size 0x18E800, pc 0x8007FC10. **verified** on a story-screen RAM dump (`work/qa/d2`): of the first 0xBC000 bytes, 0xB72D8 match RAM at 0x80010010. Past that, 0x74820 of 0xD2800 match, and that tail is almost all zeros (only 0xAF78 nonzero bytes), so those matches prove little. Anything the patch needs at run time belongs in the first 0xBC000 until the boot code is read.
 - `$gp` is 0 in the header; check for `$gp`-relative data before relying on `lui` xrefs alone (not read yet, **guess** that it is unused).
 
 ## File records
 12-byte `{u32 size, u32 lba, u32 ram}` entries. `tools/disc_tables.py` finds 201 in PAW.EXE (file 0x8B658-0x8C960) and 5 in the boot EXE; listing in
-`work/recon/file_tables.tsv`. **verified**: FIX.BIN `{0xEAC0, 1212, 0x80160000}`, sizes and LBAs match the ISO directory.
+`work/recon/file_tables.tsv`. The scan keeps only records whose LBA starts a known file and whose third word is 0x80xxxxxx, so it misses records like the boot EXE's last one. **verified**: FIX.BIN `{0xEAC0, 1212, 0x80160000}`, sizes and LBAs match the ISO directory.
 - Some records use a size rounded up (X_PENTA 0xEA2F vs ISO 0xEA2B). Records exist for P_*, PUP_*, MTIT, X_*, OP*, BAKU*, BATTLE*, S_*.
 - Not named by these records: BK_DT 3347, BTL 2115, ATAMA 353, DEMO 324, ENDING 118, NYANTV 124, BTLEND 17, overlays and others in DATA 216, SOUND, STR. **guess**: those
   use computed LBAs (base + index), other table shapes, or per-scene lists such as `DEMO/SEQ_*` (their first words are RAM pointers 0x801C0140...). Find the loader in phase 2/3 before changing any file's size.
