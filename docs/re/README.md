@@ -28,4 +28,4 @@ in phase 6. Later reissue: Konami the Best, SLPM-86392, not this dump.
 ## Tools
 `tools/mipsre.py` (disassembly, xref, BIOS stubs), `tools/lzkc.py` (codec), `tools/unpack_all.py`, `tools/lz_embed.py`,
 `tools/font.py`, `tools/disc_tables.py`, `tools/scan_jp.py`, `tools/sweep.py`, `tools/bitmap.py`, `tools/ramfind.py`, `tools/ramscan.py`,
-`tools/classify.py`, `tools/disc_ids.py`, `tools/debug/glyphs.lua`, `tools/debug/trace.lua`, `tools/debug/warp.lua`, `tools/debug/x.sh`. Run the Unpack command in AGENTS.md first.
+`tools/classify.py`, `tools/disc_ids.py`, `tools/disc.py` (ISO walk, file writer with EDC/ECC), `tools/disc_diff.py` (sector diff of two images, by field and file), `tools/debug/glyphs.lua`, `tools/debug/trace.lua`, `tools/debug/warp.lua`, `tools/debug/x.sh`. Run the Unpack command in AGENTS.md first.

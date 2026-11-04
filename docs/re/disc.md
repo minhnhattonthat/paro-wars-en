@@ -31,6 +31,12 @@ Single MODE2/2352 data track, 702,250,752 bytes, 6,885 ISO files. Serial SLPM-86
 **File sizes and LBAs are compiled in.** Keep every file at its LBA, and within its allocated sectors (`layout.xml` records `dummy` gaps). A file that outgrows
 its sectors needs its records rewritten or a relocation plan. Keep the file-record size equal to the bytes the game must read.
 
+**The build patches files in place with `tools/disc.py`, not mkpsxiso.** **verified**: `tests/test_disc.py` writes every tree file into a blank image (only system area, directories and gaps come from the dump) and gets the dump's SHA-1; breaking the EDC table or the P or Q order makes it fail. mkpsxiso from `layout.xml` gets the size right but not the bytes, and no layout can fix it:
+- `/SOUND/XA` is at LBA 175408 and its parent `/SOUND` at 181501, after `/STR` at 181500. mkpsxiso writes a parent first, so HEIKI.STR, BTLEND and ENDING land one sector late (175409-181500), and their LBAs are compiled in.
+- The PVD abstract id `KONAMI` has no layout attribute.
+
+Data files are all Form 1, subheader `00 00 08 00` with `00 00 89 00` on the last sector, parity standard (the test covers every one). `dumpsxiso` stores XA and STR files as 2336 bytes per sector. Tail bytes past a file's ISO size are zero.
+
 ## Padding
 Allocated sectors past a file's real data hold leftover bytes from the mastering PC (a DOS filer's Japanese help: `[eXec] プログラムの実行`, `ドライブ番号`). **verified** by inspection of DEMO files: those strings sit past the LZ
 length. They are not game text: leave them, and teach `jp_left.py` to ignore them.

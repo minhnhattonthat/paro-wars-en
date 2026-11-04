@@ -37,7 +37,7 @@ Known issues: <none known / see [Issues](../../issues)>.
 
 ## Build your own patched ROM
 
-Needs Python 3.12+ and your own dump of the Japanese game.
+Needs Python 3.12+ with numpy (pytest for the check) and your own dump of the Japanese game.
 
 ```sh
 git clone https://github.com/minhnhattonthat/<repo>
