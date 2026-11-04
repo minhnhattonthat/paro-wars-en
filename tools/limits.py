@@ -40,22 +40,35 @@ TEMPLATES = {
     "PAW:a9530": [12],  # テレポーテーション　あと３回
     "PAW:a9550": [12],
     "PAW:a9570": [12],
-    "BUTAI_OV:2594": [1, 2],  # 海８０
+    "BUTAI_OV:2594": [1, 2],  # 海８０: the code blanks all but the first halfword, so the labels live in `Defense:` (BUTAI_OV:25ac)
     "BUTAI_OV:259c": [1, 2],
     "BUTAI_OV:25a4": [1, 2],
+    "PAW:a8ac8": [7, 8, 9, 11, 12, 13],  # fuel, ９／９９９: a tab puts the digits back past the bar, the blanks draw at 6 px
 }
+# The string's length in halfwords is fixed. The price writer counts its digits back from the string's end; the commander panel ends the string right
+# after its digits, so a label past them vanishes and only 4 letters fit in front (shots and RAM dumps, work/qa/p7g).
+HALFWORDS = {"PAW:a8c70": 7, "PROD_OV:24f8": 7, "PROD_OV:2604": 7, "PROD_OV:2708": 7, "PROD_OV:2814": 7, "NSHOP_OV:20": 9,
+             "BUTAI_OV:2594": 3, "BUTAI_OV:259c": 3, "BUTAI_OV:25a4": 3,
+             **{i: 5 for i, want in TEMPLATES.items() if want is _stat}}
+# The caller centres these by halfword count, x = centre - 6 * count: at 4 or more the first letter goes under the frame. A leading {x:12} costs one
+# halfword (6 px left) and gains 12, which brings a long label back into the column (x from tools/debug/boxes.lua).
+CENTRED = re.compile(r"CNTRY_ST:5[a-f][0-9a-f]|PAW:b3(084|0c0|0f0|120|150)")
 
 # Real room from the windows' positions on the original (tools/debug/room.py) and shots of the English: id regex -> px. Wins over the Japanese's own width.
 MEASURED = [
     (r"PAW:917[0-9a-f]{2}|PAW:918[01][0-9a-f]", 50),  # ranks: 50 in the commander panel, 63 in unit info
     (r"PAW:90[bc][0-9a-f]{2}|PAW:90d[0-3][0-9a-f]", 61),  # unit classes: the unit list's Type column
     (r"PAW:918[4-9a-b][0-9a-f]|PAW:919[0-9a-f]{2}|PAW:91a[0-9a-f]{2}", 104),  # terrain and buildings: the map's bubble
-    (r"CNTRY_ST:5[a-f][0-9a-f]", 37),  # label column, x=12 to the frame at 49; "Airport" just reaches it
+    (r"CNTRY_ST:5[a-f][0-9a-f]", 55),  # label column to the frame at 49, measured from the window x of a 5-halfword label (-6): CENTRED
     (r"LOCEX_OV:36[89a][0-9a-f]", 96),  # deploy message: the list runs on after "Deploy locations:"
     (r"NSHOP_OV:(2[d-f][0-9a-f]|30[0-9a-f])", 130),  # shop item list
     (r"BUTAI_OV:27[b-c][0-9a-f]", 43),  # the unit list's Plan column, x=269 to the frame
-    (r"BUTAI_OV:2a40", 31),
+    (r"PAW:a94d0", 126),  # window x is 12 left of the column at 12 halfwords: CENTRED
+    (r"BUTAI_OV:25(94|9c|a4)", 60),  # defense cells, 60 apart
+    (r"BUTAI_OV:25ac", 190),  # Defense: and the three labels, x=78 to the last cell's digits
+    (r"BUTAI_OV:2a40", 27),  # x=67 to the frame at 92: the e touches it, a tab would only clip the N
     (r"BUTAI_OV:2[34][0-9a-f]{2}", 110),
+    (r"PAW:b3(084|0c0|0f0|120|150)", 62),  # unit info's first column, from the window x of a 5-halfword label (-5) to the number at 57: CENTRED
     (r"PAW:b3(16[0-7]|17[0-7]|08[0-9a-f]|09[0-9a-f]|0[a-f][0-9a-f]|1[0-5][0-9a-f])", 50),  # unit info stat labels: 44 to the number's window, whose first cell is a blank
     (r"PAW:b3168", 51),
     (r"PAW:b3178", 77),
@@ -121,7 +134,13 @@ def far_only(entry):
 def template_problems(entry, text):
     enc = en_text.encode(text)
     want = TEMPLATES.get(entry["id"], ())
-    return [f"halfword {i} must stay a fullwidth blank for the digits the code writes" for i in want if enc[i * 2:i * 2 + 2] != b"\x81\x40"]
+    out = [f"halfword {i} must stay a fullwidth blank for the digits the code writes" for i in want if enc[i * 2:i * 2 + 2] != b"\x81\x40"]
+    fixed = HALFWORDS.get(entry["id"])
+    if fixed and (len(enc) + 1) // 2 != fixed:
+        out.append(f"{(len(enc) + 1) // 2} halfwords, the code needs exactly {fixed}")
+    if CENTRED.fullmatch(entry["id"]) and len(enc) > 6 and not text.startswith("{x:"):
+        out.append("over 3 halfwords in a centred column: start with {x:12}")
+    return out
 
 
 def fit(entry, text):

@@ -132,8 +132,9 @@ pair:
     li    v0,0x1E
     bne   a0,v0,@@letters
     andi  v0,s2,0xFF
-    b     tail                  ; tab: halfword 0x1E, n sets the pen to 2n px from the window's x
-    sll   s6,v0,1
+    sll   s6,v0,1               ; tab: halfword 0x1E, n sets the pen to 2(n-5) px from the window's x. Biased because a swapped n
+    b     tail                  ; comes first in its halfword, and the next prepare's scan ends a string at a byte below 5
+    addiu s6,s6,-10
 @@letters:
     jal   letter
     nop

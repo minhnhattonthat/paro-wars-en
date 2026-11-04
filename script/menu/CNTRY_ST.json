@@ -93,7 +93,7 @@
    "off": 1460,
    "len": 8,
    "jp": "工場",
-   "en": "Fact.",
+   "en": "{x:12}Factory",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -117,7 +117,7 @@
    "off": 1472,
    "len": 8,
    "jp": "空港",
-   "en": "Airport",
+   "en": "{x:12}Airport",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -153,7 +153,7 @@
    "off": 1496,
    "len": 8,
    "jp": "科学力",
-   "en": "Science",
+   "en": "{x:12}Science",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -189,7 +189,7 @@
    "off": 1520,
    "len": 8,
    "jp": "指揮",
-   "en": "Control",
+   "en": "{x:12}Control",
    "status": "done",
    "kind": "text",
    "refs": [

@@ -20,6 +20,13 @@ Screen 320x224. Pixels are from the window's own x. Advance: 5.3 px a letter on 
 
 **Button icons.** Strings starting with `　` (`　で決定`, `　で発射`) have a button drawn over the gap by the caller. English keeps the gap with `{x:N}`, in px from the window's x. Each one's gap is the number of leading `　` x 12.
 
+**Strings the code changes or positions** (**verified** on shots and RAM dumps, `work/qa/p7g`; found only by looking at the English side by side with the original, `tools/debug/compare.py`, so lint can't find a new case, it only guards these). Enforced in `limits.py`: `TEMPLATES`, `HALFWORDS`, `CENTRED`.
+- **Digit cells:** the code writes digits into fixed halfwords (`room.py --pokes`). Fullwidth digits and blanks draw at 6 px, so a field that relied on blanks for position needs a tab (fuel, `PAW:a8ac8`).
+- **Counted from the end:** the price writer places its digits back from the string's end, so `３４０ウッキー` must stay 7 halfwords or the hundreds digit lands before the string (340 showed as 40).
+- **Cut after the digits:** the commander panel (`PAW:a9054` family) ends the string after halfword 4, so a label past the digits is never drawn, and only the 2 halfwords before them hold text: 4 letters. A tab can't help.
+- **All but the first halfword blanked:** the unit list's defense cells (`BUTAI_OV:2594-25a4`): the labels live in `Defense:` (`25ac`) with tabs, and the cell's one safe halfword is a tab past them.
+- **Centred by count:** many labels are drawn at `centre - 6 * halfwords` (`CNTRY_ST:5xx`, unit info's first column). At 4 halfwords the first letter goes under the frame. A leading `{x:12}` costs one halfword (6 px left) and gains 12. Right-aligned by count: `BUTAI_OV:2500` Move, the cost column.
+
 **Not text, decided here.**
 - Greek in battle boxes (`83bf-83d6`, `80149be0`): Koitsu's gibberish, stays as is, and Greek cells are kept.
 - `tools/jp_left_files.py` after the marker build: 14 two-character hits (`ф恒`, `成博`, ...), none a string: `mipsre.py xref` finds no reference to any, and the two read as code disassemble to instructions.

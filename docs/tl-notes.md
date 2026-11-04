@@ -6,8 +6,8 @@ Settle each one against a shot, then delete it.
 Engine work done first: VWF, moved strings, far strings for table fields (`font.md`), digits at half width, labels past digits by tab (`boxes.md`). Each one left has a measured reason.
 - Ranks in 50 px (commander panel): Gen. Sec., Gr. Emp., Def. Sec., Lt. Gen., Maj. Gen., Lt. Col.
 - Unit classes in the unit list's 61 px Type column: Fighter-Atk., Tr. Bomber, Inf. Tank, Mech Inf., SP AA Gun, SP Gun, SP Rocket, AA Missile; `Secret` for Secret Weapon, `Cat Weapon` for Cat Super Weapon, `Supply` for Supply Truck.
-- `CNTRY_ST:5ac,5b4` Refin., Fact.: a 34 px label column; x is not in a table, and moving the column needs its code found. `CNTRY_ST:9b4` Fed. States: 66 px column.
-- Stat labels in cells 64 px apart: Sea Cmd, Land Cmd, Air Cmd (glossary: Sea command). `PAW:9d0,9d4` Df, At: 12 px before a number. `BUTAI_OV:27b0` Interc: 43 px column.
+- `CNTRY_ST:5ac` Refin.: 42 px against a column that shows 38 between two frames. `CNTRY_ST:5b4` Factory is 39, so its y just touches the frame. `CNTRY_ST:9b4` Fed. States: 66 px column.
+- Commander panel `PAW:a9054` family: Air, Land, Sea (for Air/Land/Sea Cmd), Inst, Acc. The code ends the string after its digits, so only 4 letters fit (`boxes.md`). Unit info has room and uses the full labels. `PAW:b3170` Def.: weapon info, a 30 px cell between two frames. `PAW:9d0,9d4` Df, At: 12 px before a number. `BUTAI_OV:27b0` Interc: 43 px column.
 - `PROD_OV:2a5c-2a8c` and the 13 one-kanji headers (`glossary.md`): Bd, Rv, Rd, Br, Ic, Sn, Se, Cs, Rk, Sa, Dt, Fr, Gr: one column each.
 - `PAW:b3188` DX (the unit class).
 - Not seen on any toured screen, so kept short until phase 8 can measure them: `PAW:b339c,b33a4` Inst, Accur.; `b32ec,b3358` Form; `BUTAI_OV:2618-2638,2684-26a4` Inst, Acc, Sea, Air; `BUTAI_OV:2c7c-2cb8` Screw, Rainbow, Engine, Bazooka; `MEMCARD:ec` Ch.; `OPT_OV:1584-15b8` (Res.); `BEND_OV:1d10,1d24`.

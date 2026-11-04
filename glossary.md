@@ -83,7 +83,7 @@ Unit classes: 要撃機 Interceptor, 戦闘機 Fighter, 攻撃機 Attacker, 戦�
 Commanders in `UNITINFO` are puns on real people (`ペンジェル・マンセル` Penigel Mansell, `ペンチウム・プロフェッサ` Pentium Professor, `クルシ～チョフ` Kurushchev): keep each pun's real-name shape.
 
 ## One-kanji table headers (12 px, flagged abbreviations)
-建 Bd, 川 Rv, 道 Rd, 橋 Br, 氷 Ic, 雪 Sn, 海 Se, 岸 Cs, 岩 Rk, 砂 Sa, 土 Dt, 森 Fr, 草 Gr.
+建 Bd, 川 Rv, 道 Rd, 橋 Br, 氷 Ic, 雪 Sn, 海 Se, 岸 Cs, 岩 Rk, 砂 Sa, 土 Dt, 森 Fr, 草 Gr; 防 Df, 攻 At before a number; 極 DX. Commander panel, 4 letters before the digits: Air, Land, Sea, Inst, Acc. The other unit headers fit in full: 山 Peak, 残 Ammo, 距 Range, 潜 Sub, 陸 Land, 空 Air. All on-screen abbreviations: `docs/tl-notes.md`.
 
 ## Decisions from earlier batches
 People: ベリアル・ブゥブゥー Belial Boo-Boo; コイツ/アイツ extended: そいつ Soitsu, どいつ Doitsu; ワン田 Wanda; メカニャンＮ号 Mecha-Nyan No. N.

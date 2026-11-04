@@ -31,7 +31,7 @@ RUNS = [re.compile("[ァ-ヺーｦ-ﾟ]+"), re.compile("[ぁ-ゖ]+"), re.compile
 TERM_GROUPS = {"story", "ending", "battle"}  # a bio's fields split sentences anywhere, so a JP term and its EN may land in different ids
 HONORIFICS = [("さん", "-sa+n"), ("ちゃん", "-cha+n"), ("くん", "-ku+n"), ("君", "-ku+n"), ("様", "-sa+ma")]
 NOT_HONORIFIC = "オレ俺神父母皆王同"  # オレ様 is a pronoun, 神様 God, 父ちゃん Pa, 皆さん everyone, 王様 King, 同様 "likewise": words, no title to keep
-NO_GAP = {"DEMO/KABE4:10d82"}  # the title fills the whole 24-byte field, so the indent had to go
+NO_GAP = {"DEMO/KABE4:10d82", "BUTAI_OV:2500"}  # the title fills the whole 24-byte field, so the indent had to go; Move: right-aligned by count, the indent only pushes it into the digit
 # 許さん is a verb; 泣くんじゃ is "don't cry"; アッシー君 is slang for a chauffeur boyfriend, translated as the joke.
 NO_HONORIFIC = {"PAW:91e04", "DEMO/TXT_AIT5:258", "DEMO/TXT_PAN5:258", "DEMO/TXT_TAK4:258", "P_43:4860"}
 

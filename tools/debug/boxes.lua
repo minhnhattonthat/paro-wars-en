@@ -29,7 +29,7 @@ local function measure(p, count, wrap)
   for i = 0, count - 1 do
     local code = r16(p + i * 2)
     if bit.rshift(code, 8) == 0x1E then
-      pen = bit.band(code, 0xFF) * 2
+      pen = (bit.band(code, 0xFF) - 5) * 2
     elseif code < 0x8000 then
       letter(bit.rshift(code, 8))
       letter(bit.band(code, 0xFF))

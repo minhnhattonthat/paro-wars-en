@@ -11,7 +11,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PAD = 0x1F
 BREAK = 0x0A
-TAB = 0x1E  # a whole halfword: 0x1E, then the pen position / 2
+TAB = 0x1E  # a whole halfword: 0x1E, then the pen position / 2 + TAB_BIAS
+TAB_BIAS = 5  # the prepare scan ends a string at any byte below 5, and a swapped tab's value comes first in its halfword (asm/vwf.asm)
 TAB_RE = re.compile(r"\{x:(\d+)\}")
 TAB_SPLIT = re.compile(r"\{x:(\d+)\}")
 ELLIPSIS = 0x7F
@@ -86,11 +87,11 @@ def encode(text):
         tab = TAB_RE.match(text, i)
         if tab:
             px = int(tab[1])
-            if px % 2 or px > 510:
-                raise ValueError(f"{tab[0]}: even pixels, 510 at most")
+            if px % 2 or px > 500:
+                raise ValueError(f"{tab[0]}: even pixels, 500 at most")
             if len(out) & 1:
                 out.append(PAD)
-            out += bytes([TAB, px // 2])
+            out += bytes([TAB, px // 2 + TAB_BIAS])
             i = tab.end()
             continue
         i += 1
@@ -131,7 +132,8 @@ def _selftest():
     assert encode("aκ") == b"a\x1f" + "κ".encode("cp932")
     assert encode("κa") == "κ".encode("cp932") + b"a\x1f"
     assert encode("…") == b"\x7f\x1f"
-    assert encode("a{x:96}b") == b"a\x1f\x1e\x30b\x1f"
+    assert encode("a{x:96}b") == b"a\x1f\x1e\x35b\x1f"
+    assert encode("{x:0}a")[1] >= 5  # below 5 ends a string for the game's scans
     assert line_width("ab{x:96}i") == 98
     assert line_width("{x:44}　　{x:0}a") == 56
     assert encode("a　") == b"a\x1f\x81\x40"

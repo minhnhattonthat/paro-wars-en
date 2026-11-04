@@ -210,7 +210,7 @@
    "off": 9472,
    "len": 12,
    "jp": "　　移動力",
-   "en": "{x:24}Move",
+   "en": "Move",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -318,7 +318,7 @@
    "off": 9620,
    "len": 8,
    "jp": "海　　",
-   "en": "{x:22}　　{x:0}Sea",
+   "en": "{x:24}　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -330,7 +330,7 @@
    "off": 9628,
    "len": 8,
    "jp": "陸　　",
-   "en": "{x:22}　　{x:0}Land",
+   "en": "{x:24}　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -342,7 +342,7 @@
    "off": 9636,
    "len": 8,
    "jp": "空　　",
-   "en": "{x:22}　　{x:0}Air",
+   "en": "{x:24}　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -354,7 +354,7 @@
    "off": 9644,
    "len": 12,
    "jp": "防　御：",
-   "en": "Defense:",
+   "en": "Defense:{x:46}Air{x:106}Land{x:166}Sea",
    "status": "done",
    "kind": "text",
    "refs": [

@@ -9,9 +9,11 @@ import sys
 from pathlib import Path
 
 import disc
+import lzkc
 
 ROOT = Path(__file__).resolve().parents[1]
 RUN = re.compile(rb"(?:[\x81-\x84\x88-\x97][\x40-\xfc])+\x00")
+LOOSE = re.compile(rb"(?:[\x81-\x84\x88-\x97][\x40-\xfc])+")  # compressed files hold paged text, not always NUL-ended
 KEEP = re.compile("[ぁ-ヶ一-龠々]")
 FONT = (0x93EC0, 0xA3C00)  # PAW.EXE
 
@@ -40,7 +42,27 @@ def main():
                 if KEEP.search(s):
                     print(f"{rel}\t{m.start():x}\t{s}")
                     total += 1
-    print(f"{total} runs")
+        print(f"{total} runs in code files")
+        # The script's compressed files, decoded: story pages, endings, shouts, bios, KABE4. Anything left there is text a build didn't write.
+        total = 0
+        for path in glob.glob(str(ROOT / "script/*/*.json")):
+            doc = json.loads(Path(path).read_text(encoding="utf-8"))
+            if doc["lz"] is None:
+                continue
+            lba, n, size = entries[doc["file"]]
+            d = lzkc.decompress(disc.read_user(f, lba, n)[doc["lz"]:], strict=True)  # the directory's size is stale, a file may have grown inside its sectors
+            data = [(e["off"], e["off"] + e["len"]) for e in doc["entries"] if e["kind"] != "text"]
+            for m in LOOSE.finditer(d):
+                if m.start() < doc["text_from"] or any(a <= m.start() < b for a, b in data):
+                    continue
+                try:
+                    s = m.group().decode("cp932")
+                except UnicodeDecodeError:
+                    continue
+                if len(s) >= 2 and KEEP.search(s):
+                    print(f"{doc['file']}\t{m.start():x}\t{s}")
+                    total += 1
+    print(f"{total} runs in compressed script files")
 
 
 if __name__ == "__main__":

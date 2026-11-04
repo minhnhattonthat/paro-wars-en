@@ -153,9 +153,9 @@
    "off": 5072,
    "len": 24,
    "jp": "ＢＧＭ　　　　　ＯＮ",
-   "en": "",
-   "status": "todo",
-   "kind": "num",
+   "en": "BGM{x:96}ON",
+   "status": "done",
+   "kind": "text",
    "refs": [
     "OPT_OV:w8014c3cc"
    ]
@@ -165,9 +165,9 @@
    "off": 5096,
    "len": 24,
    "jp": "ＢＧＭ　　　　ＯＦＦ",
-   "en": "",
-   "status": "todo",
-   "kind": "num",
+   "en": "BGM{x:84}OFF",
+   "status": "done",
+   "kind": "text",
    "refs": [
     "OPT_OV:w8014c3c8"
    ]

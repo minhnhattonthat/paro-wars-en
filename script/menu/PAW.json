@@ -3833,7 +3833,7 @@
    "off": 690068,
    "len": 32,
    "jp": "空　　　　陸　　　　海　　　",
-   "en": "Air　　{x:60}Land　　{x:120}Sea　　",
+   "en": "Air 　　{x:60}Land　　{x:120}Sea 　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4204,9 +4204,10 @@
    "off": 690888,
    "len": 32,
    "jp": "　　　　　　　　　９／９９９",
-   "en": "",
-   "status": "todo",
-   "kind": "num",
+   "en": "　　　　　{x:82}　　　　／　　　",
+   "status": "done",
+   "kind": "text",
+   "notes": "fuel: the blanks now draw at 6 px, so a tab puts the code's digits back past the bar",
    "refs": [
     "PAW:w800b82d0"
    ]
@@ -4264,7 +4265,7 @@
    "off": 691312,
    "len": 16,
    "jp": "　　　ウッキー",
-   "en": "　　　 Ukki",
+   "en": "　　　 Ukki　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4288,7 +4289,7 @@
    "off": 691616,
    "len": 32,
    "jp": "空　　　　陸　　　　海　　　",
-   "en": "Air　　{x:60}Land　　{x:120}Sea　　",
+   "en": "Air 　　{x:60}Land　　{x:120}Sea 　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4420,7 +4421,7 @@
    "off": 692308,
    "len": 12,
    "jp": "根性　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Guts",
+   "en": "Guts　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4432,7 +4433,7 @@
    "off": 692320,
    "len": 12,
    "jp": "海指　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Sea Cmd",
+   "en": "Sea 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4444,7 +4445,7 @@
    "off": 692332,
    "len": 12,
    "jp": "陸指　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Land Cmd",
+   "en": "Land　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4456,7 +4457,7 @@
    "off": 692344,
    "len": 12,
    "jp": "空指　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Air Cmd",
+   "en": "Air 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4468,7 +4469,7 @@
    "off": 692356,
    "len": 12,
    "jp": "直感　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Instinct",
+   "en": "Inst　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4480,7 +4481,7 @@
    "off": 692368,
    "len": 12,
    "jp": "命中　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Accuracy",
+   "en": "Acc 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4492,7 +4493,7 @@
    "off": 692380,
    "len": 12,
    "jp": "経験　　　",
-   "en": "{x:44}{x:44}　　　{x:0}EXP",
+   "en": "EXP 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4516,7 +4517,7 @@
    "off": 692484,
    "len": 12,
    "jp": "根性　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Guts",
+   "en": "Guts　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4528,7 +4529,7 @@
    "off": 692496,
    "len": 12,
    "jp": "海指　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Sea Cmd",
+   "en": "Sea 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4540,7 +4541,7 @@
    "off": 692508,
    "len": 12,
    "jp": "陸指　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Land Cmd",
+   "en": "Land　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4552,7 +4553,7 @@
    "off": 692520,
    "len": 12,
    "jp": "空指　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Air Cmd",
+   "en": "Air 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4564,7 +4565,7 @@
    "off": 692532,
    "len": 12,
    "jp": "直感　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Instinct",
+   "en": "Inst　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4576,7 +4577,7 @@
    "off": 692544,
    "len": 12,
    "jp": "命中　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Accuracy",
+   "en": "Acc 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4588,7 +4589,7 @@
    "off": 692556,
    "len": 12,
    "jp": "経験　　　",
-   "en": "{x:44}{x:44}　　　{x:0}EXP",
+   "en": "EXP 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4612,7 +4613,7 @@
    "off": 692660,
    "len": 12,
    "jp": "根性　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Guts",
+   "en": "Guts　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4624,7 +4625,7 @@
    "off": 692672,
    "len": 12,
    "jp": "海指　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Sea Cmd",
+   "en": "Sea 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4636,7 +4637,7 @@
    "off": 692684,
    "len": 12,
    "jp": "陸指　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Land Cmd",
+   "en": "Land　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4648,7 +4649,7 @@
    "off": 692696,
    "len": 12,
    "jp": "空指　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Air Cmd",
+   "en": "Air 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4660,7 +4661,7 @@
    "off": 692708,
    "len": 12,
    "jp": "直感　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Instinct",
+   "en": "Inst　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4672,7 +4673,7 @@
    "off": 692720,
    "len": 12,
    "jp": "命中　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Accuracy",
+   "en": "Acc 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4684,7 +4685,7 @@
    "off": 692732,
    "len": 12,
    "jp": "経験　　　",
-   "en": "{x:44}{x:44}　　　{x:0}EXP",
+   "en": "EXP 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4708,7 +4709,7 @@
    "off": 692836,
    "len": 12,
    "jp": "根性　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Guts",
+   "en": "Guts　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4720,7 +4721,7 @@
    "off": 692848,
    "len": 12,
    "jp": "海指　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Sea Cmd",
+   "en": "Sea 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4732,7 +4733,7 @@
    "off": 692860,
    "len": 12,
    "jp": "陸指　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Land Cmd",
+   "en": "Land　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4744,7 +4745,7 @@
    "off": 692872,
    "len": 12,
    "jp": "空指　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Air Cmd",
+   "en": "Air 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4756,7 +4757,7 @@
    "off": 692884,
    "len": 12,
    "jp": "直感　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Instinct",
+   "en": "Inst　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4768,7 +4769,7 @@
    "off": 692896,
    "len": 12,
    "jp": "命中　　　",
-   "en": "{x:44}{x:44}　　　{x:0}Accuracy",
+   "en": "Acc 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4780,7 +4781,7 @@
    "off": 692908,
    "len": 12,
    "jp": "経験　　　",
-   "en": "{x:44}{x:44}　　　{x:0}EXP",
+   "en": "EXP 　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4865,7 +4866,7 @@
    "off": 693456,
    "len": 24,
    "jp": "バトルアニメ　ＯＦＦ",
-   "en": "Battle Animation{x:96}OFF",
+   "en": "{x:12}Battle Animation{x:108}OFF",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4877,7 +4878,7 @@
    "off": 693488,
    "len": 24,
    "jp": "反撃行動　　　えらぶ",
-   "en": "Counter{x:84}Choose",
+   "en": "Counter{x:84}{x:84}{x:84}Choose",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4889,7 +4890,7 @@
    "off": 693512,
    "len": 24,
    "jp": "反撃行動　　　　自動",
-   "en": "Counter{x:96}Auto",
+   "en": "Counter{x:96}{x:96}{x:96}Auto",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4901,7 +4902,7 @@
    "off": 693552,
    "len": 32,
    "jp": "テレポーテーション　あと　回",
-   "en": "Teleportation{x:120}{x:120}{x:120}{x:120}{x:120}　 left",
+   "en": "Teleportation{x:100}{x:100}Left:　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4913,7 +4914,7 @@
    "off": 693584,
    "len": 32,
    "jp": "みきった～っ！！　　あと　回",
-   "en": "Saw it coming!!{x:120}{x:120}{x:120}{x:120}　 left",
+   "en": "Saw it coming!!{x:100}Left:　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4925,7 +4926,7 @@
    "off": 693616,
    "len": 32,
    "jp": "鉄壁の守り　　　　　あと　回",
-   "en": "Iron Wall{x:120}{x:120}{x:120}{x:120}{x:120}{x:120}{x:120}　 left",
+   "en": "Iron Wall{x:100}{x:100}{x:100}{x:100}Left:　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -5957,7 +5958,7 @@
    "off": 733316,
    "len": 8,
    "jp": "防御",
-   "en": "Defense",
+   "en": "{x:12}Defense",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6053,7 +6054,7 @@
    "off": 733376,
    "len": 8,
    "jp": "命中",
-   "en": "Accuracy",
+   "en": "{x:12}Accuracy",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6125,7 +6126,7 @@
    "off": 733424,
    "len": 8,
    "jp": "空指",
-   "en": "Air Cmd",
+   "en": "{x:12}Air Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6197,7 +6198,7 @@
    "off": 733472,
    "len": 8,
    "jp": "命中",
-   "en": "Accuracy",
+   "en": "{x:12}Accuracy",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6269,7 +6270,7 @@
    "off": 733520,
    "len": 8,
    "jp": "空指",
-   "en": "Air Cmd",
+   "en": "{x:12}Air Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6317,7 +6318,7 @@
    "off": 733552,
    "len": 8,
    "jp": "防御",
-   "en": "Defense",
+   "en": "Def.",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6341,7 +6342,7 @@
    "off": 733568,
    "len": 4,
    "jp": "残",
-   "en": "Ammo",
+   "en": "{x:2}Ammo",
    "status": "done",
    "kind": "text",
    "refs": [
