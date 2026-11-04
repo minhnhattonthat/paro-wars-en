@@ -1,7 +1,7 @@
 """Unit bios: author one paragraph per unit, flow it over the bio's fields (P_* lines are fixed fields, docs/re/boxes.md).
 
   bios.py show [FROM TO]   each unit's Japanese, joined per paragraph
-  bios.py flow             script/units/bios.tsv (P_00<TAB>description<TAB>tip) -> work/tl/bNNN.part.tsv lines for batches.py
+  bios.py flow             script/units/bios.tsv (P_00<TAB>description<TAB>tip) -> script/units/*.json; tests/test_lint.py fails if they differ
 Stat lines are generated from STAT_NOTES, so unknown notes stop the run. A paragraph that needs more fields than the Japanese used is an error.
 """
 import glob
@@ -138,21 +138,12 @@ def flow_all():
     if bad:
         print("\n".join(bad))
         sys.exit(1)
-    batches = {}
-    for path in sorted(TL.glob("b*.tsv")):
-        if path.name.endswith((".out.tsv", ".part.tsv")):
-            continue
-        for line in path.read_text(encoding="utf-8").splitlines():
-            eid = line.split("\t")[0]
-            if eid in out:
-                batches.setdefault(path.stem, []).append(f"{eid}\t{out[eid]}")
-    for name, lines in batches.items():
-        (TL / f"{name}.part.tsv").write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
-    print(f"{len(out)} lines in {sorted(batches)}")
+    return out
 
 
 if __name__ == "__main__":
     if sys.argv[1] == "show":
         show(*(int(x) for x in sys.argv[2:4])) if len(sys.argv) > 2 else show(0, None)
     else:
-        flow_all()
+        import batches
+        print(f"{batches.write_en(flow_all())} lines changed in script/")

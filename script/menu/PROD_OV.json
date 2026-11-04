@@ -141,7 +141,7 @@
    "off": 9464,
    "len": 16,
    "jp": "１２３ウッキー",
-   "en": "123 Ukki",
+   "en": "　　　 Ukki",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -345,7 +345,7 @@
    "off": 9732,
    "len": 16,
    "jp": "　　　ウッキー",
-   "en": "{x:36} Ukki",
+   "en": "　　　 Ukki",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -549,7 +549,7 @@
    "off": 9992,
    "len": 16,
    "jp": "　　　ウッキー",
-   "en": "{x:36} Ukki",
+   "en": "　　　 Ukki",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -753,7 +753,7 @@
    "off": 10260,
    "len": 16,
    "jp": "　　　ウッキー",
-   "en": "{x:36} Ukki",
+   "en": "　　　 Ukki",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -909,7 +909,7 @@
    "off": 10460,
    "len": 16,
    "jp": "９９９ウッキー",
-   "en": "999 Ukki",
+   "en": "　　　　　　　",
    "status": "done",
    "kind": "text",
    "refs": [

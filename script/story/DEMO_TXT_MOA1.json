@@ -90,7 +90,7 @@
    "off": 1350,
    "len": 150,
    "jp": "ニャン次郎：「今回はお友達をつれてきたニャン。紹　　　　　　　　介します。こちらが１万年に一度の占　　　　　　　　い師と名高いチキィンさんニャ～。」",
-   "en": "Nyanjiro: \"Today I've brought a friend, nyan. Meet Chikin-san, famed as the once-in-ten-thousand-years fortune-teller, nyaa.\"",
+   "en": "Nyanjiro: \"Today I've brought a friend, nyan. Meet Chickeen-san, famed as the once-in-ten-thousand-years fortune-teller, nyaa.\"",
    "status": "done",
    "kind": "text"
   },
@@ -108,7 +108,7 @@
    "off": 1650,
    "len": 150,
    "jp": "チキィン：「それではこの国の将来を占ニャイます。　　　　　　　『う～や～た～、エイッ！！』」",
-   "en": "Chikin: \"Then I shall read this country's future, nyan. 'Uuu-yaaa-taaa, ei!!'\"",
+   "en": "Chickeen: \"Then I shall read this country's future, nyan. 'Uuu-yaaa-taaa, hyah!!'\"",
    "status": "done",
    "kind": "text"
   },
@@ -117,7 +117,7 @@
    "off": 1800,
    "len": 150,
    "jp": "チキィン：「お答えします。　　　　　　　　　　　　　　　　　　この国の将来は超大凶とでました。」",
-   "en": "Chikin: \"I have my answer. Your country's future reads: ultra-terrible luck.\"",
+   "en": "Chickeen: \"I have my answer. Your country's future reads: ultra-terrible luck.\"",
    "status": "done",
    "kind": "text"
   },
@@ -126,7 +126,7 @@
    "off": 1950,
    "len": 150,
    "jp": "　占いの結果に驚いたタコスケは、その詳細をチキィ　ンさんに問いただすのであった。",
-   "en": "Shocked at the result, Takosuke pressed Chikin-san for the details.",
+   "en": "Shocked at the result, Takosuke pressed Chickeen-san for the details.",
    "status": "done",
    "kind": "text"
   },
@@ -135,7 +135,7 @@
    "off": 2100,
    "len": 150,
    "jp": "　チキィンさんによれば、この国は、これから環境汚　染による酸性雨が原因で森林が枯れ、砂漠化していく　ばかりか、",
-   "en": "According to Chikin-san, pollution would bring acid rain to this country, and its forests would wither and turn to desert,",
+   "en": "According to Chickeen-san, pollution would bring acid rain to this country, and its forests would wither and turn to desert,",
    "status": "done",
    "kind": "text"
   },
@@ -162,7 +162,7 @@
    "off": 2550,
    "len": 150,
    "jp": "チキィン：「いいえ、環境汚染は確かにあるニャン。」　",
-   "en": "Chikin: \"No, the pollution is quite real, nyan.\"",
+   "en": "Chickeen: \"No, the pollution is quite real, nyan.\"",
    "status": "done",
    "kind": "text"
   },
@@ -171,7 +171,7 @@
    "off": 2700,
    "len": 150,
    "jp": "　チキィンさんがいうには、アカシヤランドの東南の　ミカエル帝国から排出される、石油精製工場の有毒ガ　スやら、ヘアースプレーのフロンガスやら何やらが、",
-   "en": "Chikin-san said toxic fumes from refineries in the Michael Empire, southeast of Akashiya Land, plus hairspray CFCs and whatnot,",
+   "en": "Chickeen-san said toxic fumes from refineries in the Michael Empire, southeast of Akashiya Land, plus hairspray CFCs and whatnot,",
    "status": "done",
    "kind": "text"
   },
@@ -189,7 +189,7 @@
    "off": 3000,
    "len": 150,
    "jp": "タコスケ：「うおおーっ！！！　　　　　　　　　　　　　　　　　どないせいっちゅーねん！！」",
-   "en": "Takosuke: \"Uoooh!!! Then what the heck am I s'posed to do!!\"",
+   "en": "Takosuke: \"Raaagh!!! Then what the heck am I s'posed to do!!\"",
    "status": "done",
    "kind": "text"
   },

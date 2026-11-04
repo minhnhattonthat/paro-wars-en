@@ -1,7 +1,7 @@
 # Glossary - Paro Wars
 
 Binding for every translator and reviewer. Agents propose additions in reports; only the controller edits this file.
-`tools/batches.py check` enforces the tables on story, ending, unit and battle text (JP forms split by ` / `, EN forms likewise).
+`tools/batches.py check` (run by `tests/test_lint.py`) enforces the tables on story, ending and battle text, and the Avoid column on all text (JP forms split by ` / `, EN forms likewise). Bios are not enforced: their fields split sentences anywhere.
 
 ## Rulings (asked of the user once; options and reasons in docs/decisions.md)
 - Honorifics: kept, hyphenated. Name order: Western (given name first).
@@ -71,6 +71,7 @@ Hiragana names (not enforced because the same letters are pronouns): こいつ K
 | フェアリーソード | Fairy Sword | | really his knife | |
 | 極上ロボ | Deluxe Robo / DX Robo | | Parodius' 極上, a unit class | |
 | 国宝 | national treasure / treasure | | | |
+| 首長 / 国首長 | Emir | | Moai's leader's title; モアイ諸島首長国 is the Moai Islands Emirate | chief |
 
 ## Menu terms (not enforced by the tool: labels are narrow)
 Stats: 根性 Guts, 直感 Instinct, 命中 / 命中率 Accuracy, 海指 Sea Cmd, 陸指 Land Cmd, 空指 Air Cmd (海の指揮能力 Sea command, likewise land, air), 経験 EXP, レベル / ＬＶ Level / LV, 攻撃力 Attack, 守備力 Defense, 防御 Defense, 移動力 Move, 燃料 Fuel, 機数 Units, 射程 Range, 科学力 Science, お金 Money.
@@ -88,6 +89,8 @@ Commanders in `UNITINFO` are puns on real people (`ペンジェル・マンセ�
 People: ベリアル・ブゥブゥー Belial Boo-Boo; コイツ/アイツ extended: そいつ Soitsu, どいつ Doitsu; ワン田 Wanda; メカニャンＮ号 Mecha-Nyan No. N.
 Unit names (PAW table is the source; KABE4, bios and shouts follow): 紙ヒコーキ Paper Plane, イーグルサブロウシロウ Eagle Saburo-Shiro, ぷりぷりクフィル Bouncy Kfir, ビシバシＦ１ Bishi-Bashi F1, スケルス Stealthru, ビンビンダブル Vin-Vin Double, キレルンバ！ Kire-Rumba!, ブタシオ Salt Pork, メローラ Melora, バニーちゃん Bunny-chan, ヤッターバウ Yatter-Bow, ラッキー君 Lucky-kun, ビックサンダーモアイ Big Thunder Moai, コイツジャイアント Koitsu Giant, ペンタロウＸ Pentaro X, ニャイアントロボ Nyaiant Robo, ニャンダーバード Nyanderbird, ビックバイパー Vic Viper, ツインビー TwinBee (official Konami), リュウ弾 HE Shell.
 Skills and misc: みきった Saw it coming, 鉄壁の守り Iron Wall, 軍事組織 Military Bloc, 民族 Ethnic Group, マス square, でちゅ tail `, chu`, タコ焼き takoyaki, 父ちゃん Pa.
-Story names: チキィン Chikin, ブリンブリンＨ島 Bling-Bling H Island, 琉犬地方 Ryuken region, うすしおＦＣ Usushio FC, パロにゃんこ Paro Nyanko, ミカエル・アブゥ４世 Michael Abu IV, 最高主席 Supreme Chairman.
-Held to one form although the Japanese varies: 神の爪 in `ENDING/TXT_END` stays Divine Fang (the same can opener), ニャー・ムーン in `P_NYAI` stays Nya-Mu. `P_NYAI` names him as in the Japanese, so the spoiler is the game's own.
-Abbreviations forced by cell width are listed in `docs/tl-notes.md`.
+Story names: チキィン Chickeen (a chicken pun, a fortune-teller), ブリンブリンＨ島 Bling-Bling H Island, 琉犬地方 Ryuken region, うすしおＦＣ Lite-Salt FC (the potato-chip flavour, a pun on the うずしお submarine class), パロにゃんこ Paro Nyanko, ミカエル・アブゥ４世 Michael Abu IV, 最高主席 Supreme Chairman.
+Shouts: おりゃ Hyaaah, うりゃ Yaaargh, どりゃ Hoooah, うおー Raaagh, ウキーッ Ooh-ooh-eek. Parody catchphrases stay as they are, as they read as parody in English too: Atatata, Hidebu, `おらおら` Oraora, `うーやーたー` Uuu-yaaa-taaa (also Chickeen's spell).
+Cat ships (`PAW`, `NSHOP_OV`): 猫戦艦ウチガホンケヤ ("we're the original" in Kansai, on Yamato) Cat Battleship Real-Deal; 猫駆逐艦あまつさえ ("moreover", on Amatsukaze) Cat Destroyer Moreover.
+Worker's calls, for the owner to overrule: 神の爪 in `ENDING/TXT_END` stays Divine Fang (the same can opener), ニャー・ムーン in `P_NYAI` stays Nya-Mu. `P_NYAI` names him as in the Japanese, so the spoiler is the game's own. Pentaro over Pentarou is Hepburn without macrons per D2: one web search found no Konami English source either way.
+Abbreviations still on screen are listed in `docs/tl-notes.md`.

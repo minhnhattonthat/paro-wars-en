@@ -180,7 +180,7 @@
    "off": 2364,
    "len": 60,
    "jp": "おぅりゃー！",
-   "en": "Oryaaa!",
+   "en": "Hyaaah!",
    "status": "done",
    "kind": "text"
   },
@@ -189,7 +189,7 @@
    "off": 2424,
    "len": 60,
    "jp": "うりゃ！",
-   "en": "Uryaaa!",
+   "en": "Yaaargh!",
    "status": "done",
    "kind": "text"
   },
@@ -198,7 +198,7 @@
    "off": 2484,
    "len": 60,
    "jp": "どりゃ！",
-   "en": "Doryaaa!",
+   "en": "Hoooah!",
    "status": "done",
    "kind": "text"
   },
@@ -270,7 +270,7 @@
    "off": 2964,
    "len": 60,
    "jp": "ぽげえええええー！",
-   "en": "Pogeeeeeeh!",
+   "en": "Gwaaaaaugh!",
    "status": "done",
    "kind": "text"
   },
@@ -342,7 +342,7 @@
    "off": 3444,
    "len": 60,
    "jp": "うおー",
-   "en": "Uoooh!",
+   "en": "Raaagh!",
    "status": "done",
    "kind": "text"
   },
@@ -369,7 +369,7 @@
    "off": 3624,
    "len": 60,
    "jp": "ウッキィィィッ",
-   "en": "Ukkiiiii!",
+   "en": "Ooh-ooh-eeeek!",
    "status": "done",
    "kind": "text"
   },
@@ -603,7 +603,7 @@
    "off": 5184,
    "len": 60,
    "jp": "ウオオオオオオオ！マケルノカアアア！？",
-   "en": "Uooooooh! Am I losin'?!",
+   "en": "Raaaaaagh! Am I losin'?!",
    "status": "done",
    "kind": "text"
   },
@@ -693,7 +693,7 @@
    "off": 5784,
    "len": 60,
    "jp": "うおおおおおおぉ～ぃと！",
-   "en": "Uoooooooh-wait!",
+   "en": "Whoooooa-wait!",
    "status": "done",
    "kind": "text"
   },
@@ -774,7 +774,7 @@
    "off": 6324,
    "len": 60,
    "jp": "マワシ！ケリィ～ッ",
-   "en": "Roundhouse Kiiick!",
+   "en": "Mawashi Kiiick!",
    "status": "done",
    "kind": "text"
   },

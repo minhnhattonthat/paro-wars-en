@@ -81,7 +81,7 @@
    "off": 2280,
    "len": 18,
    "jp": "を見つけた！！",
-   "en": " found it!!",
+   "en": " found!!",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -117,7 +117,7 @@
    "off": 2520,
    "len": 8,
    "jp": "高さ",
-   "en": "Hgt",
+   "en": "Height",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -1027,7 +1027,7 @@
    "off": 591586,
    "len": 27,
    "jp": "うすしおＦＣ",
-   "en": "Usushio FC",
+   "en": "Lite-Salt FC",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -1057,7 +1057,7 @@
    "off": 591796,
    "len": 27,
    "jp": "猫戦艦ウチガホンケヤ",
-   "en": "Cat Battleship Original",
+   "en": "Cat Battleship Real-Deal",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -1067,7 +1067,7 @@
    "off": 591866,
    "len": 27,
    "jp": "猫駆逐艦あまつさえ",
-   "en": "Cat Destroyer Also",
+   "en": "Cat Destroyer Moreover",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -1187,7 +1187,7 @@
    "off": 592720,
    "len": 14,
    "jp": "要撃機",
-   "en": "Interc.",
+   "en": "Interceptor",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -1220,7 +1220,7 @@
    "off": 592748,
    "len": 14,
    "jp": "攻撃機",
-   "en": "Attack",
+   "en": "Attacker",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -1230,7 +1230,7 @@
    "off": 592762,
    "len": 14,
    "jp": "戦闘攻撃機",
-   "en": "Fighter-Att.",
+   "en": "Fighter-Atk.",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -1260,7 +1260,7 @@
    "off": 592804,
    "len": 14,
    "jp": "攻撃ヘリ",
-   "en": "Atk Heli",
+   "en": "Attack Heli",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -1270,7 +1270,7 @@
    "off": 592818,
    "len": 14,
    "jp": "空中歩兵",
-   "en": "Air Inf.",
+   "en": "Air Infantry",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -1280,7 +1280,7 @@
    "off": 592832,
    "len": 14,
    "jp": "主力戦車",
-   "en": "MainTank",
+   "en": "Main Tank",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -1290,7 +1290,7 @@
    "off": 592846,
    "len": 14,
    "jp": "軽戦車",
-   "en": "LtTank",
+   "en": "Light Tank",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -1400,7 +1400,7 @@
    "off": 593000,
    "len": 14,
    "jp": "戦　艦",
-   "en": "B-ship",
+   "en": "Battleship",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -1410,7 +1410,7 @@
    "off": 593014,
    "len": 14,
    "jp": "駆逐艦",
-   "en": "Destr.",
+   "en": "Destroyer",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -1430,7 +1430,7 @@
    "off": 593042,
    "len": 14,
    "jp": "輸送艦",
-   "en": "Transp.",
+   "en": "Transport",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -1440,7 +1440,7 @@
    "off": 593056,
    "len": 14,
    "jp": "潜水艦",
-   "en": "Sub",
+   "en": "Submarine",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -1669,7 +1669,7 @@
    "off": 593452,
    "len": 17,
    "jp": "誘導爆弾",
-   "en": "Guided",
+   "en": "Guided Bomb",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2277,7 +2277,7 @@
    "off": 595822,
    "len": 10,
    "jp": "帝　王",
-   "en": "Emper.",
+   "en": "Emperor",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2287,7 +2287,7 @@
    "off": 595832,
    "len": 10,
    "jp": "総　統",
-   "en": "Fuhrer",
+   "en": "Fuehrer",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2297,7 +2297,7 @@
    "off": 595842,
    "len": 10,
    "jp": "大統領",
-   "en": "Pres.",
+   "en": "President",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2307,7 +2307,7 @@
    "off": 595852,
    "len": 10,
    "jp": "書記長",
-   "en": "GenSec",
+   "en": "Gen. Sec.",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2337,7 +2337,7 @@
    "off": 595882,
    "len": 10,
    "jp": "総　理",
-   "en": "PM",
+   "en": "Premier",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2347,7 +2347,7 @@
    "off": 595892,
    "len": 10,
    "jp": "大帝王",
-   "en": "Gr.Emp.",
+   "en": "Gr. Emp.",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2357,7 +2357,7 @@
    "off": 595902,
    "len": 10,
    "jp": "国防長官",
-   "en": "Def.Sec.",
+   "en": "Def. Sec.",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2367,7 +2367,7 @@
    "off": 595912,
    "len": 10,
    "jp": "大　将",
-   "en": "Gen.",
+   "en": "General",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2377,7 +2377,7 @@
    "off": 595922,
    "len": 10,
    "jp": "中　将",
-   "en": "Lt.Gen.",
+   "en": "Lt. Gen.",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2387,7 +2387,7 @@
    "off": 595932,
    "len": 10,
    "jp": "少　将",
-   "en": "Mj.Gen.",
+   "en": "Maj. Gen.",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2407,7 +2407,7 @@
    "off": 595952,
    "len": 10,
    "jp": "中　佐",
-   "en": "Lt.Col.",
+   "en": "Lt. Col.",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2427,7 +2427,7 @@
    "off": 595972,
    "len": 10,
    "jp": "大　尉",
-   "en": "Capt.",
+   "en": "Captain",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2501,7 +2501,7 @@
    "off": 596036,
    "len": 10,
    "jp": "製油所",
-   "en": "Refin.",
+   "en": "Refinery",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -2514,7 +2514,7 @@
    "off": 596046,
    "len": 10,
    "jp": "工場",
-   "en": "Fact.",
+   "en": "Factory",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -2562,7 +2562,7 @@
    "off": 596086,
    "len": 10,
    "jp": "空港",
-   "en": "Airpt",
+   "en": "Airport",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -2586,7 +2586,7 @@
    "off": 596106,
    "len": 10,
    "jp": "港",
-   "en": "Pt",
+   "en": "Port",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -2598,7 +2598,7 @@
    "off": 596116,
    "len": 10,
    "jp": "森林",
-   "en": "Frst",
+   "en": "Forest",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -2626,7 +2626,7 @@
    "off": 596136,
    "len": 10,
    "jp": "竹やぶ",
-   "en": "Bamb.",
+   "en": "Bamboo",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -2663,7 +2663,7 @@
    "off": 596274,
    "len": 6,
    "jp": "橋",
-   "en": "Br",
+   "en": "Bridge",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -2691,7 +2691,7 @@
    "off": 596286,
    "len": 6,
    "jp": "川",
-   "en": "Rv",
+   "en": "River",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -2705,7 +2705,7 @@
    "off": 596348,
    "len": 6,
    "jp": "山（",
-   "en": "Mt(",
+   "en": "Mount(",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -2731,7 +2731,7 @@
    "off": 596384,
    "len": 12,
    "jp": "海",
-   "en": "Se",
+   "en": "Sea",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -2744,7 +2744,7 @@
    "off": 596396,
    "len": 12,
    "jp": "海岸",
-   "en": "Cst.",
+   "en": "Coast",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -2769,7 +2769,7 @@
    "off": 596420,
    "len": 12,
    "jp": "砂浜",
-   "en": "Bch.",
+   "en": "Beach",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2796,7 +2796,7 @@
    "off": 596444,
    "len": 12,
    "jp": "森林",
-   "en": "Frst",
+   "en": "Forest",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -2850,7 +2850,7 @@
    "off": 596492,
    "len": 12,
    "jp": "川",
-   "en": "Rv",
+   "en": "River",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -2863,7 +2863,7 @@
    "off": 596504,
    "len": 12,
    "jp": "神殿",
-   "en": "Tmpl",
+   "en": "Temple",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -2944,7 +2944,7 @@
    "off": 596576,
    "len": 12,
    "jp": "雪原",
-   "en": "Snw",
+   "en": "Snow",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -3833,7 +3833,7 @@
    "off": 690068,
    "len": 32,
    "jp": "空　　　　陸　　　　海　　　",
-   "en": "Air{x:60}Land{x:120}Sea",
+   "en": "Air　　{x:60}Land　　{x:120}Sea　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -3850,7 +3850,7 @@
    "off": 690100,
    "len": 8,
    "jp": "指揮",
-   "en": "Cmd",
+   "en": "Command",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4180,7 +4180,7 @@
    "off": 690752,
    "len": 44,
    "jp": "機　数　　　？／　　　{br}移動力　　　　　　",
-   "en": "Units{x:72}?{x:84}/{br}Move",
+   "en": "Units{x:48}{x:48}　?／　　　{br}Move{x:48}{x:48}{x:48}{x:48}　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4192,7 +4192,7 @@
    "off": 690796,
    "len": 44,
    "jp": "機　数　　　　／　　　{br}移動力　　　　　　",
-   "en": "Units{x:84}/{br}Move",
+   "en": "Units{x:48}{x:48}　　／　　　{br}Move{x:48}{x:48}{x:48}{x:48}　　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4264,7 +4264,7 @@
    "off": 691312,
    "len": 16,
    "jp": "　　　ウッキー",
-   "en": "{x:36} Ukki",
+   "en": "　　　 Ukki",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4288,7 +4288,7 @@
    "off": 691616,
    "len": 32,
    "jp": "空　　　　陸　　　　海　　　",
-   "en": "Air{x:60}Land{x:120}Sea",
+   "en": "Air　　{x:60}Land　　{x:120}Sea　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4408,7 +4408,7 @@
    "off": 692208,
    "len": 52,
    "jp": "指揮官選択　　　次ページ　　決定　　兵器表　　戻る",
-   "en": "Pick Commander{x:96}Next page{x:168}Confirm{x:216}Weapons{x:276}Back",
+   "en": "Commander{x:96}Next page{x:168}Select{x:216}Weapons{x:276}Back",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4420,7 +4420,7 @@
    "off": 692308,
    "len": 12,
    "jp": "根性　　　",
-   "en": "Guts",
+   "en": "{x:44}{x:44}　　　{x:0}Guts",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4432,7 +4432,7 @@
    "off": 692320,
    "len": 12,
    "jp": "海指　　　",
-   "en": "Sea Cmd",
+   "en": "{x:44}{x:44}　　　{x:0}Sea Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4444,7 +4444,7 @@
    "off": 692332,
    "len": 12,
    "jp": "陸指　　　",
-   "en": "Land Cmd",
+   "en": "{x:44}{x:44}　　　{x:0}Land Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4456,7 +4456,7 @@
    "off": 692344,
    "len": 12,
    "jp": "空指　　　",
-   "en": "Air Cmd",
+   "en": "{x:44}{x:44}　　　{x:0}Air Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4468,7 +4468,7 @@
    "off": 692356,
    "len": 12,
    "jp": "直感　　　",
-   "en": "Instinct",
+   "en": "{x:44}{x:44}　　　{x:0}Instinct",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4480,7 +4480,7 @@
    "off": 692368,
    "len": 12,
    "jp": "命中　　　",
-   "en": "Accuracy",
+   "en": "{x:44}{x:44}　　　{x:0}Accuracy",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4492,7 +4492,7 @@
    "off": 692380,
    "len": 12,
    "jp": "経験　　　",
-   "en": "EXP",
+   "en": "{x:44}{x:44}　　　{x:0}EXP",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4516,7 +4516,7 @@
    "off": 692484,
    "len": 12,
    "jp": "根性　　　",
-   "en": "Guts",
+   "en": "{x:44}{x:44}　　　{x:0}Guts",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4528,7 +4528,7 @@
    "off": 692496,
    "len": 12,
    "jp": "海指　　　",
-   "en": "Sea Cmd",
+   "en": "{x:44}{x:44}　　　{x:0}Sea Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4540,7 +4540,7 @@
    "off": 692508,
    "len": 12,
    "jp": "陸指　　　",
-   "en": "Land Cmd",
+   "en": "{x:44}{x:44}　　　{x:0}Land Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4552,7 +4552,7 @@
    "off": 692520,
    "len": 12,
    "jp": "空指　　　",
-   "en": "Air Cmd",
+   "en": "{x:44}{x:44}　　　{x:0}Air Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4564,7 +4564,7 @@
    "off": 692532,
    "len": 12,
    "jp": "直感　　　",
-   "en": "Instinct",
+   "en": "{x:44}{x:44}　　　{x:0}Instinct",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4576,7 +4576,7 @@
    "off": 692544,
    "len": 12,
    "jp": "命中　　　",
-   "en": "Accuracy",
+   "en": "{x:44}{x:44}　　　{x:0}Accuracy",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4588,7 +4588,7 @@
    "off": 692556,
    "len": 12,
    "jp": "経験　　　",
-   "en": "EXP",
+   "en": "{x:44}{x:44}　　　{x:0}EXP",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4612,7 +4612,7 @@
    "off": 692660,
    "len": 12,
    "jp": "根性　　　",
-   "en": "Guts",
+   "en": "{x:44}{x:44}　　　{x:0}Guts",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4624,7 +4624,7 @@
    "off": 692672,
    "len": 12,
    "jp": "海指　　　",
-   "en": "Sea Cmd",
+   "en": "{x:44}{x:44}　　　{x:0}Sea Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4636,7 +4636,7 @@
    "off": 692684,
    "len": 12,
    "jp": "陸指　　　",
-   "en": "Land Cmd",
+   "en": "{x:44}{x:44}　　　{x:0}Land Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4648,7 +4648,7 @@
    "off": 692696,
    "len": 12,
    "jp": "空指　　　",
-   "en": "Air Cmd",
+   "en": "{x:44}{x:44}　　　{x:0}Air Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4660,7 +4660,7 @@
    "off": 692708,
    "len": 12,
    "jp": "直感　　　",
-   "en": "Instinct",
+   "en": "{x:44}{x:44}　　　{x:0}Instinct",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4672,7 +4672,7 @@
    "off": 692720,
    "len": 12,
    "jp": "命中　　　",
-   "en": "Accuracy",
+   "en": "{x:44}{x:44}　　　{x:0}Accuracy",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4684,7 +4684,7 @@
    "off": 692732,
    "len": 12,
    "jp": "経験　　　",
-   "en": "EXP",
+   "en": "{x:44}{x:44}　　　{x:0}EXP",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4708,7 +4708,7 @@
    "off": 692836,
    "len": 12,
    "jp": "根性　　　",
-   "en": "Guts",
+   "en": "{x:44}{x:44}　　　{x:0}Guts",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4720,7 +4720,7 @@
    "off": 692848,
    "len": 12,
    "jp": "海指　　　",
-   "en": "Sea Cmd",
+   "en": "{x:44}{x:44}　　　{x:0}Sea Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4732,7 +4732,7 @@
    "off": 692860,
    "len": 12,
    "jp": "陸指　　　",
-   "en": "Land Cmd",
+   "en": "{x:44}{x:44}　　　{x:0}Land Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4744,7 +4744,7 @@
    "off": 692872,
    "len": 12,
    "jp": "空指　　　",
-   "en": "Air Cmd",
+   "en": "{x:44}{x:44}　　　{x:0}Air Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4756,7 +4756,7 @@
    "off": 692884,
    "len": 12,
    "jp": "直感　　　",
-   "en": "Instinct",
+   "en": "{x:44}{x:44}　　　{x:0}Instinct",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4768,7 +4768,7 @@
    "off": 692896,
    "len": 12,
    "jp": "命中　　　",
-   "en": "Accuracy",
+   "en": "{x:44}{x:44}　　　{x:0}Accuracy",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4780,7 +4780,7 @@
    "off": 692908,
    "len": 12,
    "jp": "経験　　　",
-   "en": "EXP",
+   "en": "{x:44}{x:44}　　　{x:0}EXP",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4901,7 +4901,7 @@
    "off": 693552,
    "len": 32,
    "jp": "テレポーテーション　あと　回",
-   "en": "Teleportation{x:120}Left",
+   "en": "Teleportation{x:120}{x:120}{x:120}{x:120}{x:120}　 left",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4913,7 +4913,7 @@
    "off": 693584,
    "len": 32,
    "jp": "みきった～っ！！　　あと　回",
-   "en": "Saw it coming!!{x:120}Left",
+   "en": "Saw it coming!!{x:120}{x:120}{x:120}{x:120}　 left",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4925,7 +4925,7 @@
    "off": 693616,
    "len": 32,
    "jp": "鉄壁の守り　　　　　あと　回",
-   "en": "Iron Wall{x:120}Left",
+   "en": "Iron Wall{x:120}{x:120}{x:120}{x:120}{x:120}{x:120}{x:120}　 left",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -5297,7 +5297,7 @@
    "off": 694548,
    "len": 16,
    "jp": "陸の指揮能力",
-   "en": "Land Cmd",
+   "en": "Land command",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -5957,7 +5957,7 @@
    "off": 733316,
    "len": 8,
    "jp": "防御",
-   "en": "Def",
+   "en": "Defense",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -5969,7 +5969,7 @@
    "off": 733324,
    "len": 4,
    "jp": "山",
-   "en": "Pk",
+   "en": "Peak",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6029,7 +6029,7 @@
    "off": 733360,
    "len": 8,
    "jp": "直感",
-   "en": "Inst",
+   "en": "Instinct",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6053,7 +6053,7 @@
    "off": 733376,
    "len": 8,
    "jp": "命中",
-   "en": "Acc",
+   "en": "Accuracy",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6077,7 +6077,7 @@
    "off": 733392,
    "len": 8,
    "jp": "海指",
-   "en": "Sea",
+   "en": "Sea Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6101,7 +6101,7 @@
    "off": 733408,
    "len": 8,
    "jp": "陸指",
-   "en": "Land",
+   "en": "Land Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6125,7 +6125,7 @@
    "off": 733424,
    "len": 8,
    "jp": "空指",
-   "en": "Air",
+   "en": "Air Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6173,7 +6173,7 @@
    "off": 733456,
    "len": 8,
    "jp": "直感",
-   "en": "Inst",
+   "en": "Instinct",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6197,7 +6197,7 @@
    "off": 733472,
    "len": 8,
    "jp": "命中",
-   "en": "Acc",
+   "en": "Accuracy",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6221,7 +6221,7 @@
    "off": 733488,
    "len": 8,
    "jp": "海指",
-   "en": "Sea",
+   "en": "Sea Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6245,7 +6245,7 @@
    "off": 733504,
    "len": 8,
    "jp": "陸指",
-   "en": "Land",
+   "en": "Land Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6269,7 +6269,7 @@
    "off": 733520,
    "len": 8,
    "jp": "空指",
-   "en": "Air",
+   "en": "Air Cmd",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6305,7 +6305,7 @@
    "off": 733544,
    "len": 8,
    "jp": "お金",
-   "en": "Cash",
+   "en": "Money",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6317,7 +6317,7 @@
    "off": 733552,
    "len": 8,
    "jp": "防御",
-   "en": "Def",
+   "en": "Defense",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6329,7 +6329,7 @@
    "off": 733560,
    "len": 8,
    "jp": "武　器",
-   "en": "Arms",
+   "en": "Weapon",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6341,7 +6341,7 @@
    "off": 733568,
    "len": 4,
    "jp": "残",
-   "en": "Sh",
+   "en": "Ammo",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6353,7 +6353,7 @@
    "off": 733572,
    "len": 4,
    "jp": "距",
-   "en": "Rg",
+   "en": "Range",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6377,7 +6377,7 @@
    "off": 733580,
    "len": 4,
    "jp": "潜",
-   "en": "Sb",
+   "en": "Sub",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6389,7 +6389,7 @@
    "off": 733584,
    "len": 4,
    "jp": "海",
-   "en": "Se",
+   "en": "Sea",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6401,7 +6401,7 @@
    "off": 733588,
    "len": 4,
    "jp": "陸",
-   "en": "Ld",
+   "en": "Land",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6413,7 +6413,7 @@
    "off": 733592,
    "len": 4,
    "jp": "空",
-   "en": "Ar",
+   "en": "Air",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6785,7 +6785,7 @@
    "off": 733836,
    "len": 8,
    "jp": "命中率",
-   "en": "Accur.",
+   "en": "Accuracy",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6797,7 +6797,7 @@
    "off": 733844,
    "len": 8,
    "jp": "命中率",
-   "en": "Accur.",
+   "en": "Accuracy",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -6809,7 +6809,7 @@
    "off": 733852,
    "len": 8,
    "jp": "命中率",
-   "en": "Accur.",
+   "en": "Accuracy",
    "status": "done",
    "kind": "text",
    "refs": [

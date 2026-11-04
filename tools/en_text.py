@@ -111,16 +111,17 @@ def encode(text):
 
 
 def line_width(text):
-    """Pixels from pen start to the end of a line of letters. Fullwidth codes count 12."""
-    w = 0
-    for part in TAB_SPLIT.split(text):  # odd parts are tab positions
-        if part.isdigit():
+    """Pixels from pen start to the furthest the line reaches (a tab can go back). Fullwidth codes count 12, fullwidth digits and blanks 6 (asm/vwf.asm)."""
+    w = widest = 0
+    for i, part in enumerate(TAB_SPLIT.split(text)):  # odd parts are tab positions
+        if i % 2:
             w = int(part)
             continue
         for c in part:
             o = ELLIPSIS if c == "…" else ord(c)
-            w += WIDTHS[o - FIRST] if FIRST <= o < FIRST + COUNT else 12
-    return w
+            w += WIDTHS[o - FIRST] if FIRST <= o < FIRST + COUNT else 6 if c == "　" or "０" <= c <= "９" else 12
+        widest = max(widest, w)
+    return widest
 
 
 def _selftest():
@@ -132,6 +133,8 @@ def _selftest():
     assert encode("…") == b"\x7f\x1f"
     assert encode("a{x:96}b") == b"a\x1f\x1e\x30b\x1f"
     assert line_width("ab{x:96}i") == 98
+    assert line_width("{x:44}　　{x:0}a") == 56
+    assert encode("a　") == b"a\x1f\x81\x40"
     assert len(WIDTHS) == COUNT and WIDTHS[0] == 4 and WIDTHS[ord("i") - FIRST] == 2
     c = cell_bytes(FONT[ord("|")])
     assert c[0] == 0 and c[1] >> 4 == 0 and len(c) == 17  # row 0 empty; row 1 starts at bit 12, its first pixel is column 1

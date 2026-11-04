@@ -25,6 +25,11 @@ FX_TABLE   equ 0x801425B7
 next:
     lhu   s2,0(s5)
     nop
+    addiu v1,s2,0x7DB1          ; fullwidth digits draw as the proportional font's digits, so numbers the code writes take half the room
+    andi  v1,v1,0xFFFF
+    sltiu v0,v1,10
+    bnez  v0,digit
+    addiu a0,v1,0x30
     andi  v0,s2,0x8000
     beqz  v0,pair
     lui   t0,0x800C
@@ -40,7 +45,7 @@ next:
     beqz  t0,newline            ; ＠: line break
     nop
 @@not_at:
-    beq   s2,v0,adv12           ; fullwidth space: advance only
+    beq   s2,v0,blank           ; fullwidth space: a digit's advance, so zero-padded numbers stay right-aligned
     move  a0,s4
     move  a1,s2
     jal   LOOKUP
@@ -97,11 +102,16 @@ next:
     li    a3,0xB
     jal   emit
     move  a2,zero
-adv12:
+    b     tail                  ; byte 8 of the window, the wrap column, is ignored: English breaks with {br} (tools/limits.py), and a dialog's 7 columns are narrower than its box
     addiu s6,s6,12
-wrap:                           ; byte 8 of the window, the wrap column, is ignored: English breaks with {br} (tools/limits.py), and a dialog's 7 columns are narrower than its box
+digit:
+    jal   letter
+    nop
     b     tail
     nop
+blank:
+    b     tail
+    addiu s6,s6,6
 newline:
     move  s6,zero
     addiu fp,fp,1
@@ -129,7 +139,7 @@ pair:
     nop
     jal   letter
     andi  a0,s2,0xFF
-    b     wrap
+    b     tail
     nop
 
 ; a0 = letter byte. 0x1F pads to a halfword and draws nothing, 0x0A is a line break.
@@ -315,5 +325,54 @@ emit:
     .incbin "widths.bin"        ; 96 bytes: advance per letter from 0x20, which is glyph width + 1
 .if org() > LOOP_END
     .error "the width table must end at the routine's tail"
+.endif
+
+; String prepare, 0x80068838 (window a0, text a1), rewritten tighter to add far strings: a slot holding 0x1C, pad, then a 32-bit
+; little-endian address stands for the string at that address, so a fixed table field can hold any length (docs/re/font.md).
+FAR_MARK equ 0x1C
+PREP_END equ 0x800688CC
+.org 0x80068838
+    lbu   v0,0(a1)
+    li    v1,FAR_MARK
+    bne   v0,v1,@@near
+    move  a2,a1
+    lhu   a2,2(a1)
+    lhu   v1,4(a1)
+    nop
+    sll   v1,v1,0x10
+    or    a2,a2,v1
+@@near:
+    sw    a2,0x14(a0)
+    move  a1,a2
+    move  a3,zero
+@@scan:                         ; 2 bytes at a time to a byte below 5; a3 counts codes
+    lbu   v0,0(a1)
+    nop
+    sltiu v0,v0,5
+    bnez  v0,@@end
+    nop
+    addiu a1,a1,2
+    b     @@scan
+    addiu a3,a3,1
+@@end:
+    lbu   v1,0(a1)
+    sh    a3,0xE(a0)
+    bnez  v1,@@ret              ; ended by 1: prepared already
+    li    v0,1
+    sb    v0,0(a1)
+@@swap:                         ; every pair swapped in place, once, so RAM holds little-endian halfwords
+    beqz  a3,@@ret
+    lbu   v0,0(a2)
+    lbu   v1,1(a2)
+    sb    v0,1(a2)
+    sb    v1,0(a2)
+    addiu a2,a2,2
+    b     @@swap
+    addiu a3,a3,-1
+@@ret:
+    jr    ra
+    nop
+.if org() > PREP_END
+    .error "prepare grew"
 .endif
 .close

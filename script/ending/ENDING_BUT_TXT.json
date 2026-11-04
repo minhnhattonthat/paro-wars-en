@@ -27,7 +27,7 @@
    "off": 300,
    "len": 150,
    "jp": "ミカエル：「みんなに信用されていたお前が、どこで、　　　　　　どうして道を踏みはずしたんだ？」",
-   "en": "Michael: \"Everyone trusted you! Where, and why, did you go wrong?\"",
+   "en": "Michael: \"Everybody trusted ya, see! Where'd ya go wrong, and why?\"",
    "status": "done",
    "kind": "text"
   },
@@ -279,7 +279,7 @@
    "off": 4500,
    "len": 150,
    "jp": "ミカエル：「何でこんなもんが国宝なんだろうって。」",
-   "en": "Michael: \"Why on earth are these things national treasures.\"",
+   "en": "Michael: \"Why on earth are these things national treasures, see?\"",
    "status": "done",
    "kind": "text"
   },
@@ -324,7 +324,7 @@
    "off": 5250,
    "len": 150,
    "jp": "　思えばここ数年、戦争ばかりやっていたなあ～。",
-   "en": "Come to think of it, these last few years have been nothing but war.",
+   "en": "Come to think of it, these last few years been nothin' but war, see.",
    "status": "done",
    "kind": "text"
   },
@@ -333,7 +333,7 @@
    "off": 5400,
    "len": 150,
    "jp": "　でも、これからはニャン次郎とも、もちろん、ほかのやつらとも仲良くやっていけそうだ。",
-   "en": "But from now on, it looks like we can get along with Nyanjiro and, of course, those other guys too.",
+   "en": "But from now on, looks like we can get along with Nyanjiro and, sure, them other guys too.",
    "status": "done",
    "kind": "text"
   },
@@ -342,7 +342,7 @@
    "off": 5550,
    "len": 150,
    "jp": "　ニャン次郎は８つのアイテムが戻って、また昔通りの生活ができて喜んでいる。",
-   "en": "Nyanjiro got his 8 items back and is happy to live as he used to.",
+   "en": "Nyanjiro got his 8 items back and he's real happy livin' like he used to, see.",
    "status": "done",
    "kind": "text"
   },
@@ -351,7 +351,7 @@
    "off": 5700,
    "len": 150,
    "jp": "　聞くところによると、あいつが持っている猫缶は、現代科学では開缶不可能で、あいつの缶切り（神の牙）でしか開けられないらしい。本当に良かった。",
-   "en": "I hear his cat food can't be opened by modern science, only with his can opener (Divine Fang). What a relief.",
+   "en": "I hear his cat food can't be opened by modern science, only with his can opener (Divine Fang). Good thing, see.",
    "status": "done",
    "kind": "text"
   },
@@ -360,7 +360,7 @@
    "off": 5850,
    "len": 150,
    "jp": "　でもニャン次郎のやつ、相変わらず、インチキ商売は続けているみたいだ。",
-   "en": "But that Nyanjiro still seems to be running his phony business.",
+   "en": "But that Nyanjiro's still runnin' his phony business, looks like.",
    "status": "done",
    "kind": "text"
   },
@@ -369,7 +369,7 @@
    "off": 6000,
    "len": 150,
    "jp": "　でも、そんなことはどうでもいい。",
-   "en": "But none of that matters.",
+   "en": "But who cares, see.",
    "status": "done",
    "kind": "text"
   },
@@ -378,7 +378,7 @@
    "off": 6150,
    "len": 150,
    "jp": "　これから、俺たちみんなは仲良しだ・・・",
-   "en": "From now on, we're all friends...",
+   "en": "From now on, we're all pals, see...",
    "status": "done",
    "kind": "text"
   }

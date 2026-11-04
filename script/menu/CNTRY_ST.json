@@ -105,7 +105,7 @@
    "off": 1468,
    "len": 4,
    "jp": "港",
-   "en": "Pt",
+   "en": "Port",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -117,7 +117,7 @@
    "off": 1472,
    "len": 8,
    "jp": "空港",
-   "en": "Airpt",
+   "en": "Airport",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -189,7 +189,7 @@
    "off": 1520,
    "len": 8,
    "jp": "指揮",
-   "en": "Cmd",
+   "en": "Control",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -201,7 +201,7 @@
    "off": 1528,
    "len": 8,
    "jp": "国名",
-   "en": "Nat.",
+   "en": "Nation",
    "status": "done",
    "kind": "text",
    "refs": [

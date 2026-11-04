@@ -279,7 +279,7 @@
    "off": 4500,
    "len": 150,
    "jp": "ひかる：「なんでこんなものが国宝なのかしら～って」",
-   "en": "Hikaru: \"Why on earth are these things national treasures, dear?\"",
+   "en": "Hikaru: \"Why on earth are these things national treasures, I wonder, dear?\"",
    "status": "done",
    "kind": "text"
   },
@@ -324,7 +324,7 @@
    "off": 5250,
    "len": 150,
    "jp": "　思えばここ数年、戦争ばかりやっていたわね～。",
-   "en": "Come to think of it, these last few years have been nothing but war.",
+   "en": "Come to think of it, these last few years have been nothing but war, you know.",
    "status": "done",
    "kind": "text"
   },
@@ -342,7 +342,7 @@
    "off": 5550,
    "len": 150,
    "jp": "　ニャン次郎は８つのアイテムが戻って、また昔通りの生活ができて喜んでいるわ。",
-   "en": "Nyanjiro got his 8 items back and is happy to live as he used to, you know.",
+   "en": "Nyanjiro got his 8 items back and is so happy living like he used to, you know.",
    "status": "done",
    "kind": "text"
   },

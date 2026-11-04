@@ -42,7 +42,7 @@
    "off": 9192,
    "len": 24,
    "jp": "ラブリー連邦合衆国",
-   "en": "Lovely Fed. States",
+   "en": "Lovely Federal States",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -62,7 +62,7 @@
    "off": 9240,
    "len": 24,
    "jp": "モアイ諸島首長国",
-   "en": "Moai Emirate",
+   "en": "Moai Islands Emirate",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -318,7 +318,7 @@
    "off": 9620,
    "len": 8,
    "jp": "海　　",
-   "en": "Sea",
+   "en": "{x:22}　　{x:0}Sea",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -330,7 +330,7 @@
    "off": 9628,
    "len": 8,
    "jp": "陸　　",
-   "en": "Land",
+   "en": "{x:22}　　{x:0}Land",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -342,7 +342,7 @@
    "off": 9636,
    "len": 8,
    "jp": "空　　",
-   "en": "Air",
+   "en": "{x:22}　　{x:0}Air",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -858,7 +858,7 @@
    "off": 10184,
    "len": 8,
    "jp": "占　領",
-   "en": "Captr",
+   "en": "Capture",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -1087,7 +1087,7 @@
    "off": 10816,
    "len": 8,
    "jp": "名前",
-   "en": "Nm.",
+   "en": "Name",
    "status": "done",
    "kind": "text",
    "refs": [

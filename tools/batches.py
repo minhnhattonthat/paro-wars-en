@@ -1,10 +1,11 @@
 """Translation batches: split the script into work/tl/, check a batch's output, merge it back into script/.
 
   batches.py split            work/tl/bNNN.tsv (id, form, limit, jp) for every untranslated text entry; refuses to overwrite
-  batches.py check [bNNN..]   exit 1 on id mismatch, bad characters, glossary miss or anything limits.check rejects; no args = all with output
-  batches.py merge [bNNN..]   check, then write en into script/*.json (status done)
+  batches.py check            exit 1 on any rule broken by the English in script/*.json (lint(), also run by tests/test_lint.py)
+  batches.py check bNNN..     the same rules on batch output, plus id mismatch
+  batches.py merge bNNN..     check, then write en into script/*.json (status done); refuses to overwrite different English unless --overwrite
   batches.py fill bNNN..      bNNN.part.tsv (hand-written lines) + identical Japanese already translated -> bNNN.out.tsv; lists what is left
-  batches.py patch FILE       id<TAB>English lines into their batches' .part files, then refill those batches
+  batches.py patch FILE       id<TAB>English lines straight into script/*.json: script/ is the source once phase 6 has merged, work/tl goes stale
   batches.py fit "text" ID    width of each line in that entry's box
 Output: work/tl/bNNN.out.tsv, id<TAB>English, one line per input id, same order.
 """
@@ -28,6 +29,11 @@ GREEK = re.compile("[Α-Ωα-ω]")
 RUNS = [re.compile("[ァ-ヺーｦ-ﾟ]+"), re.compile("[ぁ-ゖ]+"), re.compile("[一-鿿]+")]
 # Families whose text carries full names: narrow menu labels are exempt from the glossary check.
 TERM_GROUPS = {"story", "ending", "battle"}  # a bio's fields split sentences anywhere, so a JP term and its EN may land in different ids
+HONORIFICS = [("さん", "-sa+n"), ("ちゃん", "-cha+n"), ("くん", "-ku+n"), ("君", "-ku+n"), ("様", "-sa+ma")]
+NOT_HONORIFIC = "オレ俺神父母皆王同"  # オレ様 is a pronoun, 神様 God, 父ちゃん Pa, 皆さん everyone, 王様 King, 同様 "likewise": words, no title to keep
+NO_GAP = {"DEMO/KABE4:10d82"}  # the title fills the whole 24-byte field, so the indent had to go
+# 許さん is a verb; 泣くんじゃ is "don't cry"; アッシー君 is slang for a chauffeur boyfriend, translated as the joke.
+NO_HONORIFIC = {"PAW:91e04", "DEMO/TXT_AIT5:258", "DEMO/TXT_PAN5:258", "DEMO/TXT_TAK4:258", "P_43:4860"}
 
 
 def docs():
@@ -85,13 +91,14 @@ def split():
 
 
 def glossary():
-    """[(jp forms, en forms)] from the tables of glossary.md."""
+    """[(jp forms, en forms, avoid forms)] from the tables of glossary.md."""
     rows = []
     for line in (ROOT / "glossary.md").read_text(encoding="utf-8").splitlines():
         cells = [c.strip() for c in line.strip().strip("|").split("|")]
         if not line.startswith("|") or len(cells) < 2 or cells[0] in ("JP", "---"):
             continue
-        rows.append(([x.strip() for x in cells[0].split(" / ")], [x.strip() for x in cells[1].split(" / ")]))
+        avoid = [x.strip() for x in cells[4].split(" / ") if x.strip()] if len(cells) > 4 else []
+        rows.append(([x.strip() for x in cells[0].split(" / ")], [x.strip() for x in cells[1].split(" / ")], avoid))
     return rows
 
 
@@ -114,19 +121,28 @@ def has_term(jp, term):
 
 def problems(group, e, en, terms):
     out = []
-    bad = sorted({c for c in en if not (0x20 <= ord(c) < 0x7F or c == "…" or c in e["jp"] and (GREEK.match(c) or "０" <= c <= "９"))})
+    bad = sorted({c for c in en if not (0x20 <= ord(c) < 0x7F or c == "…" or c in e["jp"] and (GREEK.match(c) or "０" <= c <= "９" or c == "／") or c == "　" and e["id"] in limits.TEMPLATES)})
     if bad:
         out.append(f"bad characters {bad}")
-    if not en.strip() and group != "units" and not e["id"].startswith("DEMO/KABE4"):  # a flowed field past the paragraph's end is a deliberate single space
+    if not en or (not en.strip() and group != "units" and not e["id"].startswith("DEMO/KABE4") and e["id"] not in limits.TEMPLATES):  # a flowed field past the paragraph's end is a deliberate single space
         out.append("empty")
     if e["id"] != "X_NYAN:19f4" and GREEK.search(e["jp"]) and "".join(GREEK.findall(e["jp"])) != "".join(GREEK.findall(en)):  # that line's υ stands in for the kanji 奸, not Koitsu's speech
         out.append("Greek must stay verbatim")
-    if group in TERM_GROUPS:
-        for jps, ens in terms:
-            if any(has_term(e["jp"], j) for j in jps) and not any(x.lower() in en.lower() for x in ens):
+    for jps, ens, avoid in terms:
+        if any(has_term(e["jp"], j) for j in jps):
+            if group in TERM_GROUPS and e["id"] != "X_PENTA:de0" and not any(x.lower() in en.lower() for x in ens):  # that ウッキー is a monkey screech, not the money
                 out.append(f"glossary: {jps[0]} -> {ens[0]}")
-    if re.search(r"\d(st|nd|rd|th)\b", en) and not re.search(r"\d(st|nd|rd|th)\b", e["jp"]):
-        pass  # literal ordinals are fine: no variable digits reach this text
+            out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]
+    # A control code the renderer acts on: the gap a caller draws a button icon over must survive (docs/re/boxes.md).
+    if not limits.limit(e).wrap and e["jp"].startswith("　") and not e["jp"].endswith("　") and group != "units" and e["id"] not in NO_GAP and e["id"] not in limits.TEMPLATES and not en.startswith("{x:"):  # 　機　能　 is only centring
+        out.append("JP opens with a layout gap, EN has no {x:N}")
+    if en.count("{x:") and not re.fullmatch(r"(?:[^{]|\{br\}|\{x:\d+\})*", en):
+        out.append("malformed control code")
+    for jp_form, en_form in HONORIFICS:
+        if re.search(rf"(?<![{NOT_HONORIFIC}])(?<=[ァ-ヺー一-鿿]){jp_form}", e["jp"]) and e["id"] not in NO_HONORIFIC and not re.search(en_form, en):
+            out.append(f"honorific {jp_form} needs {en_form}")
+    if re.match(r"\s*(st|nd|rd|th)\b", en):  # glued after a number the code draws: "1th"
+        out.append("ordinal suffix after a variable")
     try:
         out += limits.check(e, en)
     except (ValueError, UnicodeEncodeError) as exc:
@@ -198,42 +214,54 @@ def fill(batch, index):
         print(f"{eid}\t{index[eid][1]['jp']}")
 
 
+def write_en(new, overwrite=True):
+    """id -> English into script/*.json. Returns how many changed."""
+    changed = 0
+    for path, doc in docs():
+        touched = False
+        for e in doc["entries"]:
+            if e["id"] in new and e["en"] != new[e["id"]]:
+                if e["en"] and not overwrite:
+                    sys.exit(f"{e['id']} would lose {e['en']!r}: script/ has English the batch doesn't; pass --overwrite if the batch is newer")
+                e["en"] = new[e["id"]]
+                e["status"] = "done"
+                touched = True
+                changed += 1
+        if touched:
+            path.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
+    return changed
+
+
 def patch(path, index):
-    """Named lines only (id<TAB>English in path): each goes to its batch's .part, then that batch refills. Bios are fixed in bios.tsv instead."""
-    new = dict(line.split("\t", 1) for line in Path(path).read_text(encoding="utf-8").splitlines() if line.strip())
-    home = {}
-    for b in sorted(p for p in TL.glob("b*.tsv") if p.name.count(".") == 1):
-        for line in b.read_text(encoding="utf-8").splitlines():
-            home[line.split("\t")[0]] = b.stem
-    if unknown := [eid for eid in new if eid not in home]:
+    """Named lines only (id<TAB>English in path). Refuses the whole file on any broken rule. Bios are fixed in bios.tsv instead."""
+    new = dict(line.replace("{_}", "　").split("\t", 1) for line in Path(path).read_text(encoding="utf-8").splitlines() if line.strip())  # {_}: a fullwidth blank an editor can't trim from a line's end
+    if unknown := [eid for eid in new if eid not in index]:
         sys.exit(f"unknown ids: {unknown}")
     if bios := [eid for eid in new if index[eid][0] == "units"]:
         sys.exit(f"edit script/units/bios.tsv for: {bios}")
-    for b in sorted({home[eid] for eid in new}):
-        part = TL / f"{b}.part.tsv"
-        rows = dict(line.split("\t", 1) for line in part.read_text(encoding="utf-8").splitlines() if line.strip()) if part.exists() else {}
-        rows.update({eid: en for eid, en in new.items() if home[eid] == b})
-        part.write_text("".join(f"{k}\t{v}\n" for k, v in rows.items()), encoding="utf-8", newline="\n")
-        fill(b, index)
+    terms = glossary()
+    bad = [f"{eid}: {p}: {en!r}" for eid, en in new.items() for p in problems(index[eid][0], index[eid][1], en, terms)]
+    if bad:
+        sys.exit("\n".join(bad))
+    print(f"patched {write_en(new)} of {len(new)} lines")
+
+
+def lint(index=None):
+    """Every rule, over the English that ships. Empty means clean."""
+    terms = glossary()
+    index = index or entries()
+    return [f"{eid}: {p}: {e['en']!r}" for eid, (group, e) in index.items() for p in problems(group, e, e["en"], terms)]
 
 
 def batch_names(args):
     return args or sorted(p.name[:-8] for p in TL.glob("b*.out.tsv"))
 
 
-def merge(batches, index):
+def merge(batches, overwrite):
     new = {}
     for b in batches:
         new.update(read_out(b))
-    for path, doc in docs():
-        touched = False
-        for e in doc["entries"]:
-            if e["id"] in new and e["en"] != new[e["id"]]:
-                e["en"] = new[e["id"]]
-                e["status"] = "done"
-                touched = True
-        if touched:
-            path.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
+    write_en(new, overwrite)
     print(f"merged {len(new)} entries")
 
 
@@ -256,9 +284,19 @@ def main():
         return
     if cmd == "patch":
         return patch(args[0], index)
+    overwrite = "--overwrite" in args
+    args = [x for x in args if x != "--overwrite"]
+    if cmd == "check" and not args:
+        bad = lint(index)
+        print(f"{len(index)} entries, {len(bad)} problems")
+        print("\n".join(bad))
+        sys.exit(bool(bad))
     terms = glossary()
     failed = 0
-    for b in batch_names(args):
+    names = batch_names(args)
+    if not names:
+        sys.exit(f"no batches in {TL}")
+    for b in names:
         bad = check(b, index, terms)
         failed += bool(bad)
         print(f"{b}: " + ("OK" if not bad else f"{len(bad)} problems"))
@@ -267,7 +305,7 @@ def main():
     if failed:
         sys.exit(1)
     if cmd == "merge":
-        merge(batch_names(args), index)
+        merge(names, overwrite)
 
 
 if __name__ == "__main__":

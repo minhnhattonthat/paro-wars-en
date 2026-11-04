@@ -22,7 +22,7 @@
    "off": 32,
    "len": 20,
    "jp": "　　　　　ウッキー",
-   "en": "{x:60}Ukki",
+   "en": "　　　　　 Ukki",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -731,7 +731,7 @@
    "off": 748,
    "len": 20,
    "jp": "猫駆逐艦あまつさえ",
-   "en": "Cat Destroyer Also",
+   "en": "Cat Destroyer Moreover",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -743,7 +743,7 @@
    "off": 768,
    "len": 24,
    "jp": "猫戦艦ウチガホンケヤ",
-   "en": "Cat Battleship Original",
+   "en": "Cat Battleship Real-Deal",
    "status": "done",
    "kind": "text",
    "refs": [

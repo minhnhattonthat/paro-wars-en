@@ -115,7 +115,7 @@
    "off": 13960,
    "len": 4,
    "jp": "港",
-   "en": "Pt",
+   "en": "Port",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -127,7 +127,7 @@
    "off": 13964,
    "len": 12,
    "jp": "都市、工場",
-   "en": "City, fact.",
+   "en": "City, factory",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -151,7 +151,7 @@
    "off": 13984,
    "len": 8,
    "jp": "空港",
-   "en": "Airpt",
+   "en": "Airport",
    "status": "done",
    "kind": "text",
    "refs": [

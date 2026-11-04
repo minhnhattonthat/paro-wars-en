@@ -54,7 +54,7 @@ L.on_frame(function()
       if not seen[key] then
         seen[key] = true
         local codes = {}
-        for k = 0, math.min(count, 16) - 1 do codes[#codes + 1] = string.format("%04x", r16(p + k * 2)) end
+        for k = 0, math.min(count, 64) - 1 do codes[#codes + 1] = string.format("%04x", r16(p + k * 2)) end
         L.log(string.format("BOX f%d x=%d y=%d wrap=%d gap=%d count=%d flags=%x type=%d px=%d lines=%d ptr=%08x codes=%s head=%s",
           L.frame, x, y, wrap, gap, count, flags, r8(w), px, lines, p, table.concat(codes), head))
       end
