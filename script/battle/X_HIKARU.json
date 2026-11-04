@@ -1,0 +1,872 @@
+{
+ "file": "DATA/X_HIKARU.BIN",
+ "lz": null,
+ "group": "battle",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "X_HIKARU:508",
+   "off": 1288,
+   "len": 60,
+   "jp": "ガツンといっきま～す",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:544",
+   "off": 1348,
+   "len": 60,
+   "jp": "よ～しっ戦闘開始っ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:580",
+   "off": 1408,
+   "len": 60,
+   "jp": "いっくよ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:5bc",
+   "off": 1468,
+   "len": 60,
+   "jp": "あっれ～　これって違～う！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:5f8",
+   "off": 1528,
+   "len": 60,
+   "jp": "貴方達って、戦いの素人ね",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:634",
+   "off": 1588,
+   "len": 60,
+   "jp": "かかってらっしゃい！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:670",
+   "off": 1648,
+   "len": 60,
+   "jp": "負けないもん！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:6ac",
+   "off": 1708,
+   "len": 60,
+   "jp": "貴方達ってレディに失礼ね",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:6e8",
+   "off": 1768,
+   "len": 60,
+   "jp": "いくわよっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:724",
+   "off": 1828,
+   "len": 60,
+   "jp": "わ～い",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:760",
+   "off": 1888,
+   "len": 60,
+   "jp": "あたって！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:79c",
+   "off": 1948,
+   "len": 60,
+   "jp": "これでも食らいなさい！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:7d8",
+   "off": 2008,
+   "len": 60,
+   "jp": "うーやーたー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:814",
+   "off": 2068,
+   "len": 60,
+   "jp": "これで終わりよ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:850",
+   "off": 2128,
+   "len": 60,
+   "jp": "あちょー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:88c",
+   "off": 2188,
+   "len": 60,
+   "jp": "おらおらおらおらーっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:8c8",
+   "off": 2248,
+   "len": 60,
+   "jp": "あたたたたたたたたーっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:904",
+   "off": 2308,
+   "len": 60,
+   "jp": "いくわよぉ　そ～れっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:940",
+   "off": 2368,
+   "len": 60,
+   "jp": "君は生き残る事ができるかな？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:97c",
+   "off": 2428,
+   "len": 60,
+   "jp": "おりゃー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:9b8",
+   "off": 2488,
+   "len": 60,
+   "jp": "うりゃー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:9f4",
+   "off": 2548,
+   "len": 60,
+   "jp": "どりゃー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:a30",
+   "off": 2608,
+   "len": 60,
+   "jp": "もらったー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:a6c",
+   "off": 2668,
+   "len": 60,
+   "jp": "エコエコアザラクー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:aa8",
+   "off": 2728,
+   "len": 60,
+   "jp": "おかみにたてつくたわけものはこうしてやるぅ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:ae4",
+   "off": 2788,
+   "len": 60,
+   "jp": "あたれー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:b20",
+   "off": 2848,
+   "len": 60,
+   "jp": "甘いわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:b5c",
+   "off": 2908,
+   "len": 60,
+   "jp": "暴力反対っ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:b98",
+   "off": 2968,
+   "len": 60,
+   "jp": "あ～んっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:bd4",
+   "off": 3028,
+   "len": 60,
+   "jp": "このマシン手入れが悪いのよ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:c10",
+   "off": 3088,
+   "len": 60,
+   "jp": "ひでぶー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:c4c",
+   "off": 3148,
+   "len": 60,
+   "jp": "やったわねー、パパにも殴られた事ないのにぃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:c88",
+   "off": 3208,
+   "len": 60,
+   "jp": "なにすんのよー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:cc4",
+   "off": 3268,
+   "len": 60,
+   "jp": "バッキャロー！あぶねーじゃ{br}ねーかー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:d00",
+   "off": 3328,
+   "len": 60,
+   "jp": "よくもやってくれたわね！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:d3c",
+   "off": 3388,
+   "len": 60,
+   "jp": "私をだれだと思ってんの！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:d78",
+   "off": 3448,
+   "len": 60,
+   "jp": "わぁ～お",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:db4",
+   "off": 3508,
+   "len": 60,
+   "jp": "キャァァー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:df0",
+   "off": 3568,
+   "len": 60,
+   "jp": "キャイ～ン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:e2c",
+   "off": 3628,
+   "len": 60,
+   "jp": "ウキーッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:e68",
+   "off": 3688,
+   "len": 60,
+   "jp": "うわぁ～ん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:ea4",
+   "off": 3748,
+   "len": 60,
+   "jp": "痛いじゃない！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:ee0",
+   "off": 3808,
+   "len": 60,
+   "jp": "ちっ、覚えてなさ～い",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:f1c",
+   "off": 3868,
+   "len": 60,
+   "jp": "な、何ですってぇ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:f58",
+   "off": 3928,
+   "len": 60,
+   "jp": "どこねらってんのよぉ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:f94",
+   "off": 3988,
+   "len": 60,
+   "jp": "いい根性してるわねっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:fd0",
+   "off": 4048,
+   "len": 60,
+   "jp": "甘いわね！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:100c",
+   "off": 4108,
+   "len": 60,
+   "jp": "この機械いかれてる～ぅ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1048",
+   "off": 4168,
+   "len": 60,
+   "jp": "あ～っん！　暴走してる～ぅ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1084",
+   "off": 4228,
+   "len": 60,
+   "jp": "みなさ～ん　私達のためにありがと～　ん～ラブリーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:10c0",
+   "off": 4288,
+   "len": 60,
+   "jp": "これからも私達はがんばりま～すっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:10fc",
+   "off": 4348,
+   "len": 60,
+   "jp": "ばんざ～い！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1138",
+   "off": 4408,
+   "len": 60,
+   "jp": "私達　勝ちましたっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1174",
+   "off": 4468,
+   "len": 60,
+   "jp": "私達にたてつくなんて１０年早いわ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:11b0",
+   "off": 4528,
+   "len": 60,
+   "jp": "ふんっ、手応えのない相手だったわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:11ec",
+   "off": 4588,
+   "len": 60,
+   "jp": "アッハッハハハハハー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1228",
+   "off": 4648,
+   "len": 60,
+   "jp": "まだまだだね",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1264",
+   "off": 4708,
+   "len": 60,
+   "jp": "私をとめることはできないわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:12a0",
+   "off": 4768,
+   "len": 60,
+   "jp": "とっととお家にお帰り",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:12dc",
+   "off": 4828,
+   "len": 60,
+   "jp": "ヤリィー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1318",
+   "off": 4888,
+   "len": 60,
+   "jp": "修行不足よ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1354",
+   "off": 4948,
+   "len": 60,
+   "jp": "ヨォ～シ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1390",
+   "off": 5008,
+   "len": 60,
+   "jp": "ビンゴー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:13cc",
+   "off": 5068,
+   "len": 60,
+   "jp": "またいつでも相手してあげるわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1408",
+   "off": 5128,
+   "len": 60,
+   "jp": "今度は負けないから～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1444",
+   "off": 5188,
+   "len": 60,
+   "jp": "覚えてらっしゃいっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1480",
+   "off": 5248,
+   "len": 60,
+   "jp": "げきむかつくぅ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:14bc",
+   "off": 5308,
+   "len": 60,
+   "jp": "ちょべりばー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:14f8",
+   "off": 5368,
+   "len": 60,
+   "jp": "ちょーばっどぉー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1534",
+   "off": 5428,
+   "len": 60,
+   "jp": "フッ、今日のところはこれぐらいにしといてあげるわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1570",
+   "off": 5488,
+   "len": 60,
+   "jp": "や、やられちゃったぁ～ん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:15ac",
+   "off": 5548,
+   "len": 60,
+   "jp": "やぁだ～、信じらんな～い",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:15e8",
+   "off": 5608,
+   "len": 60,
+   "jp": "覚えてなさい　この次は勝ってみせるわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1624",
+   "off": 5668,
+   "len": 60,
+   "jp": "さようならぁ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1660",
+   "off": 5728,
+   "len": 60,
+   "jp": "うっ、{br}こんな奴に負けるなんて・・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:169c",
+   "off": 5788,
+   "len": 60,
+   "jp": "こんな強い奴が、まだいたとは・・・うっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:16d8",
+   "off": 5848,
+   "len": 60,
+   "jp": "フェ～ン、ママにいいつけてやるぅ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1714",
+   "off": 5908,
+   "len": 60,
+   "jp": "なにーっ！全滅ぅ！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1750",
+   "off": 5968,
+   "len": 60,
+   "jp": "キャァァァァァーッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:178c",
+   "off": 6028,
+   "len": 60,
+   "jp": "アンビリーバブルー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:17c8",
+   "off": 6088,
+   "len": 60,
+   "jp": "やっだー脱出よ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1804",
+   "off": 6148,
+   "len": 60,
+   "jp": "あちゃぁ、私のせーじゃないわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1840",
+   "off": 6208,
+   "len": 60,
+   "jp": "この私が！？そんなばかなぁ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:187c",
+   "off": 6268,
+   "len": 60,
+   "jp": "巨大メカの参上ですっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:18b8",
+   "off": 6328,
+   "len": 60,
+   "jp": "女性パワー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:18f4",
+   "off": 6388,
+   "len": 60,
+   "jp": "バニーちゃんのおでましよっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1930",
+   "off": 6448,
+   "len": 60,
+   "jp": "見せちゃうわよ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:196c",
+   "off": 6508,
+   "len": 60,
+   "jp": "踏みつぶしよ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:19a8",
+   "off": 6568,
+   "len": 60,
+   "jp": "これできまりねっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:19e4",
+   "off": 6628,
+   "len": 60,
+   "jp": "私達って　あっぶな～い！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1a20",
+   "off": 6688,
+   "len": 60,
+   "jp": "お決まり　お決まりっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1a5c",
+   "off": 6748,
+   "len": 60,
+   "jp": "お・や・く・そ・く．．．ね？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1a98",
+   "off": 6808,
+   "len": 60,
+   "jp": "バニーちゃん私の操作ミスでゴメンナサーイ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1ad4",
+   "off": 6868,
+   "len": 60,
+   "jp": "強力なサービス　してあげるっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1b10",
+   "off": 6928,
+   "len": 60,
+   "jp": "バニィーいっちゃえ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HIKARU:1b4c",
+   "off": 6988,
+   "len": 60,
+   "jp": "バニィー・フラーッシュ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

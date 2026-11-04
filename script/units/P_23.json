@@ -1,0 +1,116 @@
+{
+ "file": "DATA/P_23.BIN",
+ "lz": 320,
+ "group": "units",
+ "text_from": 34816,
+ "entries": [
+  {
+   "id": "P_23:8800",
+   "off": 34816,
+   "len": 32,
+   "jp": "　　　◆強さ５段階評価◆",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_23:8820",
+   "off": 34848,
+   "len": 32,
+   "jp": "攻撃力　２（占領できます）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_23:8840",
+   "off": 34880,
+   "len": 32,
+   "jp": "守備力　１",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_23:8860",
+   "off": 34912,
+   "len": 52,
+   "jp": "Ｍｉ８の発展型。外見上の大きな違いはボディーが日焼",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_23:8894",
+   "off": 34964,
+   "len": 52,
+   "jp": "していることと、ふんどしの色である。シェイプアップ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_23:88c8",
+   "off": 35016,
+   "len": 52,
+   "jp": "の成果により機動力がちょっと上がっている。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_23:88fc",
+   "off": 35068,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_23:8930",
+   "off": 35120,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_23:8964",
+   "off": 35172,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_23:8998",
+   "off": 35224,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_23:89cc",
+   "off": 35276,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_23:8a00",
+   "off": 35328,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  }
+ ]
+}

@@ -1,0 +1,910 @@
+{
+ "file": "DATA/NSHOP_OV.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "NSHOP_OV:4",
+   "off": 4,
+   "len": 28,
+   "jp": "持ち物がいっぱいニャン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w801590d4",
+    "NSHOP_OV:w801590f4"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:20",
+   "off": 32,
+   "len": 20,
+   "jp": "　　　　　ウッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w801590d0",
+    "NSHOP_OV:w801590f0"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:34",
+   "off": 52,
+   "len": 32,
+   "jp": "用がないならとっとと帰るニャン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w801590cc",
+    "NSHOP_OV:w801590ec"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:54",
+   "off": 84,
+   "len": 20,
+   "jp": "毎度あり～ニャン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w801590c8"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:68",
+   "off": 104,
+   "len": 28,
+   "jp": "お金が足りないニャン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w801590c4",
+    "NSHOP_OV:w801590e4"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:84",
+   "off": 132,
+   "len": 32,
+   "jp": "で引き取るけどいいかニャン？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w801590c0",
+    "NSHOP_OV:w801590e0"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:a4",
+   "off": 164,
+   "len": 28,
+   "jp": "いただくけどいいかニャン？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w801590bc"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:c0",
+   "off": 192,
+   "len": 28,
+   "jp": "いらっしゃいまし～ニャン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w801590b8"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:dc",
+   "off": 220,
+   "len": 32,
+   "jp": "用が済んだらとっとと帰るニャン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w801590e8"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:fc",
+   "off": 252,
+   "len": 20,
+   "jp": "いただくニャン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w801590dc"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:110",
+   "off": 272,
+   "len": 20,
+   "jp": "何の用だニャン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w801590d8"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:124",
+   "off": 292,
+   "len": 8,
+   "jp": "やめる",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w8015911c"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:12c",
+   "off": 300,
+   "len": 8,
+   "jp": "うる",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159118"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:134",
+   "off": 308,
+   "len": 8,
+   "jp": "かう",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159114"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:13c",
+   "off": 316,
+   "len": 8,
+   "jp": "８９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w801591c0"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:144",
+   "off": 324,
+   "len": 8,
+   "jp": "５６７",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w801591b4"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:14c",
+   "off": 332,
+   "len": 8,
+   "jp": "７８",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w801591a8"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:154",
+   "off": 340,
+   "len": 8,
+   "jp": "４５６",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w8015919c"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:15c",
+   "off": 348,
+   "len": 8,
+   "jp": "６７",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159190"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:164",
+   "off": 356,
+   "len": 8,
+   "jp": "３４５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159184"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:16c",
+   "off": 364,
+   "len": 8,
+   "jp": "５６",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159178"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:174",
+   "off": 372,
+   "len": 8,
+   "jp": "２３４",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w8015916c"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:17c",
+   "off": 380,
+   "len": 8,
+   "jp": "４５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159160"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:184",
+   "off": 388,
+   "len": 8,
+   "jp": "１２３",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159154"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:18c",
+   "off": 396,
+   "len": 8,
+   "jp": "３４",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159148"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:194",
+   "off": 404,
+   "len": 4,
+   "jp": "×",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159144",
+    "NSHOP_OV:w8015915c",
+    "NSHOP_OV:w80159174",
+    "NSHOP_OV:w8015918c",
+    "NSHOP_OV:w801591a4",
+    "NSHOP_OV:w801591bc",
+    "NSHOP_OV:w801591e4",
+    "NSHOP_OV:w801591fc",
+    "NSHOP_OV:w80159214",
+    "NSHOP_OV:w8015922c",
+    "NSHOP_OV:w80159244",
+    "NSHOP_OV:w8015925c"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:198",
+   "off": 408,
+   "len": 12,
+   "jp": "ウッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159140",
+    "NSHOP_OV:w80159158",
+    "NSHOP_OV:w80159170",
+    "NSHOP_OV:w80159188",
+    "NSHOP_OV:w801591a0",
+    "NSHOP_OV:w801591b8",
+    "NSHOP_OV:w801591e0",
+    "NSHOP_OV:w801591f8",
+    "NSHOP_OV:w80159210",
+    "NSHOP_OV:w80159228",
+    "NSHOP_OV:w80159240",
+    "NSHOP_OV:w80159258",
+    "NSHOP_OV:w80159308",
+    "NSHOP_OV:w80159328"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:1a4",
+   "off": 420,
+   "len": 8,
+   "jp": "０１２",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w8015913c"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:1ac",
+   "off": 428,
+   "len": 8,
+   "jp": "ＧＨ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159260"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:1b4",
+   "off": 436,
+   "len": 8,
+   "jp": "ｆｆｆ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159254"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:1bc",
+   "off": 444,
+   "len": 8,
+   "jp": "６６６",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159250"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:1c4",
+   "off": 452,
+   "len": 8,
+   "jp": "ＥＦ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159248"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:1cc",
+   "off": 460,
+   "len": 8,
+   "jp": "ｅｅｅ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w8015923c"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:1d4",
+   "off": 468,
+   "len": 8,
+   "jp": "５５５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159238"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:1dc",
+   "off": 476,
+   "len": 8,
+   "jp": "ＫＬ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159230"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:1e4",
+   "off": 484,
+   "len": 8,
+   "jp": "ｄｄｄ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159224"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:1ec",
+   "off": 492,
+   "len": 8,
+   "jp": "４４４",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159220"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:1f4",
+   "off": 500,
+   "len": 8,
+   "jp": "ＣＤ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159218"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:1fc",
+   "off": 508,
+   "len": 8,
+   "jp": "ｃｃｃ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w8015920c"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:204",
+   "off": 516,
+   "len": 8,
+   "jp": "３３３",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159208"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:20c",
+   "off": 524,
+   "len": 8,
+   "jp": "ＩＪ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159200"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:214",
+   "off": 532,
+   "len": 8,
+   "jp": "ｂｂｂ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w801591f4"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:21c",
+   "off": 540,
+   "len": 8,
+   "jp": "２２２",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w801591f0"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:224",
+   "off": 548,
+   "len": 8,
+   "jp": "ＡＢ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w801591e8"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:22c",
+   "off": 556,
+   "len": 8,
+   "jp": "ａａａ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w801591dc"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:234",
+   "off": 564,
+   "len": 8,
+   "jp": "１１１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w801591d8"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:23c",
+   "off": 572,
+   "len": 20,
+   "jp": "コークスクリュー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w801592a0",
+    "NSHOP_OV:w80159374"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:250",
+   "off": 592,
+   "len": 20,
+   "jp": "ターボスクリュー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w8015929c",
+    "NSHOP_OV:w8015936c"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:264",
+   "off": 612,
+   "len": 12,
+   "jp": "オーラボム",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159298",
+    "NSHOP_OV:w80159368"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:270",
+   "off": 624,
+   "len": 16,
+   "jp": "ターボエンジン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159294",
+    "NSHOP_OV:w8015935c"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:280",
+   "off": 640,
+   "len": 8,
+   "jp": "地　雷",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159290",
+    "NSHOP_OV:w80159354"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:288",
+   "off": 648,
+   "len": 12,
+   "jp": "トップガン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w8015928c",
+    "NSHOP_OV:w80159350"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:294",
+   "off": 660,
+   "len": 16,
+   "jp": "ゴッドサービス",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159288",
+    "NSHOP_OV:w8015934c"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:2a4",
+   "off": 676,
+   "len": 12,
+   "jp": "エレキラー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159284",
+    "NSHOP_OV:w80159348"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:2b0",
+   "off": 688,
+   "len": 16,
+   "jp": "ターボジェット",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159280",
+    "NSHOP_OV:w8015933c"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:2c0",
+   "off": 704,
+   "len": 24,
+   "jp": "猫潜水艦ニャニャーント",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w8015927c"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:2d8",
+   "off": 728,
+   "len": 20,
+   "jp": "猫空母ドザえもん",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159278"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:2ec",
+   "off": 748,
+   "len": 20,
+   "jp": "猫駆逐艦あまつさえ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159274"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:300",
+   "off": 768,
+   "len": 24,
+   "jp": "猫戦艦ウチガホンケヤ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159270"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:318",
+   "off": 792,
+   "len": 20,
+   "jp": "ニャンニャンＮ１",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w8015926c"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:32c",
+   "off": 812,
+   "len": 24,
+   "jp": "ニャンニャン式軽戦車",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159268"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:344",
+   "off": 836,
+   "len": 12,
+   "jp": "６７８９０",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159320"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:350",
+   "off": 848,
+   "len": 8,
+   "jp": "持ち金",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159318"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:358",
+   "off": 856,
+   "len": 12,
+   "jp": "１２３４５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159300"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:364",
+   "off": 868,
+   "len": 8,
+   "jp": "お会計",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w801592f8"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:36c",
+   "off": 876,
+   "len": 8,
+   "jp": "バリア",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159378"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:374",
+   "off": 884,
+   "len": 12,
+   "jp": "ＩＣＢＭ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "NSHOP_OV:w80159370"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:380",
+   "off": 896,
+   "len": 20,
+   "jp": "レインボーショット",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159364"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:394",
+   "off": 916,
+   "len": 12,
+   "jp": "ド根性玉",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159360"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:3a0",
+   "off": 928,
+   "len": 16,
+   "jp": "ワイドバズーカ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159358"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:3b0",
+   "off": 944,
+   "len": 20,
+   "jp": "ファイヤーストーム",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159344"
+   ]
+  },
+  {
+   "id": "NSHOP_OV:3c4",
+   "off": 964,
+   "len": 18,
+   "jp": "フェニックスＤＸ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "NSHOP_OV:w80159340"
+   ]
+  }
+ ]
+}

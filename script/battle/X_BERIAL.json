@@ -1,0 +1,773 @@
+{
+ "file": "DATA/X_BERIAL.BIN",
+ "lz": null,
+ "group": "battle",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "X_BERIAL:390",
+   "off": 912,
+   "len": 60,
+   "jp": "ワタシ達の活躍、見てねっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:3cc",
+   "off": 972,
+   "len": 60,
+   "jp": "いえ～いっ！{br}アッカシヤ軍登場～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:408",
+   "off": 1032,
+   "len": 60,
+   "jp": "神様！ワタシ達に勝たせてっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:444",
+   "off": 1092,
+   "len": 60,
+   "jp": "うっ！チュッチュ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:480",
+   "off": 1152,
+   "len": 60,
+   "jp": "ワタシ達、平和のために頑張りま～す！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:4bc",
+   "off": 1212,
+   "len": 60,
+   "jp": "お手柔らかに～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:4f8",
+   "off": 1272,
+   "len": 60,
+   "jp": "いっくど～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:534",
+   "off": 1332,
+   "len": 60,
+   "jp": "まずっ！　このままじゃタコ焼きになっちゃう！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:570",
+   "off": 1392,
+   "len": 60,
+   "jp": "てい　てい　て～いっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:5ac",
+   "off": 1452,
+   "len": 60,
+   "jp": "どうかしら～っ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:5e8",
+   "off": 1512,
+   "len": 60,
+   "jp": "チュ・チュ・チュ・チュチュ～インガム！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:624",
+   "off": 1572,
+   "len": 60,
+   "jp": "これでも食らえィ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:660",
+   "off": 1632,
+   "len": 60,
+   "jp": "う～や～た～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:69c",
+   "off": 1692,
+   "len": 60,
+   "jp": "これで終わりだ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:6d8",
+   "off": 1752,
+   "len": 60,
+   "jp": "あちょぉー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:714",
+   "off": 1812,
+   "len": 60,
+   "jp": "おらおらおらおらーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:750",
+   "off": 1872,
+   "len": 60,
+   "jp": "あたたたたたたーっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:78c",
+   "off": 1932,
+   "len": 60,
+   "jp": "いくわよー　そーれっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:7c8",
+   "off": 1992,
+   "len": 60,
+   "jp": "キミは生き残る事が、できるかな～？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:804",
+   "off": 2052,
+   "len": 60,
+   "jp": "おりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:840",
+   "off": 2112,
+   "len": 60,
+   "jp": "うりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:87c",
+   "off": 2172,
+   "len": 60,
+   "jp": "どりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:8b8",
+   "off": 2232,
+   "len": 60,
+   "jp": "もらったー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:8f4",
+   "off": 2292,
+   "len": 60,
+   "jp": "エコエコアザラクー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:930",
+   "off": 2352,
+   "len": 60,
+   "jp": "おかみにたてつくたわけものはこうしてやるー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:96c",
+   "off": 2412,
+   "len": 60,
+   "jp": "あたれー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:9a8",
+   "off": 2472,
+   "len": 60,
+   "jp": "甘いな",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:9e4",
+   "off": 2532,
+   "len": 60,
+   "jp": "いった～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:a20",
+   "off": 2592,
+   "len": 60,
+   "jp": "やめて～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:a5c",
+   "off": 2652,
+   "len": 60,
+   "jp": "ぶぎゅるっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:a98",
+   "off": 2712,
+   "len": 60,
+   "jp": "わぁぁぁぁぁっ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:ad4",
+   "off": 2772,
+   "len": 60,
+   "jp": "ひでぶー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:b10",
+   "off": 2832,
+   "len": 60,
+   "jp": "やったわねー、パパにも殴られた事ないのにー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:b4c",
+   "off": 2892,
+   "len": 60,
+   "jp": "なにすんのよー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:b88",
+   "off": 2952,
+   "len": 60,
+   "jp": "バッキャロー！あぶないじゃない！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:bc4",
+   "off": 3012,
+   "len": 60,
+   "jp": "よくもやってくれたわね～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:c00",
+   "off": 3072,
+   "len": 60,
+   "jp": "ワタシをだれだと思ってんの？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:c3c",
+   "off": 3132,
+   "len": 60,
+   "jp": "うお～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:c78",
+   "off": 3192,
+   "len": 60,
+   "jp": "キャー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:cb4",
+   "off": 3252,
+   "len": 60,
+   "jp": "キャイーン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:cf0",
+   "off": 3312,
+   "len": 60,
+   "jp": "ウキーッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:d2c",
+   "off": 3372,
+   "len": 60,
+   "jp": "うわーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:d68",
+   "off": 3432,
+   "len": 60,
+   "jp": "イテェー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:da4",
+   "off": 3492,
+   "len": 60,
+   "jp": "ちっ、覚えてなさい！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:de0",
+   "off": 3552,
+   "len": 60,
+   "jp": "な、何ですって～！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:e1c",
+   "off": 3612,
+   "len": 60,
+   "jp": "どこねらってんのよー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:e58",
+   "off": 3672,
+   "len": 60,
+   "jp": "いい根性してるわね～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:e94",
+   "off": 3732,
+   "len": 60,
+   "jp": "甘いわね！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:ed0",
+   "off": 3792,
+   "len": 60,
+   "jp": "うわぁぁぁ～ん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:f0c",
+   "off": 3852,
+   "len": 60,
+   "jp": "このマシン電気系がタコ足配線だ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:f48",
+   "off": 3912,
+   "len": 60,
+   "jp": "これでパロワールドも安泰だ！やっほ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:f84",
+   "off": 3972,
+   "len": 60,
+   "jp": "ワタシ達、やりました！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:fc0",
+   "off": 4032,
+   "len": 60,
+   "jp": "ヤリヤリラッキ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:ffc",
+   "off": 4092,
+   "len": 60,
+   "jp": "海が好き～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1038",
+   "off": 4152,
+   "len": 60,
+   "jp": "ワタシにたてつくなんて１０年早いわ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1074",
+   "off": 4212,
+   "len": 60,
+   "jp": "ふっ、手応えのない相手だったわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:10b0",
+   "off": 4272,
+   "len": 60,
+   "jp": "ナッハッハッハッハッハ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:10ec",
+   "off": 4332,
+   "len": 60,
+   "jp": "まだまだね",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1128",
+   "off": 4392,
+   "len": 60,
+   "jp": "ワタシをとめることはできませんでチュ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1164",
+   "off": 4452,
+   "len": 60,
+   "jp": "とっととお家にお帰り",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:11a0",
+   "off": 4512,
+   "len": 60,
+   "jp": "ヤリィ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:11dc",
+   "off": 4572,
+   "len": 60,
+   "jp": "修行不足ね",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1218",
+   "off": 4632,
+   "len": 60,
+   "jp": "ヨォーシッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1254",
+   "off": 4692,
+   "len": 60,
+   "jp": "ビンゴー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1290",
+   "off": 4752,
+   "len": 60,
+   "jp": "またいつでも相手になってあげる",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:12cc",
+   "off": 4812,
+   "len": 60,
+   "jp": "ワタシ達っ海が好き～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1308",
+   "off": 4872,
+   "len": 60,
+   "jp": "今の戦い激しかったわっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1344",
+   "off": 4932,
+   "len": 60,
+   "jp": "これからこれから～っ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1380",
+   "off": 4992,
+   "len": 60,
+   "jp": "げぇぇっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:13bc",
+   "off": 5052,
+   "len": 60,
+   "jp": "フッ、今日のところは、これぐらいにしといてやるでチュ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:13f8",
+   "off": 5112,
+   "len": 60,
+   "jp": "や、やられちゃったぁー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1434",
+   "off": 5172,
+   "len": 60,
+   "jp": "やっだぁ～、信じらんな～い！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1470",
+   "off": 5232,
+   "len": 60,
+   "jp": "覚えてなさい！この次は勝ってみせるわ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:14ac",
+   "off": 5292,
+   "len": 60,
+   "jp": "さようなら～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:14e8",
+   "off": 5352,
+   "len": 60,
+   "jp": "くっ、{br}こんな奴に負けるなんて・・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1524",
+   "off": 5412,
+   "len": 60,
+   "jp": "こんなに強い奴がまだいたとは・・・ぐふっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1560",
+   "off": 5472,
+   "len": 60,
+   "jp": "ウエーン！！ママにいいつけてやるー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:159c",
+   "off": 5532,
+   "len": 60,
+   "jp": "なにいっ！全滅ぅ！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:15d8",
+   "off": 5592,
+   "len": 60,
+   "jp": "キャァァァァァ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1614",
+   "off": 5652,
+   "len": 60,
+   "jp": "アンビリーバブルー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1650",
+   "off": 5712,
+   "len": 60,
+   "jp": "やっだぁ～脱出よ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:168c",
+   "off": 5772,
+   "len": 60,
+   "jp": "あちゃぁ、ワタシのせーじゃないでチュ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:16c8",
+   "off": 5832,
+   "len": 60,
+   "jp": "このワタシが、そんなばかな！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1704",
+   "off": 5892,
+   "len": 60,
+   "jp": "うっ！？　足がタコ焼き～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BERIAL:1740",
+   "off": 5952,
+   "len": 60,
+   "jp": "はらほろひれはれ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

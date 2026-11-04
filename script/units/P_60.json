@@ -1,0 +1,116 @@
+{
+ "file": "DATA/P_60.BIN",
+ "lz": 132,
+ "group": "units",
+ "text_from": 18432,
+ "entries": [
+  {
+   "id": "P_60:4800",
+   "off": 18432,
+   "len": 32,
+   "jp": "　　　◆強さ５段階評価◆",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_60:4820",
+   "off": 18464,
+   "len": 32,
+   "jp": "攻撃力　３",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_60:4840",
+   "off": 18496,
+   "len": 32,
+   "jp": "守備力　３",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_60:4860",
+   "off": 18528,
+   "len": 52,
+   "jp": "名前から推測すると、ム○ンクレスタがモデルであると",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_60:4894",
+   "off": 18580,
+   "len": 52,
+   "jp": "思われる。だとすると本艦の１号艦から３号艦までが、",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_60:48c8",
+   "off": 18632,
+   "len": 52,
+   "jp": "合体してパワーアップする事が可能であるはずだが、そ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_60:48fc",
+   "off": 18684,
+   "len": 52,
+   "jp": "のそぶりすら見せようとしない。最近のレトロゲームブ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_60:4930",
+   "off": 18736,
+   "len": 52,
+   "jp": "ームのためか、能力の割にお値段がやや高め。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_60:4964",
+   "off": 18788,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_60:4998",
+   "off": 18840,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_60:49cc",
+   "off": 18892,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_60:4a00",
+   "off": 18944,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  }
+ ]
+}

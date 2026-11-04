@@ -1,0 +1,773 @@
+{
+ "file": "DATA/X_AKANE.BIN",
+ "lz": null,
+ "group": "battle",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "X_AKANE:428",
+   "off": 1064,
+   "len": 60,
+   "jp": "うっふ～ん　いくわよぉ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:464",
+   "off": 1124,
+   "len": 60,
+   "jp": "攻撃開始で～すっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:4a0",
+   "off": 1184,
+   "len": 60,
+   "jp": "たくましくってすてき～！{br}でもこわ～い",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:4dc",
+   "off": 1244,
+   "len": 60,
+   "jp": "うう～ん{br}この戦い危険すぎる～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:518",
+   "off": 1304,
+   "len": 60,
+   "jp": "おろかねっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:554",
+   "off": 1364,
+   "len": 60,
+   "jp": "かわいがって　あ・げ・る",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:590",
+   "off": 1424,
+   "len": 60,
+   "jp": "やさしくしてねぇ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:5cc",
+   "off": 1484,
+   "len": 60,
+   "jp": "もぉ～　意地悪っ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:608",
+   "off": 1544,
+   "len": 60,
+   "jp": "シュ～トッ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:644",
+   "off": 1604,
+   "len": 60,
+   "jp": "いっただき～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:680",
+   "off": 1664,
+   "len": 60,
+   "jp": "これもらっちゃう",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:6bc",
+   "off": 1724,
+   "len": 60,
+   "jp": "これでも食らいなさ～い！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:6f8",
+   "off": 1784,
+   "len": 60,
+   "jp": "うーやーたー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:734",
+   "off": 1844,
+   "len": 60,
+   "jp": "これで終わりよ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:770",
+   "off": 1904,
+   "len": 60,
+   "jp": "あちょー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:7ac",
+   "off": 1964,
+   "len": 60,
+   "jp": "おらおらおらおらーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:7e8",
+   "off": 2024,
+   "len": 60,
+   "jp": "あたたたたーっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:824",
+   "off": 2084,
+   "len": 60,
+   "jp": "いくわよぉ、そ～れっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:860",
+   "off": 2144,
+   "len": 60,
+   "jp": "君は生き残る事ができるかな？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:89c",
+   "off": 2204,
+   "len": 60,
+   "jp": "おりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:8d8",
+   "off": 2264,
+   "len": 60,
+   "jp": "うりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:914",
+   "off": 2324,
+   "len": 60,
+   "jp": "どりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:950",
+   "off": 2384,
+   "len": 60,
+   "jp": "もらったー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:98c",
+   "off": 2444,
+   "len": 60,
+   "jp": "エコエコアザラクー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:9c8",
+   "off": 2504,
+   "len": 60,
+   "jp": "おかみにたてつくたわけものはこうしてやるー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:a04",
+   "off": 2564,
+   "len": 60,
+   "jp": "あったれー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:a40",
+   "off": 2624,
+   "len": 60,
+   "jp": "甘いわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:a7c",
+   "off": 2684,
+   "len": 60,
+   "jp": "いった～い{br}こんなのはじめてっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:ab8",
+   "off": 2744,
+   "len": 60,
+   "jp": "これって、どういうことなの？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:af4",
+   "off": 2804,
+   "len": 60,
+   "jp": "ち、ちがうのよ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:b30",
+   "off": 2864,
+   "len": 60,
+   "jp": "ひでぶー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:b6c",
+   "off": 2924,
+   "len": 60,
+   "jp": "やったわねー、パパにも殴られた事ないのにー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:ba8",
+   "off": 2984,
+   "len": 60,
+   "jp": "なにすんのよー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:be4",
+   "off": 3044,
+   "len": 60,
+   "jp": "バッキャロ～！{br}あぶねぇじゃねーかっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:c20",
+   "off": 3104,
+   "len": 60,
+   "jp": "よくもやってくれたわね～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:c5c",
+   "off": 3164,
+   "len": 60,
+   "jp": "私をだれだと思ってんの！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:c98",
+   "off": 3224,
+   "len": 60,
+   "jp": "わぁ～お",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:cd4",
+   "off": 3284,
+   "len": 60,
+   "jp": "キャー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:d10",
+   "off": 3344,
+   "len": 60,
+   "jp": "キャイーン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:d4c",
+   "off": 3404,
+   "len": 60,
+   "jp": "ウキーッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:d88",
+   "off": 3464,
+   "len": 60,
+   "jp": "うわーん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:dc4",
+   "off": 3524,
+   "len": 60,
+   "jp": "痛いじゃない！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:e00",
+   "off": 3584,
+   "len": 60,
+   "jp": "ちっ、覚えてなさ～い！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:e3c",
+   "off": 3644,
+   "len": 60,
+   "jp": "な、何ですってー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:e78",
+   "off": 3704,
+   "len": 60,
+   "jp": "どこねらってんのよー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:eb4",
+   "off": 3764,
+   "len": 60,
+   "jp": "いい根性してるわねー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:ef0",
+   "off": 3824,
+   "len": 60,
+   "jp": "甘いわね！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:f2c",
+   "off": 3884,
+   "len": 60,
+   "jp": "この機械壊れてるぅ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:f68",
+   "off": 3944,
+   "len": 60,
+   "jp": "わぁ～っ！　暴走暴走！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:fa4",
+   "off": 4004,
+   "len": 60,
+   "jp": "ねぇ　みんな聞いて！{br}これで私達の天下よっ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:fe0",
+   "off": 4064,
+   "len": 60,
+   "jp": "私達　やりましたっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:101c",
+   "off": 4124,
+   "len": 60,
+   "jp": "いえ～い　ヴィクトリー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1058",
+   "off": 4184,
+   "len": 60,
+   "jp": "私達　勝ちましたっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1094",
+   "off": 4244,
+   "len": 60,
+   "jp": "これできまりよ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:10d0",
+   "off": 4304,
+   "len": 60,
+   "jp": "私達って　あっぶな～い！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:110c",
+   "off": 4364,
+   "len": 60,
+   "jp": "私達にたてつくなんて１０年早いわ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1148",
+   "off": 4424,
+   "len": 60,
+   "jp": "ふっ、手応えのない相手だったわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1184",
+   "off": 4484,
+   "len": 60,
+   "jp": "アーッハッハー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:11c0",
+   "off": 4544,
+   "len": 60,
+   "jp": "まだまだだね",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:11fc",
+   "off": 4604,
+   "len": 60,
+   "jp": "私をとめることはできないわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1238",
+   "off": 4664,
+   "len": 60,
+   "jp": "とっととお家にお帰り",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1274",
+   "off": 4724,
+   "len": 60,
+   "jp": "ヤリィー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:12b0",
+   "off": 4784,
+   "len": 60,
+   "jp": "修行不足よ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:12ec",
+   "off": 4844,
+   "len": 60,
+   "jp": "ヨォ～シ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1328",
+   "off": 4904,
+   "len": 60,
+   "jp": "ビンゴー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1364",
+   "off": 4964,
+   "len": 60,
+   "jp": "またいつでも相手してあげるわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:13a0",
+   "off": 5024,
+   "len": 60,
+   "jp": "うっそ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:13dc",
+   "off": 5084,
+   "len": 60,
+   "jp": "くっやっし～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1418",
+   "off": 5144,
+   "len": 60,
+   "jp": "最近の男の人ってだらしな～い",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1454",
+   "off": 5204,
+   "len": 60,
+   "jp": "レディに失礼よっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1490",
+   "off": 5264,
+   "len": 60,
+   "jp": "今度は負けないからっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:14cc",
+   "off": 5324,
+   "len": 60,
+   "jp": "フッ、今日のところはこのぐらいにしといてあげるわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1508",
+   "off": 5384,
+   "len": 60,
+   "jp": "や、やられちゃった～ん！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1544",
+   "off": 5444,
+   "len": 60,
+   "jp": "やぁだ～、信じらんな～い！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1580",
+   "off": 5504,
+   "len": 60,
+   "jp": "覚えてなさい、この次は勝ってみせるわ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:15bc",
+   "off": 5564,
+   "len": 60,
+   "jp": "さよ～ならぁ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:15f8",
+   "off": 5624,
+   "len": 60,
+   "jp": "くっ、{br}こんな奴に負けるなんて・・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1634",
+   "off": 5684,
+   "len": 60,
+   "jp": "こんな強い奴がまだいたとは、・・・ぐふっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1670",
+   "off": 5744,
+   "len": 60,
+   "jp": "ウエ～ン！！{br}ママにいいつけてやるぅ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:16ac",
+   "off": 5804,
+   "len": 60,
+   "jp": "なにーっ！全滅ぅ！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:16e8",
+   "off": 5864,
+   "len": 60,
+   "jp": "キャァァァァァーッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1724",
+   "off": 5924,
+   "len": 60,
+   "jp": "アンビリーバブルー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:1760",
+   "off": 5984,
+   "len": 60,
+   "jp": "やっだぁ、脱出よ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:179c",
+   "off": 6044,
+   "len": 60,
+   "jp": "あちゃ～、私のせーじゃないわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_AKANE:17d8",
+   "off": 6104,
+   "len": 60,
+   "jp": "この私が！？そんなばかなぁ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

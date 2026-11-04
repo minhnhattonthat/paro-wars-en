@@ -1,0 +1,41 @@
+{
+ "file": "DATA/ENDING.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "ENDING:4754",
+   "off": 18260,
+   "len": 4,
+   "jp": "寝",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables after the code"
+  },
+  {
+   "id": "ENDING:47f4",
+   "off": 18420,
+   "len": 4,
+   "jp": "桔",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables after the code"
+  },
+  {
+   "id": "ENDING:4812",
+   "off": 18450,
+   "len": 6,
+   "jp": "桔餝",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables after the code"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "file": "DATA/P_05.BIN",
+ "lz": 176,
+ "group": "units",
+ "text_from": 18432,
+ "entries": [
+  {
+   "id": "P_05:4800",
+   "off": 18432,
+   "len": 32,
+   "jp": "　　　◆強さ５段階評価◆",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_05:4820",
+   "off": 18464,
+   "len": 32,
+   "jp": "攻撃力　４（地上攻撃力は弱い）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_05:4840",
+   "off": 18496,
+   "len": 32,
+   "jp": "守備力　４",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_05:4860",
+   "off": 18528,
+   "len": 52,
+   "jp": "アカシヤランド共和国を代表する、小型軽量戦闘機。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_05:4894",
+   "off": 18580,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_05:48c8",
+   "off": 18632,
+   "len": 52,
+   "jp": "　　　　　　★ワンポイントアドパイス★",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_05:48fc",
+   "off": 18684,
+   "len": 52,
+   "jp": "　対航空機に対する攻撃力はよい方です。守備力の方も",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_05:4930",
+   "off": 18736,
+   "len": 52,
+   "jp": "まあまあです。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_05:4964",
+   "off": 18788,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_05:4998",
+   "off": 18840,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_05:49cc",
+   "off": 18892,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_05:4a00",
+   "off": 18944,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  }
+ ]
+}

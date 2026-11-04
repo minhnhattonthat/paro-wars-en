@@ -1,0 +1,116 @@
+{
+ "file": "DATA/DEMO/TXT_AIT4.BIN",
+ "lz": null,
+ "group": "story",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "DEMO/TXT_AIT4:0",
+   "off": 0,
+   "len": 150,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/TXT_AIT4:96",
+   "off": 150,
+   "len": 150,
+   "jp": "　こいつ＆あいつ国のこいつと、アカシヤランド共和　国のＡ．タコスケＪｒ．は、こいつ＆あいつ＆アカシ　ヤ親善チェス大会恒例のエキシビジョンマッチ、",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_AIT4:12c",
+   "off": 300,
+   "len": 150,
+   "jp": "”パウンドフォーパウンドｉｎチェス”で、互いの腕　を競っていた。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_AIT4:1c2",
+   "off": 450,
+   "len": 150,
+   "jp": "　が、待った、待たない、ずるい、きたない、不潔、　もうやめて！　　　　　　　　　　　　　　　　　　　と、ひょんなことから口論となる。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_AIT4:258",
+   "off": 600,
+   "len": 150,
+   "jp": "　もう、どうにもおさまらなくなってしまった状況の　中お互い互角の国力で、軍事的に決着をつけることに　なってしまった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_AIT4:2ee",
+   "off": 750,
+   "len": 150,
+   "jp": "タコスケ：「はったりかますのも、ええかげんに　　　　　　　　　せぇ～や！！こうなったらどっちが強い　　　　　　　か力で勝負や！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_AIT4:384",
+   "off": 900,
+   "len": 150,
+   "jp": "こいつ：「ρρρβμξαρρ」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_AIT4:41a",
+   "off": 1050,
+   "len": 150,
+   "jp": "　パンダ国のアンナパブロワは、",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_AIT4:4b0",
+   "off": 1200,
+   "len": 150,
+   "jp": "アンナパブロワ：「よしなさいアル！！、　　　　　　　　　　　　　　　お互い同盟国同士アルね。　　　　　　　　　　　　　冷静になるアル。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_AIT4:546",
+   "off": 1350,
+   "len": 150,
+   "jp": "と、ケンカを止めにに入ったが、",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_AIT4:5dc",
+   "off": 1500,
+   "len": 150,
+   "jp": "顔面にチェス盤をぶっつけられてプッツン。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_AIT4:672",
+   "off": 1650,
+   "len": 150,
+   "jp": "　中立地帯のリップチェイサー島を舞台に、同盟国ど　うしの、血で血を洗う三つどもえの戦いが始まった。　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

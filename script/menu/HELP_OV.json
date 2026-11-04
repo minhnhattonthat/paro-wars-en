@@ -1,0 +1,189 @@
+{
+ "file": "DATA/HELP_OV.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "HELP_OV:4",
+   "off": 4,
+   "len": 40,
+   "jp": "ポチの嵐！　わたしたちも協力するわよ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bc20"
+   ]
+  },
+  {
+   "id": "HELP_OV:2c",
+   "off": 44,
+   "len": 48,
+   "jp": "ポチの嵐！　ペンタ連合としてぼくらも戦うのね",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bc1c"
+   ]
+  },
+  {
+   "id": "HELP_OV:5c",
+   "off": 92,
+   "len": 48,
+   "jp": "まっかせなさいっ！　アカシヤ軍も戦うでチュ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bc18"
+   ]
+  },
+  {
+   "id": "HELP_OV:8c",
+   "off": 140,
+   "len": 44,
+   "jp": "イエ～ィ！！　アカシヤ軍も協力するよ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bc10"
+   ]
+  },
+  {
+   "id": "HELP_OV:b8",
+   "off": 184,
+   "len": 40,
+   "jp": "よしこ～！！　助けにきてやったゼィ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bc0c"
+   ]
+  },
+  {
+   "id": "HELP_OV:e0",
+   "off": 224,
+   "len": 48,
+   "jp": "アカシヤ軍も、忘れてもらってはこまるッチュ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bc08"
+   ]
+  },
+  {
+   "id": "HELP_OV:110",
+   "off": 272,
+   "len": 52,
+   "jp": "こいつにあいつ！　わたしたちもいっしょに戦うアル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bc04"
+   ]
+  },
+  {
+   "id": "HELP_OV:144",
+   "off": 324,
+   "len": 48,
+   "jp": "ペン太郎王国も、だまって見てられないのね！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bc00"
+   ]
+  },
+  {
+   "id": "HELP_OV:174",
+   "off": 372,
+   "len": 48,
+   "jp": "ひかる！あかね！　バウバウ国も協力するワン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bbfc"
+   ]
+  },
+  {
+   "id": "HELP_OV:1a4",
+   "off": 420,
+   "len": 32,
+   "jp": "νγμζβθελιμδιμρρ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bbf8",
+    "HELP_OV:w8014bc14"
+   ]
+  },
+  {
+   "id": "HELP_OV:1c4",
+   "off": 452,
+   "len": 48,
+   "jp": "タコスケ！！　わたしたちもいっしょに戦うアル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bbf4"
+   ]
+  },
+  {
+   "id": "HELP_OV:1f4",
+   "off": 500,
+   "len": 36,
+   "jp": "最後の戦い、パンダ国も協力するアル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bbf0"
+   ]
+  },
+  {
+   "id": "HELP_OV:218",
+   "off": 536,
+   "len": 48,
+   "jp": "ミカエル！！　わたしたちもいっしょに戦うモ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bbec"
+   ]
+  },
+  {
+   "id": "HELP_OV:248",
+   "off": 584,
+   "len": 40,
+   "jp": "最後の戦いは多国籍軍で戦うんだワン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bbe8"
+   ]
+  },
+  {
+   "id": "HELP_OV:270",
+   "off": 624,
+   "len": 40,
+   "jp": "ペン太郎！　わたしたちも協力するわ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "HELP_OV:w8014bbe4"
+   ]
+  }
+ ]
+}

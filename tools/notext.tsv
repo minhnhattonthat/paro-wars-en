@@ -1,0 +1,7 @@
+# Japanese-looking runs on the disc that are not text. Each line: regex on "file<TAB>hex offset<TAB>run" <TAB> reason. Used by tests/test_script.py.
+# Every run these lines allow was read once on 2026-11-05 (phase 4); the disc does not change, so they stay valid.
+^DATA/DEMO/TXT_[^\t]*\t[^\t]*\t(プログラムの実行|ファイルのコピー|ファイルの削除|ファイル名の変更|ディレクトリの並べ替え|指定ファイルの検索表示|ツリー構造の表示|ドライブの移動|圧縮ファイルの解凍|ドライブの状態表示|ファイルの移動|サブディレクトリの削除|サブディレクトリの作成|コマンドの実行|表示ディレクトリの書込|エディターの起動|テキストファイルの表示|ファイルの圧縮|変更する)$	Sector padding past the last page: a DOS filer's help (docs/re/disc.md)
+^DATA/DEMO/(?!TXT_)	Scenery, COL and SEQ: pixels or data, plus the filer padding. KABE4's text is extracted from its decoded form.
+^DATA/S_AKANE\.BIN\t	Filer padding from +0x9353 (an editor's messages)
+^DATA/(BAKU\d|OP_\d+|OPF\d+|OB_SAB\d+|PUP_\d+)\.BIN\t	Pixels
+^DATA/(ENDING/(END_AKN|HTN_LOV|ALLSTAR\d)|PENHELP)\.BIN\t	Pixels (decoded form)

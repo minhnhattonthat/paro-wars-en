@@ -1,0 +1,512 @@
+{
+ "file": "DATA/ENDING/KOI_TXT.BIN",
+ "lz": 0,
+ "group": "ending",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "ENDING/KOI_TXT:0",
+   "off": 0,
+   "len": 150,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "ENDING/KOI_TXT:96",
+   "off": 150,
+   "len": 150,
+   "jp": "コイツ：「το、τοβνιγ！！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:12c",
+   "off": 300,
+   "len": 150,
+   "jp": "訳：ニャ、ニャン次郎！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1c2",
+   "off": 450,
+   "len": 150,
+   "jp": "コイツ：「κβτσμβογλβσερδζ、ξκπ、　　　　　ξλμτροερινιμαβα？」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:258",
+   "off": 600,
+   "len": 150,
+   "jp": "訳：みんなに信用されていたお前が、どこで、どうして　　道を踏みはずしたんだ？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:2ee",
+   "off": 750,
+   "len": 150,
+   "jp": "ニャン次郎：「も、もう一度あのころに戻りたかったん　　　　　　　ニャ～。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:384",
+   "off": 900,
+   "len": 150,
+   "jp": "ニャン次郎：「オレ様は、元々は１万２千年前に沈没し　　　　　　　た、ニャー帝国の帝王だったんニャ～」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:41a",
+   "off": 1050,
+   "len": 150,
+   "jp": "ニャン次郎：「それが、あの大災害で氷漬けにされて　　　　　　　　・・・・・・・・・・・・・・・・・」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:4b0",
+   "off": 1200,
+   "len": 150,
+   "jp": "ニャン次郎：「気がついた時ニャー、今のこの時代だっ　　　　　　　たんニャ・・・。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:546",
+   "off": 1350,
+   "len": 150,
+   "jp": "ニャン次郎：「一度はオレ様もあきらめたニャン。そし　　　　　　　て、この時代で一生懸命生きていこうと　　　　　　　思ったニャン。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:5dc",
+   "off": 1500,
+   "len": 150,
+   "jp": "ニャン次郎：「でも、この世界で行商猫をやっているう　　　　　　　ちに、だんだんある事実を知るようにな　　　　　　　ったニャン。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:672",
+   "off": 1650,
+   "len": 150,
+   "jp": "ニャン次郎：「オレ様は、帝王ニャー・ムーとして生き　　　　　　　ていた時、常日頃から大切にしていたも　　　　　　　のがあったニャン。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:708",
+   "off": 1800,
+   "len": 150,
+   "jp": "ニャン次郎：「俺様にとって毎日のぜいたくと言えば、　　　　　　　大好きなネコ缶をお腹一杯食べた後に」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:79e",
+   "off": 1950,
+   "len": 150,
+   "jp": "ニャン次郎：「爪の手入れをしてもらって、後は遊びつ　　　　　　　かれてぐっすり眠ること・・・。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:834",
+   "off": 2100,
+   "len": 150,
+   "jp": "ニャン次郎：「その生活に欠かせニャいお食事＆お遊び　　　　　　　セットがこれニャンだニャン。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:8ca",
+   "off": 2250,
+   "len": 150,
+   "jp": "　　　　　　　　ネコ缶容器（聖盃）　　　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:960",
+   "off": 2400,
+   "len": 150,
+   "jp": "　　　　　　　　カンキリ（神の牙）　　　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:9f6",
+   "off": 2550,
+   "len": 150,
+   "jp": "　　　ニャン次郎のナイフ（フェアリーソード）　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:a8c",
+   "off": 2700,
+   "len": 150,
+   "jp": "　　　ニャン次郎のスプーン（ピッコロミラー）　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:b22",
+   "off": 2850,
+   "len": 150,
+   "jp": "　　　ニャン次郎のフォーク（コルトランサー）　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:bb8",
+   "off": 3000,
+   "len": 150,
+   "jp": "　　　　　　　つめ砥ぎ石（神の箱）　　　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:c4e",
+   "off": 3150,
+   "len": 150,
+   "jp": "　　　　　またたび（不老不死の入った壷）　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:ce4",
+   "off": 3300,
+   "len": 150,
+   "jp": "　　　　　　じゃれるための玉（神の珠）　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:d7a",
+   "off": 3450,
+   "len": 150,
+   "jp": "ニャン次郎：「オレ様が愛用していたこれらの品々もオ　　　　　　　レ様と同じ火山の噴火によって・・・」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:e10",
+   "off": 3600,
+   "len": 150,
+   "jp": "ニャン次郎：「世界中に散らばっていってしまったニャ　　　　　　　ン。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:ea6",
+   "off": 3750,
+   "len": 150,
+   "jp": "ニャン次郎：「そして、いつしか王を象徴する宝として　　　　　　　伝えられていったニャン・・・。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:f3c",
+   "off": 3900,
+   "len": 150,
+   "jp": "ニャン次郎：「オレ様がこの事を知った時、もう、いて　　　　　　　も立ってもいられなくなったニャン。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:fd2",
+   "off": 4050,
+   "len": 150,
+   "jp": "ニャン次郎：「それでオレ様は欲望の虜とニャって世界　　　　　　　を扇動し、自分のアイテムを取り戻す計　　　　　　　画を立てたのニャン。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1068",
+   "off": 4200,
+   "len": 150,
+   "jp": "コイツ：「εβα、ξβηκτνμαγ、πτκξβσ　　　　　τμζνοσζσα。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:10fe",
+   "off": 4350,
+   "len": 150,
+   "jp": "訳：なんだ、そんなことだったら、一言いってくれたら　　よかったのに。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1194",
+   "off": 4500,
+   "len": 150,
+   "jp": "みんな：「そうだ、そうだ。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:122a",
+   "off": 4650,
+   "len": 150,
+   "jp": "ニャン次郎：「ええっ！？」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:12c0",
+   "off": 4800,
+   "len": 150,
+   "jp": "コイツ：「μστοδζπηκζιαβα・・・。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1356",
+   "off": 4950,
+   "len": 150,
+   "jp": "訳：実は前から気になっていたんだ・・・。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:13ec",
+   "off": 5100,
+   "len": 150,
+   "jp": "コイツ：「ξαδιβκοξζαθτρσπβαγ。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1482",
+   "off": 5250,
+   "len": 150,
+   "jp": "訳：何でこんなもんが国宝なんだろうって。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1518",
+   "off": 5400,
+   "len": 150,
+   "jp": "コイツ：「βο、εηξμαζτ、ιβοπμδεμγ　　　　　ξκβαιτσ。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:15ae",
+   "off": 5550,
+   "len": 150,
+   "jp": "訳：一応、お決まりだから、継承し続けてきたみたいだ　　けど。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1644",
+   "off": 5700,
+   "len": 150,
+   "jp": "ニャン次郎：「そ、それニャー、オレ様の気持ちわかっ　　　　　　　てくれるニャか？」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:16da",
+   "off": 5850,
+   "len": 150,
+   "jp": "ニャン次郎：「これ、もらっても迷惑じゃニャイんニャ　　　　　　　な？」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1770",
+   "off": 6000,
+   "len": 150,
+   "jp": "コイツ：「ρκλβαξ。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1806",
+   "off": 6150,
+   "len": 150,
+   "jp": "訳：もちろんだよ。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:189c",
+   "off": 6300,
+   "len": 150,
+   "jp": "　εογτκκνγρα、ξαογρζπισλα。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1932",
+   "off": 6450,
+   "len": 150,
+   "jp": "訳：思えばここ数年、戦争ばかりやっていたなあ～。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:19c8",
+   "off": 6600,
+   "len": 150,
+   "jp": "　τσ、κρζοξτοβνιγε、μπσβ、ηζκιβμεξριμσγβδζεσμνξαλ。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1a5e",
+   "off": 6750,
+   "len": 150,
+   "jp": "訳：でも、これからはニャン次郎とも、もちろん、ほか　　のみんなとも仲良くやっていけそうだ。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1af4",
+   "off": 6900,
+   "len": 150,
+   "jp": "　τοβνιγνδσμαβξυδμζ、νσιζμπκμξβζμτσμια。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1b8a",
+   "off": 7050,
+   "len": 150,
+   "jp": "訳：ニャン次郎は８つのアイテムが戻って、また昔通り　　の生活ができて喜んでいる。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1c20",
+   "off": 7200,
+   "len": 150,
+   "jp": "　ηθοξλσιβα、αβλζπσβγκζαμξζβειθβξνζλαριγ、ακλζφαηξνμοαζημκζφ。μζετισλ。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1cb6",
+   "off": 7350,
+   "len": 150,
+   "jp": "訳：話によると、あいつが持っている猫缶は、現代科学　　では開缶不可能で、あいつの缶切り（神の牙）でし　　か開けられないらしい。本当に良かった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1d4c",
+   "off": 7500,
+   "len": 150,
+   "jp": "　τσ、τοβνιγ、αβζπξνβσγηθιρδτζιμβενδ。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1de2",
+   "off": 7650,
+   "len": 150,
+   "jp": "訳：でもニャン次郎のやつ、相変わらず、インチキ商売　　は続けているみたいだ。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1e78",
+   "off": 7800,
+   "len": 150,
+   "jp": "　τσ、οασκδεοπθζββ。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1f0e",
+   "off": 7950,
+   "len": 150,
+   "jp": "訳：でも、そんなことはどうでもいい。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:1fa4",
+   "off": 8100,
+   "len": 150,
+   "jp": "　κτζξ、εξκισλτδν・・・。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ENDING/KOI_TXT:203a",
+   "off": 8250,
+   "len": 150,
+   "jp": "訳：これから、俺たちみんなは仲良しだ・・・。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

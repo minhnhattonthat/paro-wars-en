@@ -1,0 +1,80 @@
+{
+ "file": "DATA/DEMO/TXT_MOA3.BIN",
+ "lz": null,
+ "group": "story",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "DEMO/TXT_MOA3:0",
+   "off": 0,
+   "len": 150,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/TXT_MOA3:96",
+   "off": 150,
+   "len": 150,
+   "jp": "　ここパンダ国では、４年に１度の　　　　　　　　　”世界変な顔オリンピック”が開催されていた。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA3:12c",
+   "off": 300,
+   "len": 150,
+   "jp": "　今回はちょうど第５１２回目の記念大会として、モ　アイ首長国よしこ・よしお夫妻を招き、大々的なオー　プニングセレモニーと、変な顔パレードを行った。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA3:1c2",
+   "off": 450,
+   "len": 150,
+   "jp": "　ところが、パレードの最中にパンダ国極右グループ　”ネオパチ・スキンヘッズ”のメンバーが、よしこ・よしお夫妻の車に手流弾（？）を投げ込んだのである！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA3:258",
+   "off": 600,
+   "len": 150,
+   "jp": "　会場内は大パニックとなってしまった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA3:2ee",
+   "off": 750,
+   "len": 150,
+   "jp": "　この無礼なふるまいに、よしこ女帝はヒステリーを　おこし、パンダ国に宣戦布告を行うのである。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA3:384",
+   "off": 900,
+   "len": 150,
+   "jp": "よしこ女帝：「ンモ～～～～！！！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA3:41a",
+   "off": 1050,
+   "len": 150,
+   "jp": "　号令一発、モアイ軍はすぐにパンダ国に進撃してい　った。パンダ国の同盟国であるこいつ＆あいつ国も、　パンダ国に加勢部隊を派遣するのであった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

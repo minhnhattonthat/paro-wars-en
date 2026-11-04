@@ -1,0 +1,7326 @@
+{
+ "file": "PAW.EXE",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "PAW:89c",
+   "off": 2204,
+   "len": 12,
+   "jp": "移動範囲",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:80030878"
+   ]
+  },
+  {
+   "id": "PAW:8a8",
+   "off": 2216,
+   "len": 8,
+   "jp": "射程：",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:800309d0"
+   ]
+  },
+  {
+   "id": "PAW:8b0",
+   "off": 2224,
+   "len": 16,
+   "jp": "が、ひろえない",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a2d3c"
+   ]
+  },
+  {
+   "id": "PAW:8c0",
+   "off": 2240,
+   "len": 16,
+   "jp": "全回復した！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a2d38"
+   ]
+  },
+  {
+   "id": "PAW:8d0",
+   "off": 2256,
+   "len": 12,
+   "jp": "見つけた！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a2d34"
+   ]
+  },
+  {
+   "id": "PAW:8dc",
+   "off": 2268,
+   "len": 12,
+   "jp": "アップ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a2d30"
+   ]
+  },
+  {
+   "id": "PAW:8e8",
+   "off": 2280,
+   "len": 18,
+   "jp": "を見つけた！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a2d2c"
+   ]
+  },
+  {
+   "id": "PAW:9d0",
+   "off": 2512,
+   "len": 4,
+   "jp": "防",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:80043f98"
+   ]
+  },
+  {
+   "id": "PAW:9d4",
+   "off": 2516,
+   "len": 4,
+   "jp": "攻",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:80043fc4"
+   ]
+  },
+  {
+   "id": "PAW:9d8",
+   "off": 2520,
+   "len": 8,
+   "jp": "高さ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:80043ffc"
+   ]
+  },
+  {
+   "id": "PAW:9e0",
+   "off": 2528,
+   "len": 16,
+   "jp": "　作戦行動中！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:80046878"
+   ]
+  },
+  {
+   "id": "PAW:9f0",
+   "off": 2544,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:8004688c",
+    "PAW:8004f6c4"
+   ]
+  },
+  {
+   "id": "PAW:9f4",
+   "off": 2548,
+   "len": 16,
+   "jp": "　墜落で～す。",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a3460"
+   ]
+  },
+  {
+   "id": "PAW:a04",
+   "off": 2564,
+   "len": 16,
+   "jp": "燃料切れのため",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a3458"
+   ]
+  },
+  {
+   "id": "PAW:a14",
+   "off": 2580,
+   "len": 20,
+   "jp": "　ＣＯＭ　担当国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:80047730"
+   ]
+  },
+  {
+   "id": "PAW:a28",
+   "off": 2600,
+   "len": 20,
+   "jp": "プレイヤー　担当国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:80047740"
+   ]
+  },
+  {
+   "id": "PAW:a3c",
+   "off": 2620,
+   "len": 4,
+   "jp": "：",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:8004ae90",
+    "PAW:8004fb68"
+   ]
+  },
+  {
+   "id": "PAW:a40",
+   "off": 2624,
+   "len": 20,
+   "jp": "　戦闘発生！！！　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8004c380"
+   ]
+  },
+  {
+   "id": "PAW:a54",
+   "off": 2644,
+   "len": 16,
+   "jp": "本当っすか！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8004f69c"
+   ]
+  },
+  {
+   "id": "PAW:a64",
+   "off": 2660,
+   "len": 16,
+   "jp": "エ～ッまじ！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8004f6b4"
+   ]
+  },
+  {
+   "id": "PAW:a74",
+   "off": 2676,
+   "len": 12,
+   "jp": "（占領）",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8004fc3c"
+   ]
+  },
+  {
+   "id": "PAW:a80",
+   "off": 2688,
+   "len": 8,
+   "jp": "ＬＶ：",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:8004fc70"
+   ]
+  },
+  {
+   "id": "PAW:8f404",
+   "off": 586756,
+   "len": 26,
+   "jp": "Ｆ－１４トムキャッツ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:80024ea4",
+    "PAW:8002d174",
+    "PAW:8002dc8c",
+    "PAW:8002f858",
+    "PAW:8002f950",
+    "PAW:8002fa84",
+    "PAW:8003b0b0",
+    "PAW:8003bccc",
+    "PAW:8003c388",
+    "PAW:8003cce4",
+    "PAW:8004fb9c",
+    "PAW:80051d5c",
+    "PAW:80056798",
+    "PAW:800568c4",
+    "PAW:800569c0",
+    "PAW:80056e80",
+    "PAW:80056f94",
+    "PAW:8005aa24",
+    "PAW:8005abf0",
+    "PAW:80077ca0",
+    "GAME_OV:8014c9f4",
+    "PROD_OV:8014b38c",
+    "PROD_OV:8014b748",
+    "PROD_OV:8014b7ec",
+    "PROD_OV:8014bac4",
+    "PROD_OV:8014bb90",
+    "PROD_OV:8014be9c",
+    "PROD_OV:8014bf88",
+    "PROD_OV:8014c2a4",
+    "PROD_OV:8014c48c",
+    "PROD_OV:8014c534",
+    "PROD_OV:8014c860",
+    "PROD_OV:8014c8fc",
+    "PROD_OV:8014cd7c",
+    "HOKYU_OV:8014b3e0",
+    "MEMCARD:80153348",
+    "MEMCARD:80157ae4",
+    "NSHOP_OV:801571c0",
+    "NSHOP_OV:80157d54",
+    "NSHOP_OV:80157d88",
+    "NSHOP_OV:80158450",
+    "NSHOP_OV:801584c8",
+    "NSHOP_OV:8015854c",
+    "NSHOP_OV:8015855c",
+    "NSHOP_OV:80158cb4",
+    "LOCEX_OV:8014bd6c",
+    "LOCEX_OV:8014c0dc",
+    "LOCEX_OV:8014c3a8",
+    "LOCEX_OV:8014cd50",
+    "LOCEX_OV:8014da18"
+   ]
+  },
+  {
+   "id": "PAW:8f44a",
+   "off": 586826,
+   "len": 26,
+   "jp": "紙ヒコーキ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f490",
+   "off": 586896,
+   "len": 27,
+   "jp": "イケイケセイバー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f4d6",
+   "off": 586966,
+   "len": 26,
+   "jp": "イーグルサブロウシロウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f51c",
+   "off": 587036,
+   "len": 26,
+   "jp": "ギャラクティカファントム",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f562",
+   "off": 587106,
+   "len": 26,
+   "jp": "ファンタジーファルコン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f5a8",
+   "off": 587176,
+   "len": 26,
+   "jp": "ボンジュールミラージュ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f5ee",
+   "off": 587246,
+   "len": 27,
+   "jp": "Ｍｉｇ－８００ＤＸ！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f634",
+   "off": 587316,
+   "len": 26,
+   "jp": "ぷりぷりクフィル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f67a",
+   "off": 587386,
+   "len": 27,
+   "jp": "Ａ４ウルトラポーク５５号",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f6c0",
+   "off": 587456,
+   "len": 26,
+   "jp": "Ａ－７コロシア",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f706",
+   "off": 587526,
+   "len": 27,
+   "jp": "Ｐ－１０",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f74c",
+   "off": 587596,
+   "len": 27,
+   "jp": "Ｐｕ－２５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f792",
+   "off": 587666,
+   "len": 27,
+   "jp": "ビシバシＦ１",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f7d8",
+   "off": 587736,
+   "len": 26,
+   "jp": "Ｆ－１５ラッキーイーグル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:8014be08",
+    "PROD_OV:8014c3dc",
+    "PROD_OV:8014d1e8",
+    "LOCEX_OV:8014bda8",
+    "LOCEX_OV:8014c494",
+    "LOCEX_OV:8014de40",
+    "INFO_OV:8014b0c8",
+    "INFO_OV:8014b33c",
+    "INFO_OV:8014badc",
+    "INFO_OV:8014bb88"
+   ]
+  },
+  {
+   "id": "PAW:8f81e",
+   "off": 587806,
+   "len": 27,
+   "jp": "Ｐｕ－２４ヘンサー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f864",
+   "off": 587876,
+   "len": 26,
+   "jp": "Ｆ－１１７スケルス",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f8aa",
+   "off": 587946,
+   "len": 27,
+   "jp": "Ｐ－５２ギャランドゥー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f8f0",
+   "off": 588016,
+   "len": 27,
+   "jp": "Ｐｕ－１６アジャ爆",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f936",
+   "off": 588086,
+   "len": 26,
+   "jp": "ＡＨ－１ヒューイコプター",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f97c",
+   "off": 588156,
+   "len": 26,
+   "jp": "ＡＨ６４プッチンパッチン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8f9c2",
+   "off": 588226,
+   "len": 26,
+   "jp": "Ｍｉ２８ハーボッタクリ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fa08",
+   "off": 588296,
+   "len": 27,
+   "jp": "ＵＨ－１イコロイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fa4e",
+   "off": 588366,
+   "len": 27,
+   "jp": "Ｍｉ８ヒップアップ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fa94",
+   "off": 588436,
+   "len": 26,
+   "jp": "Ｍｉ１７ヒップアップＺ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fada",
+   "off": 588506,
+   "len": 27,
+   "jp": "ＳＭ４ヨッシャーハネマン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fb20",
+   "off": 588576,
+   "len": 27,
+   "jp": "ＳＭ２６バッシング",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fb66",
+   "off": 588646,
+   "len": 27,
+   "jp": "Ｔバック３４／８５",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fbac",
+   "off": 588716,
+   "len": 26,
+   "jp": "レオナルド２",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fbf2",
+   "off": 588786,
+   "len": 26,
+   "jp": "ガバガバＭｋ３",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fc38",
+   "off": 588856,
+   "len": 26,
+   "jp": "ＳＭ－６０",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fc7e",
+   "off": 588926,
+   "len": 26,
+   "jp": "ＳＭ－１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fcc4",
+   "off": 588996,
+   "len": 27,
+   "jp": "Ｔバック－５５",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fd0a",
+   "off": 589066,
+   "len": 26,
+   "jp": "Ｔバック－８０",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fd50",
+   "off": 589136,
+   "len": 26,
+   "jp": "ＢＲＳＭ１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fd96",
+   "off": 589206,
+   "len": 26,
+   "jp": "ＳＭ－４１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fddc",
+   "off": 589276,
+   "len": 26,
+   "jp": "ニャンニャン式軽戦車",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fe22",
+   "off": 589346,
+   "len": 26,
+   "jp": "ＳＭ２ブラットジバクレイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fe68",
+   "off": 589416,
+   "len": 26,
+   "jp": "ＤＵＭＰ２",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:8feae",
+   "off": 589486,
+   "len": 26,
+   "jp": "ニャンニャンＮ１",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8fef4",
+   "off": 589556,
+   "len": 26,
+   "jp": "ＳＭ－４２",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:8ff3a",
+   "off": 589626,
+   "len": 26,
+   "jp": "ゲバゲバ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:8ff80",
+   "off": 589696,
+   "len": 26,
+   "jp": "ＺＳＭ－５７３",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:8ffc6",
+   "off": 589766,
+   "len": 27,
+   "jp": "ＳＭ－１６３",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:9000c",
+   "off": 589836,
+   "len": 27,
+   "jp": "トラック野郎",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90052",
+   "off": 589906,
+   "len": 27,
+   "jp": "ジープ隊",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90098",
+   "off": 589976,
+   "len": 27,
+   "jp": "ホキュウシャ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:900de",
+   "off": 590046,
+   "len": 26,
+   "jp": "パローランド",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90124",
+   "off": 590116,
+   "len": 26,
+   "jp": "ＳＭ－９ガスキン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9016a",
+   "off": 590186,
+   "len": 26,
+   "jp": "ポーク",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:901b0",
+   "off": 590256,
+   "len": 26,
+   "jp": "ＳＭ－４ガネフル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:901f6",
+   "off": 590326,
+   "len": 26,
+   "jp": "ＭＳ１０９イクワヨ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9023c",
+   "off": 590396,
+   "len": 26,
+   "jp": "ＭＳ１１０イイワネー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90282",
+   "off": 590466,
+   "len": 26,
+   "jp": "ＳＭ１５７３",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:902c8",
+   "off": 590536,
+   "len": 26,
+   "jp": "ＳＭＲＳ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:9030e",
+   "off": 590606,
+   "len": 26,
+   "jp": "ＢＯＯＭ３０",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:90354",
+   "off": 590676,
+   "len": 26,
+   "jp": "ＡＤＥ・ランサー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9039a",
+   "off": 590746,
+   "len": 26,
+   "jp": "スカットイッパツ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:903e0",
+   "off": 590816,
+   "len": 26,
+   "jp": "Ｉ／Ｏ　Ｗａ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90426",
+   "off": 590886,
+   "len": 26,
+   "jp": "レミングヤード",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9046c",
+   "off": 590956,
+   "len": 26,
+   "jp": "ムンムンクレスタ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:904b2",
+   "off": 591026,
+   "len": 26,
+   "jp": "ヴァーヴァージュニア",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:904f8",
+   "off": 591096,
+   "len": 27,
+   "jp": "樫の木ノックス",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9053e",
+   "off": 591166,
+   "len": 26,
+   "jp": "フォレスタルキング",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90584",
+   "off": 591236,
+   "len": 26,
+   "jp": "ビンビンダブル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:905ca",
+   "off": 591306,
+   "len": 26,
+   "jp": "キレルンバ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90610",
+   "off": 591376,
+   "len": 27,
+   "jp": "ゆーそー刑事ヤキウドン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90656",
+   "off": 591446,
+   "len": 26,
+   "jp": "スターシップ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9069c",
+   "off": 591516,
+   "len": 26,
+   "jp": "ビクトリーＶターザン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:906e2",
+   "off": 591586,
+   "len": 27,
+   "jp": "うすしおＦＣ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90728",
+   "off": 591656,
+   "len": 27,
+   "jp": "猫潜水艦ニャニャーント",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9076e",
+   "off": 591726,
+   "len": 27,
+   "jp": "猫空母ドザえもん",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:907b4",
+   "off": 591796,
+   "len": 27,
+   "jp": "猫戦艦ウチガホンケヤ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:907fa",
+   "off": 591866,
+   "len": 27,
+   "jp": "猫駆逐艦あまつさえ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90840",
+   "off": 591936,
+   "len": 26,
+   "jp": "ペンタロウＸ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90886",
+   "off": 592006,
+   "len": 26,
+   "jp": "ブタシオｍｋ２",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:908cc",
+   "off": 592076,
+   "len": 26,
+   "jp": "メローラ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90912",
+   "off": 592146,
+   "len": 26,
+   "jp": "グレート・ニャムーン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90958",
+   "off": 592216,
+   "len": 26,
+   "jp": "バニーちゃん",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9099e",
+   "off": 592286,
+   "len": 26,
+   "jp": "ビックサンダーモアイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:909e4",
+   "off": 592356,
+   "len": 26,
+   "jp": "コイツジャイアント",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90a2a",
+   "off": 592426,
+   "len": 26,
+   "jp": "ラッキー君",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90a70",
+   "off": 592496,
+   "len": 26,
+   "jp": "ヤッターバウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90ab6",
+   "off": 592566,
+   "len": 26,
+   "jp": "富嶽ビックバイパー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90afc",
+   "off": 592636,
+   "len": 26,
+   "jp": "フォートレスツインビー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90b50",
+   "off": 592720,
+   "len": 14,
+   "jp": "要撃機",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8004ae7c",
+    "PAW:8004fae0",
+    "PAW:8005aa7c",
+    "PROD_OV:8014b874",
+    "PROD_OV:8014bbc4",
+    "PROD_OV:8014c560",
+    "PROD_OV:8014d2b4",
+    "NSHOP_OV:8015716c",
+    "LOCEX_OV:8014be1c",
+    "BUTAI_OV:8015d114",
+    "INFO_OV:8014b0b0",
+    "INFO_OV:8014bbd4"
+   ]
+  },
+  {
+   "id": "PAW:90b5e",
+   "off": 592734,
+   "len": 14,
+   "jp": "戦闘機",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90b6c",
+   "off": 592748,
+   "len": 14,
+   "jp": "攻撃機",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90b7a",
+   "off": 592762,
+   "len": 14,
+   "jp": "戦闘攻撃機",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90b88",
+   "off": 592776,
+   "len": 14,
+   "jp": "スケルス",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90b96",
+   "off": 592790,
+   "len": 14,
+   "jp": "輸送爆撃機",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90ba4",
+   "off": 592804,
+   "len": 14,
+   "jp": "攻撃ヘリ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90bb2",
+   "off": 592818,
+   "len": 14,
+   "jp": "空中歩兵",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90bc0",
+   "off": 592832,
+   "len": 14,
+   "jp": "主力戦車",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90bce",
+   "off": 592846,
+   "len": 14,
+   "jp": "軽戦車",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90bdc",
+   "off": 592860,
+   "len": 14,
+   "jp": "歩兵戦車",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90bea",
+   "off": 592874,
+   "len": 14,
+   "jp": "自走対空砲",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90bf8",
+   "off": 592888,
+   "len": 14,
+   "jp": "機械化歩兵",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90c06",
+   "off": 592902,
+   "len": 14,
+   "jp": "ジープ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90c14",
+   "off": 592916,
+   "len": 14,
+   "jp": "補給車",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90c22",
+   "off": 592930,
+   "len": 14,
+   "jp": "対空ミサイル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90c30",
+   "off": 592944,
+   "len": 14,
+   "jp": "対空ミサイル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90c3e",
+   "off": 592958,
+   "len": 14,
+   "jp": "自走砲",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90c4c",
+   "off": 592972,
+   "len": 14,
+   "jp": "自走ロケット",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90c5a",
+   "off": 592986,
+   "len": 14,
+   "jp": "自走ロケット",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90c68",
+   "off": 593000,
+   "len": 14,
+   "jp": "戦　艦",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90c76",
+   "off": 593014,
+   "len": 14,
+   "jp": "駆逐艦",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90c84",
+   "off": 593028,
+   "len": 14,
+   "jp": "空　母",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90c92",
+   "off": 593042,
+   "len": 14,
+   "jp": "輸送艦",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90ca0",
+   "off": 593056,
+   "len": 14,
+   "jp": "潜水艦",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90cae",
+   "off": 593070,
+   "len": 14,
+   "jp": "極上ロボ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90cbc",
+   "off": 593084,
+   "len": 14,
+   "jp": "極上ロボ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90cca",
+   "off": 593098,
+   "len": 14,
+   "jp": "極上ロボ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90cd8",
+   "off": 593112,
+   "len": 14,
+   "jp": "極上ロボ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90ce6",
+   "off": 593126,
+   "len": 14,
+   "jp": "極上ロボ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90cf4",
+   "off": 593140,
+   "len": 14,
+   "jp": "極上ロボ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90d02",
+   "off": 593154,
+   "len": 14,
+   "jp": "極上ロボ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90d10",
+   "off": 593168,
+   "len": 14,
+   "jp": "猫型決戦兵器",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90d1e",
+   "off": 593182,
+   "len": 14,
+   "jp": "極上ロボ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90d2c",
+   "off": 593196,
+   "len": 14,
+   "jp": "秘密兵器",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90d3a",
+   "off": 593210,
+   "len": 14,
+   "jp": "秘密兵器",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90d48",
+   "off": 593224,
+   "len": 16,
+   "jp": "アイテム",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90d58",
+   "off": 593240,
+   "len": 18,
+   "jp": "ヒップアップ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8004fbc0"
+   ]
+  },
+  {
+   "id": "PAW:90d6a",
+   "off": 593258,
+   "len": 18,
+   "jp": "ヒップアップＺ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8004fbe0"
+   ]
+  },
+  {
+   "id": "PAW:90da0",
+   "off": 593312,
+   "len": 17,
+   "jp": "機銃",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8001bae8",
+    "PAW:80021918",
+    "PAW:8002329c",
+    "PAW:80030438",
+    "PAW:8003d5dc",
+    "PAW:8003d90c",
+    "PAW:8003dc78",
+    "PAW:8003e3a4",
+    "PAW:80045e40",
+    "PAW:8004a0c8",
+    "PAW:8004b4b0",
+    "PAW:8004b82c",
+    "PAW:8004ce2c",
+    "PAW:8004d3f8",
+    "PAW:8004d5c8",
+    "PAW:80057d5c",
+    "PAW:8005866c",
+    "PAW:800589a8",
+    "PAW:80058fa4",
+    "PAW:800590f0",
+    "PAW:8005bf54",
+    "PROD_OV:8014bd68",
+    "LOCEX_OV:8014bfb0",
+    "INFO_OV:8014b28c"
+   ]
+  },
+  {
+   "id": "PAW:90dbc",
+   "off": 593340,
+   "len": 16,
+   "jp": "２０バルカン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90dd8",
+   "off": 593368,
+   "len": 16,
+   "jp": "３０バルカン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90df4",
+   "off": 593396,
+   "len": 17,
+   "jp": "５００爆弾",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90e10",
+   "off": 593424,
+   "len": 17,
+   "jp": "１０００爆弾",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90e2c",
+   "off": 593452,
+   "len": 17,
+   "jp": "誘導爆弾",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90e48",
+   "off": 593480,
+   "len": 16,
+   "jp": "スパロー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90e64",
+   "off": 593508,
+   "len": 16,
+   "jp": "Ｓワインダー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90e80",
+   "off": 593536,
+   "len": 16,
+   "jp": "フェニックス",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90e9c",
+   "off": 593564,
+   "len": 17,
+   "jp": "ヘルファイヤー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90eb8",
+   "off": 593592,
+   "len": 17,
+   "jp": "２５ライフル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90ed4",
+   "off": 593620,
+   "len": 17,
+   "jp": "７６ライフル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90ef0",
+   "off": 593648,
+   "len": 17,
+   "jp": "８５ライフル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90f0c",
+   "off": 593676,
+   "len": 17,
+   "jp": "９０ライフル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90f28",
+   "off": 593704,
+   "len": 17,
+   "jp": "１００ライフル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90f44",
+   "off": 593732,
+   "len": 17,
+   "jp": "１０５ライフル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90f60",
+   "off": 593760,
+   "len": 17,
+   "jp": "１２５ライフル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90f7c",
+   "off": 593788,
+   "len": 17,
+   "jp": "スワッター",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90f98",
+   "off": 593816,
+   "len": 17,
+   "jp": "ＴＯＷ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:90fb4",
+   "off": 593844,
+   "len": 16,
+   "jp": "３５ｍｍ対空",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90fd0",
+   "off": 593872,
+   "len": 16,
+   "jp": "４０ｍｍ対空",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:90fec",
+   "off": 593900,
+   "len": 16,
+   "jp": "５７ｍｍ対空",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91008",
+   "off": 593928,
+   "len": 16,
+   "jp": "パローランド",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91024",
+   "off": 593956,
+   "len": 16,
+   "jp": "ガスキン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91040",
+   "off": 593984,
+   "len": 16,
+   "jp": "ポーク",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9105c",
+   "off": 594012,
+   "len": 16,
+   "jp": "ガネフル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91078",
+   "off": 594040,
+   "len": 17,
+   "jp": "１５５リュウ弾",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91094",
+   "off": 594068,
+   "len": 17,
+   "jp": "２２７ロケット",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:910b0",
+   "off": 594096,
+   "len": 17,
+   "jp": "３００ロケット",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:910cc",
+   "off": 594124,
+   "len": 17,
+   "jp": "ランサー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:910e8",
+   "off": 594152,
+   "len": 17,
+   "jp": "スカット",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91104",
+   "off": 594180,
+   "len": 18,
+   "jp": "トマホーク",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91120",
+   "off": 594208,
+   "len": 18,
+   "jp": "ハープーン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9113c",
+   "off": 594236,
+   "len": 16,
+   "jp": "６０ｍｍ砲",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91158",
+   "off": 594264,
+   "len": 16,
+   "jp": "１３０ｍｍ砲",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91174",
+   "off": 594292,
+   "len": 16,
+   "jp": "ＳＭ１ＭＲ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:91190",
+   "off": 594320,
+   "len": 16,
+   "jp": "ファランクス",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:911ac",
+   "off": 594348,
+   "len": 18,
+   "jp": "Ｐフィッシュ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:911c8",
+   "off": 594376,
+   "len": 19,
+   "jp": "Ｍｋ４６",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:911e4",
+   "off": 594404,
+   "len": 16,
+   "jp": "ミニペンギン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91200",
+   "off": 594432,
+   "len": 16,
+   "jp": "かみつき",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9121c",
+   "off": 594460,
+   "len": 16,
+   "jp": "スッピンピン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91238",
+   "off": 594488,
+   "len": 17,
+   "jp": "パンチ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91254",
+   "off": 594516,
+   "len": 16,
+   "jp": "ミサイル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91270",
+   "off": 594544,
+   "len": 16,
+   "jp": "アイビーム",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9128c",
+   "off": 594572,
+   "len": 17,
+   "jp": "フミツブシ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:912a8",
+   "off": 594600,
+   "len": 16,
+   "jp": "フラッシュ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:912c4",
+   "off": 594628,
+   "len": 16,
+   "jp": "ヨシオ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:912e0",
+   "off": 594656,
+   "len": 16,
+   "jp": "エイモス",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:912fc",
+   "off": 594684,
+   "len": 16,
+   "jp": "アペックス",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91318",
+   "off": 594712,
+   "len": 16,
+   "jp": "アフィッド",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91334",
+   "off": 594740,
+   "len": 17,
+   "jp": "ヤリミサイル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91350",
+   "off": 594768,
+   "len": 17,
+   "jp": "イカズチ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9136c",
+   "off": 594796,
+   "len": 17,
+   "jp": "タケノコ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91388",
+   "off": 594824,
+   "len": 17,
+   "jp": "２０３リュウ弾",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:913a4",
+   "off": 594852,
+   "len": 17,
+   "jp": "スパイラル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:913c0",
+   "off": 594880,
+   "len": 18,
+   "jp": "Ｍｋ４８",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:913dc",
+   "off": 594908,
+   "len": 28,
+   "jp": "ないない１６",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:913f8",
+   "off": 594936,
+   "len": 16,
+   "jp": "かつぶしボンパ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91414",
+   "off": 594964,
+   "len": 16,
+   "jp": "ラッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91430",
+   "off": 594992,
+   "len": 16,
+   "jp": "超ラッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9144c",
+   "off": 595020,
+   "len": 16,
+   "jp": "！？・・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91468",
+   "off": 595048,
+   "len": 16,
+   "jp": "バード",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91484",
+   "off": 595076,
+   "len": 26,
+   "jp": "まもり",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91764",
+   "off": 595812,
+   "len": 10,
+   "jp": "国　王",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8004cc30",
+    "PAW:8004d3cc",
+    "PAW:8004d570",
+    "PAW:80050944",
+    "PAW:80050b0c",
+    "PAW:8005b0b0",
+    "PAW:8006167c"
+   ]
+  },
+  {
+   "id": "PAW:9176e",
+   "off": 595822,
+   "len": 10,
+   "jp": "帝　王",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91778",
+   "off": 595832,
+   "len": 10,
+   "jp": "総　統",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91782",
+   "off": 595842,
+   "len": 10,
+   "jp": "大統領",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9178c",
+   "off": 595852,
+   "len": 10,
+   "jp": "書記長",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91796",
+   "off": 595862,
+   "len": 10,
+   "jp": "首　長",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:917a0",
+   "off": 595872,
+   "len": 10,
+   "jp": "党　首",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:917aa",
+   "off": 595882,
+   "len": 10,
+   "jp": "総　理",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:917b4",
+   "off": 595892,
+   "len": 10,
+   "jp": "大帝王",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:917be",
+   "off": 595902,
+   "len": 10,
+   "jp": "国防長官",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:917c8",
+   "off": 595912,
+   "len": 10,
+   "jp": "大　将",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:917d2",
+   "off": 595922,
+   "len": 10,
+   "jp": "中　将",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:917dc",
+   "off": 595932,
+   "len": 10,
+   "jp": "少　将",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:917e6",
+   "off": 595942,
+   "len": 10,
+   "jp": "大　佐",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:917f0",
+   "off": 595952,
+   "len": 10,
+   "jp": "中　佐",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:917fa",
+   "off": 595962,
+   "len": 10,
+   "jp": "少　佐",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91804",
+   "off": 595972,
+   "len": 10,
+   "jp": "大　尉",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9180e",
+   "off": 595982,
+   "len": 10,
+   "jp": "中　尉",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91818",
+   "off": 595992,
+   "len": 12,
+   "jp": "少　尉",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91824",
+   "off": 596004,
+   "len": 8,
+   "jp": "保守型",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8004cc58",
+    "PAW:800508d8",
+    "PAW:8005b0cc"
+   ]
+  },
+  {
+   "id": "PAW:9182c",
+   "off": 596012,
+   "len": 8,
+   "jp": "慎重型",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91834",
+   "off": 596020,
+   "len": 8,
+   "jp": "積極型",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:9183c",
+   "off": 596028,
+   "len": 8,
+   "jp": "攻撃型",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91844",
+   "off": 596036,
+   "len": 10,
+   "jp": "製油所",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8007f98c",
+    "PAW:w800a10cc"
+   ]
+  },
+  {
+   "id": "PAW:9184e",
+   "off": 596046,
+   "len": 10,
+   "jp": "工場",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a10d0"
+   ]
+  },
+  {
+   "id": "PAW:91858",
+   "off": 596056,
+   "len": 10,
+   "jp": "ネコの町",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a10d4"
+   ]
+  },
+  {
+   "id": "PAW:91862",
+   "off": 596066,
+   "len": 10,
+   "jp": "基地",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a10d8"
+   ]
+  },
+  {
+   "id": "PAW:9186c",
+   "off": 596076,
+   "len": 10,
+   "jp": "都市",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a10dc"
+   ]
+  },
+  {
+   "id": "PAW:91876",
+   "off": 596086,
+   "len": 10,
+   "jp": "空港",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a10e0"
+   ]
+  },
+  {
+   "id": "PAW:91880",
+   "off": 596096,
+   "len": 10,
+   "jp": "ネコの港",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a10e4"
+   ]
+  },
+  {
+   "id": "PAW:9188a",
+   "off": 596106,
+   "len": 10,
+   "jp": "港",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a10e8"
+   ]
+  },
+  {
+   "id": "PAW:91894",
+   "off": 596116,
+   "len": 10,
+   "jp": "森林",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a10ec",
+    "PAW:w800a10f0",
+    "PAW:w800a10f4",
+    "PAW:w800a10f8",
+    "PAW:w800a10fc"
+   ]
+  },
+  {
+   "id": "PAW:9189e",
+   "off": 596126,
+   "len": 10,
+   "jp": "ヤシの木",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a1100"
+   ]
+  },
+  {
+   "id": "PAW:918a8",
+   "off": 596136,
+   "len": 10,
+   "jp": "竹やぶ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a1104"
+   ]
+  },
+  {
+   "id": "PAW:918b2",
+   "off": 596146,
+   "len": 10,
+   "jp": "破壊基地",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a1108"
+   ]
+  },
+  {
+   "id": "PAW:9192c",
+   "off": 596268,
+   "len": 6,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:8007fb84",
+    "PAW:w800a1154"
+   ]
+  },
+  {
+   "id": "PAW:91932",
+   "off": 596274,
+   "len": 6,
+   "jp": "橋",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a1158"
+   ]
+  },
+  {
+   "id": "PAW:91938",
+   "off": 596280,
+   "len": 6,
+   "jp": "道路",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a115c",
+    "PAW:w800a1168",
+    "PAW:w800a116c",
+    "PAW:w800a1170",
+    "PAW:w800a128c"
+   ]
+  },
+  {
+   "id": "PAW:9193e",
+   "off": 596286,
+   "len": 6,
+   "jp": "川",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a1160",
+    "PAW:w800a1164",
+    "PAW:w800a12c8"
+   ]
+  },
+  {
+   "id": "PAW:9197c",
+   "off": 596348,
+   "len": 6,
+   "jp": "山（",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a1198",
+    "PAW:w800a11a0"
+   ]
+  },
+  {
+   "id": "PAW:91982",
+   "off": 596354,
+   "len": 6,
+   "jp": "）",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800a119c",
+    "PAW:w800a11a4"
+   ]
+  },
+  {
+   "id": "PAW:919a0",
+   "off": 596384,
+   "len": 12,
+   "jp": "海",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8007f844",
+    "PAW:w800a1288"
+   ]
+  },
+  {
+   "id": "PAW:919ac",
+   "off": 596396,
+   "len": 12,
+   "jp": "海岸",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a1290"
+   ]
+  },
+  {
+   "id": "PAW:919b8",
+   "off": 596408,
+   "len": 12,
+   "jp": "岩場",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a12a0",
+    "PAW:w800a12e0"
+   ]
+  },
+  {
+   "id": "PAW:919c4",
+   "off": 596420,
+   "len": 12,
+   "jp": "砂浜",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:919d0",
+   "off": 596432,
+   "len": 12,
+   "jp": "草地",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a1294",
+    "PAW:w800a12d4",
+    "PAW:w800a1300",
+    "PAW:w800a1310",
+    "PAW:w800a1314",
+    "PAW:w800a1324"
+   ]
+  },
+  {
+   "id": "PAW:919dc",
+   "off": 596444,
+   "len": 12,
+   "jp": "森林",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a12ac",
+    "PAW:w800a12d0",
+    "PAW:w800a12fc"
+   ]
+  },
+  {
+   "id": "PAW:919e8",
+   "off": 596456,
+   "len": 12,
+   "jp": "土面",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a1298",
+    "PAW:w800a12d8",
+    "PAW:w800a1328"
+   ]
+  },
+  {
+   "id": "PAW:919f4",
+   "off": 596468,
+   "len": 12,
+   "jp": "草原",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a12cc",
+    "PAW:w800a12dc",
+    "PAW:w800a12e4"
+   ]
+  },
+  {
+   "id": "PAW:91a00",
+   "off": 596480,
+   "len": 12,
+   "jp": "ピラミッド",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a12b8"
+   ]
+  },
+  {
+   "id": "PAW:91a0c",
+   "off": 596492,
+   "len": 12,
+   "jp": "川",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a12c4",
+    "PAW:w800a12e8"
+   ]
+  },
+  {
+   "id": "PAW:91a18",
+   "off": 596504,
+   "len": 12,
+   "jp": "神殿",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a12bc",
+    "PAW:w800a12ec",
+    "PAW:w800a12f0",
+    "PAW:w800a12f4",
+    "PAW:w800a12f8",
+    "PAW:w800a1304",
+    "PAW:w800a130c"
+   ]
+  },
+  {
+   "id": "PAW:91a24",
+   "off": 596516,
+   "len": 12,
+   "jp": "草原",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a1308"
+   ]
+  },
+  {
+   "id": "PAW:91a30",
+   "off": 596528,
+   "len": 12,
+   "jp": "水門",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a12b4"
+   ]
+  },
+  {
+   "id": "PAW:91a3c",
+   "off": 596540,
+   "len": 12,
+   "jp": "砂地",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a129c",
+    "PAW:w800a1318",
+    "PAW:w800a131c"
+   ]
+  },
+  {
+   "id": "PAW:91a48",
+   "off": 596552,
+   "len": 12,
+   "jp": "採掘塔",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a12c0",
+    "PAW:w800a1320"
+   ]
+  },
+  {
+   "id": "PAW:91a54",
+   "off": 596564,
+   "len": 12,
+   "jp": "とりで",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a12b0"
+   ]
+  },
+  {
+   "id": "PAW:91a60",
+   "off": 596576,
+   "len": 12,
+   "jp": "雪原",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a12a4",
+    "PAW:w800a132c"
+   ]
+  },
+  {
+   "id": "PAW:91a6c",
+   "off": 596588,
+   "len": 12,
+   "jp": "氷地帯",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800a12a8",
+    "PAW:w800a1330",
+    "PAW:w800a1334"
+   ]
+  },
+  {
+   "id": "PAW:91bd8",
+   "off": 596952,
+   "len": 8,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:800308a0",
+    "PAW:80044d20"
+   ]
+  },
+  {
+   "id": "PAW:91be0",
+   "off": 596960,
+   "len": 8,
+   "jp": "です",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91be8",
+   "off": 596968,
+   "len": 8,
+   "jp": "だね",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91bf0",
+   "off": 596976,
+   "len": 8,
+   "jp": "だな",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91bf8",
+   "off": 596984,
+   "len": 8,
+   "jp": "？",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c00",
+   "off": 596992,
+   "len": 8,
+   "jp": "かな",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c08",
+   "off": 597000,
+   "len": 8,
+   "jp": "だよ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c10",
+   "off": 597008,
+   "len": 8,
+   "jp": "でポン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c18",
+   "off": 597016,
+   "len": 8,
+   "jp": "だ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c20",
+   "off": 597024,
+   "len": 8,
+   "jp": "っす！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c28",
+   "off": 597032,
+   "len": 8,
+   "jp": "ね",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c30",
+   "off": 597040,
+   "len": 8,
+   "jp": "よ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c38",
+   "off": 597048,
+   "len": 8,
+   "jp": "よ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c40",
+   "off": 597056,
+   "len": 8,
+   "jp": "で～す",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c48",
+   "off": 597064,
+   "len": 8,
+   "jp": "と思う",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c50",
+   "off": 597072,
+   "len": 8,
+   "jp": "でしょ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c58",
+   "off": 597080,
+   "len": 8,
+   "jp": "だろう",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c60",
+   "off": 597088,
+   "len": 8,
+   "jp": "だぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c68",
+   "off": 597096,
+   "len": 8,
+   "jp": "だもん",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c70",
+   "off": 597104,
+   "len": 8,
+   "jp": "っぽい",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c78",
+   "off": 597112,
+   "len": 8,
+   "jp": "らしい",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c80",
+   "off": 597120,
+   "len": 8,
+   "jp": "のよう",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c88",
+   "off": 597128,
+   "len": 8,
+   "jp": "なの",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c90",
+   "off": 597136,
+   "len": 8,
+   "jp": "ってか",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91c98",
+   "off": 597144,
+   "len": 8,
+   "jp": "ざます",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91ca0",
+   "off": 597152,
+   "len": 8,
+   "jp": "やね",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91ca8",
+   "off": 597160,
+   "len": 8,
+   "jp": "よ～ん",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91cb0",
+   "off": 597168,
+   "len": 8,
+   "jp": "じゃん",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91cb8",
+   "off": 597176,
+   "len": 8,
+   "jp": "だろ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91cc0",
+   "off": 597184,
+   "len": 8,
+   "jp": "みたい",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91cc8",
+   "off": 597192,
+   "len": 8,
+   "jp": "なのだ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91cd0",
+   "off": 597200,
+   "len": 8,
+   "jp": "～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91cd8",
+   "off": 597208,
+   "len": 20,
+   "jp": "耐えてみせます！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8005bfb4"
+   ]
+  },
+  {
+   "id": "PAW:91cec",
+   "off": 597228,
+   "len": 20,
+   "jp": "なすすべなし",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91d00",
+   "off": 597248,
+   "len": 20,
+   "jp": "手も足もでません",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91d14",
+   "off": 597268,
+   "len": 20,
+   "jp": "なにもできません",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91d28",
+   "off": 597288,
+   "len": 20,
+   "jp": "ひきょうもの！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91d3c",
+   "off": 597308,
+   "len": 20,
+   "jp": "あとでみてろよ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91d50",
+   "off": 597328,
+   "len": 20,
+   "jp": "反撃できません",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:80021934",
+    "PAW:80021994"
+   ]
+  },
+  {
+   "id": "PAW:91d64",
+   "off": 597348,
+   "len": 20,
+   "jp": "お手あげです",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91d78",
+   "off": 597368,
+   "len": 20,
+   "jp": "こりゃまいった",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91d8c",
+   "off": 597388,
+   "len": 20,
+   "jp": "なんてこった",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91da0",
+   "off": 597408,
+   "len": 20,
+   "jp": "もうやめて！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91db4",
+   "off": 597428,
+   "len": 20,
+   "jp": "いや～ん！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91dc8",
+   "off": 597448,
+   "len": 20,
+   "jp": "たすけて",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91ddc",
+   "off": 597468,
+   "len": 20,
+   "jp": "みのがして！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91df0",
+   "off": 597488,
+   "len": 20,
+   "jp": "なんてことすんの",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91e04",
+   "off": 597508,
+   "len": 20,
+   "jp": "いじめ許さん！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "PAW:91e54",
+   "off": 597588,
+   "len": 6,
+   "jp": "　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:80044288"
+   ]
+  },
+  {
+   "id": "PAW:91e5a",
+   "off": 597594,
+   "len": 6,
+   "jp": "　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": []
+  },
+  {
+   "id": "PAW:a7160",
+   "off": 684384,
+   "len": 16,
+   "jp": "　で部隊選択",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6964"
+   ]
+  },
+  {
+   "id": "PAW:a7170",
+   "off": 684400,
+   "len": 16,
+   "jp": "　機スタック",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b695c"
+   ]
+  },
+  {
+   "id": "PAW:a71b0",
+   "off": 684464,
+   "len": 16,
+   "jp": "　で部隊選択",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b69b4"
+   ]
+  },
+  {
+   "id": "PAW:a71c0",
+   "off": 684480,
+   "len": 16,
+   "jp": "　機輸送ＯＫ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b69ac"
+   ]
+  },
+  {
+   "id": "PAW:a7220",
+   "off": 684576,
+   "len": 16,
+   "jp": "よろしくって？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6a24"
+   ]
+  },
+  {
+   "id": "PAW:a7230",
+   "off": 684592,
+   "len": 12,
+   "jp": "あります！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6a1c"
+   ]
+  },
+  {
+   "id": "PAW:a723c",
+   "off": 684604,
+   "len": 16,
+   "jp": "未行動の部隊が",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b69fc"
+   ]
+  },
+  {
+   "id": "PAW:a7274",
+   "off": 684660,
+   "len": 16,
+   "jp": "ＣＯＭ停止中",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6a78"
+   ]
+  },
+  {
+   "id": "PAW:a72b4",
+   "off": 684724,
+   "len": 16,
+   "jp": "　：戦闘開始",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6ab8"
+   ]
+  },
+  {
+   "id": "PAW:a72c4",
+   "off": 684740,
+   "len": 16,
+   "jp": "戦闘発生！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6ab0"
+   ]
+  },
+  {
+   "id": "PAW:a7368",
+   "off": 684904,
+   "len": 24,
+   "jp": "すでにみきってる！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6b74"
+   ]
+  },
+  {
+   "id": "PAW:a7380",
+   "off": 684928,
+   "len": 20,
+   "jp": "もうコチコチっす",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6b70"
+   ]
+  },
+  {
+   "id": "PAW:a7394",
+   "off": 684948,
+   "len": 24,
+   "jp": "移動目標セ～ット！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6b6c"
+   ]
+  },
+  {
+   "id": "PAW:a73e0",
+   "off": 685024,
+   "len": 12,
+   "jp": "　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b6bec"
+   ]
+  },
+  {
+   "id": "PAW:a73ec",
+   "off": 685036,
+   "len": 12,
+   "jp": "　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b6be8"
+   ]
+  },
+  {
+   "id": "PAW:a73f8",
+   "off": 685048,
+   "len": 12,
+   "jp": "経験値＋",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6be4"
+   ]
+  },
+  {
+   "id": "PAW:a74a4",
+   "off": 685220,
+   "len": 16,
+   "jp": "になった！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6ca8"
+   ]
+  },
+  {
+   "id": "PAW:a74f4",
+   "off": 685300,
+   "len": 16,
+   "jp": "になった！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6cf8"
+   ]
+  },
+  {
+   "id": "PAW:a7534",
+   "off": 685364,
+   "len": 12,
+   "jp": "しますか？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6d38"
+   ]
+  },
+  {
+   "id": "PAW:a7540",
+   "off": 685376,
+   "len": 16,
+   "jp": "自動で初期配置",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6d30"
+   ]
+  },
+  {
+   "id": "PAW:a7580",
+   "off": 685440,
+   "len": 16,
+   "jp": "　で切り替え",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6d84"
+   ]
+  },
+  {
+   "id": "PAW:a7598",
+   "off": 685464,
+   "len": 16,
+   "jp": "アニメ　ＯＮ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6da4"
+   ]
+  },
+  {
+   "id": "PAW:a75a8",
+   "off": 685480,
+   "len": 16,
+   "jp": "アニメＯＦＦ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6da0"
+   ]
+  },
+  {
+   "id": "PAW:a871c",
+   "off": 689948,
+   "len": 12,
+   "jp": "　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b7f28"
+   ]
+  },
+  {
+   "id": "PAW:a8728",
+   "off": 689960,
+   "len": 12,
+   "jp": "　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b7f24"
+   ]
+  },
+  {
+   "id": "PAW:a877c",
+   "off": 690044,
+   "len": 12,
+   "jp": "スペシャル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f64"
+   ]
+  },
+  {
+   "id": "PAW:a8788",
+   "off": 690056,
+   "len": 8,
+   "jp": "名　前",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b81e4",
+    "PAW:w800b8238"
+   ]
+  },
+  {
+   "id": "PAW:a8790",
+   "off": 690064,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b8200",
+    "PAW:w800b83b4",
+    "PAW:w800b83b8",
+    "PAW:w800b83bc",
+    "PAW:w800b83c0",
+    "PAW:w800b83c4",
+    "PAW:w800b83c8",
+    "PAW:w800b8408",
+    "PAW:w800b840c",
+    "PAW:w800b8410",
+    "PAW:w800b8414",
+    "PAW:w800b8418",
+    "PAW:w800b841c",
+    "PROD_OV:w8014da20",
+    "LOCEX_OV:w8014e8b8",
+    "INFO_OV:w8014bebc"
+   ]
+  },
+  {
+   "id": "PAW:a8794",
+   "off": 690068,
+   "len": 32,
+   "jp": "空　　　　陸　　　　海　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8004cca4",
+    "PAW:80050b90",
+    "PAW:w800b82c8",
+    "PAW:w800b849c",
+    "PROD_OV:8014bbfc",
+    "LOCEX_OV:8014bddc"
+   ]
+  },
+  {
+   "id": "PAW:a87b4",
+   "off": 690100,
+   "len": 8,
+   "jp": "指揮",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b868c",
+    "PAW:w800b8704"
+   ]
+  },
+  {
+   "id": "PAW:a87bc",
+   "off": 690108,
+   "len": 8,
+   "jp": "地位",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b86a0",
+    "PAW:w800b8718"
+   ]
+  },
+  {
+   "id": "PAW:a87c4",
+   "off": 690116,
+   "len": 8,
+   "jp": "レベル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b86a8",
+    "PAW:w800b8720"
+   ]
+  },
+  {
+   "id": "PAW:a87cc",
+   "off": 690124,
+   "len": 8,
+   "jp": "機　数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b86bc",
+    "PAW:w800b8734",
+    "PAW:w800b8f48",
+    "PAW:w800b8f5c"
+   ]
+  },
+  {
+   "id": "PAW:a87dc",
+   "off": 690140,
+   "len": 12,
+   "jp": "　？／　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b7fe8"
+   ]
+  },
+  {
+   "id": "PAW:a87e8",
+   "off": 690152,
+   "len": 12,
+   "jp": "　　／　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b7fe4"
+   ]
+  },
+  {
+   "id": "PAW:a87f4",
+   "off": 690164,
+   "len": 12,
+   "jp": "　　／　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8f4c"
+   ]
+  },
+  {
+   "id": "PAW:a8808",
+   "off": 690184,
+   "len": 12,
+   "jp": "　？／　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8014"
+   ]
+  },
+  {
+   "id": "PAW:a8814",
+   "off": 690196,
+   "len": 12,
+   "jp": "　　／　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8010"
+   ]
+  },
+  {
+   "id": "PAW:a8820",
+   "off": 690208,
+   "len": 12,
+   "jp": "　　／　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8f60"
+   ]
+  },
+  {
+   "id": "PAW:a88c8",
+   "off": 690376,
+   "len": 12,
+   "jp": "行動終わり",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b80cc"
+   ]
+  },
+  {
+   "id": "PAW:a88d4",
+   "off": 690388,
+   "len": 12,
+   "jp": "ニャンＴＶ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b80c8"
+   ]
+  },
+  {
+   "id": "PAW:a88e0",
+   "off": 690400,
+   "len": 12,
+   "jp": "　機　能　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b80c4"
+   ]
+  },
+  {
+   "id": "PAW:a88ec",
+   "off": 690412,
+   "len": 12,
+   "jp": "　サイズ　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b80c0"
+   ]
+  },
+  {
+   "id": "PAW:a88f8",
+   "off": 690424,
+   "len": 12,
+   "jp": "全体マップ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b80bc"
+   ]
+  },
+  {
+   "id": "PAW:a8904",
+   "off": 690436,
+   "len": 16,
+   "jp": "メモリーカード",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b80b8"
+   ]
+  },
+  {
+   "id": "PAW:a8914",
+   "off": 690452,
+   "len": 12,
+   "jp": "　国情報　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b80b4"
+   ]
+  },
+  {
+   "id": "PAW:a8920",
+   "off": 690464,
+   "len": 12,
+   "jp": "　部隊表　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b80b0"
+   ]
+  },
+  {
+   "id": "PAW:a892c",
+   "off": 690476,
+   "len": 12,
+   "jp": "　生　産　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b80ac"
+   ]
+  },
+  {
+   "id": "PAW:a8938",
+   "off": 690488,
+   "len": 12,
+   "jp": "　出　撃　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b80a8"
+   ]
+  },
+  {
+   "id": "PAW:a8964",
+   "off": 690532,
+   "len": 12,
+   "jp": "　機　能　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b816c"
+   ]
+  },
+  {
+   "id": "PAW:a8970",
+   "off": 690544,
+   "len": 12,
+   "jp": "　サイズ　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8168"
+   ]
+  },
+  {
+   "id": "PAW:a897c",
+   "off": 690556,
+   "len": 12,
+   "jp": "全体マップ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8164"
+   ]
+  },
+  {
+   "id": "PAW:a8988",
+   "off": 690568,
+   "len": 12,
+   "jp": "　国情報　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8160"
+   ]
+  },
+  {
+   "id": "PAW:a8994",
+   "off": 690580,
+   "len": 12,
+   "jp": "　部隊表　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b815c"
+   ]
+  },
+  {
+   "id": "PAW:a89b4",
+   "off": 690612,
+   "len": 12,
+   "jp": "　小さめ　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b81bc"
+   ]
+  },
+  {
+   "id": "PAW:a89c0",
+   "off": 690624,
+   "len": 12,
+   "jp": "　大きめ　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b81b8"
+   ]
+  },
+  {
+   "id": "PAW:a8a40",
+   "off": 690752,
+   "len": 44,
+   "jp": "機　数　　　？／　　　{br}移動力　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b824c"
+   ]
+  },
+  {
+   "id": "PAW:a8a6c",
+   "off": 690796,
+   "len": 44,
+   "jp": "機　数　　　　／　　　{br}移動力　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8248"
+   ]
+  },
+  {
+   "id": "PAW:a8ac8",
+   "off": 690888,
+   "len": 32,
+   "jp": "　　　　　　　　　９／９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b82d0"
+   ]
+  },
+  {
+   "id": "PAW:a8af4",
+   "off": 690932,
+   "len": 52,
+   "jp": "ユニット情報１　　　　　　　：次ページ　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b82fc"
+   ]
+  },
+  {
+   "id": "PAW:a8b34",
+   "off": 690996,
+   "len": 12,
+   "jp": "なしよ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b833c"
+   ]
+  },
+  {
+   "id": "PAW:a8b40",
+   "off": 691008,
+   "len": 12,
+   "jp": "座標，座標",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8338"
+   ]
+  },
+  {
+   "id": "PAW:a8b7c",
+   "off": 691068,
+   "len": 32,
+   "jp": "○：次ページ　　　　×：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8384"
+   ]
+  },
+  {
+   "id": "PAW:a8c70",
+   "off": 691312,
+   "len": 16,
+   "jp": "　　　ウッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8470"
+   ]
+  },
+  {
+   "id": "PAW:a8d7c",
+   "off": 691580,
+   "len": 16,
+   "jp": "×：前ページ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8584"
+   ]
+  },
+  {
+   "id": "PAW:a8da0",
+   "off": 691616,
+   "len": 32,
+   "jp": "空　　　　陸　　　　海　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b85a8"
+   ]
+  },
+  {
+   "id": "PAW:a8ddc",
+   "off": 691676,
+   "len": 12,
+   "jp": "　　／　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b85e4"
+   ]
+  },
+  {
+   "id": "PAW:a8de8",
+   "off": 691688,
+   "len": 12,
+   "jp": "　　　％",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b85dc"
+   ]
+  },
+  {
+   "id": "PAW:a8e04",
+   "off": 691716,
+   "len": 52,
+   "jp": "攻撃武器選択　　　　　　　：決定　　：キャンセル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b860c"
+   ]
+  },
+  {
+   "id": "PAW:a8e48",
+   "off": 691784,
+   "len": 28,
+   "jp": "○：決定　　×：キャンセル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8650"
+   ]
+  },
+  {
+   "id": "PAW:a8ec0",
+   "off": 691904,
+   "len": 12,
+   "jp": "　　　％",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b86c8"
+   ]
+  },
+  {
+   "id": "PAW:a8f38",
+   "off": 692024,
+   "len": 12,
+   "jp": "　　　％",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8740"
+   ]
+  },
+  {
+   "id": "PAW:a8f64",
+   "off": 692068,
+   "len": 20,
+   "jp": "戦闘アニメの設定",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b876c"
+   ]
+  },
+  {
+   "id": "PAW:a8f8c",
+   "off": 692108,
+   "len": 12,
+   "jp": "かんたん",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8794"
+   ]
+  },
+  {
+   "id": "PAW:a8f98",
+   "off": 692120,
+   "len": 12,
+   "jp": "ノーマル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8790"
+   ]
+  },
+  {
+   "id": "PAW:a8ff0",
+   "off": 692208,
+   "len": 52,
+   "jp": "指揮官選択　　　次ページ　　決定　　兵器表　　戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b87f8"
+   ]
+  },
+  {
+   "id": "PAW:a9054",
+   "off": 692308,
+   "len": 12,
+   "jp": "根性　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8858"
+   ]
+  },
+  {
+   "id": "PAW:a9060",
+   "off": 692320,
+   "len": 12,
+   "jp": "海指　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8854"
+   ]
+  },
+  {
+   "id": "PAW:a906c",
+   "off": 692332,
+   "len": 12,
+   "jp": "陸指　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8850"
+   ]
+  },
+  {
+   "id": "PAW:a9078",
+   "off": 692344,
+   "len": 12,
+   "jp": "空指　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b884c"
+   ]
+  },
+  {
+   "id": "PAW:a9084",
+   "off": 692356,
+   "len": 12,
+   "jp": "直感　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8848"
+   ]
+  },
+  {
+   "id": "PAW:a9090",
+   "off": 692368,
+   "len": 12,
+   "jp": "命中　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8844"
+   ]
+  },
+  {
+   "id": "PAW:a909c",
+   "off": 692380,
+   "len": 12,
+   "jp": "経験　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8840"
+   ]
+  },
+  {
+   "id": "PAW:a90a8",
+   "off": 692392,
+   "len": 12,
+   "jp": "ＬＶ　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b883c"
+   ]
+  },
+  {
+   "id": "PAW:a9104",
+   "off": 692484,
+   "len": 12,
+   "jp": "根性　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8908"
+   ]
+  },
+  {
+   "id": "PAW:a9110",
+   "off": 692496,
+   "len": 12,
+   "jp": "海指　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8904"
+   ]
+  },
+  {
+   "id": "PAW:a911c",
+   "off": 692508,
+   "len": 12,
+   "jp": "陸指　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8900"
+   ]
+  },
+  {
+   "id": "PAW:a9128",
+   "off": 692520,
+   "len": 12,
+   "jp": "空指　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b88fc"
+   ]
+  },
+  {
+   "id": "PAW:a9134",
+   "off": 692532,
+   "len": 12,
+   "jp": "直感　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b88f8"
+   ]
+  },
+  {
+   "id": "PAW:a9140",
+   "off": 692544,
+   "len": 12,
+   "jp": "命中　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b88f4"
+   ]
+  },
+  {
+   "id": "PAW:a914c",
+   "off": 692556,
+   "len": 12,
+   "jp": "経験　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b88f0"
+   ]
+  },
+  {
+   "id": "PAW:a9158",
+   "off": 692568,
+   "len": 12,
+   "jp": "ＬＶ　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b88ec"
+   ]
+  },
+  {
+   "id": "PAW:a91b4",
+   "off": 692660,
+   "len": 12,
+   "jp": "根性　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b89b8"
+   ]
+  },
+  {
+   "id": "PAW:a91c0",
+   "off": 692672,
+   "len": 12,
+   "jp": "海指　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b89b4"
+   ]
+  },
+  {
+   "id": "PAW:a91cc",
+   "off": 692684,
+   "len": 12,
+   "jp": "陸指　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b89b0"
+   ]
+  },
+  {
+   "id": "PAW:a91d8",
+   "off": 692696,
+   "len": 12,
+   "jp": "空指　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b89ac"
+   ]
+  },
+  {
+   "id": "PAW:a91e4",
+   "off": 692708,
+   "len": 12,
+   "jp": "直感　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b89a8"
+   ]
+  },
+  {
+   "id": "PAW:a91f0",
+   "off": 692720,
+   "len": 12,
+   "jp": "命中　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b89a4"
+   ]
+  },
+  {
+   "id": "PAW:a91fc",
+   "off": 692732,
+   "len": 12,
+   "jp": "経験　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b89a0"
+   ]
+  },
+  {
+   "id": "PAW:a9208",
+   "off": 692744,
+   "len": 12,
+   "jp": "ＬＶ　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b899c"
+   ]
+  },
+  {
+   "id": "PAW:a9264",
+   "off": 692836,
+   "len": 12,
+   "jp": "根性　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8a68"
+   ]
+  },
+  {
+   "id": "PAW:a9270",
+   "off": 692848,
+   "len": 12,
+   "jp": "海指　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8a64"
+   ]
+  },
+  {
+   "id": "PAW:a927c",
+   "off": 692860,
+   "len": 12,
+   "jp": "陸指　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8a60"
+   ]
+  },
+  {
+   "id": "PAW:a9288",
+   "off": 692872,
+   "len": 12,
+   "jp": "空指　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8a5c"
+   ]
+  },
+  {
+   "id": "PAW:a9294",
+   "off": 692884,
+   "len": 12,
+   "jp": "直感　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8a58"
+   ]
+  },
+  {
+   "id": "PAW:a92a0",
+   "off": 692896,
+   "len": 12,
+   "jp": "命中　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8a54"
+   ]
+  },
+  {
+   "id": "PAW:a92ac",
+   "off": 692908,
+   "len": 12,
+   "jp": "経験　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8a50"
+   ]
+  },
+  {
+   "id": "PAW:a92b8",
+   "off": 692920,
+   "len": 12,
+   "jp": "ＬＶ　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8a4c"
+   ]
+  },
+  {
+   "id": "PAW:a92f4",
+   "off": 692980,
+   "len": 12,
+   "jp": "兵器選択",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8af8"
+   ]
+  },
+  {
+   "id": "PAW:a9300",
+   "off": 692992,
+   "len": 40,
+   "jp": "　　：次ページ　　　：決定　　：情報",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:8014b72c",
+    "LOCEX_OV:8014cb70"
+   ]
+  },
+  {
+   "id": "PAW:a9328",
+   "off": 693032,
+   "len": 40,
+   "jp": "　　：編成数変更　　：決定　　：中止",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:8014ca94"
+   ]
+  },
+  {
+   "id": "PAW:a9424",
+   "off": 693284,
+   "len": 12,
+   "jp": "兵器情報",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8e84"
+   ]
+  },
+  {
+   "id": "PAW:a94b8",
+   "off": 693432,
+   "len": 24,
+   "jp": "バトルアニメ　　ＯＮ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8cc4"
+   ]
+  },
+  {
+   "id": "PAW:a94d0",
+   "off": 693456,
+   "len": 24,
+   "jp": "バトルアニメ　ＯＦＦ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8cc0"
+   ]
+  },
+  {
+   "id": "PAW:a94f0",
+   "off": 693488,
+   "len": 24,
+   "jp": "反撃行動　　　えらぶ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8cfc"
+   ]
+  },
+  {
+   "id": "PAW:a9508",
+   "off": 693512,
+   "len": 24,
+   "jp": "反撃行動　　　　自動",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8cf8"
+   ]
+  },
+  {
+   "id": "PAW:a9530",
+   "off": 693552,
+   "len": 32,
+   "jp": "テレポーテーション　あと　回",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8d3c"
+   ]
+  },
+  {
+   "id": "PAW:a9550",
+   "off": 693584,
+   "len": 32,
+   "jp": "みきった～っ！！　　あと　回",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8d38"
+   ]
+  },
+  {
+   "id": "PAW:a9570",
+   "off": 693616,
+   "len": 32,
+   "jp": "鉄壁の守り　　　　　あと　回",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8d34"
+   ]
+  },
+  {
+   "id": "PAW:a9590",
+   "off": 693648,
+   "len": 28,
+   "jp": "アイテム使っちゃいま～す",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8d30"
+   ]
+  },
+  {
+   "id": "PAW:a9628",
+   "off": 693800,
+   "len": 12,
+   "jp": "配置ＯＫ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8e34"
+   ]
+  },
+  {
+   "id": "PAW:a9634",
+   "off": 693812,
+   "len": 12,
+   "jp": "配置ＮＧ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8e30"
+   ]
+  },
+  {
+   "id": "PAW:a964c",
+   "off": 693836,
+   "len": 12,
+   "jp": "　機輸送中",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8e58"
+   ]
+  },
+  {
+   "id": "PAW:a9658",
+   "off": 693848,
+   "len": 12,
+   "jp": "あと　機",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8e54"
+   ]
+  },
+  {
+   "id": "PAW:a9664",
+   "off": 693860,
+   "len": 12,
+   "jp": "輸送募集中",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8e50"
+   ]
+  },
+  {
+   "id": "PAW:a967c",
+   "off": 693884,
+   "len": 16,
+   "jp": "反撃できません",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:8004d598"
+   ]
+  },
+  {
+   "id": "PAW:a96a8",
+   "off": 693928,
+   "len": 12,
+   "jp": "武器えらぶ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8eac"
+   ]
+  },
+  {
+   "id": "PAW:a96b4",
+   "off": 693940,
+   "len": 12,
+   "jp": "これでいい",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8ea8"
+   ]
+  },
+  {
+   "id": "PAW:a96d4",
+   "off": 693972,
+   "len": 16,
+   "jp": "占領しながら",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8edc"
+   ]
+  },
+  {
+   "id": "PAW:a96e4",
+   "off": 693988,
+   "len": 12,
+   "jp": "占領しない",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8ed8"
+   ]
+  },
+  {
+   "id": "PAW:a9708",
+   "off": 694024,
+   "len": 12,
+   "jp": "攻撃する",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8f10"
+   ]
+  },
+  {
+   "id": "PAW:a9714",
+   "off": 694036,
+   "len": 16,
+   "jp": "攻撃するかも",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8f0c"
+   ]
+  },
+  {
+   "id": "PAW:a9724",
+   "off": 694052,
+   "len": 12,
+   "jp": "攻撃しない",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8f08"
+   ]
+  },
+  {
+   "id": "PAW:a978c",
+   "off": 694156,
+   "len": 20,
+   "jp": "最終形態になった",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8f98"
+   ]
+  },
+  {
+   "id": "PAW:a97a0",
+   "off": 694176,
+   "len": 16,
+   "jp": "は怪しくなった",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8f94"
+   ]
+  },
+  {
+   "id": "PAW:a97b0",
+   "off": 694192,
+   "len": 28,
+   "jp": "はスーパーサイヤ人になった",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8f90"
+   ]
+  },
+  {
+   "id": "PAW:a97cc",
+   "off": 694220,
+   "len": 12,
+   "jp": "は変身した",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8f8c"
+   ]
+  },
+  {
+   "id": "PAW:a97d8",
+   "off": 694232,
+   "len": 16,
+   "jp": "は顔が変わった",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8f88"
+   ]
+  },
+  {
+   "id": "PAW:a97e8",
+   "off": 694248,
+   "len": 12,
+   "jp": "は成長した",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8f84"
+   ]
+  },
+  {
+   "id": "PAW:a97f4",
+   "off": 694260,
+   "len": 12,
+   "jp": "になった",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8f80"
+   ]
+  },
+  {
+   "id": "PAW:a987c",
+   "off": 694396,
+   "len": 16,
+   "jp": "ビックバイパー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9088"
+   ]
+  },
+  {
+   "id": "PAW:a988c",
+   "off": 694412,
+   "len": 12,
+   "jp": "ツインビー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9084"
+   ]
+  },
+  {
+   "id": "PAW:a9898",
+   "off": 694424,
+   "len": 20,
+   "jp": "１００００ウッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9080"
+   ]
+  },
+  {
+   "id": "PAW:a98ac",
+   "off": 694444,
+   "len": 20,
+   "jp": "５０００ウッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b907c"
+   ]
+  },
+  {
+   "id": "PAW:a98c0",
+   "off": 694464,
+   "len": 20,
+   "jp": "３０００ウッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9078"
+   ]
+  },
+  {
+   "id": "PAW:a98d4",
+   "off": 694484,
+   "len": 12,
+   "jp": "ユニットが",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9070"
+   ]
+  },
+  {
+   "id": "PAW:a98e0",
+   "off": 694496,
+   "len": 20,
+   "jp": "１０００ウッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b906c"
+   ]
+  },
+  {
+   "id": "PAW:a98f4",
+   "off": 694516,
+   "len": 16,
+   "jp": "５００ウッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9068"
+   ]
+  },
+  {
+   "id": "PAW:a9904",
+   "off": 694532,
+   "len": 16,
+   "jp": "海の指揮能力",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9064"
+   ]
+  },
+  {
+   "id": "PAW:a9914",
+   "off": 694548,
+   "len": 16,
+   "jp": "陸の指揮能力",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9060"
+   ]
+  },
+  {
+   "id": "PAW:a9924",
+   "off": 694564,
+   "len": 16,
+   "jp": "空の指揮能力",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b905c"
+   ]
+  },
+  {
+   "id": "PAW:a9934",
+   "off": 694580,
+   "len": 20,
+   "jp": "コークスクリュー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9048"
+   ]
+  },
+  {
+   "id": "PAW:a9948",
+   "off": 694600,
+   "len": 12,
+   "jp": "ＩＣＢＭ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b9044"
+   ]
+  },
+  {
+   "id": "PAW:a9954",
+   "off": 694612,
+   "len": 20,
+   "jp": "ターボスクリュー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9040"
+   ]
+  },
+  {
+   "id": "PAW:a9968",
+   "off": 694632,
+   "len": 12,
+   "jp": "オーラボム",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b903c"
+   ]
+  },
+  {
+   "id": "PAW:a9974",
+   "off": 694644,
+   "len": 20,
+   "jp": "レインボーショット",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9038"
+   ]
+  },
+  {
+   "id": "PAW:a9988",
+   "off": 694664,
+   "len": 12,
+   "jp": "ど根性玉",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9034"
+   ]
+  },
+  {
+   "id": "PAW:a9994",
+   "off": 694676,
+   "len": 16,
+   "jp": "ターボエンジン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9030"
+   ]
+  },
+  {
+   "id": "PAW:a99a4",
+   "off": 694692,
+   "len": 16,
+   "jp": "ワイドバズーカ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b902c"
+   ]
+  },
+  {
+   "id": "PAW:a99b4",
+   "off": 694708,
+   "len": 12,
+   "jp": "トップガン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9024"
+   ]
+  },
+  {
+   "id": "PAW:a99c0",
+   "off": 694720,
+   "len": 16,
+   "jp": "ゴッドサービス",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9020"
+   ]
+  },
+  {
+   "id": "PAW:a99d0",
+   "off": 694736,
+   "len": 12,
+   "jp": "エレキラー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b901c"
+   ]
+  },
+  {
+   "id": "PAW:a99dc",
+   "off": 694748,
+   "len": 20,
+   "jp": "ファイヤーストーム",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9018"
+   ]
+  },
+  {
+   "id": "PAW:a99f0",
+   "off": 694768,
+   "len": 20,
+   "jp": "フェニックスＤＸ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9014"
+   ]
+  },
+  {
+   "id": "PAW:a9a04",
+   "off": 694788,
+   "len": 16,
+   "jp": "ターボジェット",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9010"
+   ]
+  },
+  {
+   "id": "PAW:b2f70",
+   "off": 733040,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b687c"
+   ]
+  },
+  {
+   "id": "PAW:b2f74",
+   "off": 733044,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b689c"
+   ]
+  },
+  {
+   "id": "PAW:b2f78",
+   "off": 733048,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b68bc"
+   ]
+  },
+  {
+   "id": "PAW:b2f7c",
+   "off": 733052,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b68ec"
+   ]
+  },
+  {
+   "id": "PAW:b2f80",
+   "off": 733056,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b68e4"
+   ]
+  },
+  {
+   "id": "PAW:b2f84",
+   "off": 733060,
+   "len": 8,
+   "jp": "　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b6a0c"
+   ]
+  },
+  {
+   "id": "PAW:b2f8c",
+   "off": 733068,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b6b30"
+   ]
+  },
+  {
+   "id": "PAW:b2f90",
+   "off": 733072,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b6b60"
+   ]
+  },
+  {
+   "id": "PAW:b2f94",
+   "off": 733076,
+   "len": 4,
+   "jp": "は",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6c98"
+   ]
+  },
+  {
+   "id": "PAW:b2f98",
+   "off": 733080,
+   "len": 4,
+   "jp": "は",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b6ce8"
+   ]
+  },
+  {
+   "id": "PAW:b2f9c",
+   "off": 733084,
+   "len": 8,
+   "jp": "補　充",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f88"
+   ]
+  },
+  {
+   "id": "PAW:b2fa4",
+   "off": 733092,
+   "len": 8,
+   "jp": "押　す",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f84"
+   ]
+  },
+  {
+   "id": "PAW:b2fac",
+   "off": 733100,
+   "len": 8,
+   "jp": "乗　る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f80"
+   ]
+  },
+  {
+   "id": "PAW:b2fb4",
+   "off": 733108,
+   "len": 8,
+   "jp": "範　囲",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f7c"
+   ]
+  },
+  {
+   "id": "PAW:b2fbc",
+   "off": 733116,
+   "len": 8,
+   "jp": "発　進",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f78"
+   ]
+  },
+  {
+   "id": "PAW:b2fc4",
+   "off": 733124,
+   "len": 8,
+   "jp": "待　機",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f74"
+   ]
+  },
+  {
+   "id": "PAW:b2fcc",
+   "off": 733132,
+   "len": 8,
+   "jp": "修　復",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f70"
+   ]
+  },
+  {
+   "id": "PAW:b2fd4",
+   "off": 733140,
+   "len": 8,
+   "jp": "情　報",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f6c"
+   ]
+  },
+  {
+   "id": "PAW:b2fdc",
+   "off": 733148,
+   "len": 8,
+   "jp": "お　店",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f68"
+   ]
+  },
+  {
+   "id": "PAW:b2fe4",
+   "off": 733156,
+   "len": 8,
+   "jp": "機　能",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f60"
+   ]
+  },
+  {
+   "id": "PAW:b2fec",
+   "off": 733164,
+   "len": 8,
+   "jp": "交　換",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f5c"
+   ]
+  },
+  {
+   "id": "PAW:b2ff4",
+   "off": 733172,
+   "len": 8,
+   "jp": "合　流",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f58"
+   ]
+  },
+  {
+   "id": "PAW:b2ffc",
+   "off": 733180,
+   "len": 8,
+   "jp": "補　給",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f54"
+   ]
+  },
+  {
+   "id": "PAW:b3004",
+   "off": 733188,
+   "len": 8,
+   "jp": "作　戦",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f50"
+   ]
+  },
+  {
+   "id": "PAW:b300c",
+   "off": 733196,
+   "len": 8,
+   "jp": "一　斉",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f4c"
+   ]
+  },
+  {
+   "id": "PAW:b3014",
+   "off": 733204,
+   "len": 8,
+   "jp": "攻　撃",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f48"
+   ]
+  },
+  {
+   "id": "PAW:b301c",
+   "off": 733212,
+   "len": 8,
+   "jp": "移　動",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b7f44"
+   ]
+  },
+  {
+   "id": "PAW:b3024",
+   "off": 733220,
+   "len": 8,
+   "jp": "？　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8040"
+   ]
+  },
+  {
+   "id": "PAW:b302c",
+   "off": 733228,
+   "len": 8,
+   "jp": "　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b803c"
+   ]
+  },
+  {
+   "id": "PAW:b3034",
+   "off": 733236,
+   "len": 8,
+   "jp": "？　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8048"
+   ]
+  },
+  {
+   "id": "PAW:b303c",
+   "off": 733244,
+   "len": 8,
+   "jp": "　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b8044"
+   ]
+  },
+  {
+   "id": "PAW:b3044",
+   "off": 733252,
+   "len": 8,
+   "jp": "タイプ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8204"
+   ]
+  },
+  {
+   "id": "PAW:b304c",
+   "off": 733260,
+   "len": 8,
+   "jp": "地　位",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b81fc"
+   ]
+  },
+  {
+   "id": "PAW:b3054",
+   "off": 733268,
+   "len": 8,
+   "jp": "　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b822c"
+   ]
+  },
+  {
+   "id": "PAW:b305c",
+   "off": 733276,
+   "len": 8,
+   "jp": "　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b8224"
+   ]
+  },
+  {
+   "id": "PAW:b3064",
+   "off": 733284,
+   "len": 8,
+   "jp": "経験",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8220"
+   ]
+  },
+  {
+   "id": "PAW:b306c",
+   "off": 733292,
+   "len": 8,
+   "jp": "　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b821c"
+   ]
+  },
+  {
+   "id": "PAW:b3074",
+   "off": 733300,
+   "len": 8,
+   "jp": "レベル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8218"
+   ]
+  },
+  {
+   "id": "PAW:b307c",
+   "off": 733308,
+   "len": 8,
+   "jp": "燃料",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b82cc"
+   ]
+  },
+  {
+   "id": "PAW:b3084",
+   "off": 733316,
+   "len": 8,
+   "jp": "防御",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b82c4"
+   ]
+  },
+  {
+   "id": "PAW:b308c",
+   "off": 733324,
+   "len": 4,
+   "jp": "山",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8340"
+   ]
+  },
+  {
+   "id": "PAW:b3090",
+   "off": 733328,
+   "len": 8,
+   "jp": "目　標",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8368"
+   ]
+  },
+  {
+   "id": "PAW:b3098",
+   "off": 733336,
+   "len": 8,
+   "jp": "　６　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b83f8"
+   ]
+  },
+  {
+   "id": "PAW:b30a0",
+   "off": 733344,
+   "len": 8,
+   "jp": "根性",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b83f4"
+   ]
+  },
+  {
+   "id": "PAW:b30a8",
+   "off": 733352,
+   "len": 8,
+   "jp": "　５　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b83f0"
+   ]
+  },
+  {
+   "id": "PAW:b30b0",
+   "off": 733360,
+   "len": 8,
+   "jp": "直感",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b83ec"
+   ]
+  },
+  {
+   "id": "PAW:b30b8",
+   "off": 733368,
+   "len": 8,
+   "jp": "　４　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b83e8"
+   ]
+  },
+  {
+   "id": "PAW:b30c0",
+   "off": 733376,
+   "len": 8,
+   "jp": "命中",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b83e4"
+   ]
+  },
+  {
+   "id": "PAW:b30c8",
+   "off": 733384,
+   "len": 8,
+   "jp": "　２　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b83e0"
+   ]
+  },
+  {
+   "id": "PAW:b30d0",
+   "off": 733392,
+   "len": 8,
+   "jp": "海指",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b83dc"
+   ]
+  },
+  {
+   "id": "PAW:b30d8",
+   "off": 733400,
+   "len": 8,
+   "jp": "　１　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b83d8"
+   ]
+  },
+  {
+   "id": "PAW:b30e0",
+   "off": 733408,
+   "len": 8,
+   "jp": "陸指",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b83d4"
+   ]
+  },
+  {
+   "id": "PAW:b30e8",
+   "off": 733416,
+   "len": 8,
+   "jp": "　３　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b83d0"
+   ]
+  },
+  {
+   "id": "PAW:b30f0",
+   "off": 733424,
+   "len": 8,
+   "jp": "空指",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b83cc"
+   ]
+  },
+  {
+   "id": "PAW:b30f8",
+   "off": 733432,
+   "len": 8,
+   "jp": "　？　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b844c"
+   ]
+  },
+  {
+   "id": "PAW:b3100",
+   "off": 733440,
+   "len": 8,
+   "jp": "根性",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8448"
+   ]
+  },
+  {
+   "id": "PAW:b3108",
+   "off": 733448,
+   "len": 8,
+   "jp": "　？　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8444"
+   ]
+  },
+  {
+   "id": "PAW:b3110",
+   "off": 733456,
+   "len": 8,
+   "jp": "直感",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8440"
+   ]
+  },
+  {
+   "id": "PAW:b3118",
+   "off": 733464,
+   "len": 8,
+   "jp": "　？　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b843c"
+   ]
+  },
+  {
+   "id": "PAW:b3120",
+   "off": 733472,
+   "len": 8,
+   "jp": "命中",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8438"
+   ]
+  },
+  {
+   "id": "PAW:b3128",
+   "off": 733480,
+   "len": 8,
+   "jp": "　？　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8434"
+   ]
+  },
+  {
+   "id": "PAW:b3130",
+   "off": 733488,
+   "len": 8,
+   "jp": "海指",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8430"
+   ]
+  },
+  {
+   "id": "PAW:b3138",
+   "off": 733496,
+   "len": 8,
+   "jp": "　？　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b842c"
+   ]
+  },
+  {
+   "id": "PAW:b3140",
+   "off": 733504,
+   "len": 8,
+   "jp": "陸指",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8428"
+   ]
+  },
+  {
+   "id": "PAW:b3148",
+   "off": 733512,
+   "len": 8,
+   "jp": "　？　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8424"
+   ]
+  },
+  {
+   "id": "PAW:b3150",
+   "off": 733520,
+   "len": 8,
+   "jp": "空指",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8420"
+   ]
+  },
+  {
+   "id": "PAW:b3158",
+   "off": 733528,
+   "len": 8,
+   "jp": "　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b8478"
+   ]
+  },
+  {
+   "id": "PAW:b3160",
+   "off": 733536,
+   "len": 8,
+   "jp": "科学力",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8474"
+   ]
+  },
+  {
+   "id": "PAW:b3168",
+   "off": 733544,
+   "len": 8,
+   "jp": "お金",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b846c"
+   ]
+  },
+  {
+   "id": "PAW:b3170",
+   "off": 733552,
+   "len": 8,
+   "jp": "防御",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8498"
+   ]
+  },
+  {
+   "id": "PAW:b3178",
+   "off": 733560,
+   "len": 8,
+   "jp": "武　器",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b84ac"
+   ]
+  },
+  {
+   "id": "PAW:b3180",
+   "off": 733568,
+   "len": 4,
+   "jp": "残",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b84d4"
+   ]
+  },
+  {
+   "id": "PAW:b3184",
+   "off": 733572,
+   "len": 4,
+   "jp": "距",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b84d0"
+   ]
+  },
+  {
+   "id": "PAW:b3188",
+   "off": 733576,
+   "len": 4,
+   "jp": "極",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b84cc"
+   ]
+  },
+  {
+   "id": "PAW:b318c",
+   "off": 733580,
+   "len": 4,
+   "jp": "潜",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b84c8"
+   ]
+  },
+  {
+   "id": "PAW:b3190",
+   "off": 733584,
+   "len": 4,
+   "jp": "海",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b84c4"
+   ]
+  },
+  {
+   "id": "PAW:b3194",
+   "off": 733588,
+   "len": 4,
+   "jp": "陸",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b84c0"
+   ]
+  },
+  {
+   "id": "PAW:b3198",
+   "off": 733592,
+   "len": 4,
+   "jp": "空",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b84bc"
+   ]
+  },
+  {
+   "id": "PAW:b319c",
+   "off": 733596,
+   "len": 8,
+   "jp": "３６",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8570"
+   ]
+  },
+  {
+   "id": "PAW:b31a4",
+   "off": 733604,
+   "len": 8,
+   "jp": "３５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b856c"
+   ]
+  },
+  {
+   "id": "PAW:b31ac",
+   "off": 733612,
+   "len": 8,
+   "jp": "３４",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8568"
+   ]
+  },
+  {
+   "id": "PAW:b31b4",
+   "off": 733620,
+   "len": 8,
+   "jp": "３３",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8564"
+   ]
+  },
+  {
+   "id": "PAW:b31bc",
+   "off": 733628,
+   "len": 8,
+   "jp": "３２",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8560"
+   ]
+  },
+  {
+   "id": "PAW:b31c4",
+   "off": 733636,
+   "len": 8,
+   "jp": "３１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b855c"
+   ]
+  },
+  {
+   "id": "PAW:b31cc",
+   "off": 733644,
+   "len": 8,
+   "jp": "３０",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8558"
+   ]
+  },
+  {
+   "id": "PAW:b31d4",
+   "off": 733652,
+   "len": 8,
+   "jp": "２６",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b854c"
+   ]
+  },
+  {
+   "id": "PAW:b31dc",
+   "off": 733660,
+   "len": 8,
+   "jp": "２５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8548"
+   ]
+  },
+  {
+   "id": "PAW:b31e4",
+   "off": 733668,
+   "len": 8,
+   "jp": "２４",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8544"
+   ]
+  },
+  {
+   "id": "PAW:b31ec",
+   "off": 733676,
+   "len": 8,
+   "jp": "２３",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8540"
+   ]
+  },
+  {
+   "id": "PAW:b31f4",
+   "off": 733684,
+   "len": 8,
+   "jp": "２２",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b853c"
+   ]
+  },
+  {
+   "id": "PAW:b31fc",
+   "off": 733692,
+   "len": 8,
+   "jp": "２１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8538"
+   ]
+  },
+  {
+   "id": "PAW:b3204",
+   "off": 733700,
+   "len": 8,
+   "jp": "２０",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8534"
+   ]
+  },
+  {
+   "id": "PAW:b320c",
+   "off": 733708,
+   "len": 8,
+   "jp": "１６",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8528"
+   ]
+  },
+  {
+   "id": "PAW:b3214",
+   "off": 733716,
+   "len": 8,
+   "jp": "１５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8524"
+   ]
+  },
+  {
+   "id": "PAW:b321c",
+   "off": 733724,
+   "len": 8,
+   "jp": "１４",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8520"
+   ]
+  },
+  {
+   "id": "PAW:b3224",
+   "off": 733732,
+   "len": 8,
+   "jp": "１３",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b851c"
+   ]
+  },
+  {
+   "id": "PAW:b322c",
+   "off": 733740,
+   "len": 8,
+   "jp": "１２",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8518"
+   ]
+  },
+  {
+   "id": "PAW:b3234",
+   "off": 733748,
+   "len": 8,
+   "jp": "１１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8514"
+   ]
+  },
+  {
+   "id": "PAW:b323c",
+   "off": 733756,
+   "len": 8,
+   "jp": "１０",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8510"
+   ]
+  },
+  {
+   "id": "PAW:b3244",
+   "off": 733764,
+   "len": 8,
+   "jp": "１６",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8504"
+   ]
+  },
+  {
+   "id": "PAW:b324c",
+   "off": 733772,
+   "len": 8,
+   "jp": "１５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8500"
+   ]
+  },
+  {
+   "id": "PAW:b3254",
+   "off": 733780,
+   "len": 8,
+   "jp": "１４",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b84fc"
+   ]
+  },
+  {
+   "id": "PAW:b325c",
+   "off": 733788,
+   "len": 8,
+   "jp": "１３",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b84f8"
+   ]
+  },
+  {
+   "id": "PAW:b3264",
+   "off": 733796,
+   "len": 8,
+   "jp": "１２",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b84f4"
+   ]
+  },
+  {
+   "id": "PAW:b326c",
+   "off": 733804,
+   "len": 8,
+   "jp": "１１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b84f0"
+   ]
+  },
+  {
+   "id": "PAW:b3274",
+   "off": 733812,
+   "len": 8,
+   "jp": "１０",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b84ec"
+   ]
+  },
+  {
+   "id": "PAW:b327c",
+   "off": 733820,
+   "len": 8,
+   "jp": "発見",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b85a4"
+   ]
+  },
+  {
+   "id": "PAW:b3284",
+   "off": 733828,
+   "len": 8,
+   "jp": "機　数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b85e0"
+   ]
+  },
+  {
+   "id": "PAW:b328c",
+   "off": 733836,
+   "len": 8,
+   "jp": "命中率",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b85d8"
+   ]
+  },
+  {
+   "id": "PAW:b3294",
+   "off": 733844,
+   "len": 8,
+   "jp": "命中率",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b86c4"
+   ]
+  },
+  {
+   "id": "PAW:b329c",
+   "off": 733852,
+   "len": 8,
+   "jp": "命中率",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b873c"
+   ]
+  },
+  {
+   "id": "PAW:b32a4",
+   "off": 733860,
+   "len": 8,
+   "jp": "　６",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8bf4"
+   ]
+  },
+  {
+   "id": "PAW:b32ac",
+   "off": 733868,
+   "len": 8,
+   "jp": "　５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8bdc"
+   ]
+  },
+  {
+   "id": "PAW:b32b4",
+   "off": 733876,
+   "len": 8,
+   "jp": "　４",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8bc4"
+   ]
+  },
+  {
+   "id": "PAW:b32bc",
+   "off": 733884,
+   "len": 8,
+   "jp": "　３",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8bac"
+   ]
+  },
+  {
+   "id": "PAW:b32c4",
+   "off": 733892,
+   "len": 8,
+   "jp": "　２",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8b94"
+   ]
+  },
+  {
+   "id": "PAW:b32cc",
+   "off": 733900,
+   "len": 8,
+   "jp": "　１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8b7c"
+   ]
+  },
+  {
+   "id": "PAW:b32d4",
+   "off": 733908,
+   "len": 8,
+   "jp": "種別",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8b70"
+   ]
+  },
+  {
+   "id": "PAW:b32dc",
+   "off": 733916,
+   "len": 8,
+   "jp": "兵器名",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8b6c"
+   ]
+  },
+  {
+   "id": "PAW:b32e4",
+   "off": 733924,
+   "len": 8,
+   "jp": "Ｎｏ．",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8b68"
+   ]
+  },
+  {
+   "id": "PAW:b32ec",
+   "off": 733932,
+   "len": 8,
+   "jp": "編成数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8c10"
+   ]
+  },
+  {
+   "id": "PAW:b32f4",
+   "off": 733940,
+   "len": 4,
+   "jp": "０",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8c2c"
+   ]
+  },
+  {
+   "id": "PAW:b32f8",
+   "off": 733944,
+   "len": 8,
+   "jp": "　　０",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8c24"
+   ]
+  },
+  {
+   "id": "PAW:b3300",
+   "off": 733952,
+   "len": 8,
+   "jp": "保有数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8c20"
+   ]
+  },
+  {
+   "id": "PAW:b3308",
+   "off": 733960,
+   "len": 8,
+   "jp": "　４",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8c58"
+   ]
+  },
+  {
+   "id": "PAW:b3310",
+   "off": 733968,
+   "len": 8,
+   "jp": "　３",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8c54"
+   ]
+  },
+  {
+   "id": "PAW:b3318",
+   "off": 733976,
+   "len": 8,
+   "jp": "　２",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8c50"
+   ]
+  },
+  {
+   "id": "PAW:b3320",
+   "off": 733984,
+   "len": 8,
+   "jp": "　１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8c4c"
+   ]
+  },
+  {
+   "id": "PAW:b3328",
+   "off": 733992,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b8ca0"
+   ]
+  },
+  {
+   "id": "PAW:b332c",
+   "off": 733996,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b8c9c"
+   ]
+  },
+  {
+   "id": "PAW:b3330",
+   "off": 734000,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b8c90"
+   ]
+  },
+  {
+   "id": "PAW:b3334",
+   "off": 734004,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b8c8c"
+   ]
+  },
+  {
+   "id": "PAW:b3338",
+   "off": 734008,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b8c80"
+   ]
+  },
+  {
+   "id": "PAW:b333c",
+   "off": 734012,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b8c7c"
+   ]
+  },
+  {
+   "id": "PAW:b3340",
+   "off": 734016,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b8c70"
+   ]
+  },
+  {
+   "id": "PAW:b3344",
+   "off": 734020,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PAW:w800b8c6c"
+   ]
+  },
+  {
+   "id": "PAW:b3348",
+   "off": 734024,
+   "len": 4,
+   "jp": "ｕ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:8014b1b0"
+   ]
+  },
+  {
+   "id": "PAW:b334c",
+   "off": 734028,
+   "len": 4,
+   "jp": "？",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:80050b34"
+   ]
+  },
+  {
+   "id": "PAW:b3350",
+   "off": 734032,
+   "len": 4,
+   "jp": "？",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:8004fcc8"
+   ]
+  },
+  {
+   "id": "PAW:b3354",
+   "off": 734036,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:8014b0bc",
+    "LOCEX_OV:8014b1cc",
+    "LOCEX_OV:8014b1e8"
+   ]
+  },
+  {
+   "id": "PAW:b3358",
+   "off": 734040,
+   "len": 8,
+   "jp": "編成数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8cb8"
+   ]
+  },
+  {
+   "id": "PAW:b3360",
+   "off": 734048,
+   "len": 8,
+   "jp": "兵器名",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8cb4"
+   ]
+  },
+  {
+   "id": "PAW:b3368",
+   "off": 734056,
+   "len": 8,
+   "jp": "Ｎｏ．",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PAW:w800b8cb0"
+   ]
+  },
+  {
+   "id": "PAW:b3370",
+   "off": 734064,
+   "len": 8,
+   "jp": "ハイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8e18"
+   ]
+  },
+  {
+   "id": "PAW:b3378",
+   "off": 734072,
+   "len": 8,
+   "jp": "イイエ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8e14"
+   ]
+  },
+  {
+   "id": "PAW:b3380",
+   "off": 734080,
+   "len": 8,
+   "jp": "まもり",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8eb0"
+   ]
+  },
+  {
+   "id": "PAW:b3388",
+   "off": 734088,
+   "len": 4,
+   "jp": "は",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b8f7c"
+   ]
+  },
+  {
+   "id": "PAW:b338c",
+   "off": 734092,
+   "len": 8,
+   "jp": "レベル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9074"
+   ]
+  },
+  {
+   "id": "PAW:b3394",
+   "off": 734100,
+   "len": 8,
+   "jp": "根性",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9058"
+   ]
+  },
+  {
+   "id": "PAW:b339c",
+   "off": 734108,
+   "len": 8,
+   "jp": "直感",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9054"
+   ]
+  },
+  {
+   "id": "PAW:b33a4",
+   "off": 734116,
+   "len": 8,
+   "jp": "命中率",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9050"
+   ]
+  },
+  {
+   "id": "PAW:b33ac",
+   "off": 734124,
+   "len": 8,
+   "jp": "バリア",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b904c"
+   ]
+  },
+  {
+   "id": "PAW:b33b4",
+   "off": 734132,
+   "len": 4,
+   "jp": "地雷",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PAW:w800b9028"
+   ]
+  }
+ ]
+}

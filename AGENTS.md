@@ -10,11 +10,12 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Warp:     `python -X utf8 $SKILL/scripts/emu.py build/paro_wars_en.cue --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 60000` -> `work/qa/warp/<name>.png` (scenes: `tools/debug/scenes.tsv`, from a cold boot, so each takes about 1-6 minutes; never ask the user to play to a scene). All scenes: `python -X utf8 tools/debug/warp_all.py [--only REGEX] [--jobs 8]`. One-off RE runs with the state trace: `sh tools/debug/x.sh NAME SCENE "STEPS" [FRAMES]`. State variables: `docs/re/flow.md`
 - Release:  `python -X utf8 tools/release.py` (patch + verify; never publish without the user; written in phase 9)
 - Unpack:   `tools/mkpsxiso/mkpsxiso-2.30-win64/dumpsxiso.exe -x work/disc/tree -s work/disc/layout.xml "rom/Paro Wars (Japan).cue"`, then `python -X utf8 tools/unpack_all.py work/disc/tree work/unpacked work/recon/lz.tsv` (needed by the RE tools; both outputs are gitignored)
+- Extract:  `python -X utf8 tools/extract.py [--force]` -> `script/` from `work/disc/tree` (writes only missing files; `--force` rewrites, keeping `en`, `status`, `notes` by id). Listing: `python -X utf8 tools/script_view.py [NAME [KIND]]`
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 
 ## Paths
 - Original ROM: `rom/Paro Wars (Japan).bin/.cue` (gitignored; SHA-1 in `rom.sha1`, checked by `tools/check_rom.py`). Emulator: this repo's own copy in `tools/pcsx/` (PCSX-Redux nightly 30282.20261104.5, `python -X utf8 $SKILL/scripts/fetch_emu.py pcsx`; gitignored), BIOS `tools/bios/scph5500.bin` (`fetch_emu.py psx-bios`). Disc tools: `tools/mkpsxiso/` (v2.30, github.com/Lameguy64/mkpsxiso), `tools/armips/` (v0.11.0, github.com/Kingcom/armips). Savestates: `work/states/`.
-- Text: `script/` (JSON, written in phase 4). Tables: `tbl/`. Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
+- Text: `script/<group>/<name>.json` (fields and kinds: `docs/re/text.md`). Tables: `tbl/`. Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
 
 ## Rulings
 - Edit source files (.py .lua .asm .tbl .json) only with the file-edit tool; scripts here read and analyse, never `.replace()` and write back.

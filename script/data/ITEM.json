@@ -1,0 +1,152 @@
+{
+ "file": "DATA/ITEM.BIN",
+ "lz": null,
+ "group": "data",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "ITEM:0",
+   "off": 0,
+   "len": 96,
+   "jp": "ターボジェット　　：飛行系ユニットの移動力が{br}　　　　　　　　　　４アップ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:60",
+   "off": 96,
+   "len": 96,
+   "jp": "フェニックスＤＸ　：フェニックスより射程が３{br}　　　　　　　　　　長いミサイル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:c0",
+   "off": 192,
+   "len": 96,
+   "jp": "ファイヤーストーム：半径５マスに環状に炎が広{br}　　　　　　　　　　がる",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:120",
+   "off": 288,
+   "len": 96,
+   "jp": "エレキラー　　　　：敵の攻撃の命中率が下がる",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:180",
+   "off": 384,
+   "len": 96,
+   "jp": "ゴッドサービス　　：命中率２割り増し",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:1e0",
+   "off": 480,
+   "len": 96,
+   "jp": "トップガン　　　　：命中率、直感が　１００に{br}　　　　　　　　　　なる",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:240",
+   "off": 576,
+   "len": 96,
+   "jp": "地　雷　　　　　　：マップ上に配置できる。　{br}　　　　　　　　　　配置後見えなくなる",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:2a0",
+   "off": 672,
+   "len": 96,
+   "jp": "ワイドバズーカ　　：幅３、射程６の範囲の部隊{br}　　　　　　　　　　を一気に攻撃する",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:300",
+   "off": 768,
+   "len": 96,
+   "jp": "ターボエンジン　　：陸上系ユニットの移動力が{br}　　　　　　　　　　２アップ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:360",
+   "off": 864,
+   "len": 96,
+   "jp": "ド根性玉　　　　　：攻撃後、さらにもう一度　{br}　　　　　　　　　　攻撃コマンドが実行できる",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:3c0",
+   "off": 960,
+   "len": 96,
+   "jp": "レインボーショット：５～７マス先の部隊にダメ{br}　　　　　　　　　　ージ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:420",
+   "off": 1056,
+   "len": 96,
+   "jp": "オーラボム　　　　：半径５マス内の敵全体の命{br}　　　　　　　　　　中率、直感を３割減",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:480",
+   "off": 1152,
+   "len": 96,
+   "jp": "ターボスクリュー　：海上系ユニットの移動力が{br}　　　　　　　　　　２アップ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:4e0",
+   "off": 1248,
+   "len": 96,
+   "jp": "ＩＣＢＭ　　　　　：４～７マス先を中心に半径{br}　　　　　　　　　　５マス内の部隊にダメージ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:540",
+   "off": 1344,
+   "len": 96,
+   "jp": "コークスクリュー　：水流を速くして２ターン　{br}　　　　　　　　　　身動き不能にする",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "ITEM:5a0",
+   "off": 1440,
+   "len": 96,
+   "jp": "バリア　　　　　　：アイテムによる攻撃を防御{br}　　　　　　　　　　する（自動使用）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

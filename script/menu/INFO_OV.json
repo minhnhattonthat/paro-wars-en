@@ -1,0 +1,440 @@
+{
+ "file": "DATA/INFO_OV.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "INFO_OV:d30",
+   "off": 3376,
+   "len": 52,
+   "jp": "ユニット情報２　　　　　　　：次ページ　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014bd28"
+   ]
+  },
+  {
+   "id": "INFO_OV:d70",
+   "off": 3440,
+   "len": 52,
+   "jp": "ユニット情報３　　　　　　　：次ページ　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014bd68"
+   ]
+  },
+  {
+   "id": "INFO_OV:da8",
+   "off": 3496,
+   "len": 52,
+   "jp": "アイテム一覧　　　　　　　　：次ページ　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014bda4"
+   ]
+  },
+  {
+   "id": "INFO_OV:df4",
+   "off": 3572,
+   "len": 8,
+   "jp": "ｇＧ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014bdec"
+   ]
+  },
+  {
+   "id": "INFO_OV:dfc",
+   "off": 3580,
+   "len": 8,
+   "jp": "移動力",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014bde8"
+   ]
+  },
+  {
+   "id": "INFO_OV:ec4",
+   "off": 3780,
+   "len": 4,
+   "jp": "Ｍ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014beb8"
+   ]
+  },
+  {
+   "id": "INFO_OV:ec8",
+   "off": 3784,
+   "len": 4,
+   "jp": "Ｌ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014beb4"
+   ]
+  },
+  {
+   "id": "INFO_OV:ecc",
+   "off": 3788,
+   "len": 4,
+   "jp": "Ｋ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014beb0"
+   ]
+  },
+  {
+   "id": "INFO_OV:ed0",
+   "off": 3792,
+   "len": 4,
+   "jp": "Ｃ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014beac"
+   ]
+  },
+  {
+   "id": "INFO_OV:ed4",
+   "off": 3796,
+   "len": 4,
+   "jp": "Ｂ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014bea8"
+   ]
+  },
+  {
+   "id": "INFO_OV:ed8",
+   "off": 3800,
+   "len": 4,
+   "jp": "Ａ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014bea4"
+   ]
+  },
+  {
+   "id": "INFO_OV:edc",
+   "off": 3804,
+   "len": 4,
+   "jp": "Ｊ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014bea0"
+   ]
+  },
+  {
+   "id": "INFO_OV:ee0",
+   "off": 3808,
+   "len": 4,
+   "jp": "Ｉ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014be9c"
+   ]
+  },
+  {
+   "id": "INFO_OV:ee4",
+   "off": 3812,
+   "len": 4,
+   "jp": "Ｈ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014be98"
+   ]
+  },
+  {
+   "id": "INFO_OV:ee8",
+   "off": 3816,
+   "len": 4,
+   "jp": "Ｇ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014be94"
+   ]
+  },
+  {
+   "id": "INFO_OV:eec",
+   "off": 3820,
+   "len": 4,
+   "jp": "Ｆ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014be90"
+   ]
+  },
+  {
+   "id": "INFO_OV:ef0",
+   "off": 3824,
+   "len": 4,
+   "jp": "Ｅ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014be8c"
+   ]
+  },
+  {
+   "id": "INFO_OV:ef4",
+   "off": 3828,
+   "len": 4,
+   "jp": "－",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014be88"
+   ]
+  },
+  {
+   "id": "INFO_OV:ef8",
+   "off": 3832,
+   "len": 4,
+   "jp": "建",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014be84"
+   ]
+  },
+  {
+   "id": "INFO_OV:efc",
+   "off": 3836,
+   "len": 4,
+   "jp": "川",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014be80"
+   ]
+  },
+  {
+   "id": "INFO_OV:f00",
+   "off": 3840,
+   "len": 4,
+   "jp": "道",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014be7c"
+   ]
+  },
+  {
+   "id": "INFO_OV:f04",
+   "off": 3844,
+   "len": 4,
+   "jp": "橋",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014be78"
+   ]
+  },
+  {
+   "id": "INFO_OV:f08",
+   "off": 3848,
+   "len": 4,
+   "jp": "氷",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014be74"
+   ]
+  },
+  {
+   "id": "INFO_OV:f0c",
+   "off": 3852,
+   "len": 4,
+   "jp": "雪",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014be70"
+   ]
+  },
+  {
+   "id": "INFO_OV:f10",
+   "off": 3856,
+   "len": 4,
+   "jp": "海",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014be6c"
+   ]
+  },
+  {
+   "id": "INFO_OV:f14",
+   "off": 3860,
+   "len": 4,
+   "jp": "岸",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014be68"
+   ]
+  },
+  {
+   "id": "INFO_OV:f18",
+   "off": 3864,
+   "len": 4,
+   "jp": "岩",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014be64"
+   ]
+  },
+  {
+   "id": "INFO_OV:f1c",
+   "off": 3868,
+   "len": 4,
+   "jp": "砂",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014be60"
+   ]
+  },
+  {
+   "id": "INFO_OV:f20",
+   "off": 3872,
+   "len": 4,
+   "jp": "土",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014be5c"
+   ]
+  },
+  {
+   "id": "INFO_OV:f24",
+   "off": 3876,
+   "len": 4,
+   "jp": "森",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014be58"
+   ]
+  },
+  {
+   "id": "INFO_OV:f28",
+   "off": 3880,
+   "len": 4,
+   "jp": "草",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014be54"
+   ]
+  },
+  {
+   "id": "INFO_OV:f4c",
+   "off": 3916,
+   "len": 20,
+   "jp": "ラッキーイーグル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "INFO_OV:w8014bf44"
+   ]
+  },
+  {
+   "id": "INFO_OV:f60",
+   "off": 3936,
+   "len": 4,
+   "jp": "５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014bf40"
+   ]
+  },
+  {
+   "id": "INFO_OV:f64",
+   "off": 3940,
+   "len": 4,
+   "jp": "１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014bf3c"
+   ]
+  },
+  {
+   "id": "INFO_OV:f68",
+   "off": 3944,
+   "len": 4,
+   "jp": "－",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014bf38"
+   ]
+  },
+  {
+   "id": "INFO_OV:f6c",
+   "off": 3948,
+   "len": 4,
+   "jp": "Ｆ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "INFO_OV:w8014bf34"
+   ]
+  }
+ ]
+}

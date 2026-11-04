@@ -1,0 +1,200 @@
+{
+ "file": "DATA/BEND_OV.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "BEND_OV:1ba0",
+   "off": 7072,
+   "len": 24,
+   "jp": "聖はいを手に入れた！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb9c"
+   ]
+  },
+  {
+   "id": "BEND_OV:1bb8",
+   "off": 7096,
+   "len": 32,
+   "jp": "神の珠（たま）を手に入れた！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb98"
+   ]
+  },
+  {
+   "id": "BEND_OV:1bd8",
+   "off": 7128,
+   "len": 24,
+   "jp": "神の箱を手に入れた！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb94"
+   ]
+  },
+  {
+   "id": "BEND_OV:1bf0",
+   "off": 7152,
+   "len": 24,
+   "jp": "神のキバを手に入れた！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb90"
+   ]
+  },
+  {
+   "id": "BEND_OV:1c08",
+   "off": 7176,
+   "len": 32,
+   "jp": "ピッコロミラーを手に入れた！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb8c"
+   ]
+  },
+  {
+   "id": "BEND_OV:1c28",
+   "off": 7208,
+   "len": 32,
+   "jp": "不老不死のつぼを手に入れた！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb88"
+   ]
+  },
+  {
+   "id": "BEND_OV:1c48",
+   "off": 7240,
+   "len": 32,
+   "jp": "コルトランサーを手に入れた！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb84"
+   ]
+  },
+  {
+   "id": "BEND_OV:1c68",
+   "off": 7272,
+   "len": 32,
+   "jp": "フェアリーソードを手に入れた",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb80"
+   ]
+  },
+  {
+   "id": "BEND_OV:1c88",
+   "off": 7304,
+   "len": 20,
+   "jp": "バウバウ国伝国の",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb7c"
+   ]
+  },
+  {
+   "id": "BEND_OV:1c9c",
+   "off": 7324,
+   "len": 24,
+   "jp": "パンダ獣民共和国伝国の",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb78"
+   ]
+  },
+  {
+   "id": "BEND_OV:1cb4",
+   "off": 7348,
+   "len": 20,
+   "jp": "モアイ首長国伝国の",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb74"
+   ]
+  },
+  {
+   "id": "BEND_OV:1cc8",
+   "off": 7368,
+   "len": 24,
+   "jp": "こいつ＆あいつ国伝国の",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb70"
+   ]
+  },
+  {
+   "id": "BEND_OV:1ce0",
+   "off": 7392,
+   "len": 24,
+   "jp": "ラブリー合衆国伝国の",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb6c"
+   ]
+  },
+  {
+   "id": "BEND_OV:1cf8",
+   "off": 7416,
+   "len": 24,
+   "jp": "アカシヤ共和国伝国の",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb68"
+   ]
+  },
+  {
+   "id": "BEND_OV:1d10",
+   "off": 7440,
+   "len": 20,
+   "jp": "ミカエル帝国伝国の",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb64"
+   ]
+  },
+  {
+   "id": "BEND_OV:1d24",
+   "off": 7460,
+   "len": 24,
+   "jp": "ペンタロウ王国伝国の",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BEND_OV:w8014cb60"
+   ]
+  }
+ ]
+}

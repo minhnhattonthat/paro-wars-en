@@ -1,0 +1,68 @@
+{
+ "file": "DATA/SKSN_OV.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "SKSN_OV:4",
+   "off": 4,
+   "len": 12,
+   "jp": "とりけし",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SKSN_OV:w8014b9bc"
+   ]
+  },
+  {
+   "id": "SKSN_OV:10",
+   "off": 16,
+   "len": 12,
+   "jp": "目標確認",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SKSN_OV:w8014b9b8"
+   ]
+  },
+  {
+   "id": "SKSN_OV:1c",
+   "off": 28,
+   "len": 12,
+   "jp": "目標指定",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SKSN_OV:w8014b9b4"
+   ]
+  },
+  {
+   "id": "SKSN_OV:28",
+   "off": 40,
+   "len": 20,
+   "jp": "行動パターンは？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SKSN_OV:8014b358"
+   ]
+  },
+  {
+   "id": "SKSN_OV:3c",
+   "off": 60,
+   "len": 3,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "SKSN_OV:8014b368"
+   ]
+  }
+ ]
+}

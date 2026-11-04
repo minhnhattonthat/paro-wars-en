@@ -1,0 +1,827 @@
+{
+ "file": "DATA/X_BAU.BIN",
+ "lz": null,
+ "group": "battle",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "X_BAU:4e8",
+   "off": 1256,
+   "len": 60,
+   "jp": "いいとこ見せたるワン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:524",
+   "off": 1316,
+   "len": 60,
+   "jp": "サラリーワン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:560",
+   "off": 1376,
+   "len": 60,
+   "jp": "ワン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:59c",
+   "off": 1436,
+   "len": 60,
+   "jp": "しまったウォーン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:5d8",
+   "off": 1496,
+   "len": 60,
+   "jp": "余裕だワン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:614",
+   "off": 1556,
+   "len": 60,
+   "jp": "かかってこいワン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:650",
+   "off": 1616,
+   "len": 60,
+   "jp": "はまったワンっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:68c",
+   "off": 1676,
+   "len": 60,
+   "jp": "ギャイ～ン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:6c8",
+   "off": 1736,
+   "len": 60,
+   "jp": "ワンワン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:704",
+   "off": 1796,
+   "len": 60,
+   "jp": "ワワワン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:740",
+   "off": 1856,
+   "len": 60,
+   "jp": "攻撃ワ～ンっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:77c",
+   "off": 1916,
+   "len": 60,
+   "jp": "これでも食らえ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:7b8",
+   "off": 1976,
+   "len": 60,
+   "jp": "うーやーたー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:7f4",
+   "off": 2036,
+   "len": 60,
+   "jp": "これで終わりだ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:830",
+   "off": 2096,
+   "len": 60,
+   "jp": "あちょー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:86c",
+   "off": 2156,
+   "len": 60,
+   "jp": "おぉらおらおらおらーっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:8a8",
+   "off": 2216,
+   "len": 60,
+   "jp": "あたたたたたーっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:8e4",
+   "off": 2276,
+   "len": 60,
+   "jp": "いくわよー、そーれっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:920",
+   "off": 2336,
+   "len": 60,
+   "jp": "君は生き残る事ができるかな？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:95c",
+   "off": 2396,
+   "len": 60,
+   "jp": "おりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:998",
+   "off": 2456,
+   "len": 60,
+   "jp": "うりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:9d4",
+   "off": 2516,
+   "len": 60,
+   "jp": "どりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:a10",
+   "off": 2576,
+   "len": 60,
+   "jp": "もらったー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:a4c",
+   "off": 2636,
+   "len": 60,
+   "jp": "エコエコアザラクー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:a88",
+   "off": 2696,
+   "len": 60,
+   "jp": "おかみにたてつくたわけものはこうしてやるー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:ac4",
+   "off": 2756,
+   "len": 60,
+   "jp": "あたれー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:b00",
+   "off": 2816,
+   "len": 60,
+   "jp": "甘いな",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:b3c",
+   "off": 2876,
+   "len": 60,
+   "jp": "ワオウ、ウオウッ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:b78",
+   "off": 2936,
+   "len": 60,
+   "jp": "ギャワン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:bb4",
+   "off": 2996,
+   "len": 60,
+   "jp": "ゲエッ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:bf0",
+   "off": 3056,
+   "len": 60,
+   "jp": "わぁぁぁぁぁっ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:c2c",
+   "off": 3116,
+   "len": 60,
+   "jp": "ひでぶー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:c68",
+   "off": 3176,
+   "len": 60,
+   "jp": "やったなー、親父にも殴られた事ないのに！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:ca4",
+   "off": 3236,
+   "len": 60,
+   "jp": "なにをするんじゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:ce0",
+   "off": 3296,
+   "len": 60,
+   "jp": "バカヤロウ！あぶねぇじゃねーかっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:d1c",
+   "off": 3356,
+   "len": 60,
+   "jp": "やりやがったなー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:d58",
+   "off": 3416,
+   "len": 60,
+   "jp": "俺をだれだと思ってんだー？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:d94",
+   "off": 3476,
+   "len": 60,
+   "jp": "うおー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:dd0",
+   "off": 3536,
+   "len": 60,
+   "jp": "キャー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:e0c",
+   "off": 3596,
+   "len": 60,
+   "jp": "キャイーン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:e48",
+   "off": 3656,
+   "len": 60,
+   "jp": "ウキーッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:e84",
+   "off": 3716,
+   "len": 60,
+   "jp": "うわーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:ec0",
+   "off": 3776,
+   "len": 60,
+   "jp": "イテー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:efc",
+   "off": 3836,
+   "len": 60,
+   "jp": "ちっ、覚えてろー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:f38",
+   "off": 3896,
+   "len": 60,
+   "jp": "な、何だってー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:f74",
+   "off": 3956,
+   "len": 60,
+   "jp": "どこねらってんだよー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:fb0",
+   "off": 4016,
+   "len": 60,
+   "jp": "いい根性してるじゃねぇか",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:fec",
+   "off": 4076,
+   "len": 60,
+   "jp": "甘いんだよッ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1028",
+   "off": 4136,
+   "len": 60,
+   "jp": "クゥ～ン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1064",
+   "off": 4196,
+   "len": 60,
+   "jp": "上司に怒られるワンっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:10a0",
+   "off": 4256,
+   "len": 60,
+   "jp": "平和への序曲が聞こえるワン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:10dc",
+   "off": 4316,
+   "len": 60,
+   "jp": "感激だワ～ン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1118",
+   "off": 4376,
+   "len": 60,
+   "jp": "ワ・オ～ン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1154",
+   "off": 4436,
+   "len": 60,
+   "jp": "ボーナスが楽しみだワン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1190",
+   "off": 4496,
+   "len": 60,
+   "jp": "俺にたてつくなんて１０年早{br}いってんだよ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:11cc",
+   "off": 4556,
+   "len": 60,
+   "jp": "ふっ、手応えのない相手だったぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1208",
+   "off": 4616,
+   "len": 60,
+   "jp": "ニャハッハッハッハッハッハー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1244",
+   "off": 4676,
+   "len": 60,
+   "jp": "まだまだだな",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1280",
+   "off": 4736,
+   "len": 60,
+   "jp": "俺をとめることはできん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:12bc",
+   "off": 4796,
+   "len": 60,
+   "jp": "とっととお家にお帰り",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:12f8",
+   "off": 4856,
+   "len": 60,
+   "jp": "ヤリィー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1334",
+   "off": 4916,
+   "len": 60,
+   "jp": "修行が足りん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1370",
+   "off": 4976,
+   "len": 60,
+   "jp": "ヨッシャー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:13ac",
+   "off": 5036,
+   "len": 60,
+   "jp": "ビンゴー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:13e8",
+   "off": 5096,
+   "len": 60,
+   "jp": "またいつでも相手してやるぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1424",
+   "off": 5156,
+   "len": 60,
+   "jp": "左遷だワ～ン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1460",
+   "off": 5216,
+   "len": 60,
+   "jp": "これじゃ会社に帰れないワン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:149c",
+   "off": 5276,
+   "len": 60,
+   "jp": "フッ、今日のところはこのぐらいにしといてやるぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:14d8",
+   "off": 5336,
+   "len": 60,
+   "jp": "や、やられちゃったーん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1514",
+   "off": 5396,
+   "len": 60,
+   "jp": "やっだぁ、信じらんな～い",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1550",
+   "off": 5456,
+   "len": 60,
+   "jp": "覚えてろ！この次は勝ってみせる！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:158c",
+   "off": 5516,
+   "len": 60,
+   "jp": "さらばじゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:15c8",
+   "off": 5576,
+   "len": 60,
+   "jp": "くっ、{br}こんな奴に負けるなんて・・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1604",
+   "off": 5636,
+   "len": 60,
+   "jp": "こんな強い奴がまだいたとは、・・・ぐふっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1640",
+   "off": 5696,
+   "len": 60,
+   "jp": "ウエーン、ママにいいつけてやるー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:167c",
+   "off": 5756,
+   "len": 60,
+   "jp": "なにーっ！全滅！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:16b8",
+   "off": 5816,
+   "len": 60,
+   "jp": "うおおおおおおおーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:16f4",
+   "off": 5876,
+   "len": 60,
+   "jp": "アンビリーバブルー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1730",
+   "off": 5936,
+   "len": 60,
+   "jp": "クソー、脱出だ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:176c",
+   "off": 5996,
+   "len": 60,
+   "jp": "あちゃー、俺のせーじゃねぇ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:17a8",
+   "off": 6056,
+   "len": 60,
+   "jp": "この俺が、そんなばかなぁー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:17e4",
+   "off": 6116,
+   "len": 60,
+   "jp": "戦闘開始だ　うっれしいワン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1820",
+   "off": 6176,
+   "len": 60,
+   "jp": "ヤッターバウと一緒にきめたるワン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:185c",
+   "off": 6236,
+   "len": 60,
+   "jp": "巨大メカ・ヤッターバウの登場だワン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1898",
+   "off": 6296,
+   "len": 60,
+   "jp": "踏みつぶしだ！　ウォォ～ン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:18d4",
+   "off": 6356,
+   "len": 60,
+   "jp": "ビンビンだワン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1910",
+   "off": 6416,
+   "len": 60,
+   "jp": "ワン・ワン・ワ・ワ～ンっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:194c",
+   "off": 6476,
+   "len": 60,
+   "jp": "バウは無敵ワ～ン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1988",
+   "off": 6536,
+   "len": 60,
+   "jp": "ボ～ナスっ　ボ～ナスっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:19c4",
+   "off": 6596,
+   "len": 60,
+   "jp": "キャキャキャキャキャ・・・{br}キャイ～ン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BAU:1a00",
+   "off": 6656,
+   "len": 60,
+   "jp": "むなしいワ～ン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

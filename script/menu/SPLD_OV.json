@@ -1,0 +1,159 @@
+{
+ "file": "DATA/SPLD_OV.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "SPLD_OV:4",
+   "off": 4,
+   "len": 16,
+   "jp": "　でキャンセル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPLD_OV:w8015abd4",
+    "SPLD_OV:w8015ac0c",
+    "SPLD_OV:w8015ac44",
+    "SPLD_OV:w8015ac7c",
+    "SPLD_OV:w8015acb4",
+    "SPLD_OV:w8015acec"
+   ]
+  },
+  {
+   "id": "SPLD_OV:14",
+   "off": 20,
+   "len": 12,
+   "jp": "　で発射",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPLD_OV:w8015abcc",
+    "SPLD_OV:w8015ac04",
+    "SPLD_OV:w8015ac3c"
+   ]
+  },
+  {
+   "id": "SPLD_OV:20",
+   "off": 32,
+   "len": 12,
+   "jp": "方向きめて",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPLD_OV:w8015abc4"
+   ]
+  },
+  {
+   "id": "SPLD_OV:2c",
+   "off": 44,
+   "len": 20,
+   "jp": "攻撃目標を選んで",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPLD_OV:w8015abfc"
+   ]
+  },
+  {
+   "id": "SPLD_OV:40",
+   "off": 64,
+   "len": 16,
+   "jp": "やりますか？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPLD_OV:w8015ac34"
+   ]
+  },
+  {
+   "id": "SPLD_OV:50",
+   "off": 80,
+   "len": 12,
+   "jp": "　で決定",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPLD_OV:w8015ac74"
+   ]
+  },
+  {
+   "id": "SPLD_OV:5c",
+   "off": 92,
+   "len": 20,
+   "jp": "どこに打ち込む？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPLD_OV:w8015ac6c"
+   ]
+  },
+  {
+   "id": "SPLD_OV:70",
+   "off": 112,
+   "len": 12,
+   "jp": "　で使用",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPLD_OV:w8015acac"
+   ]
+  },
+  {
+   "id": "SPLD_OV:7c",
+   "off": 124,
+   "len": 16,
+   "jp": "使いますか？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPLD_OV:w8015aca4"
+   ]
+  },
+  {
+   "id": "SPLD_OV:8c",
+   "off": 140,
+   "len": 12,
+   "jp": "　で配置",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPLD_OV:w8015ace4"
+   ]
+  },
+  {
+   "id": "SPLD_OV:98",
+   "off": 152,
+   "len": 16,
+   "jp": "どこに置く？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPLD_OV:w8015acdc"
+   ]
+  },
+  {
+   "id": "SPLD_OV:a8",
+   "off": 168,
+   "len": 50,
+   "jp": "アイテム一覧　　　　　　　　　　　　　　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPLD_OV:w8015acf8"
+   ]
+  }
+ ]
+}

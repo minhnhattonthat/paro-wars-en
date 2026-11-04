@@ -1,0 +1,809 @@
+{
+ "file": "DATA/X_HANAKO.BIN",
+ "lz": null,
+ "group": "battle",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "X_HANAKO:428",
+   "off": 1064,
+   "len": 60,
+   "jp": "ケチョンケチョンにしちゃうからね～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:464",
+   "off": 1124,
+   "len": 60,
+   "jp": "攻撃開始だよっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:4a0",
+   "off": 1184,
+   "len": 60,
+   "jp": "みんなっ　いくわよ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:4dc",
+   "off": 1244,
+   "len": 60,
+   "jp": "あっらぁ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:518",
+   "off": 1304,
+   "len": 60,
+   "jp": "本当にいいのかな～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:554",
+   "off": 1364,
+   "len": 60,
+   "jp": "どんといらっしゃ～い！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:590",
+   "off": 1424,
+   "len": 60,
+   "jp": "ガンバルンバ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:5cc",
+   "off": 1484,
+   "len": 60,
+   "jp": "キュイ～イ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:608",
+   "off": 1544,
+   "len": 60,
+   "jp": "キュキュゥ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:644",
+   "off": 1604,
+   "len": 60,
+   "jp": "もっらい～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:680",
+   "off": 1664,
+   "len": 60,
+   "jp": "当たっちゃえ～っ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:6bc",
+   "off": 1724,
+   "len": 60,
+   "jp": "これでも食らいなさい！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:6f8",
+   "off": 1784,
+   "len": 60,
+   "jp": "うーやーたー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:734",
+   "off": 1844,
+   "len": 60,
+   "jp": "これで終わりよ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:770",
+   "off": 1904,
+   "len": 60,
+   "jp": "あちょー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:7ac",
+   "off": 1964,
+   "len": 60,
+   "jp": "おらおらおらおらーっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:7e8",
+   "off": 2024,
+   "len": 60,
+   "jp": "あたたたたたたたたーっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:824",
+   "off": 2084,
+   "len": 60,
+   "jp": "いくわよぉ、そ～れっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:860",
+   "off": 2144,
+   "len": 60,
+   "jp": "君は生き残る事ができるかな？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:89c",
+   "off": 2204,
+   "len": 60,
+   "jp": "おりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:8d8",
+   "off": 2264,
+   "len": 60,
+   "jp": "うりゃぁ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:914",
+   "off": 2324,
+   "len": 60,
+   "jp": "どっりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:950",
+   "off": 2384,
+   "len": 60,
+   "jp": "もらったぁ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:98c",
+   "off": 2444,
+   "len": 60,
+   "jp": "エコエコアザラクー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:9c8",
+   "off": 2504,
+   "len": 60,
+   "jp": "おかみにたてつくたわけものはこうしてやるう～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:a04",
+   "off": 2564,
+   "len": 60,
+   "jp": "あたれえ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:a40",
+   "off": 2624,
+   "len": 60,
+   "jp": "甘いわ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:a7c",
+   "off": 2684,
+   "len": 60,
+   "jp": "パニックだあ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:ab8",
+   "off": 2744,
+   "len": 60,
+   "jp": "ギュイイイ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:af4",
+   "off": 2804,
+   "len": 60,
+   "jp": "こわ～いっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:b30",
+   "off": 2864,
+   "len": 60,
+   "jp": "ひでぶー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:b6c",
+   "off": 2924,
+   "len": 60,
+   "jp": "やったわねぇ、パパにも殴られた事ないのにぃ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:ba8",
+   "off": 2984,
+   "len": 60,
+   "jp": "なぁにすんのよぉ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:be4",
+   "off": 3044,
+   "len": 60,
+   "jp": "バッキャロ～！あぶねーじゃ{br}ねぇかっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:c20",
+   "off": 3104,
+   "len": 60,
+   "jp": "よくもやってくれたわねぇ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:c5c",
+   "off": 3164,
+   "len": 60,
+   "jp": "私をだれだと思ってんの？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:c98",
+   "off": 3224,
+   "len": 60,
+   "jp": "わぁ～お",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:cd4",
+   "off": 3284,
+   "len": 60,
+   "jp": "ア～ァ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:d10",
+   "off": 3344,
+   "len": 60,
+   "jp": "キャイ～ン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:d4c",
+   "off": 3404,
+   "len": 60,
+   "jp": "ウキ～ッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:d88",
+   "off": 3464,
+   "len": 60,
+   "jp": "うわあ～ん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:dc4",
+   "off": 3524,
+   "len": 60,
+   "jp": "痛いじゃない！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:e00",
+   "off": 3584,
+   "len": 60,
+   "jp": "ちっ、覚えてなさ～い！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:e3c",
+   "off": 3644,
+   "len": 60,
+   "jp": "な、何ですってぇ！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:e78",
+   "off": 3704,
+   "len": 60,
+   "jp": "どこねらってんのよぉ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:eb4",
+   "off": 3764,
+   "len": 60,
+   "jp": "いい根性してるわねぇ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:ef0",
+   "off": 3824,
+   "len": 60,
+   "jp": "甘いわね！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:f2c",
+   "off": 3884,
+   "len": 60,
+   "jp": "うっそだあ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:f68",
+   "off": 3944,
+   "len": 60,
+   "jp": "あっれえ～？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:fa4",
+   "off": 4004,
+   "len": 60,
+   "jp": "正義はいつも勝つものなのよぉ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:fe0",
+   "off": 4064,
+   "len": 60,
+   "jp": "ウワ～イ　やったネっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:101c",
+   "off": 4124,
+   "len": 60,
+   "jp": "頑張りましたっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1058",
+   "off": 4184,
+   "len": 60,
+   "jp": "ふっふ～ん　ざっとこんなもんよっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1094",
+   "off": 4244,
+   "len": 60,
+   "jp": "これできまりよっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:10d0",
+   "off": 4304,
+   "len": 60,
+   "jp": "私達って　あっぶな～い！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:110c",
+   "off": 4364,
+   "len": 60,
+   "jp": "私達にたてつくなんて１０年早いわ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1148",
+   "off": 4424,
+   "len": 60,
+   "jp": "ふっ、手応えのない相手だったわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1184",
+   "off": 4484,
+   "len": 60,
+   "jp": "アーッハッハッハッハ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:11c0",
+   "off": 4544,
+   "len": 60,
+   "jp": "まだまだだね",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:11fc",
+   "off": 4604,
+   "len": 60,
+   "jp": "私をとめることはできないわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1238",
+   "off": 4664,
+   "len": 60,
+   "jp": "とっととお家にお帰り",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1274",
+   "off": 4724,
+   "len": 60,
+   "jp": "ヤリィー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:12b0",
+   "off": 4784,
+   "len": 60,
+   "jp": "修行不足よ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:12ec",
+   "off": 4844,
+   "len": 60,
+   "jp": "ヨォ～シ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1328",
+   "off": 4904,
+   "len": 60,
+   "jp": "ビンゴ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1364",
+   "off": 4964,
+   "len": 60,
+   "jp": "またいつでも相手してあげるわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:13a0",
+   "off": 5024,
+   "len": 60,
+   "jp": "当然よっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:13dc",
+   "off": 5084,
+   "len": 60,
+   "jp": "まっけないも～ん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1418",
+   "off": 5144,
+   "len": 60,
+   "jp": "あへ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1454",
+   "off": 5204,
+   "len": 60,
+   "jp": "しまったっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1490",
+   "off": 5264,
+   "len": 60,
+   "jp": "最近の男の人ってだらしな～い",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:14cc",
+   "off": 5324,
+   "len": 60,
+   "jp": "レディに失礼よっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1508",
+   "off": 5384,
+   "len": 60,
+   "jp": "今度は負けないからっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1544",
+   "off": 5444,
+   "len": 60,
+   "jp": "フッ、今日のところはこのぐらいにしといてあげるわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1580",
+   "off": 5504,
+   "len": 60,
+   "jp": "や、やられちゃった～ん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:15bc",
+   "off": 5564,
+   "len": 60,
+   "jp": "やっだぁ、信じらんな～い",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:15f8",
+   "off": 5624,
+   "len": 60,
+   "jp": "覚えてなさい！この次は勝ってみせるわ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1634",
+   "off": 5684,
+   "len": 60,
+   "jp": "さようなら～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1670",
+   "off": 5744,
+   "len": 60,
+   "jp": "くっ、{br}こんな奴に負けるなんてぇ・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:16ac",
+   "off": 5804,
+   "len": 60,
+   "jp": "こんな強い奴がまだいたとは、・・・あぁっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:16e8",
+   "off": 5864,
+   "len": 60,
+   "jp": "ウエーン！！ママにいいつけてやるうっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1724",
+   "off": 5924,
+   "len": 60,
+   "jp": "なにいっ！全滅ぅ！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1760",
+   "off": 5984,
+   "len": 60,
+   "jp": "アァァハァァァーッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:179c",
+   "off": 6044,
+   "len": 60,
+   "jp": "アンビリーバブルー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:17d8",
+   "off": 6104,
+   "len": 60,
+   "jp": "やっだぁ、脱出よ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1814",
+   "off": 6164,
+   "len": 60,
+   "jp": "あちゃぁ、私のせーじゃないわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:1850",
+   "off": 6224,
+   "len": 60,
+   "jp": "この私が、そんなばかなぁ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:188c",
+   "off": 6284,
+   "len": 60,
+   "jp": "うっそだあ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_HANAKO:18c8",
+   "off": 6344,
+   "len": 60,
+   "jp": "ありゃりゃ？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

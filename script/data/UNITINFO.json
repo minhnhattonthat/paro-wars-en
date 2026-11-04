@@ -1,0 +1,2600 @@
+{
+ "file": "DATA/UNITINFO.BIN",
+ "lz": null,
+ "group": "data",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "UNITINFO:0",
+   "off": 0,
+   "len": 26,
+   "jp": "ペンタロウキング３世",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:28",
+   "off": 40,
+   "len": 26,
+   "jp": "ペン花子",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:50",
+   "off": 80,
+   "len": 26,
+   "jp": "ペンドリュー・ウィナー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:78",
+   "off": 120,
+   "len": 26,
+   "jp": "ペンチャールズ・Ｊｒ．",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:a0",
+   "off": 160,
+   "len": 26,
+   "jp": "ペングレン・スコット",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:c8",
+   "off": 200,
+   "len": 26,
+   "jp": "ペンウィリアム・スコット",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:f0",
+   "off": 240,
+   "len": 26,
+   "jp": "ペンソル・ジョーダン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:118",
+   "off": 280,
+   "len": 26,
+   "jp": "ペンロウズ・ストーン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:140",
+   "off": 320,
+   "len": 26,
+   "jp": "ペンドロ・アダムスキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:168",
+   "off": 360,
+   "len": 26,
+   "jp": "ペンリー・ハート",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:190",
+   "off": 400,
+   "len": 26,
+   "jp": "ペンディー・バンバイン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1b8",
+   "off": 440,
+   "len": 26,
+   "jp": "ペンティン・ブランドル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1e0",
+   "off": 480,
+   "len": 26,
+   "jp": "ペンニー・ハーバート",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:208",
+   "off": 520,
+   "len": 26,
+   "jp": "ペンチウム・プロフェッサ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:230",
+   "off": 560,
+   "len": 26,
+   "jp": "ペンテル・コーリー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:258",
+   "off": 600,
+   "len": 26,
+   "jp": "ペンモン・ヒル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:280",
+   "off": 640,
+   "len": 26,
+   "jp": "ペンジャミン・イーストン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2a8",
+   "off": 680,
+   "len": 26,
+   "jp": "ペンジェル・マンセル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2d0",
+   "off": 720,
+   "len": 26,
+   "jp": "ペンディー・ジョーンズ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2f8",
+   "off": 760,
+   "len": 26,
+   "jp": "ペンビットカパフィールド",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:320",
+   "off": 800,
+   "len": 26,
+   "jp": "ペンシー・ウイリアムズ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:348",
+   "off": 840,
+   "len": 26,
+   "jp": "ペンレノン５世",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:370",
+   "off": 880,
+   "len": 26,
+   "jp": "ペンモルツ・マーフィー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:398",
+   "off": 920,
+   "len": 26,
+   "jp": "ペンベル・ロビンソン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:3c0",
+   "off": 960,
+   "len": 26,
+   "jp": "ペンスキー・モーガン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:3e8",
+   "off": 1000,
+   "len": 26,
+   "jp": "ペンクロウ・ヤマダ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:410",
+   "off": 1040,
+   "len": 26,
+   "jp": "ペンジョナサン・パーマー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:438",
+   "off": 1080,
+   "len": 26,
+   "jp": "ペンデリック・ワトソン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:460",
+   "off": 1120,
+   "len": 26,
+   "jp": "ペンナード・カイト",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:488",
+   "off": 1160,
+   "len": 26,
+   "jp": "ペンノルド・ジェイガン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:4b0",
+   "off": 1200,
+   "len": 26,
+   "jp": "ペント・アルバート",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:4d8",
+   "off": 1240,
+   "len": 26,
+   "jp": "ペンザベス・テーラー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:500",
+   "off": 1280,
+   "len": 26,
+   "jp": "ミカエル・アブゥ４世",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:528",
+   "off": 1320,
+   "len": 26,
+   "jp": "ガブリエル・カラムー７世",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:550",
+   "off": 1360,
+   "len": 26,
+   "jp": "ハムエル・パクリ２世",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:578",
+   "off": 1400,
+   "len": 26,
+   "jp": "サムエル・ヌクヌ～ク９世",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:5a0",
+   "off": 1440,
+   "len": 26,
+   "jp": "ガブリエル・ラ～マ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:5c8",
+   "off": 1480,
+   "len": 26,
+   "jp": "ミカエル・アサドＪｒ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:5f0",
+   "off": 1520,
+   "len": 26,
+   "jp": "ミカエル・グッチャー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:618",
+   "off": 1560,
+   "len": 26,
+   "jp": "ファイヤ～・ジェッドシン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:640",
+   "off": 1600,
+   "len": 26,
+   "jp": "シトル・サギット",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:668",
+   "off": 1640,
+   "len": 26,
+   "jp": "マティエル・ベンベラ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:690",
+   "off": 1680,
+   "len": 26,
+   "jp": "オセメキ・メッキアリ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:6b8",
+   "off": 1720,
+   "len": 26,
+   "jp": "フルカス・ナイババ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:6e0",
+   "off": 1760,
+   "len": 26,
+   "jp": "フルカス・アリババ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:708",
+   "off": 1800,
+   "len": 26,
+   "jp": "ミカエル・アタチュール",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:730",
+   "off": 1840,
+   "len": 26,
+   "jp": "カイム・オマルパシャ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:758",
+   "off": 1880,
+   "len": 26,
+   "jp": "ラファエル・シャーザ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:780",
+   "off": 1920,
+   "len": 26,
+   "jp": "ガブリエル・ダムド",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:7a8",
+   "off": 1960,
+   "len": 26,
+   "jp": "パイモン・ナグル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:7d0",
+   "off": 2000,
+   "len": 26,
+   "jp": "サムエル・モザイグ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:7f8",
+   "off": 2040,
+   "len": 26,
+   "jp": "ビレト・デレス",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:820",
+   "off": 2080,
+   "len": 26,
+   "jp": "ベリアル・ブゥブゥー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:848",
+   "off": 2120,
+   "len": 26,
+   "jp": "フリアグネ・ブットバス",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:870",
+   "off": 2160,
+   "len": 26,
+   "jp": "ガブリエル・サダトン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:898",
+   "off": 2200,
+   "len": 26,
+   "jp": "ムルムル・サセル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:8c0",
+   "off": 2240,
+   "len": 26,
+   "jp": "バベル・バブル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:8e8",
+   "off": 2280,
+   "len": 26,
+   "jp": "ボノハム・ムラド",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:910",
+   "off": 2320,
+   "len": 26,
+   "jp": "ガープ・シャレーメン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:938",
+   "off": 2360,
+   "len": 26,
+   "jp": "ガブリエ・シャーマン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:960",
+   "off": 2400,
+   "len": 26,
+   "jp": "ラフメル・ジャジャーン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:988",
+   "off": 2440,
+   "len": 26,
+   "jp": "アスモダイ・ムチムール",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:9b0",
+   "off": 2480,
+   "len": 26,
+   "jp": "デモリエル・アッバレ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:9d8",
+   "off": 2520,
+   "len": 26,
+   "jp": "アスモダイ・アクマル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:a00",
+   "off": 2560,
+   "len": 26,
+   "jp": "ＡタコスケＪｒ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:a28",
+   "off": 2600,
+   "len": 26,
+   "jp": "ベリアル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:a50",
+   "off": 2640,
+   "len": 26,
+   "jp": "チョー・ヨンケル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:a78",
+   "off": 2680,
+   "len": 26,
+   "jp": "ケイ・サンスケ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:aa0",
+   "off": 2720,
+   "len": 26,
+   "jp": "キム・ヨイヨイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:ac8",
+   "off": 2760,
+   "len": 26,
+   "jp": "キム・カッペン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:af0",
+   "off": 2800,
+   "len": 26,
+   "jp": "キム・ジョンクン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:b18",
+   "off": 2840,
+   "len": 26,
+   "jp": "リ・イエ～イ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:b40",
+   "off": 2880,
+   "len": 26,
+   "jp": "キム・ドビンソン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:b68",
+   "off": 2920,
+   "len": 26,
+   "jp": "コウ・レイメン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:b90",
+   "off": 2960,
+   "len": 26,
+   "jp": "チョー・ユーサク",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:bb8",
+   "off": 3000,
+   "len": 26,
+   "jp": "ヨウ・メイシュウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:be0",
+   "off": 3040,
+   "len": 26,
+   "jp": "ショウ・コウシュウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:c08",
+   "off": 3080,
+   "len": 26,
+   "jp": "ヤン・ヒーヒー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:c30",
+   "off": 3120,
+   "len": 26,
+   "jp": "ヤン・イヤ～ン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:c58",
+   "off": 3160,
+   "len": 26,
+   "jp": "キム・カッチン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:c80",
+   "off": 3200,
+   "len": 26,
+   "jp": "キム・テッコツ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:ca8",
+   "off": 3240,
+   "len": 26,
+   "jp": "チョー・ドンパチ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:cd0",
+   "off": 3280,
+   "len": 26,
+   "jp": "キム・サンコン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:cf8",
+   "off": 3320,
+   "len": 26,
+   "jp": "ピン・デンチュウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:d20",
+   "off": 3360,
+   "len": 26,
+   "jp": "ハク・ジョージ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:d48",
+   "off": 3400,
+   "len": 26,
+   "jp": "リャン・リー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:d70",
+   "off": 3440,
+   "len": 26,
+   "jp": "ジュン・ネイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:d98",
+   "off": 3480,
+   "len": 26,
+   "jp": "ジョン・ピンポン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:dc0",
+   "off": 3520,
+   "len": 26,
+   "jp": "リャン・ニャンボー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:de8",
+   "off": 3560,
+   "len": 26,
+   "jp": "ホイ・コーロー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:e10",
+   "off": 3600,
+   "len": 26,
+   "jp": "コウ・キュー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:e38",
+   "off": 3640,
+   "len": 26,
+   "jp": "リ・ソウカイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:e60",
+   "off": 3680,
+   "len": 26,
+   "jp": "ハン・ソーロン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:e88",
+   "off": 3720,
+   "len": 26,
+   "jp": "ハク・レンホー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:eb0",
+   "off": 3760,
+   "len": 26,
+   "jp": "ゲン・マンボー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:ed8",
+   "off": 3800,
+   "len": 26,
+   "jp": "リ・ヨイショ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:f00",
+   "off": 3840,
+   "len": 26,
+   "jp": "ひかる",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:f28",
+   "off": 3880,
+   "len": 26,
+   "jp": "あかね",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:f50",
+   "off": 3920,
+   "len": 26,
+   "jp": "プリン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:f78",
+   "off": 3960,
+   "len": 26,
+   "jp": "さちこ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:fa0",
+   "off": 4000,
+   "len": 26,
+   "jp": "まゆこ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:fc8",
+   "off": 4040,
+   "len": 26,
+   "jp": "たかこ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:ff0",
+   "off": 4080,
+   "len": 26,
+   "jp": "パイン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1018",
+   "off": 4120,
+   "len": 26,
+   "jp": "まりこ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1040",
+   "off": 4160,
+   "len": 26,
+   "jp": "はるか",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1068",
+   "off": 4200,
+   "len": 26,
+   "jp": "Ａ子",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1090",
+   "off": 4240,
+   "len": 26,
+   "jp": "メロン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:10b8",
+   "off": 4280,
+   "len": 26,
+   "jp": "ミッチ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:10e0",
+   "off": 4320,
+   "len": 26,
+   "jp": "ジェミー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1108",
+   "off": 4360,
+   "len": 26,
+   "jp": "ルナ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1130",
+   "off": 4400,
+   "len": 26,
+   "jp": "チェリー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1158",
+   "off": 4440,
+   "len": 26,
+   "jp": "キャロル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1180",
+   "off": 4480,
+   "len": 26,
+   "jp": "ダイアナ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:11a8",
+   "off": 4520,
+   "len": 26,
+   "jp": "ジェニファー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:11d0",
+   "off": 4560,
+   "len": 26,
+   "jp": "セーラー・ムンムン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:11f8",
+   "off": 4600,
+   "len": 26,
+   "jp": "スカーレット",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1220",
+   "off": 4640,
+   "len": 26,
+   "jp": "カトリーヌ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1248",
+   "off": 4680,
+   "len": 26,
+   "jp": "リー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1270",
+   "off": 4720,
+   "len": 26,
+   "jp": "メアリ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1298",
+   "off": 4760,
+   "len": 26,
+   "jp": "カレン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:12c0",
+   "off": 4800,
+   "len": 26,
+   "jp": "ちえこ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:12e8",
+   "off": 4840,
+   "len": 26,
+   "jp": "レイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1310",
+   "off": 4880,
+   "len": 26,
+   "jp": "トレーシー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1338",
+   "off": 4920,
+   "len": 26,
+   "jp": "イザベラ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1360",
+   "off": 4960,
+   "len": 26,
+   "jp": "まこ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1388",
+   "off": 5000,
+   "len": 26,
+   "jp": "ジャネット",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:13b0",
+   "off": 5040,
+   "len": 26,
+   "jp": "ミリー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:13d8",
+   "off": 5080,
+   "len": 26,
+   "jp": "りか",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1400",
+   "off": 5120,
+   "len": 26,
+   "jp": "こいつ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1428",
+   "off": 5160,
+   "len": 26,
+   "jp": "あいつ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1450",
+   "off": 5200,
+   "len": 26,
+   "jp": "そいつ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1478",
+   "off": 5240,
+   "len": 26,
+   "jp": "どいつ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:14a0",
+   "off": 5280,
+   "len": 26,
+   "jp": "スゴイフスキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:14c8",
+   "off": 5320,
+   "len": 26,
+   "jp": "ケイレンスキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:14f0",
+   "off": 5360,
+   "len": 26,
+   "jp": "ゲゲ～リン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1518",
+   "off": 5400,
+   "len": 26,
+   "jp": "スターニン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1540",
+   "off": 5440,
+   "len": 26,
+   "jp": "トルストール",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1568",
+   "off": 5480,
+   "len": 26,
+   "jp": "ピョートルＪｒ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1590",
+   "off": 5520,
+   "len": 26,
+   "jp": "フサーク",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:15b8",
+   "off": 5560,
+   "len": 26,
+   "jp": "ダダーリン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:15e0",
+   "off": 5600,
+   "len": 26,
+   "jp": "ピーター８世",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1608",
+   "off": 5640,
+   "len": 26,
+   "jp": "エレキサンダー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1630",
+   "off": 5680,
+   "len": 26,
+   "jp": "ダックニコライ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1658",
+   "off": 5720,
+   "len": 26,
+   "jp": "スッテンアラージン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1680",
+   "off": 5760,
+   "len": 26,
+   "jp": "ピロピロスキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:16a8",
+   "off": 5800,
+   "len": 26,
+   "jp": "エルチェンポ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:16d0",
+   "off": 5840,
+   "len": 26,
+   "jp": "トルエンコ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:16f8",
+   "off": 5880,
+   "len": 26,
+   "jp": "ブルジネフ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1720",
+   "off": 5920,
+   "len": 26,
+   "jp": "アンドロボウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1748",
+   "off": 5960,
+   "len": 26,
+   "jp": "オワン９世",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1770",
+   "off": 6000,
+   "len": 26,
+   "jp": "ツルケーレス",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1798",
+   "off": 6040,
+   "len": 26,
+   "jp": "タイコフスキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:17c0",
+   "off": 6080,
+   "len": 26,
+   "jp": "ロマノフ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:17e8",
+   "off": 6120,
+   "len": 26,
+   "jp": "ドンコザック",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1810",
+   "off": 6160,
+   "len": 26,
+   "jp": "スターシャスキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1838",
+   "off": 6200,
+   "len": 26,
+   "jp": "バルティック",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1860",
+   "off": 6240,
+   "len": 26,
+   "jp": "ゴクドーノフ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1888",
+   "off": 6280,
+   "len": 26,
+   "jp": "プガチョ～ン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:18b0",
+   "off": 6320,
+   "len": 26,
+   "jp": "マックスマン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:18d8",
+   "off": 6360,
+   "len": 26,
+   "jp": "クルシ～チョフ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1900",
+   "off": 6400,
+   "len": 26,
+   "jp": "よしこ女帝７世",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1928",
+   "off": 6440,
+   "len": 26,
+   "jp": "よしお",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1950",
+   "off": 6480,
+   "len": 26,
+   "jp": "カポカポ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1978",
+   "off": 6520,
+   "len": 26,
+   "jp": "プラニャーニ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:19a0",
+   "off": 6560,
+   "len": 26,
+   "jp": "トンガ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:19c8",
+   "off": 6600,
+   "len": 26,
+   "jp": "シュポポ～ン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:19f0",
+   "off": 6640,
+   "len": 26,
+   "jp": "サンボ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1a18",
+   "off": 6680,
+   "len": 26,
+   "jp": "スマトラ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1a40",
+   "off": 6720,
+   "len": 26,
+   "jp": "アジャンパ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1a68",
+   "off": 6760,
+   "len": 26,
+   "jp": "パプア",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1a90",
+   "off": 6800,
+   "len": 26,
+   "jp": "ゴロンタ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1ab8",
+   "off": 6840,
+   "len": 26,
+   "jp": "ルンルン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1ae0",
+   "off": 6880,
+   "len": 26,
+   "jp": "ズバル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1b08",
+   "off": 6920,
+   "len": 26,
+   "jp": "ブルネコ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1b30",
+   "off": 6960,
+   "len": 26,
+   "jp": "ファジー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1b58",
+   "off": 7000,
+   "len": 26,
+   "jp": "サンダ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1b80",
+   "off": 7040,
+   "len": 26,
+   "jp": "ペロリン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1ba8",
+   "off": 7080,
+   "len": 26,
+   "jp": "ガダール",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1bd0",
+   "off": 7120,
+   "len": 26,
+   "jp": "カナール",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1bf8",
+   "off": 7160,
+   "len": 26,
+   "jp": "タカール",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1c20",
+   "off": 7200,
+   "len": 26,
+   "jp": "ペロール",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1c48",
+   "off": 7240,
+   "len": 26,
+   "jp": "バイパー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1c70",
+   "off": 7280,
+   "len": 26,
+   "jp": "サモサ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1c98",
+   "off": 7320,
+   "len": 26,
+   "jp": "ガータ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1cc0",
+   "off": 7360,
+   "len": 26,
+   "jp": "ヘブリナ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1ce8",
+   "off": 7400,
+   "len": 26,
+   "jp": "ホーミン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1d10",
+   "off": 7440,
+   "len": 26,
+   "jp": "タワラ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1d38",
+   "off": 7480,
+   "len": 26,
+   "jp": "ズンタ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1d60",
+   "off": 7520,
+   "len": 26,
+   "jp": "クサイェ～イ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1d88",
+   "off": 7560,
+   "len": 26,
+   "jp": "ワクワック",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1db0",
+   "off": 7600,
+   "len": 26,
+   "jp": "ボロモン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1dd8",
+   "off": 7640,
+   "len": 26,
+   "jp": "ミウリ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1e00",
+   "off": 7680,
+   "len": 26,
+   "jp": "アンナパブロワ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1e28",
+   "off": 7720,
+   "len": 26,
+   "jp": "張　ＭＭ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1e50",
+   "off": 7760,
+   "len": 26,
+   "jp": "猿　セイバイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1e78",
+   "off": 7800,
+   "len": 26,
+   "jp": "ショウ・トウヘイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1ea0",
+   "off": 7840,
+   "len": 26,
+   "jp": "チョウ・ウェイウェイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1ec8",
+   "off": 7880,
+   "len": 26,
+   "jp": "方　ユウユウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1ef0",
+   "off": 7920,
+   "len": 26,
+   "jp": "張　カクカク",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1f18",
+   "off": 7960,
+   "len": 26,
+   "jp": "曹　ゴハン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1f40",
+   "off": 8000,
+   "len": 26,
+   "jp": "黄　チュウチュウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1f68",
+   "off": 8040,
+   "len": 26,
+   "jp": "ヤン・フェイロン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1f90",
+   "off": 8080,
+   "len": 26,
+   "jp": "陳　トントン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1fb8",
+   "off": 8120,
+   "len": 26,
+   "jp": "王　チャイナ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:1fe0",
+   "off": 8160,
+   "len": 26,
+   "jp": "劉　イーソー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2008",
+   "off": 8200,
+   "len": 26,
+   "jp": "孫　ブンブン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2030",
+   "off": 8240,
+   "len": 26,
+   "jp": "呉　ランラン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2058",
+   "off": 8280,
+   "len": 26,
+   "jp": "ヤンキー・チュン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2080",
+   "off": 8320,
+   "len": 26,
+   "jp": "李　コウショ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:20a8",
+   "off": 8360,
+   "len": 26,
+   "jp": "周　トクトミ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:20d0",
+   "off": 8400,
+   "len": 26,
+   "jp": "周　テルトミ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:20f8",
+   "off": 8440,
+   "len": 26,
+   "jp": "周　オーライ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2120",
+   "off": 8480,
+   "len": 26,
+   "jp": "関　ウッフ～ン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2148",
+   "off": 8520,
+   "len": 26,
+   "jp": "馬　チョンボ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2170",
+   "off": 8560,
+   "len": 26,
+   "jp": "史　ブンチョウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2198",
+   "off": 8600,
+   "len": 26,
+   "jp": "王　タンメン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:21c0",
+   "off": 8640,
+   "len": 26,
+   "jp": "呂　モウモウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:21e8",
+   "off": 8680,
+   "len": 26,
+   "jp": "陳　宝菜",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2210",
+   "off": 8720,
+   "len": 26,
+   "jp": "呂　フー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2238",
+   "off": 8760,
+   "len": 26,
+   "jp": "典　マンマン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2260",
+   "off": 8800,
+   "len": 26,
+   "jp": "諸葛亮　ソウメイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2288",
+   "off": 8840,
+   "len": 26,
+   "jp": "毛　ケッコウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:22b0",
+   "off": 8880,
+   "len": 26,
+   "jp": "超　ラッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:22d8",
+   "off": 8920,
+   "len": 26,
+   "jp": "董　オタク",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2300",
+   "off": 8960,
+   "len": 26,
+   "jp": "ポチ之嵐",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2328",
+   "off": 9000,
+   "len": 26,
+   "jp": "ワン爺田　宇吉",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2350",
+   "off": 9040,
+   "len": 26,
+   "jp": "ワン乃沢　吉宗",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2378",
+   "off": 9080,
+   "len": 26,
+   "jp": "ワン野木　次郎",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:23a0",
+   "off": 9120,
+   "len": 26,
+   "jp": "ポチ山田　太郎",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:23c8",
+   "off": 9160,
+   "len": 26,
+   "jp": "シロ原　道真",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:23f0",
+   "off": 9200,
+   "len": 26,
+   "jp": "ケン衛門　五郎",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2418",
+   "off": 9240,
+   "len": 26,
+   "jp": "ポチ川　一郎",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2440",
+   "off": 9280,
+   "len": 26,
+   "jp": "ポチ川　左近四郎",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2468",
+   "off": 9320,
+   "len": 26,
+   "jp": "ワン田　聖子",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2490",
+   "off": 9360,
+   "len": 26,
+   "jp": "渋谷　ハチ公",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:24b8",
+   "off": 9400,
+   "len": 26,
+   "jp": "ブル中田　一",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:24e0",
+   "off": 9440,
+   "len": 26,
+   "jp": "ポチ島　三郎",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2508",
+   "off": 9480,
+   "len": 26,
+   "jp": "ワン田　正輝",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2530",
+   "off": 9520,
+   "len": 26,
+   "jp": "ポチ山　花子",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2558",
+   "off": 9560,
+   "len": 26,
+   "jp": "ワン玉三郎Ｊ．Ｊ．",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2580",
+   "off": 9600,
+   "len": 26,
+   "jp": "ワン万次郎",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:25a8",
+   "off": 9640,
+   "len": 26,
+   "jp": "シロ木　ひろし",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:25d0",
+   "off": 9680,
+   "len": 26,
+   "jp": "ポチ田　利明",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:25f8",
+   "off": 9720,
+   "len": 26,
+   "jp": "ポチ野　勘太郎",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2620",
+   "off": 9760,
+   "len": 26,
+   "jp": "ポチ山　こうじ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2648",
+   "off": 9800,
+   "len": 26,
+   "jp": "シロ畑　任三郎",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2670",
+   "off": 9840,
+   "len": 26,
+   "jp": "ワン田一　耕助",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2698",
+   "off": 9880,
+   "len": 26,
+   "jp": "イヌ江　ケン三郎",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:26c0",
+   "off": 9920,
+   "len": 26,
+   "jp": "イヌ飼　元七",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:26e8",
+   "off": 9960,
+   "len": 26,
+   "jp": "クロ原　グロスケ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2710",
+   "off": 10000,
+   "len": 26,
+   "jp": "ワン龍　源一郎",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2738",
+   "off": 10040,
+   "len": 26,
+   "jp": "ワン田　馬之介",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2760",
+   "off": 10080,
+   "len": 26,
+   "jp": "テツ中　半兵衛",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2788",
+   "off": 10120,
+   "len": 26,
+   "jp": "ワン田　幸村",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:27b0",
+   "off": 10160,
+   "len": 26,
+   "jp": "ブル館　一郎",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:27d8",
+   "off": 10200,
+   "len": 26,
+   "jp": "イヌ山　イヌオ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2800",
+   "off": 10240,
+   "len": 26,
+   "jp": "帝王ニャー・ムー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2828",
+   "off": 10280,
+   "len": 26,
+   "jp": "メカニャン１号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2850",
+   "off": 10320,
+   "len": 26,
+   "jp": "メカニャン２号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2878",
+   "off": 10360,
+   "len": 26,
+   "jp": "メカニャン３号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:28a0",
+   "off": 10400,
+   "len": 26,
+   "jp": "メカニャン４号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:28c8",
+   "off": 10440,
+   "len": 26,
+   "jp": "メカニャン５号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:28f0",
+   "off": 10480,
+   "len": 26,
+   "jp": "メカニャン６号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2918",
+   "off": 10520,
+   "len": 26,
+   "jp": "メカニャン７号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2940",
+   "off": 10560,
+   "len": 26,
+   "jp": "メカニャン８号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2968",
+   "off": 10600,
+   "len": 26,
+   "jp": "メカニャン９号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2990",
+   "off": 10640,
+   "len": 26,
+   "jp": "メカニャン１０号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:29b8",
+   "off": 10680,
+   "len": 26,
+   "jp": "メカニャン１１号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:29e0",
+   "off": 10720,
+   "len": 26,
+   "jp": "メカニャン１２号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2a08",
+   "off": 10760,
+   "len": 26,
+   "jp": "メカニャン１３号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2a30",
+   "off": 10800,
+   "len": 26,
+   "jp": "メカニャン１４号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2a58",
+   "off": 10840,
+   "len": 26,
+   "jp": "メカニャン１５号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2a80",
+   "off": 10880,
+   "len": 26,
+   "jp": "メカニャン１６号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2aa8",
+   "off": 10920,
+   "len": 26,
+   "jp": "メカニャン１７号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2ad0",
+   "off": 10960,
+   "len": 26,
+   "jp": "メカニャン１８号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2af8",
+   "off": 11000,
+   "len": 26,
+   "jp": "メカニャン１９号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2b20",
+   "off": 11040,
+   "len": 26,
+   "jp": "メカニャン２０号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2b48",
+   "off": 11080,
+   "len": 26,
+   "jp": "メカニャン２１号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2b70",
+   "off": 11120,
+   "len": 26,
+   "jp": "メカニャン２２号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2b98",
+   "off": 11160,
+   "len": 26,
+   "jp": "メカニャン２３号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2bc0",
+   "off": 11200,
+   "len": 26,
+   "jp": "メカニャン２４号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2be8",
+   "off": 11240,
+   "len": 26,
+   "jp": "メカニャン２５号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2c10",
+   "off": 11280,
+   "len": 26,
+   "jp": "メカニャン２６号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2c38",
+   "off": 11320,
+   "len": 26,
+   "jp": "メカニャン２７号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2c60",
+   "off": 11360,
+   "len": 26,
+   "jp": "メカニャン２８号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2c88",
+   "off": 11400,
+   "len": 26,
+   "jp": "メカニャン２９号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2cb0",
+   "off": 11440,
+   "len": 26,
+   "jp": "メカニャン３０号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "UNITINFO:2cd8",
+   "off": 11480,
+   "len": 26,
+   "jp": "メカニャン３１号",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

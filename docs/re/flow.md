@@ -83,5 +83,8 @@ Poking x, y moves the sprite, but **attack refuses a poked target** (weapon wind
 - `battle`: the demo's own battle, drawn on the map (the demo skips the animation).
 - `battle_anim`: the full animation with pilot portraits and speech boxes. `G+0x1C` is the step in table 0x800A3070 while `G+0x18` is 2; forcing step 1 (0x8004D700, which loads the `BATTLE*` backdrop by `G+0x830`) as the attack starts plays it for the demo's real attacker and target.
 
+## Overlay slots
+Loader records hold 0 for the address, so the slot comes from the caller. **Verified** by counting which slot makes an overlay's `lui`+low pairs land on its own strings (`extract.best_base`), every overlay with text scoring on one slot only, or nearly so (SELECT 16 vs 1, MEMCARD 92 vs 3): 0x8014B000 SELECT, OPT, CNTRY_ST, PROD, MEMCARD, SPABL, SKSN, LOCEX, BEND, INFO, JIRAI, HELP; 0x80155800 SPLD, GORYU, NSHOP; 0x8015C800 LOCS, BUTAI.
+
 ## File ids
 `tools/disc_ids.py` prints the loader's table (0x8009C34C): 0 INIT, 2 SELECT, 3 MAP_DEMO, 4 GAME_OV, 5 ENDING, 6 OPT, 7 CNTRY_ST, 8 PROD, 9 ALLMP, 0xA LOCS, 0xB SUIM, 0xC HOKYU, 0xD MEMCARD, 0xE SPLD, 0xF SPABL, 0x10 GORYU, 0x11 ITCHG, 0x12 NSHOP, 0x13 SP_WDBZK, 0x14 SP_RNBW, 0x15 SP_FRST, 0x16 SKSN, 0x17 LOCEX, 0x18 BEND, 0x19 SP_ICBM, 0x1A ATDM, 0x1B BUTAI, 0x1C INFO, 0x1D SPAUR, 0x1E SPELK, 0x1F JIRAI, 0x20 HISS, 0x21 HASN, 0x22 HELP. The word at the start of an overlay is **not** this id (ENDING's is 0x24). Records are `{ram, size, lba}`; `disc.md`'s `{size, lba, ram}` reading of the 201 PAW.EXE records was off by one word, which is why it reported odd RAM values such as 0x80186000 as sizes.

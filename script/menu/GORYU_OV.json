@@ -1,0 +1,80 @@
+{
+ "file": "DATA/GORYU_OV.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "GORYU_OV:4",
+   "off": 4,
+   "len": 12,
+   "jp": "（　部隊）",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "GORYU_OV:w80157778"
+   ]
+  },
+  {
+   "id": "GORYU_OV:10",
+   "off": 16,
+   "len": 20,
+   "jp": "を選んでください",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "GORYU_OV:w80157770"
+   ]
+  },
+  {
+   "id": "GORYU_OV:24",
+   "off": 36,
+   "len": 20,
+   "jp": "移動する輸送部隊",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "GORYU_OV:w80157768"
+   ]
+  },
+  {
+   "id": "GORYU_OV:38",
+   "off": 56,
+   "len": 20,
+   "jp": "これでよろしい？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "GORYU_OV:w801577a0"
+   ]
+  },
+  {
+   "id": "GORYU_OV:4c",
+   "off": 76,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "GORYU_OV:w801577b4"
+   ]
+  },
+  {
+   "id": "GORYU_OV:50",
+   "off": 80,
+   "len": 13,
+   "jp": "輸送部隊なし",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "GORYU_OV:w801577b0"
+   ]
+  }
+ ]
+}

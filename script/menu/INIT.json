@@ -1,0 +1,30 @@
+{
+ "file": "DATA/INIT.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "INIT:26ac",
+   "off": 9900,
+   "len": 3,
+   "jp": "焉",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables, no text in this overlay"
+  },
+  {
+   "id": "INIT:27b7",
+   "off": 10167,
+   "len": 6,
+   "jp": "捩ﾂ鰊",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables, no text in this overlay"
+  }
+ ]
+}

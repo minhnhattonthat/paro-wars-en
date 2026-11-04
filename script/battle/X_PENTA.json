@@ -1,0 +1,809 @@
+{
+ "file": "DATA/X_PENTA.BIN",
+ "lz": null,
+ "group": "battle",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "X_PENTA:4bc",
+   "off": 1212,
+   "len": 60,
+   "jp": "これで決まりだっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:4f8",
+   "off": 1272,
+   "len": 60,
+   "jp": "攻撃開始だっ　イエーイ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:534",
+   "off": 1332,
+   "len": 60,
+   "jp": "みんなっ　いくぞぉ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:570",
+   "off": 1392,
+   "len": 60,
+   "jp": "あっちゃ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:5ac",
+   "off": 1452,
+   "len": 60,
+   "jp": "よぉしきた！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:5e8",
+   "off": 1512,
+   "len": 60,
+   "jp": "ど～んと来～い！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:624",
+   "off": 1572,
+   "len": 60,
+   "jp": "これじゃゲロゲロだ～い",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:660",
+   "off": 1632,
+   "len": 60,
+   "jp": "パニックだ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:69c",
+   "off": 1692,
+   "len": 60,
+   "jp": "うりゃうりゃうりゃあ～っ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:6d8",
+   "off": 1752,
+   "len": 60,
+   "jp": "くっらえ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:714",
+   "off": 1812,
+   "len": 60,
+   "jp": "当たれ～っ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:750",
+   "off": 1872,
+   "len": 60,
+   "jp": "これでも食らいな！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:78c",
+   "off": 1932,
+   "len": 60,
+   "jp": "うーやーたー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:7c8",
+   "off": 1992,
+   "len": 60,
+   "jp": "これで終わりだ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:804",
+   "off": 2052,
+   "len": 60,
+   "jp": "あちょー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:840",
+   "off": 2112,
+   "len": 60,
+   "jp": "おらおらおらおらおらーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:87c",
+   "off": 2172,
+   "len": 60,
+   "jp": "あたたたたたたたーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:8b8",
+   "off": 2232,
+   "len": 60,
+   "jp": "いくわよぉ～、そぉれっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:8f4",
+   "off": 2292,
+   "len": 60,
+   "jp": "君は生き残る事ができるかな？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:930",
+   "off": 2352,
+   "len": 60,
+   "jp": "おりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:96c",
+   "off": 2412,
+   "len": 60,
+   "jp": "うりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:9a8",
+   "off": 2472,
+   "len": 60,
+   "jp": "どりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:9e4",
+   "off": 2532,
+   "len": 60,
+   "jp": "もらったあ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:a20",
+   "off": 2592,
+   "len": 60,
+   "jp": "エコエコアザラクー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:a5c",
+   "off": 2652,
+   "len": 60,
+   "jp": "おかみにたてつくたわけものはこうしてやるぅ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:a98",
+   "off": 2712,
+   "len": 60,
+   "jp": "あたれー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:ad4",
+   "off": 2772,
+   "len": 60,
+   "jp": "甘いな",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:b10",
+   "off": 2832,
+   "len": 60,
+   "jp": "くえ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:b4c",
+   "off": 2892,
+   "len": 60,
+   "jp": "わぁ～っ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:b88",
+   "off": 2952,
+   "len": 60,
+   "jp": "わわわわぁぁぁぁぁっ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:bc4",
+   "off": 3012,
+   "len": 60,
+   "jp": "ひでぶー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:c00",
+   "off": 3072,
+   "len": 60,
+   "jp": "やったなー、親父にも殴られた事ないのに",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:c3c",
+   "off": 3132,
+   "len": 60,
+   "jp": "なにをするんじゃ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:c78",
+   "off": 3192,
+   "len": 60,
+   "jp": "バッカヤロ！あぶねーじゃねーかー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:cb4",
+   "off": 3252,
+   "len": 60,
+   "jp": "やりやがったなー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:cf0",
+   "off": 3312,
+   "len": 60,
+   "jp": "俺をだれだと思ってんだぁ？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:d2c",
+   "off": 3372,
+   "len": 60,
+   "jp": "うおー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:d68",
+   "off": 3432,
+   "len": 60,
+   "jp": "キャー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:da4",
+   "off": 3492,
+   "len": 60,
+   "jp": "キャイーン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:de0",
+   "off": 3552,
+   "len": 60,
+   "jp": "ウッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:e1c",
+   "off": 3612,
+   "len": 60,
+   "jp": "うわーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:e58",
+   "off": 3672,
+   "len": 60,
+   "jp": "イテー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:e94",
+   "off": 3732,
+   "len": 60,
+   "jp": "ちっ、覚えてろー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:ed0",
+   "off": 3792,
+   "len": 60,
+   "jp": "な、何だって！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:f0c",
+   "off": 3852,
+   "len": 60,
+   "jp": "どこねらってんだよぉ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:f48",
+   "off": 3912,
+   "len": 60,
+   "jp": "いい根性してっじゃねーか",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:f84",
+   "off": 3972,
+   "len": 60,
+   "jp": "甘いんだよッ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:fc0",
+   "off": 4032,
+   "len": 60,
+   "jp": "ちぇっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:ffc",
+   "off": 4092,
+   "len": 60,
+   "jp": "あれ！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1038",
+   "off": 4152,
+   "len": 60,
+   "jp": "ざっとこんなもんよ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1074",
+   "off": 4212,
+   "len": 60,
+   "jp": "わぁ～い　やったねっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:10b0",
+   "off": 4272,
+   "len": 60,
+   "jp": "やったぜっよろしく！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:10ec",
+   "off": 4332,
+   "len": 60,
+   "jp": "ふっふ～ん　ざっとこんなもんよっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1128",
+   "off": 4392,
+   "len": 60,
+   "jp": "俺にたてつくなんて１０年早{br}いってんだよ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1164",
+   "off": 4452,
+   "len": 60,
+   "jp": "ふっ、手応えのない相手だったぜぃ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:11a0",
+   "off": 4512,
+   "len": 60,
+   "jp": "ウワハッハッハッハッハー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:11dc",
+   "off": 4572,
+   "len": 60,
+   "jp": "まだまだだな",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1218",
+   "off": 4632,
+   "len": 60,
+   "jp": "俺をとめることはできん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1254",
+   "off": 4692,
+   "len": 60,
+   "jp": "とっととお家にお帰り",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1290",
+   "off": 4752,
+   "len": 60,
+   "jp": "ヤリィー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:12cc",
+   "off": 4812,
+   "len": 60,
+   "jp": "修行が足りん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1308",
+   "off": 4872,
+   "len": 60,
+   "jp": "ヨッシャー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1344",
+   "off": 4932,
+   "len": 60,
+   "jp": "ビンゴー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1380",
+   "off": 4992,
+   "len": 60,
+   "jp": "またいつでも相手してやるぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:13bc",
+   "off": 5052,
+   "len": 60,
+   "jp": "きゅ～うっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:13f8",
+   "off": 5112,
+   "len": 60,
+   "jp": "しまった～っ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1434",
+   "off": 5172,
+   "len": 60,
+   "jp": "フッ、今日のところはこのぐらいにしといてやるぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1470",
+   "off": 5232,
+   "len": 60,
+   "jp": "や、やられちゃった～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:14ac",
+   "off": 5292,
+   "len": 60,
+   "jp": "やっだあ、信じらんなぁい",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:14e8",
+   "off": 5352,
+   "len": 60,
+   "jp": "覚えてろ、この次は勝ってみせるぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1524",
+   "off": 5412,
+   "len": 60,
+   "jp": "さらばじゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1560",
+   "off": 5472,
+   "len": 60,
+   "jp": "くっ、{br}こんな奴に負けるなんて・・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:159c",
+   "off": 5532,
+   "len": 60,
+   "jp": "こんな強い奴がまだいたとは、・・・ぐふっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:15d8",
+   "off": 5592,
+   "len": 60,
+   "jp": "ウァ～ン、ママにいいつけてやるぅ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1614",
+   "off": 5652,
+   "len": 60,
+   "jp": "なにいっ！全滅ぅ！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1650",
+   "off": 5712,
+   "len": 60,
+   "jp": "うおおおおおおおーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:168c",
+   "off": 5772,
+   "len": 60,
+   "jp": "アンビリーバブルー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:16c8",
+   "off": 5832,
+   "len": 60,
+   "jp": "クソ～ォ、脱出だ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1704",
+   "off": 5892,
+   "len": 60,
+   "jp": "あちゃあ、俺のせーじゃねー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1740",
+   "off": 5952,
+   "len": 60,
+   "jp": "この俺が！？そんなばかなー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:177c",
+   "off": 6012,
+   "len": 60,
+   "jp": "行けっ！　ペンタロウＸ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:17b8",
+   "off": 6072,
+   "len": 60,
+   "jp": "Ｘ！　燃えろ、燃えるんだ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:17f4",
+   "off": 6132,
+   "len": 60,
+   "jp": "無敵のＸ！　登場だ～い！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1830",
+   "off": 6192,
+   "len": 60,
+   "jp": "ほえろっ、燃えろっ！{br}行け～！　ミニペンギン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:186c",
+   "off": 6252,
+   "len": 60,
+   "jp": "ミニペンギン発射っ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:18a8",
+   "off": 6312,
+   "len": 60,
+   "jp": "当然でしょっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:18e4",
+   "off": 6372,
+   "len": 60,
+   "jp": "おきまり　おきまりっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:1920",
+   "off": 6432,
+   "len": 60,
+   "jp": "うっそだ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PENTA:195c",
+   "off": 6492,
+   "len": 60,
+   "jp": "ごっ、ごめんよＸ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

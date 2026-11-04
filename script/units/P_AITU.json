@@ -1,0 +1,116 @@
+{
+ "file": "DATA/P_AITU.BIN",
+ "lz": 324,
+ "group": "units",
+ "text_from": 34816,
+ "entries": [
+  {
+   "id": "P_AITU:8800",
+   "off": 34816,
+   "len": 32,
+   "jp": "　　　◆強さ５段階評価◆",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_AITU:8820",
+   "off": 34848,
+   "len": 32,
+   "jp": "攻撃力　５",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_AITU:8840",
+   "off": 34880,
+   "len": 32,
+   "jp": "守備力　５",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_AITU:8860",
+   "off": 34912,
+   "len": 52,
+   "jp": "　こいつをただでかくしただけの、まさに国を象徴する",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_AITU:8894",
+   "off": 34964,
+   "len": 52,
+   "jp": "にふさわしい極上ロボットだ。情報が固くガードされて",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_AITU:88c8",
+   "off": 35016,
+   "len": 52,
+   "jp": "おりその能力には謎の部分が多い。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_AITU:88fc",
+   "off": 35068,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_AITU:8930",
+   "off": 35120,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_AITU:8964",
+   "off": 35172,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_AITU:8998",
+   "off": 35224,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_AITU:89cc",
+   "off": 35276,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_AITU:8a00",
+   "off": 35328,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  }
+ ]
+}

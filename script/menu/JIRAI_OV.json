@@ -1,0 +1,32 @@
+{
+ "file": "DATA/JIRAI_OV.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "JIRAI_OV:4",
+   "off": 4,
+   "len": 16,
+   "jp": "しまいました。",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "JIRAI_OV:w8014bd5c"
+   ]
+  },
+  {
+   "id": "JIRAI_OV:14",
+   "off": 20,
+   "len": 14,
+   "jp": "地雷をふんで",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "JIRAI_OV:w8014bd54"
+   ]
+  }
+ ]
+}

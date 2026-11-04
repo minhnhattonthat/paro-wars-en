@@ -1,0 +1,170 @@
+{
+ "file": "DATA/DEMO/TXT_TAK2.BIN",
+ "lz": null,
+ "group": "story",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "DEMO/TXT_TAK2:0",
+   "off": 0,
+   "len": 150,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:96",
+   "off": 150,
+   "len": 150,
+   "jp": "　ペンタ連合を撃退して、これで枕を高くして眠れる　と思いきや、",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:12c",
+   "off": 300,
+   "len": 150,
+   "jp": "今度は、アラジオ連合を構成する、ミカエル帝国とモ　アイ諸島首長国が、どっとパンダ国に攻め入ってきた。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:1c2",
+   "off": 450,
+   "len": 150,
+   "jp": "　事件は、モアイ国に観光と商売に訪れた、７つの海　をかけ巡る謎の行商猫、ジョン・ニャン次郎の発言か　ら始まった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:258",
+   "off": 600,
+   "len": 150,
+   "jp": "ニャン次郎：「ここ数年のうちに、　　　　　　　　　　　　　　　　世界中は深刻なオイルショックに　　　　　　　　　　みまわれるニャン。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:2ee",
+   "off": 750,
+   "len": 150,
+   "jp": "ニャン次郎：「それというのも、お隣のパンダ国が原　　　　　　　　油を出し惜しみするからだニャン。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:384",
+   "off": 900,
+   "len": 150,
+   "jp": "よしこ女帝：「それはひどいモー。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:41a",
+   "off": 1050,
+   "len": 150,
+   "jp": "ニャン次郎：「いっそのこと、お隣のパンダ国をいた　　　　　　　　だいちゃったらどうかニャ～ン。」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:4b0",
+   "off": 1200,
+   "len": 150,
+   "jp": "ニャン次郎：「ここの同盟国のミカエル帝国との仲も　　　　　　　　良くニャイようだし、いっしょにいけ　　　　　　　　ば楽勝ニャン！！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:546",
+   "off": 1350,
+   "len": 150,
+   "jp": "よしこ女帝：「よっしゃ！その手でいくモー！！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:5dc",
+   "off": 1500,
+   "len": 150,
+   "jp": "　と、いうわけで、モアイ国・ミカエル帝国連合の、　パンダ国侵攻が開始されたのである。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:672",
+   "off": 1650,
+   "len": 150,
+   "jp": "　そのころ、パンダ国では、１年に一度の国を上げて　の国民旅行中で、",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:708",
+   "off": 1800,
+   "len": 150,
+   "jp": "タコスケがその留守をあずかっていた。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:79e",
+   "off": 1950,
+   "len": 150,
+   "jp": "　そこに、物見からの緊急連絡が入った。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:834",
+   "off": 2100,
+   "len": 150,
+   "jp": "兵士Ａ：「総統！　た、たいへんですわ！　　　　　　　　　　　アラジオ連合が、パンダ国めがけて突撃し　　　　　　て来まっせ！！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:8ca",
+   "off": 2250,
+   "len": 150,
+   "jp": "兵士Ａ：「みなさんの留守中に国が荒らされるような　　　　　　ことになったら、アンナはんにひどいめに　　　　　　あわされるんとちゃいまっか！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:960",
+   "off": 2400,
+   "len": 150,
+   "jp": "タコスケ：「なんやて～っ！！！　　　　　　　　　　　　　　　　えらいこっちゃ～！！！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_TAK2:9f6",
+   "off": 2550,
+   "len": 150,
+   "jp": "　不運にもアカシヤ軍は、パンダ国防衛の大役を負わ　されるはめになってしまった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

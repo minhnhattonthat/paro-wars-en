@@ -1,0 +1,116 @@
+{
+ "file": "DATA/P_44.BIN",
+ "lz": 772,
+ "group": "units",
+ "text_from": 18432,
+ "entries": [
+  {
+   "id": "P_44:4800",
+   "off": 18432,
+   "len": 32,
+   "jp": "　　　◆強さ５段階評価◆",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_44:4820",
+   "off": 18464,
+   "len": 32,
+   "jp": "攻撃力　１（占領できます）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_44:4840",
+   "off": 18496,
+   "len": 32,
+   "jp": "守備力　１",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_44:4860",
+   "off": 18528,
+   "len": 52,
+   "jp": "トラックの上をいく超軟弱車両だが、スピードが速い。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_44:4894",
+   "off": 18580,
+   "len": 52,
+   "jp": "敵の射程に入ったら死んだものとして、あきらめよう。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_44:48c8",
+   "off": 18632,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_44:48fc",
+   "off": 18684,
+   "len": 52,
+   "jp": "　　　　　　★ワンポイントアドパイス★",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_44:4930",
+   "off": 18736,
+   "len": 52,
+   "jp": "トラック同様、占領か他の部隊を守るため、敵の進行の",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_44:4964",
+   "off": 18788,
+   "len": 52,
+   "jp": "じゃまをするのと、スピードを生かした偵察活動に使い",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_44:4998",
+   "off": 18840,
+   "len": 52,
+   "jp": "道が見出せそうだ。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_44:49cc",
+   "off": 18892,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_44:4a00",
+   "off": 18944,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  }
+ ]
+}

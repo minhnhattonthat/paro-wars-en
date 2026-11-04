@@ -1,0 +1,584 @@
+{
+ "file": "DATA/OPT_OV.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "OPT_OV:1304",
+   "off": 4868,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "OPT_OV:w8014c300"
+   ]
+  },
+  {
+   "id": "OPT_OV:1308",
+   "off": 4872,
+   "len": 20,
+   "jp": "スタック部隊の選択",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c2fc"
+   ]
+  },
+  {
+   "id": "OPT_OV:131c",
+   "off": 4892,
+   "len": 24,
+   "jp": "コンパス表示位置変更",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c2f8"
+   ]
+  },
+  {
+   "id": "OPT_OV:1334",
+   "off": 4916,
+   "len": 12,
+   "jp": "スクロール",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c2f4"
+   ]
+  },
+  {
+   "id": "OPT_OV:1340",
+   "off": 4928,
+   "len": 12,
+   "jp": "キャンセル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c2f0"
+   ]
+  },
+  {
+   "id": "OPT_OV:134c",
+   "off": 4940,
+   "len": 8,
+   "jp": "決定",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c2ec"
+   ]
+  },
+  {
+   "id": "OPT_OV:1354",
+   "off": 4948,
+   "len": 16,
+   "jp": "情報・部隊表",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c2e8"
+   ]
+  },
+  {
+   "id": "OPT_OV:1364",
+   "off": 4964,
+   "len": 16,
+   "jp": "マップ右回転",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c2e4"
+   ]
+  },
+  {
+   "id": "OPT_OV:1374",
+   "off": 4980,
+   "len": 16,
+   "jp": "マップ左回転",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c2e0"
+   ]
+  },
+  {
+   "id": "OPT_OV:1384",
+   "off": 4996,
+   "len": 16,
+   "jp": "次部隊（後）",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c2dc"
+   ]
+  },
+  {
+   "id": "OPT_OV:1394",
+   "off": 5012,
+   "len": 16,
+   "jp": "次部隊（前）",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c2d8"
+   ]
+  },
+  {
+   "id": "OPT_OV:13b0",
+   "off": 5040,
+   "len": 24,
+   "jp": "　機　能　　　：変更",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c3a8"
+   ]
+  },
+  {
+   "id": "OPT_OV:13d0",
+   "off": 5072,
+   "len": 24,
+   "jp": "ＢＧＭ　　　　　ＯＮ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "OPT_OV:w8014c3cc"
+   ]
+  },
+  {
+   "id": "OPT_OV:13e8",
+   "off": 5096,
+   "len": 24,
+   "jp": "ＢＧＭ　　　　ＯＦＦ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "OPT_OV:w8014c3c8"
+   ]
+  },
+  {
+   "id": "OPT_OV:1408",
+   "off": 5128,
+   "len": 24,
+   "jp": "バトル音声　　　ＯＮ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c404"
+   ]
+  },
+  {
+   "id": "OPT_OV:1420",
+   "off": 5152,
+   "len": 24,
+   "jp": "バトル音声　　ＯＦＦ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c400"
+   ]
+  },
+  {
+   "id": "OPT_OV:1440",
+   "off": 5184,
+   "len": 24,
+   "jp": "ニャンＴＶ　　　ＯＮ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c43c"
+   ]
+  },
+  {
+   "id": "OPT_OV:1458",
+   "off": 5208,
+   "len": 24,
+   "jp": "ニャンＴＶ　　ＯＦＦ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c438"
+   ]
+  },
+  {
+   "id": "OPT_OV:147c",
+   "off": 5244,
+   "len": 24,
+   "jp": "スクエア　　くっきり",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c478"
+   ]
+  },
+  {
+   "id": "OPT_OV:1494",
+   "off": 5268,
+   "len": 24,
+   "jp": "スクエア　　すっきり",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c474"
+   ]
+  },
+  {
+   "id": "OPT_OV:14ac",
+   "off": 5292,
+   "len": 24,
+   "jp": "スクエア　　　　なし",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c470"
+   ]
+  },
+  {
+   "id": "OPT_OV:14cc",
+   "off": 5324,
+   "len": 24,
+   "jp": "カーソル音　　　ＯＮ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c4c8"
+   ]
+  },
+  {
+   "id": "OPT_OV:14e4",
+   "off": 5348,
+   "len": 24,
+   "jp": "カーソル音　　ＯＦＦ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c4c4"
+   ]
+  },
+  {
+   "id": "OPT_OV:1504",
+   "off": 5380,
+   "len": 24,
+   "jp": "窓カーソル　　きおく",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c500"
+   ]
+  },
+  {
+   "id": "OPT_OV:151c",
+   "off": 5404,
+   "len": 24,
+   "jp": "窓カーソル　　一番上",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c4fc"
+   ]
+  },
+  {
+   "id": "OPT_OV:1580",
+   "off": 5504,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "OPT_OV:w8014c57c"
+   ]
+  },
+  {
+   "id": "OPT_OV:1584",
+   "off": 5508,
+   "len": 16,
+   "jp": "ＣＯＭ（予）",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c578"
+   ]
+  },
+  {
+   "id": "OPT_OV:1594",
+   "off": 5524,
+   "len": 12,
+   "jp": "４Ｐ（予）",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c574"
+   ]
+  },
+  {
+   "id": "OPT_OV:15a0",
+   "off": 5536,
+   "len": 12,
+   "jp": "３Ｐ（予）",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c570"
+   ]
+  },
+  {
+   "id": "OPT_OV:15ac",
+   "off": 5548,
+   "len": 12,
+   "jp": "２Ｐ（予）",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c56c"
+   ]
+  },
+  {
+   "id": "OPT_OV:15b8",
+   "off": 5560,
+   "len": 12,
+   "jp": "１Ｐ（予）",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c568"
+   ]
+  },
+  {
+   "id": "OPT_OV:15c4",
+   "off": 5572,
+   "len": 8,
+   "jp": "ＣＯＭ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "OPT_OV:w8014c564"
+   ]
+  },
+  {
+   "id": "OPT_OV:15cc",
+   "off": 5580,
+   "len": 8,
+   "jp": "４Ｐ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "OPT_OV:w8014c560"
+   ]
+  },
+  {
+   "id": "OPT_OV:15d4",
+   "off": 5588,
+   "len": 8,
+   "jp": "３Ｐ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "OPT_OV:w8014c55c"
+   ]
+  },
+  {
+   "id": "OPT_OV:15dc",
+   "off": 5596,
+   "len": 8,
+   "jp": "２Ｐ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "OPT_OV:w8014c558"
+   ]
+  },
+  {
+   "id": "OPT_OV:15e4",
+   "off": 5604,
+   "len": 8,
+   "jp": "１Ｐ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "OPT_OV:w8014c554"
+   ]
+  },
+  {
+   "id": "OPT_OV:1668",
+   "off": 5736,
+   "len": 12,
+   "jp": "ボタン説明",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c660"
+   ]
+  },
+  {
+   "id": "OPT_OV:1674",
+   "off": 5748,
+   "len": 16,
+   "jp": "プレイヤー変更",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c65c"
+   ]
+  },
+  {
+   "id": "OPT_OV:16ac",
+   "off": 5804,
+   "len": 8,
+   "jp": "負け",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c6a8"
+   ]
+  },
+  {
+   "id": "OPT_OV:16b4",
+   "off": 5812,
+   "len": 12,
+   "jp": "ニャー帝国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c6a4"
+   ]
+  },
+  {
+   "id": "OPT_OV:16c0",
+   "off": 5824,
+   "len": 12,
+   "jp": "バウバウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c6a0"
+   ]
+  },
+  {
+   "id": "OPT_OV:16cc",
+   "off": 5836,
+   "len": 8,
+   "jp": "パンダ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c69c"
+   ]
+  },
+  {
+   "id": "OPT_OV:16d4",
+   "off": 5844,
+   "len": 8,
+   "jp": "モアイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c698"
+   ]
+  },
+  {
+   "id": "OPT_OV:16dc",
+   "off": 5852,
+   "len": 8,
+   "jp": "こいつ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c694"
+   ]
+  },
+  {
+   "id": "OPT_OV:16e4",
+   "off": 5860,
+   "len": 12,
+   "jp": "ラブリー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c690"
+   ]
+  },
+  {
+   "id": "OPT_OV:16f0",
+   "off": 5872,
+   "len": 12,
+   "jp": "アカシヤ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c68c"
+   ]
+  },
+  {
+   "id": "OPT_OV:16fc",
+   "off": 5884,
+   "len": 12,
+   "jp": "ミカエル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c688"
+   ]
+  },
+  {
+   "id": "OPT_OV:1708",
+   "off": 5896,
+   "len": 12,
+   "jp": "ペンタロウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "OPT_OV:w8014c684"
+   ]
+  }
+ ]
+}

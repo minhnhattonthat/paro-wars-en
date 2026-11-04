@@ -1,0 +1,116 @@
+{
+ "file": "DATA/P_33.BIN",
+ "lz": 2860,
+ "group": "units",
+ "text_from": 18432,
+ "entries": [
+  {
+   "id": "P_33:4800",
+   "off": 18432,
+   "len": 32,
+   "jp": "　　　◆強さ５段階評価◆",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_33:4820",
+   "off": 18464,
+   "len": 32,
+   "jp": "攻撃力　３（空に攻撃できない）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_33:4840",
+   "off": 18496,
+   "len": 32,
+   "jp": "守備力　２",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_33:4860",
+   "off": 18528,
+   "len": 52,
+   "jp": "軽量、高速な軽戦車。装甲が薄く防御力は弱いが攻撃力",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_33:4894",
+   "off": 18580,
+   "len": 52,
+   "jp": "はいい方です。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_33:48c8",
+   "off": 18632,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_33:48fc",
+   "off": 18684,
+   "len": 52,
+   "jp": "　　　　　　★ワンポイントアドパイス★",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_33:4930",
+   "off": 18736,
+   "len": 52,
+   "jp": "機動力が高いので、偵察や敵の侵入を遅れさせるための",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_33:4964",
+   "off": 18788,
+   "len": 52,
+   "jp": "バリケード役など最前線での活躍が期待されます。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_33:4998",
+   "off": 18840,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_33:49cc",
+   "off": 18892,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_33:4a00",
+   "off": 18944,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  }
+ ]
+}

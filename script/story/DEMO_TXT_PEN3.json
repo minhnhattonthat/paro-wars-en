@@ -1,0 +1,134 @@
+{
+ "file": "DATA/DEMO/TXT_PEN3.BIN",
+ "lz": null,
+ "group": "story",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "DEMO/TXT_PEN3:0",
+   "off": 0,
+   "len": 150,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/TXT_PEN3:96",
+   "off": 150,
+   "len": 150,
+   "jp": "　首尾よく油田基地フランシス＝ペドロ島を奪い取っ　たペンタ軍であったが、すぐ目の前には、敵本国であ　るパンダ国がひかえていた。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_PEN3:12c",
+   "off": 300,
+   "len": 150,
+   "jp": "　このままではフランシス＝ペドロ島は、いつ奪い返　されてもおかしくない状況に置かれることになる。　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_PEN3:1c2",
+   "off": 450,
+   "len": 150,
+   "jp": "　ここで、勢いにのったペン太郎王国は、一気に本国　をつぶすために、パンダ国本土へと攻め上がるのであ　った。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_PEN3:258",
+   "off": 600,
+   "len": 150,
+   "jp": "よぉ～しっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_PEN3:2ee",
+   "off": 750,
+   "len": 150,
+   "jp": "このまま",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_PEN3:384",
+   "off": 900,
+   "len": 150,
+   "jp": "一気にいけぇぃ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_PEN3:41a",
+   "off": 1050,
+   "len": 150,
+   "jp": "　一方のパンダ国であるが、先の戦争でのダメージは　かなり大きかった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_PEN3:4b0",
+   "off": 1200,
+   "len": 150,
+   "jp": "　国内は森林、岩山などの自然の要塞に守られた、難　攻不落の地として名をとどろかせていたが、今の状態　では心もとない。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_PEN3:546",
+   "off": 1350,
+   "len": 150,
+   "jp": "　やむなく隣国のミカエル帝国に、救援を要請するこ　とにした。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_PEN3:5dc",
+   "off": 1500,
+   "len": 150,
+   "jp": "　パンダ国党首アンナパブロワは、さっそくミカエル　帝国帝王ミカエル・アブゥ４世のもとへと、要請にお　もむく。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_PEN3:672",
+   "off": 1650,
+   "len": 150,
+   "jp": "アンナパブロワ：「ペンタ国が侵略してくるアルけど、　　　　　　　　　助けてくれないアルか？？」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_PEN3:708",
+   "off": 1800,
+   "len": 150,
+   "jp": "ミカエル：「Ｏ．Ｋ！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_PEN3:79e",
+   "off": 1950,
+   "len": 150,
+   "jp": "　ミカエル帝国の救援を受け、戦闘態勢を整えたパン　ダ国は、てぐすね引いてペン太郎王国の侵攻を待ち受　けるのであった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

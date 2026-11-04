@@ -1,0 +1,818 @@
+{
+ "file": "DATA/X_PANDA.BIN",
+ "lz": null,
+ "group": "battle",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "X_PANDA:4dc",
+   "off": 1244,
+   "len": 60,
+   "jp": "でへぇ、ぶっ飛ばしちゃうぞ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:518",
+   "off": 1304,
+   "len": 60,
+   "jp": "いっくぞ～！　パンダ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:554",
+   "off": 1364,
+   "len": 60,
+   "jp": "パンダ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:590",
+   "off": 1424,
+   "len": 60,
+   "jp": "あっり～？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:5cc",
+   "off": 1484,
+   "len": 60,
+   "jp": "でへぇ、いっただきま～す！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:608",
+   "off": 1544,
+   "len": 60,
+   "jp": "なんか、食べ物に見えてきた{br}ぞぉ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:644",
+   "off": 1604,
+   "len": 60,
+   "jp": "パ、パンダ？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:680",
+   "off": 1664,
+   "len": 60,
+   "jp": "ちっ・・・なんか腹へったぞ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:6bc",
+   "off": 1724,
+   "len": 60,
+   "jp": "ライラ～イ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:6f8",
+   "off": 1784,
+   "len": 60,
+   "jp": "うっまそ～う！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:734",
+   "off": 1844,
+   "len": 60,
+   "jp": "ぬっは～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:770",
+   "off": 1904,
+   "len": 60,
+   "jp": "これでも食らいな！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:7ac",
+   "off": 1964,
+   "len": 60,
+   "jp": "うーやーたー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:7e8",
+   "off": 2024,
+   "len": 60,
+   "jp": "これで終わりだ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:824",
+   "off": 2084,
+   "len": 60,
+   "jp": "あちょぉ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:860",
+   "off": 2144,
+   "len": 60,
+   "jp": "おらおらおらおらー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:89c",
+   "off": 2204,
+   "len": 60,
+   "jp": "あたたたたたたたー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:8d8",
+   "off": 2264,
+   "len": 60,
+   "jp": "いくわよ～ぉ、そぉれ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:914",
+   "off": 2324,
+   "len": 60,
+   "jp": "君は生き残る事ができるかな？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:950",
+   "off": 2384,
+   "len": 60,
+   "jp": "おりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:98c",
+   "off": 2444,
+   "len": 60,
+   "jp": "うりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:9c8",
+   "off": 2504,
+   "len": 60,
+   "jp": "どりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:a04",
+   "off": 2564,
+   "len": 60,
+   "jp": "もらった！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:a40",
+   "off": 2624,
+   "len": 60,
+   "jp": "エコエコアザラクー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:a7c",
+   "off": 2684,
+   "len": 60,
+   "jp": "おかみにたてつくたわけものはこうしてやるー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:ab8",
+   "off": 2744,
+   "len": 60,
+   "jp": "あったれー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:af4",
+   "off": 2804,
+   "len": 60,
+   "jp": "甘いな",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:b30",
+   "off": 2864,
+   "len": 60,
+   "jp": "グウ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:b6c",
+   "off": 2924,
+   "len": 60,
+   "jp": "はらへった～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:ba8",
+   "off": 2984,
+   "len": 60,
+   "jp": "四面楚歌ライ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:be4",
+   "off": 3044,
+   "len": 60,
+   "jp": "わぁぁぁぁぁっ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:c20",
+   "off": 3104,
+   "len": 60,
+   "jp": "ひでぶー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:c5c",
+   "off": 3164,
+   "len": 60,
+   "jp": "やったなー、親父にも殴られた事ないのにー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:c98",
+   "off": 3224,
+   "len": 60,
+   "jp": "なにをするんじゃ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:cd4",
+   "off": 3284,
+   "len": 60,
+   "jp": "バカヤロー！あぶねぇじゃねーかっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:d10",
+   "off": 3344,
+   "len": 60,
+   "jp": "やりやがったなー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:d4c",
+   "off": 3404,
+   "len": 60,
+   "jp": "俺をだれだと思ってんだー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:d88",
+   "off": 3464,
+   "len": 60,
+   "jp": "うおー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:dc4",
+   "off": 3524,
+   "len": 60,
+   "jp": "アァー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:e00",
+   "off": 3584,
+   "len": 60,
+   "jp": "キャイーン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:e3c",
+   "off": 3644,
+   "len": 60,
+   "jp": "ウッキーッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:e78",
+   "off": 3704,
+   "len": 60,
+   "jp": "うわーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:eb4",
+   "off": 3764,
+   "len": 60,
+   "jp": "イテー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:ef0",
+   "off": 3824,
+   "len": 60,
+   "jp": "ちっ、覚えてろ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:f2c",
+   "off": 3884,
+   "len": 60,
+   "jp": "な、何だって！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:f68",
+   "off": 3944,
+   "len": 60,
+   "jp": "どこねらってんだよ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:fa4",
+   "off": 4004,
+   "len": 60,
+   "jp": "いい根性してるじゃねーか",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:fe0",
+   "off": 4064,
+   "len": 60,
+   "jp": "甘いんだよっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:101c",
+   "off": 4124,
+   "len": 60,
+   "jp": "どんま～い！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1058",
+   "off": 4184,
+   "len": 60,
+   "jp": "きにしないモン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1094",
+   "off": 4244,
+   "len": 60,
+   "jp": "パン王室再興な～のだ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:10d0",
+   "off": 4304,
+   "len": 60,
+   "jp": "あ～　くったくったっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:110c",
+   "off": 4364,
+   "len": 60,
+   "jp": "ハオ　ハオ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1148",
+   "off": 4424,
+   "len": 60,
+   "jp": "ごちそうさまな～のだ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1184",
+   "off": 4484,
+   "len": 60,
+   "jp": "俺にたてつくなんて１０年早{br}いってんだよ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:11c0",
+   "off": 4544,
+   "len": 60,
+   "jp": "ふっ、手応えのない相手だったぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:11fc",
+   "off": 4604,
+   "len": 60,
+   "jp": "ハッハッハッハ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1238",
+   "off": 4664,
+   "len": 60,
+   "jp": "まだまだだな",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1274",
+   "off": 4724,
+   "len": 60,
+   "jp": "俺をとめることはできん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:12b0",
+   "off": 4784,
+   "len": 60,
+   "jp": "とっととお家にお帰り",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:12ec",
+   "off": 4844,
+   "len": 60,
+   "jp": "ヤリィー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1328",
+   "off": 4904,
+   "len": 60,
+   "jp": "修行が足りん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1364",
+   "off": 4964,
+   "len": 60,
+   "jp": "ヨッシャー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:13a0",
+   "off": 5024,
+   "len": 60,
+   "jp": "ビンゴー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:13dc",
+   "off": 5084,
+   "len": 60,
+   "jp": "またいつでも相手してやるぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1418",
+   "off": 5144,
+   "len": 60,
+   "jp": "同情するなら笹をくれっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1454",
+   "off": 5204,
+   "len": 60,
+   "jp": "プ～シンナ～！（もうだめだ）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1490",
+   "off": 5264,
+   "len": 60,
+   "jp": "フッ、今日のところはこのぐらいにしといてやるぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:14cc",
+   "off": 5324,
+   "len": 60,
+   "jp": "や、やられちゃった～ん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1508",
+   "off": 5384,
+   "len": 60,
+   "jp": "やっだぁ、信じらんな～い",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1544",
+   "off": 5444,
+   "len": 60,
+   "jp": "覚えてろぉ、この次は勝ってみせる",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1580",
+   "off": 5504,
+   "len": 60,
+   "jp": "さらばじゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:15bc",
+   "off": 5564,
+   "len": 60,
+   "jp": "くっ、{br}こんな奴に負けるなんて・・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:15f8",
+   "off": 5624,
+   "len": 60,
+   "jp": "こんな強い奴がまだいたとは、・・・ぐふっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1634",
+   "off": 5684,
+   "len": 60,
+   "jp": "アァ～ン、ママにいいつけてやるう",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1670",
+   "off": 5744,
+   "len": 60,
+   "jp": "なにぃ、全滅ぅ！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:16ac",
+   "off": 5804,
+   "len": 60,
+   "jp": "うおおおおおおおーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:16e8",
+   "off": 5864,
+   "len": 60,
+   "jp": "アンビリーバブルー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1724",
+   "off": 5924,
+   "len": 60,
+   "jp": "クソォ、脱出だ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1760",
+   "off": 5984,
+   "len": 60,
+   "jp": "あちゃぁ、俺のせーじゃね～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:179c",
+   "off": 6044,
+   "len": 60,
+   "jp": "この俺が、そんなばかな！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:17d8",
+   "off": 6104,
+   "len": 60,
+   "jp": "メローラいけ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1814",
+   "off": 6164,
+   "len": 60,
+   "jp": "でへぇ　メローラ様の登場だ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1850",
+   "off": 6224,
+   "len": 60,
+   "jp": "でへぇ　今日はホイコーローにして食べてやるっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:188c",
+   "off": 6284,
+   "len": 60,
+   "jp": "必殺アタ～ック！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:18c8",
+   "off": 6344,
+   "len": 60,
+   "jp": "これで決まりだっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1904",
+   "off": 6404,
+   "len": 60,
+   "jp": "当然の結果あるね～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:1940",
+   "off": 6464,
+   "len": 60,
+   "jp": "でへ　でへ　でへへ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:197c",
+   "off": 6524,
+   "len": 60,
+   "jp": "ガァァァッ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_PANDA:19b8",
+   "off": 6584,
+   "len": 60,
+   "jp": "サイツェ～ン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

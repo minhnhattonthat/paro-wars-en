@@ -1,0 +1,827 @@
+{
+ "file": "DATA/X_BUTA.BIN",
+ "lz": null,
+ "group": "battle",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "X_BUTA:4c8",
+   "off": 1224,
+   "len": 60,
+   "jp": "ブッフウーン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:504",
+   "off": 1284,
+   "len": 60,
+   "jp": "ブヒブヒ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:540",
+   "off": 1344,
+   "len": 60,
+   "jp": "ブウブウ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:57c",
+   "off": 1404,
+   "len": 60,
+   "jp": "ブッ・・ブゥゥゥゥ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:5b8",
+   "off": 1464,
+   "len": 60,
+   "jp": "ブッヒイイイイイ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:5f4",
+   "off": 1524,
+   "len": 60,
+   "jp": "ワシラの恐さを見せちゃる！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:630",
+   "off": 1584,
+   "len": 60,
+   "jp": "オラオラー！イクゾオオ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:66c",
+   "off": 1644,
+   "len": 60,
+   "jp": "ヤッチャルデエエエ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:6a8",
+   "off": 1704,
+   "len": 60,
+   "jp": "アタレ！アタレェェ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:6e4",
+   "off": 1764,
+   "len": 60,
+   "jp": "オオーシ！モラッター！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:720",
+   "off": 1824,
+   "len": 60,
+   "jp": "カルイ！カルイゾオオオ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:75c",
+   "off": 1884,
+   "len": 60,
+   "jp": "これでも食らえっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:798",
+   "off": 1944,
+   "len": 60,
+   "jp": "うー！やー！たー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:7d4",
+   "off": 2004,
+   "len": 60,
+   "jp": "これで終わりだぁ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:810",
+   "off": 2064,
+   "len": 60,
+   "jp": "あちょーぉ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:84c",
+   "off": 2124,
+   "len": 60,
+   "jp": "おらおらおらおらおらおらーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:888",
+   "off": 2184,
+   "len": 60,
+   "jp": "あたたたたたたたたたーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:8c4",
+   "off": 2244,
+   "len": 60,
+   "jp": "いくわよぉ～、そ～れっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:900",
+   "off": 2304,
+   "len": 60,
+   "jp": "君は生き残る事ができるかな？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:93c",
+   "off": 2364,
+   "len": 60,
+   "jp": "おぅりゃー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:978",
+   "off": 2424,
+   "len": 60,
+   "jp": "うりゃ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:9b4",
+   "off": 2484,
+   "len": 60,
+   "jp": "どりゃ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:9f0",
+   "off": 2544,
+   "len": 60,
+   "jp": "もらったー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:a2c",
+   "off": 2604,
+   "len": 60,
+   "jp": "エコエコアザラクー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:a68",
+   "off": 2664,
+   "len": 60,
+   "jp": "おかみにたてつくたわけものはこうしてやるー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:aa4",
+   "off": 2724,
+   "len": 60,
+   "jp": "あたれーぃ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:ae0",
+   "off": 2784,
+   "len": 60,
+   "jp": "甘いな",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:b1c",
+   "off": 2844,
+   "len": 60,
+   "jp": "ナニー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:b58",
+   "off": 2904,
+   "len": 60,
+   "jp": "アタッタ・・・{br}アタッタダトオオオ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:b94",
+   "off": 2964,
+   "len": 60,
+   "jp": "ぽげえええええー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:bd0",
+   "off": 3024,
+   "len": 60,
+   "jp": "わぁぁぁぁぁっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:c0c",
+   "off": 3084,
+   "len": 60,
+   "jp": "ひでぶー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:c48",
+   "off": 3144,
+   "len": 60,
+   "jp": "やったなー！親父にも殴られた事ないのにー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:c84",
+   "off": 3204,
+   "len": 60,
+   "jp": "なにをするんじゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:cc0",
+   "off": 3264,
+   "len": 60,
+   "jp": "バカヤロウ！あぶねぇじゃねーかっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:cfc",
+   "off": 3324,
+   "len": 60,
+   "jp": "やりやがったなー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:d38",
+   "off": 3384,
+   "len": 60,
+   "jp": "俺をだれだと思ってんだ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:d74",
+   "off": 3444,
+   "len": 60,
+   "jp": "うおー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:db0",
+   "off": 3504,
+   "len": 60,
+   "jp": "キャァー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:dec",
+   "off": 3564,
+   "len": 60,
+   "jp": "キャイーィィィン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:e28",
+   "off": 3624,
+   "len": 60,
+   "jp": "ウッキィィィッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:e64",
+   "off": 3684,
+   "len": 60,
+   "jp": "うわーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:ea0",
+   "off": 3744,
+   "len": 60,
+   "jp": "いってぇ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:edc",
+   "off": 3804,
+   "len": 60,
+   "jp": "ちっ、覚えてろ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:f18",
+   "off": 3864,
+   "len": 60,
+   "jp": "な、何だって？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:f54",
+   "off": 3924,
+   "len": 60,
+   "jp": "どこねらってんだよぉ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:f90",
+   "off": 3984,
+   "len": 60,
+   "jp": "いい根性してるじゃねーか",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:fcc",
+   "off": 4044,
+   "len": 60,
+   "jp": "甘いんだよッ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1008",
+   "off": 4104,
+   "len": 60,
+   "jp": "ブ、ブキ！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1044",
+   "off": 4164,
+   "len": 60,
+   "jp": "ナシ！ナシニシテクレエエエ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1080",
+   "off": 4224,
+   "len": 60,
+   "jp": "オオーシ！帰ってカンパイだ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:10bc",
+   "off": 4284,
+   "len": 60,
+   "jp": "ハッハー！ザマアミロ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:10f8",
+   "off": 4344,
+   "len": 60,
+   "jp": "ブヒブヒ！ブウウイイイイ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1134",
+   "off": 4404,
+   "len": 60,
+   "jp": "ヤーリー！ヤリヤリー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1170",
+   "off": 4464,
+   "len": 60,
+   "jp": "俺にたてつくなんて１０年早{br}いってんだよっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:11ac",
+   "off": 4524,
+   "len": 60,
+   "jp": "ふっ、手応えのない相手だったぜ　ブゥ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:11e8",
+   "off": 4584,
+   "len": 60,
+   "jp": "ダァーハッハッハッハッハ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1224",
+   "off": 4644,
+   "len": 60,
+   "jp": "まだまだだな",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1260",
+   "off": 4704,
+   "len": 60,
+   "jp": "俺をとめることはできん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:129c",
+   "off": 4764,
+   "len": 60,
+   "jp": "とっとと帰れ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:12d8",
+   "off": 4824,
+   "len": 60,
+   "jp": "ヤァーリィー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1314",
+   "off": 4884,
+   "len": 60,
+   "jp": "修行が足りん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1350",
+   "off": 4944,
+   "len": 60,
+   "jp": "ヨッシャー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:138c",
+   "off": 5004,
+   "len": 60,
+   "jp": "ビンゴー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:13c8",
+   "off": 5064,
+   "len": 60,
+   "jp": "またいつでも相手してやるぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1404",
+   "off": 5124,
+   "len": 60,
+   "jp": "カッテダネエエェエ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1440",
+   "off": 5184,
+   "len": 60,
+   "jp": "ウオオオオオオオ！マケルノカアアア！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:147c",
+   "off": 5244,
+   "len": 60,
+   "jp": "フッ、今日のところはこのぐらいにしといてやるぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:14b8",
+   "off": 5304,
+   "len": 60,
+   "jp": "や、やられちゃった～ん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:14f4",
+   "off": 5364,
+   "len": 60,
+   "jp": "やっだ～、信じらんな～い",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1530",
+   "off": 5424,
+   "len": 60,
+   "jp": "覚えてろ！{br}この次は勝ってみせる！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:156c",
+   "off": 5484,
+   "len": 60,
+   "jp": "さらばじゃ～～～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:15a8",
+   "off": 5544,
+   "len": 60,
+   "jp": "くっ、{br}こんな奴に負けるなんて・・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:15e4",
+   "off": 5604,
+   "len": 60,
+   "jp": "こんな強い奴がまだいたとは、・・・グワッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1620",
+   "off": 5664,
+   "len": 60,
+   "jp": "ウエ～ン！！ママにいいつけてやるぅ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:165c",
+   "off": 5724,
+   "len": 60,
+   "jp": "なにーっ全滅！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1698",
+   "off": 5784,
+   "len": 60,
+   "jp": "うおおおおおおぉ～ぃと！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:16d4",
+   "off": 5844,
+   "len": 60,
+   "jp": "アンビリーバブルー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1710",
+   "off": 5904,
+   "len": 60,
+   "jp": "クソー脱出だ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:174c",
+   "off": 5964,
+   "len": 60,
+   "jp": "あちゃー、俺のせーじゃねー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1788",
+   "off": 6024,
+   "len": 60,
+   "jp": "この俺が、そんなばかなー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:17c4",
+   "off": 6084,
+   "len": 60,
+   "jp": "巨大メカ！ハッシイイン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1800",
+   "off": 6144,
+   "len": 60,
+   "jp": "輝くワレラノカミヨ！イザ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:183c",
+   "off": 6204,
+   "len": 60,
+   "jp": "巨大ブタ！イッキマース！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1878",
+   "off": 6264,
+   "len": 60,
+   "jp": "必殺！シコフミイイイ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:18b4",
+   "off": 6324,
+   "len": 60,
+   "jp": "マワシ！ケリィ～ッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:18f0",
+   "off": 6384,
+   "len": 60,
+   "jp": "フングアアアア！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:192c",
+   "off": 6444,
+   "len": 60,
+   "jp": "ブヒブヒブヒー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:1968",
+   "off": 6504,
+   "len": 60,
+   "jp": "イツミテモスンバラシーイ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:19a4",
+   "off": 6564,
+   "len": 60,
+   "jp": "グアアアア！ソンナアアア！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_BUTA:19e0",
+   "off": 6624,
+   "len": 60,
+   "jp": "ピゲゲー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

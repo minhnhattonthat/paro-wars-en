@@ -1,0 +1,818 @@
+{
+ "file": "DATA/X_TAKO.BIN",
+ "lz": null,
+ "group": "battle",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "X_TAKO:474",
+   "off": 1140,
+   "len": 60,
+   "jp": "と～ちゃん！オレ達やるぜ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:4b0",
+   "off": 1200,
+   "len": 60,
+   "jp": "あらよっと　登・場　アッカシヤ軍！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:4ec",
+   "off": 1260,
+   "len": 60,
+   "jp": "いっきま～す！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:528",
+   "off": 1320,
+   "len": 60,
+   "jp": "うっ、チュッチュ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:564",
+   "off": 1380,
+   "len": 60,
+   "jp": "と～ちゃん！オレ達燃えるぜ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:5a0",
+   "off": 1440,
+   "len": 60,
+   "jp": "えっへん！かかってきなさい！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:5dc",
+   "off": 1500,
+   "len": 60,
+   "jp": "いっくど～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:618",
+   "off": 1560,
+   "len": 60,
+   "jp": "まずっ！　このままじゃタコ焼きになっちまう！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:654",
+   "off": 1620,
+   "len": 60,
+   "jp": "てい、てい、て～いっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:690",
+   "off": 1680,
+   "len": 60,
+   "jp": "これでもくらえ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:6cc",
+   "off": 1740,
+   "len": 60,
+   "jp": "チュ・チュ・チュ・チュ・{br}チュイ～ン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:708",
+   "off": 1800,
+   "len": 60,
+   "jp": "これでも食らいな！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:744",
+   "off": 1860,
+   "len": 60,
+   "jp": "うーやーたー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:780",
+   "off": 1920,
+   "len": 60,
+   "jp": "これで終わりだい！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:7bc",
+   "off": 1980,
+   "len": 60,
+   "jp": "あちょ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:7f8",
+   "off": 2040,
+   "len": 60,
+   "jp": "おらおらおらおらーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:834",
+   "off": 2100,
+   "len": 60,
+   "jp": "あたたたたたたたーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:870",
+   "off": 2160,
+   "len": 60,
+   "jp": "いくわよ、そぉれっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:8ac",
+   "off": 2220,
+   "len": 60,
+   "jp": "君は生き残る事ができるかな？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:8e8",
+   "off": 2280,
+   "len": 60,
+   "jp": "おりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:924",
+   "off": 2340,
+   "len": 60,
+   "jp": "うりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:960",
+   "off": 2400,
+   "len": 60,
+   "jp": "どりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:99c",
+   "off": 2460,
+   "len": 60,
+   "jp": "もらったー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:9d8",
+   "off": 2520,
+   "len": 60,
+   "jp": "エコエコアザラクー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:a14",
+   "off": 2580,
+   "len": 60,
+   "jp": "おかみにたてつくたわけものはこうしてやるぅ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:a50",
+   "off": 2640,
+   "len": 60,
+   "jp": "あたれー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:a8c",
+   "off": 2700,
+   "len": 60,
+   "jp": "甘いな",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:ac8",
+   "off": 2760,
+   "len": 60,
+   "jp": "いて～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:b04",
+   "off": 2820,
+   "len": 60,
+   "jp": "もったいな～い！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:b40",
+   "off": 2880,
+   "len": 60,
+   "jp": "ふぎゅっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:b7c",
+   "off": 2940,
+   "len": 60,
+   "jp": "うわぁぁぁぁぁっ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:bb8",
+   "off": 3000,
+   "len": 60,
+   "jp": "ひでぶー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:bf4",
+   "off": 3060,
+   "len": 60,
+   "jp": "やったなー、親父にも殴られた事ないのに",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:c30",
+   "off": 3120,
+   "len": 60,
+   "jp": "なにをするんじゃい！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:c6c",
+   "off": 3180,
+   "len": 60,
+   "jp": "バッキャロウ！{br}あぶねぇじゃねーかっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:ca8",
+   "off": 3240,
+   "len": 60,
+   "jp": "やりやがったなー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:ce4",
+   "off": 3300,
+   "len": 60,
+   "jp": "俺をだれだと思ってんだい！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:d20",
+   "off": 3360,
+   "len": 60,
+   "jp": "うおぅ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:d5c",
+   "off": 3420,
+   "len": 60,
+   "jp": "キャー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:d98",
+   "off": 3480,
+   "len": 60,
+   "jp": "キャイーン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:dd4",
+   "off": 3540,
+   "len": 60,
+   "jp": "ウキーッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:e10",
+   "off": 3600,
+   "len": 60,
+   "jp": "うわーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:e4c",
+   "off": 3660,
+   "len": 60,
+   "jp": "イテー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:e88",
+   "off": 3720,
+   "len": 60,
+   "jp": "ちっ、覚えてろぉ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:ec4",
+   "off": 3780,
+   "len": 60,
+   "jp": "な、何だって？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:f00",
+   "off": 3840,
+   "len": 60,
+   "jp": "どこねらってんだよ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:f3c",
+   "off": 3900,
+   "len": 60,
+   "jp": "いい根性してるじゃねーか",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:f78",
+   "off": 3960,
+   "len": 60,
+   "jp": "甘いんだよ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:fb4",
+   "off": 4020,
+   "len": 60,
+   "jp": "うえぇぇぇ～ん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:ff0",
+   "off": 4080,
+   "len": 60,
+   "jp": "ゲ～　これいかれてる",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:102c",
+   "off": 4140,
+   "len": 60,
+   "jp": "正義が勝つ！これでパロワールドも安泰だっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1068",
+   "off": 4200,
+   "len": 60,
+   "jp": "父ちゃん、やったよ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:10a4",
+   "off": 4260,
+   "len": 60,
+   "jp": "やり～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:10e0",
+   "off": 4320,
+   "len": 60,
+   "jp": "父ちゃん、見てくれた？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:111c",
+   "off": 4380,
+   "len": 60,
+   "jp": "俺にたてつくなんて１０年早{br}いってんだよ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1158",
+   "off": 4440,
+   "len": 60,
+   "jp": "へっ、手応えのない相手だったぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1194",
+   "off": 4500,
+   "len": 60,
+   "jp": "ヒャハハハハハハハ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:11d0",
+   "off": 4560,
+   "len": 60,
+   "jp": "まだまだだな",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:120c",
+   "off": 4620,
+   "len": 60,
+   "jp": "俺をとめることはできん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1248",
+   "off": 4680,
+   "len": 60,
+   "jp": "とっととお家にお帰り！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1284",
+   "off": 4740,
+   "len": 60,
+   "jp": "ヤリィー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:12c0",
+   "off": 4800,
+   "len": 60,
+   "jp": "修行が足り～ん！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:12fc",
+   "off": 4860,
+   "len": 60,
+   "jp": "ヨッシャ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1338",
+   "off": 4920,
+   "len": 60,
+   "jp": "ビンゴー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1374",
+   "off": 4980,
+   "len": 60,
+   "jp": "またいつでも相手してやるぜい",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:13b0",
+   "off": 5040,
+   "len": 60,
+   "jp": "さようなら～っ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:13ec",
+   "off": 5100,
+   "len": 60,
+   "jp": "げぇぇっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1428",
+   "off": 5160,
+   "len": 60,
+   "jp": "フッ、今日のところは、このぐらいにしといてやるぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1464",
+   "off": 5220,
+   "len": 60,
+   "jp": "や、やられちゃった～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:14a0",
+   "off": 5280,
+   "len": 60,
+   "jp": "やっだあ、信じらんな～い",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:14dc",
+   "off": 5340,
+   "len": 60,
+   "jp": "覚えてろ！この次は勝ってみせる",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1518",
+   "off": 5400,
+   "len": 60,
+   "jp": "さらばじゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1554",
+   "off": 5460,
+   "len": 60,
+   "jp": "くっ、{br}こんな奴に負けるなんて・・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1590",
+   "off": 5520,
+   "len": 60,
+   "jp": "こんな強い奴がまだいたとは{br}・・・ぐふっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:15cc",
+   "off": 5580,
+   "len": 60,
+   "jp": "ウエーン、ママにいいつけてやるー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1608",
+   "off": 5640,
+   "len": 60,
+   "jp": "なにいっ！全滅！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1644",
+   "off": 5700,
+   "len": 60,
+   "jp": "うおおおおおおおーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1680",
+   "off": 5760,
+   "len": 60,
+   "jp": "アンビリーバブルー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:16bc",
+   "off": 5820,
+   "len": 60,
+   "jp": "くそぉ、脱出だ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:16f8",
+   "off": 5880,
+   "len": 60,
+   "jp": "あちゃ、俺のせーじゃねー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1734",
+   "off": 5940,
+   "len": 60,
+   "jp": "この俺が、そんなばかな・・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1770",
+   "off": 6000,
+   "len": 60,
+   "jp": "ラッキー君、いけっチュ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:17ac",
+   "off": 6060,
+   "len": 60,
+   "jp": "Ｖが見えるぜ！巨大メカ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:17e8",
+   "off": 6120,
+   "len": 60,
+   "jp": "ラッキー君登場～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1824",
+   "off": 6180,
+   "len": 60,
+   "jp": "怒りのっ　必殺奥義～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1860",
+   "off": 6240,
+   "len": 60,
+   "jp": "お・りゃ・りゃ～！{br}いてこましたれ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:189c",
+   "off": 6300,
+   "len": 60,
+   "jp": "父ちゃん！海が好きだ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:18d8",
+   "off": 6360,
+   "len": 60,
+   "jp": "俺はいま、モーレツに感動してるぜ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1914",
+   "off": 6420,
+   "len": 60,
+   "jp": "あ・足がタコ焼き～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_TAKO:1950",
+   "off": 6480,
+   "len": 60,
+   "jp": "む、むねん～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

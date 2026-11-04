@@ -1,0 +1,956 @@
+{
+ "file": "DATA/CNTRY_ST.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "CNTRY_ST:504",
+   "off": 1284,
+   "len": 8,
+   "jp": "ＣＯＭ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "CNTRY_ST:w8014b500"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:50c",
+   "off": 1292,
+   "len": 8,
+   "jp": "４Ｐ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "CNTRY_ST:w8014b4fc"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:514",
+   "off": 1300,
+   "len": 8,
+   "jp": "３Ｐ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "CNTRY_ST:w8014b4f8"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:51c",
+   "off": 1308,
+   "len": 8,
+   "jp": "２Ｐ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "CNTRY_ST:w8014b4f4"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:524",
+   "off": 1316,
+   "len": 8,
+   "jp": "１Ｐ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "CNTRY_ST:w8014b4f0"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:538",
+   "off": 1336,
+   "len": 52,
+   "jp": "国情報　　　　　　　　　　　　　　　　　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b530"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:5ac",
+   "off": 1452,
+   "len": 8,
+   "jp": "製油所",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b5a4"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:5b4",
+   "off": 1460,
+   "len": 8,
+   "jp": "工場",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b5a0"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:5bc",
+   "off": 1468,
+   "len": 4,
+   "jp": "港",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b59c"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:5c0",
+   "off": 1472,
+   "len": 8,
+   "jp": "空港",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b598"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:5c8",
+   "off": 1480,
+   "len": 8,
+   "jp": "都市",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b594"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:5d0",
+   "off": 1488,
+   "len": 8,
+   "jp": "部隊数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b590"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:5d8",
+   "off": 1496,
+   "len": 8,
+   "jp": "科学力",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b58c"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:5e0",
+   "off": 1504,
+   "len": 8,
+   "jp": "燃料",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b588"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:5e8",
+   "off": 1512,
+   "len": 8,
+   "jp": "軍事費",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b584"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:5f0",
+   "off": 1520,
+   "len": 8,
+   "jp": "指揮",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b580"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:5f8",
+   "off": 1528,
+   "len": 8,
+   "jp": "国名",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b578"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:648",
+   "off": 1608,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b640"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:654",
+   "off": 1620,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b63c"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:660",
+   "off": 1632,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b638"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:66c",
+   "off": 1644,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b634"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:678",
+   "off": 1656,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b630"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:684",
+   "off": 1668,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b62c"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:690",
+   "off": 1680,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b628"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:69c",
+   "off": 1692,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b624"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:6a8",
+   "off": 1704,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b620"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:6b4",
+   "off": 1716,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b61c"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:6c0",
+   "off": 1728,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b618"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:70c",
+   "off": 1804,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b704"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:718",
+   "off": 1816,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b700"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:724",
+   "off": 1828,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b6fc"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:730",
+   "off": 1840,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b6f8"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:73c",
+   "off": 1852,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b6f4"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:748",
+   "off": 1864,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b6f0"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:754",
+   "off": 1876,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b6ec"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:760",
+   "off": 1888,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b6e8"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:76c",
+   "off": 1900,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b6e4"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:778",
+   "off": 1912,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b6e0"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:784",
+   "off": 1924,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b6dc"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:7d0",
+   "off": 2000,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b7c8"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:7dc",
+   "off": 2012,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b7c4"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:7e8",
+   "off": 2024,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b7c0"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:7f4",
+   "off": 2036,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b7bc"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:800",
+   "off": 2048,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b7b8"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:80c",
+   "off": 2060,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b7b4"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:818",
+   "off": 2072,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b7b0"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:824",
+   "off": 2084,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b7ac"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:830",
+   "off": 2096,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b7a8"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:83c",
+   "off": 2108,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b7a4"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:848",
+   "off": 2120,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b7a0"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:894",
+   "off": 2196,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b88c"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:8a0",
+   "off": 2208,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b888"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:8ac",
+   "off": 2220,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b884"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:8b8",
+   "off": 2232,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b880"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:8c4",
+   "off": 2244,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b87c"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:8d0",
+   "off": 2256,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b878"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:8dc",
+   "off": 2268,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b874"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:8e8",
+   "off": 2280,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b870"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:8f4",
+   "off": 2292,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b86c"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:900",
+   "off": 2304,
+   "len": 12,
+   "jp": "　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b868"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:90c",
+   "off": 2316,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b864"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:958",
+   "off": 2392,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b954"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:95c",
+   "off": 2396,
+   "len": 12,
+   "jp": "ニャー帝国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b950"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:968",
+   "off": 2408,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "CNTRY_ST:w8014b94c"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:96c",
+   "off": 2412,
+   "len": 12,
+   "jp": "バウバウ国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b948"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:978",
+   "off": 2424,
+   "len": 12,
+   "jp": "獣民共和国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b944"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:984",
+   "off": 2436,
+   "len": 8,
+   "jp": "パンダ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b940"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:98c",
+   "off": 2444,
+   "len": 12,
+   "jp": "諸島首長国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b93c"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:998",
+   "off": 2456,
+   "len": 8,
+   "jp": "モアイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b938"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:9a0",
+   "off": 2464,
+   "len": 12,
+   "jp": "　＆あいつ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b934"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:9ac",
+   "off": 2476,
+   "len": 8,
+   "jp": "こいつ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b930"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:9b4",
+   "off": 2484,
+   "len": 12,
+   "jp": "連邦合衆国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b92c"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:9c0",
+   "off": 2496,
+   "len": 12,
+   "jp": "ラブリー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b928"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:9cc",
+   "off": 2508,
+   "len": 12,
+   "jp": "　　ランド",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b924"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:9d8",
+   "off": 2520,
+   "len": 12,
+   "jp": "アカシヤ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b920"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:9e4",
+   "off": 2532,
+   "len": 12,
+   "jp": "　　　帝国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b91c"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:9f0",
+   "off": 2544,
+   "len": 12,
+   "jp": "ミカエル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b918"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:9fc",
+   "off": 2556,
+   "len": 12,
+   "jp": "　　　王国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b914"
+   ]
+  },
+  {
+   "id": "CNTRY_ST:a08",
+   "off": 2568,
+   "len": 12,
+   "jp": "ペンタロウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "CNTRY_ST:w8014b910"
+   ]
+  }
+ ]
+}

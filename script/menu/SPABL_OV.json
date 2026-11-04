@@ -1,0 +1,55 @@
+{
+ "file": "DATA/SPABL_OV.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "SPABL_OV:4",
+   "off": 4,
+   "len": 12,
+   "jp": "なります。",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPABL_OV:w8014cfdc"
+   ]
+  },
+  {
+   "id": "SPABL_OV:10",
+   "off": 16,
+   "len": 20,
+   "jp": "すると、行動済みに",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPABL_OV:w8014cfd4"
+   ]
+  },
+  {
+   "id": "SPABL_OV:24",
+   "off": 36,
+   "len": 20,
+   "jp": "テレポーテーション",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SPABL_OV:w8014cfcc"
+   ]
+  },
+  {
+   "id": "SPABL_OV:1fa8",
+   "off": 8104,
+   "len": 4,
+   "jp": "瀉",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables after the code"
+  }
+ ]
+}

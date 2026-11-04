@@ -1,0 +1,2384 @@
+{
+ "file": "DATA/DEMO/KABE4.BIN",
+ "lz": 0,
+ "group": "data",
+ "text_from": 65536,
+ "entries": [
+  {
+   "id": "DEMO/KABE4:10000",
+   "off": 65536,
+   "len": 26,
+   "jp": "国王：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1001a",
+   "off": 65562,
+   "len": 26,
+   "jp": "　ペンタロウキング３世",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10034",
+   "off": 65588,
+   "len": 26,
+   "jp": "首都：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1004e",
+   "off": 65614,
+   "len": 26,
+   "jp": "　究極合体都市",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10068",
+   "off": 65640,
+   "len": 26,
+   "jp": "　　　　　　ロン＆ドン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10082",
+   "off": 65666,
+   "len": 26,
+   "jp": "民族：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1009c",
+   "off": 65692,
+   "len": 26,
+   "jp": "　アングロ－サクソン　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:100b6",
+   "off": 65718,
+   "len": 26,
+   "jp": "　　　　　　ペンギン族",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:100d0",
+   "off": 65744,
+   "len": 26,
+   "jp": "軍事組織：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:100ea",
+   "off": 65770,
+   "len": 26,
+   "jp": "　ペンタ連合",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10104",
+   "off": 65796,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:1011e",
+   "off": 65822,
+   "len": 26,
+   "jp": "　軍事組織「ペンタ連合」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10138",
+   "off": 65848,
+   "len": 26,
+   "jp": "の議長国。極上産業革命",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10152",
+   "off": 65874,
+   "len": 26,
+   "jp": "以来、地上兵器の開発に",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1016c",
+   "off": 65900,
+   "len": 26,
+   "jp": "おいて高い技術水準を堅",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10186",
+   "off": 65926,
+   "len": 26,
+   "jp": "持している。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:101a0",
+   "off": 65952,
+   "len": 26,
+   "jp": "「ＳＭ－１」は、ペンタ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:101ba",
+   "off": 65978,
+   "len": 26,
+   "jp": "王国が誇る主力戦車で、",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:101d4",
+   "off": 66004,
+   "len": 26,
+   "jp": "ペンタ連合の「動く砦」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:101ee",
+   "off": 66030,
+   "len": 26,
+   "jp": "と言われている。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10208",
+   "off": 66056,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:10222",
+   "off": 66082,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:1023c",
+   "off": 66108,
+   "len": 26,
+   "jp": "主力戦車：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10256",
+   "off": 66134,
+   "len": 26,
+   "jp": "　ＳＭ－１",
+   "en": "",
+   "status": "todo",
+   "kind": "num"
+  },
+  {
+   "id": "DEMO/KABE4:10270",
+   "off": 66160,
+   "len": 26,
+   "jp": "主力機：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1028a",
+   "off": 66186,
+   "len": 26,
+   "jp": "　イーグル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:102a4",
+   "off": 66212,
+   "len": 26,
+   "jp": "　　　サブロウシロウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:102be",
+   "off": 66238,
+   "len": 26,
+   "jp": "主力戦艦：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:102d8",
+   "off": 66264,
+   "len": 26,
+   "jp": "　フォレスタルキング",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:102f2",
+   "off": 66290,
+   "len": 26,
+   "jp": "　　　　　　（空母）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1030c",
+   "off": 66316,
+   "len": 26,
+   "jp": "極上ロボ：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10326",
+   "off": 66342,
+   "len": 26,
+   "jp": "　ペンタロウＸ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10340",
+   "off": 66368,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:1035a",
+   "off": 66394,
+   "len": 26,
+   "jp": "帝王：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10374",
+   "off": 66420,
+   "len": 26,
+   "jp": "　ミカエル・アブゥ４世",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1038e",
+   "off": 66446,
+   "len": 26,
+   "jp": "首都：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:103a8",
+   "off": 66472,
+   "len": 26,
+   "jp": "　複合都市アブゥリャド",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:103c2",
+   "off": 66498,
+   "len": 26,
+   "jp": "民族：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:103dc",
+   "off": 66524,
+   "len": 26,
+   "jp": "　ワッハーブサウード－",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:103f6",
+   "off": 66550,
+   "len": 26,
+   "jp": "　　　ピッグミカエル族",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10410",
+   "off": 66576,
+   "len": 26,
+   "jp": "軍事組織：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1042a",
+   "off": 66602,
+   "len": 26,
+   "jp": "　アラジオ連合",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10444",
+   "off": 66628,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:1045e",
+   "off": 66654,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:10478",
+   "off": 66680,
+   "len": 26,
+   "jp": "　軍事組織「アラジオ連",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10492",
+   "off": 66706,
+   "len": 26,
+   "jp": "合」の隣国への軍事介入",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:104ac",
+   "off": 66732,
+   "len": 26,
+   "jp": "はすさまじい。自国にこ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:104c6",
+   "off": 66758,
+   "len": 26,
+   "jp": "そ武器開発の高度な技術",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:104e0",
+   "off": 66784,
+   "len": 26,
+   "jp": "力はないものの、石油貿",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:104fa",
+   "off": 66810,
+   "len": 26,
+   "jp": "易による利益を元手に、",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10514",
+   "off": 66836,
+   "len": 26,
+   "jp": "西側・東側の最新兵器を",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1052e",
+   "off": 66862,
+   "len": 26,
+   "jp": "購入し、武装を整えてい",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10548",
+   "off": 66888,
+   "len": 26,
+   "jp": "る。地上装備はピカ一。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10562",
+   "off": 66914,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:1057c",
+   "off": 66940,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:10596",
+   "off": 66966,
+   "len": 26,
+   "jp": "主力戦車：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:105b0",
+   "off": 66992,
+   "len": 26,
+   "jp": "　レオナルド２",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:105ca",
+   "off": 67018,
+   "len": 26,
+   "jp": "主力機：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:105e4",
+   "off": 67044,
+   "len": 26,
+   "jp": "　ぷりぷりクフィル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:105fe",
+   "off": 67070,
+   "len": 26,
+   "jp": "　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:10618",
+   "off": 67096,
+   "len": 26,
+   "jp": "主力戦艦：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10632",
+   "off": 67122,
+   "len": 26,
+   "jp": "　ビンビンダブル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1064c",
+   "off": 67148,
+   "len": 26,
+   "jp": "　　　　　　（空母）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10666",
+   "off": 67174,
+   "len": 26,
+   "jp": "極上ロボ：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10680",
+   "off": 67200,
+   "len": 26,
+   "jp": "　ブタシオｍｋ２",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1069a",
+   "off": 67226,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:106b4",
+   "off": 67252,
+   "len": 26,
+   "jp": "総統：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:106ce",
+   "off": 67278,
+   "len": 26,
+   "jp": "　Ａ．タコスケＪｒ．",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:106e8",
+   "off": 67304,
+   "len": 26,
+   "jp": "首都：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10702",
+   "off": 67330,
+   "len": 26,
+   "jp": "　アカシヤシティー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1071c",
+   "off": 67356,
+   "len": 26,
+   "jp": "民族：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10736",
+   "off": 67382,
+   "len": 26,
+   "jp": "　コリャ－タコスケ族",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10750",
+   "off": 67408,
+   "len": 26,
+   "jp": "軍事組織：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1076a",
+   "off": 67434,
+   "len": 26,
+   "jp": "　コイツ＆アイツ機構　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10784",
+   "off": 67460,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:1079e",
+   "off": 67486,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:107b8",
+   "off": 67512,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:107d2",
+   "off": 67538,
+   "len": 26,
+   "jp": "　国の大部分が海に囲ま",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:107ec",
+   "off": 67564,
+   "len": 26,
+   "jp": "れていることから、海軍",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10806",
+   "off": 67590,
+   "len": 26,
+   "jp": "を中心とした武装体型を",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10820",
+   "off": 67616,
+   "len": 26,
+   "jp": "とっている。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1083a",
+   "off": 67642,
+   "len": 26,
+   "jp": "国営あいつ＝なんタロウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10854",
+   "off": 67668,
+   "len": 26,
+   "jp": "社製の戦闘空母「キレル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1086e",
+   "off": 67694,
+   "len": 26,
+   "jp": "ンバ！」を３隻保有する",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10888",
+   "off": 67720,
+   "len": 26,
+   "jp": "他、多くの潜水艦を保有",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:108a2",
+   "off": 67746,
+   "len": 26,
+   "jp": "している。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:108bc",
+   "off": 67772,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:108d6",
+   "off": 67798,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:108f0",
+   "off": 67824,
+   "len": 26,
+   "jp": "主力戦車：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1090a",
+   "off": 67850,
+   "len": 26,
+   "jp": "　Ｔバック－８０",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10924",
+   "off": 67876,
+   "len": 26,
+   "jp": "主力機：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1093e",
+   "off": 67902,
+   "len": 26,
+   "jp": "　ボンジュール",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10958",
+   "off": 67928,
+   "len": 26,
+   "jp": "　　　　　ミラージュ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10972",
+   "off": 67954,
+   "len": 26,
+   "jp": "主力戦艦：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1098c",
+   "off": 67980,
+   "len": 26,
+   "jp": "　キレルンバ！（空母）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:109a6",
+   "off": 68006,
+   "len": 26,
+   "jp": "極上ロボ：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:109c0",
+   "off": 68032,
+   "len": 26,
+   "jp": "　ラッキー君",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:109da",
+   "off": 68058,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:109f4",
+   "off": 68084,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:10a0e",
+   "off": 68110,
+   "len": 26,
+   "jp": "大統領：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10a28",
+   "off": 68136,
+   "len": 26,
+   "jp": "　ひかる・あかね",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10a42",
+   "off": 68162,
+   "len": 26,
+   "jp": "首都：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10a5c",
+   "off": 68188,
+   "len": 26,
+   "jp": "　イーグルサム・オン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10a76",
+   "off": 68214,
+   "len": 26,
+   "jp": "民族：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10a90",
+   "off": 68240,
+   "len": 26,
+   "jp": "　アングロ－サクソン　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10aaa",
+   "off": 68266,
+   "len": 26,
+   "jp": "　　　ペンギン族",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10ac4",
+   "off": 68292,
+   "len": 26,
+   "jp": "　　　／究極セクシー族",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10ade",
+   "off": 68318,
+   "len": 26,
+   "jp": "軍事組織：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10af8",
+   "off": 68344,
+   "len": 26,
+   "jp": "　ペンタ連合",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10b12",
+   "off": 68370,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:10b2c",
+   "off": 68396,
+   "len": 26,
+   "jp": "　航空産業においては世",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10b46",
+   "off": 68422,
+   "len": 26,
+   "jp": "界一を誇る。パグラス社",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10b60",
+   "off": 68448,
+   "len": 26,
+   "jp": "の「Ｆ－１５ラッキーイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10b7a",
+   "off": 68474,
+   "len": 26,
+   "jp": "ーグル」をはじめとする",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10b94",
+   "off": 68500,
+   "len": 26,
+   "jp": "戦闘機はどれも高性能で",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10bae",
+   "off": 68526,
+   "len": 26,
+   "jp": "パイロットもよく訓練さ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10bc8",
+   "off": 68552,
+   "len": 26,
+   "jp": "れている。各国にセクシ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10be2",
+   "off": 68578,
+   "len": 26,
+   "jp": "ー海兵隊を派遣し、世界",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10bfc",
+   "off": 68604,
+   "len": 26,
+   "jp": "の治安を守っている。　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10c16",
+   "off": 68630,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:10c30",
+   "off": 68656,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:10c4a",
+   "off": 68682,
+   "len": 26,
+   "jp": "主力戦車：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10c64",
+   "off": 68708,
+   "len": 26,
+   "jp": "　ＳＭ－１",
+   "en": "",
+   "status": "todo",
+   "kind": "num"
+  },
+  {
+   "id": "DEMO/KABE4:10c7e",
+   "off": 68734,
+   "len": 26,
+   "jp": "主力機：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10c98",
+   "off": 68760,
+   "len": 26,
+   "jp": "　Ｆ－１５ラッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10cb2",
+   "off": 68786,
+   "len": 26,
+   "jp": "　　　　　　　イーグル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10ccc",
+   "off": 68812,
+   "len": 26,
+   "jp": "主力戦艦：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10ce6",
+   "off": 68838,
+   "len": 26,
+   "jp": "　Ｉ／Ｏ　Ｗａ！（戦艦）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10d00",
+   "off": 68864,
+   "len": 26,
+   "jp": "極上ロボ：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10d1a",
+   "off": 68890,
+   "len": 26,
+   "jp": "　バニーちゃん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10d34",
+   "off": 68916,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:10d4e",
+   "off": 68942,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:10d68",
+   "off": 68968,
+   "len": 26,
+   "jp": "書記長：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10d82",
+   "off": 68994,
+   "len": 26,
+   "jp": "　こいつ書記長",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10d9c",
+   "off": 69020,
+   "len": 26,
+   "jp": "　　　　　あいつ大統領",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10db6",
+   "off": 69046,
+   "len": 26,
+   "jp": "首都：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10dd0",
+   "off": 69072,
+   "len": 26,
+   "jp": "　極上都市パロラード",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10dea",
+   "off": 69098,
+   "len": 26,
+   "jp": "民族：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10e04",
+   "off": 69124,
+   "len": 26,
+   "jp": "　こいつ＆あいつ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10e1e",
+   "off": 69150,
+   "len": 26,
+   "jp": "　　　　　　ブルース族",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10e38",
+   "off": 69176,
+   "len": 26,
+   "jp": "軍事組織：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10e52",
+   "off": 69202,
+   "len": 26,
+   "jp": "　コイツ＆アイツ機構　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10e6c",
+   "off": 69228,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:10e86",
+   "off": 69254,
+   "len": 26,
+   "jp": "　コイツ＆アイツ機構の",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10ea0",
+   "off": 69280,
+   "len": 26,
+   "jp": "長。世界に軍事スパイを",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10eba",
+   "off": 69306,
+   "len": 26,
+   "jp": "送り込み、徹底したスパ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10ed4",
+   "off": 69332,
+   "len": 26,
+   "jp": "イ活動を行っている。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10eee",
+   "off": 69358,
+   "len": 26,
+   "jp": "東側の武器のほとんどを",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10f08",
+   "off": 69384,
+   "len": 26,
+   "jp": "製造し、ミカエル帝国を",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10f22",
+   "off": 69410,
+   "len": 26,
+   "jp": "はじめ、多くの国に武器",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10f3c",
+   "off": 69436,
+   "len": 26,
+   "jp": "の輸出を行っている。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10f56",
+   "off": 69462,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:10f70",
+   "off": 69488,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:10f8a",
+   "off": 69514,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:10fa4",
+   "off": 69540,
+   "len": 26,
+   "jp": "主力戦車：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10fbe",
+   "off": 69566,
+   "len": 26,
+   "jp": "　Ｔバック－８０",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10fd8",
+   "off": 69592,
+   "len": 26,
+   "jp": "主力機：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:10ff2",
+   "off": 69618,
+   "len": 26,
+   "jp": "　紙ヒコーキ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1100c",
+   "off": 69644,
+   "len": 26,
+   "jp": "　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:11026",
+   "off": 69670,
+   "len": 26,
+   "jp": "主力戦艦：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11040",
+   "off": 69696,
+   "len": 26,
+   "jp": "　キレルンバ！（空母）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1105a",
+   "off": 69722,
+   "len": 26,
+   "jp": "極上ロボ：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11074",
+   "off": 69748,
+   "len": 26,
+   "jp": "　コイツジャイアント",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1108e",
+   "off": 69774,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:110a8",
+   "off": 69800,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:110c2",
+   "off": 69826,
+   "len": 26,
+   "jp": "首長：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:110dc",
+   "off": 69852,
+   "len": 26,
+   "jp": "　よしこ女帝７世",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:110f6",
+   "off": 69878,
+   "len": 26,
+   "jp": "首都：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11110",
+   "off": 69904,
+   "len": 26,
+   "jp": "　観光都市",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1112a",
+   "off": 69930,
+   "len": 26,
+   "jp": "　　　プリンセスよしこ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11144",
+   "off": 69956,
+   "len": 26,
+   "jp": "民族：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1115e",
+   "off": 69982,
+   "len": 26,
+   "jp": "　ピグム－モーリー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11178",
+   "off": 70008,
+   "len": 26,
+   "jp": "　　　　　　　モアイ族",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11192",
+   "off": 70034,
+   "len": 26,
+   "jp": "軍事組織：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:111ac",
+   "off": 70060,
+   "len": 26,
+   "jp": "　アラジオ連合",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:111c6",
+   "off": 70086,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:111e0",
+   "off": 70112,
+   "len": 26,
+   "jp": "　ミカエル帝国との同盟",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:111fa",
+   "off": 70138,
+   "len": 26,
+   "jp": "により、近隣諸島への軍",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11214",
+   "off": 70164,
+   "len": 26,
+   "jp": "事介入を行っている。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1122e",
+   "off": 70190,
+   "len": 26,
+   "jp": "モアイの兵士は勇敢で、",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11248",
+   "off": 70216,
+   "len": 26,
+   "jp": "引くことを知らない荒武",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11262",
+   "off": 70242,
+   "len": 26,
+   "jp": "者ぞろいといわれている。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1127c",
+   "off": 70268,
+   "len": 26,
+   "jp": "東側の兵器を中心に、陸",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11296",
+   "off": 70294,
+   "len": 26,
+   "jp": "・海・空軍の装備の強化",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:112b0",
+   "off": 70320,
+   "len": 26,
+   "jp": "をはかっている。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:112ca",
+   "off": 70346,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:112e4",
+   "off": 70372,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:112fe",
+   "off": 70398,
+   "len": 26,
+   "jp": "主力戦車：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11318",
+   "off": 70424,
+   "len": 26,
+   "jp": "　レオナルド２",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11332",
+   "off": 70450,
+   "len": 26,
+   "jp": "主力機：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1134c",
+   "off": 70476,
+   "len": 26,
+   "jp": "　ファンタジー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11366",
+   "off": 70502,
+   "len": 26,
+   "jp": "　　　　　　ファルコン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11380",
+   "off": 70528,
+   "len": 26,
+   "jp": "主力戦艦：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1139a",
+   "off": 70554,
+   "len": 26,
+   "jp": "　ビンビンダブル",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:113b4",
+   "off": 70580,
+   "len": 26,
+   "jp": "　　　　　　　（空母）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:113ce",
+   "off": 70606,
+   "len": 26,
+   "jp": "極上ロボ：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:113e8",
+   "off": 70632,
+   "len": 26,
+   "jp": "　ビックサンダーモアイ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11402",
+   "off": 70658,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:1141c",
+   "off": 70684,
+   "len": 26,
+   "jp": "党首：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11436",
+   "off": 70710,
+   "len": 26,
+   "jp": "　アンナパブロワ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11450",
+   "off": 70736,
+   "len": 26,
+   "jp": "首都：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1146a",
+   "off": 70762,
+   "len": 26,
+   "jp": "　文化経済都市北金",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11484",
+   "off": 70788,
+   "len": 26,
+   "jp": "民族：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1149e",
+   "off": 70814,
+   "len": 26,
+   "jp": "　パン族",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:114b8",
+   "off": 70840,
+   "len": 26,
+   "jp": "軍事組織：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:114d2",
+   "off": 70866,
+   "len": 26,
+   "jp": "　コイツ＆アイツ機構　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:114ec",
+   "off": 70892,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:11506",
+   "off": 70918,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:11520",
+   "off": 70944,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:1153a",
+   "off": 70970,
+   "len": 26,
+   "jp": "　この国の豊富な労働力",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11554",
+   "off": 70996,
+   "len": 26,
+   "jp": "は、時として豊富な戦闘",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1156e",
+   "off": 71022,
+   "len": 26,
+   "jp": "兵となる。軍事産業は、",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11588",
+   "off": 71048,
+   "len": 26,
+   "jp": "戦車等の陸上兵器の製造",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:115a2",
+   "off": 71074,
+   "len": 26,
+   "jp": "を中心にさかんである。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:115bc",
+   "off": 71100,
+   "len": 26,
+   "jp": "近代化には遅れているも",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:115d6",
+   "off": 71126,
+   "len": 26,
+   "jp": "のの、軍隊の規模は世界",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:115f0",
+   "off": 71152,
+   "len": 26,
+   "jp": "最大である。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1160a",
+   "off": 71178,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:11624",
+   "off": 71204,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:1163e",
+   "off": 71230,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:11658",
+   "off": 71256,
+   "len": 26,
+   "jp": "主力戦車：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11672",
+   "off": 71282,
+   "len": 26,
+   "jp": "　Ｔバック－８０",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1168c",
+   "off": 71308,
+   "len": 26,
+   "jp": "主力機：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:116a6",
+   "off": 71334,
+   "len": 26,
+   "jp": "　ＭｉＧ－",
+   "en": "",
+   "status": "todo",
+   "kind": "num"
+  },
+  {
+   "id": "DEMO/KABE4:116c0",
+   "off": 71360,
+   "len": 26,
+   "jp": "　　　　８００ＤＸ！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:116da",
+   "off": 71386,
+   "len": 26,
+   "jp": "主力戦艦：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:116f4",
+   "off": 71412,
+   "len": 26,
+   "jp": "　キレルンバ！（空母）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1170e",
+   "off": 71438,
+   "len": 26,
+   "jp": "極上ロボ：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11728",
+   "off": 71464,
+   "len": 26,
+   "jp": "　メローラ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11742",
+   "off": 71490,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:1175c",
+   "off": 71516,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:11776",
+   "off": 71542,
+   "len": 26,
+   "jp": "総理：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11790",
+   "off": 71568,
+   "len": 26,
+   "jp": "　ポチ之嵐",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:117aa",
+   "off": 71594,
+   "len": 26,
+   "jp": "首都：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:117c4",
+   "off": 71620,
+   "len": 26,
+   "jp": "　衛星都市ハチ公",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:117de",
+   "off": 71646,
+   "len": 26,
+   "jp": "民族：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:117f8",
+   "off": 71672,
+   "len": 26,
+   "jp": "　チュウケン－ミン族",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11812",
+   "off": 71698,
+   "len": 26,
+   "jp": "軍事組織：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1182c",
+   "off": 71724,
+   "len": 26,
+   "jp": "　ペンタ連合",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11846",
+   "off": 71750,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:11860",
+   "off": 71776,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:1187a",
+   "off": 71802,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:11894",
+   "off": 71828,
+   "len": 26,
+   "jp": "　憲法で軍隊はもたない",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:118ae",
+   "off": 71854,
+   "len": 26,
+   "jp": "事になっているが、ここ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:118c8",
+   "off": 71880,
+   "len": 26,
+   "jp": "に来て隣国との緊張が高",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:118e2",
+   "off": 71906,
+   "len": 26,
+   "jp": "まってきており、防衛の",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:118fc",
+   "off": 71932,
+   "len": 26,
+   "jp": "ための軍備増強を進めて",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11916",
+   "off": 71958,
+   "len": 26,
+   "jp": "いる。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11930",
+   "off": 71984,
+   "len": 26,
+   "jp": "独自の高度な武器開発技",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1194a",
+   "off": 72010,
+   "len": 26,
+   "jp": "術をもっており、本気に",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11964",
+   "off": 72036,
+   "len": 26,
+   "jp": "なったら恐い存在である。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:1197e",
+   "off": 72062,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:11998",
+   "off": 72088,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:119b2",
+   "off": 72114,
+   "len": 26,
+   "jp": "主力戦車：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:119cc",
+   "off": 72140,
+   "len": 26,
+   "jp": "　ＳＭ－１",
+   "en": "",
+   "status": "todo",
+   "kind": "num"
+  },
+  {
+   "id": "DEMO/KABE4:119e6",
+   "off": 72166,
+   "len": 26,
+   "jp": "主力機：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11a00",
+   "off": 72192,
+   "len": 26,
+   "jp": "　ビシバシＦ１",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11a1a",
+   "off": 72218,
+   "len": 26,
+   "jp": "　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/KABE4:11a34",
+   "off": 72244,
+   "len": 26,
+   "jp": "主力戦艦：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11a4e",
+   "off": 72270,
+   "len": 26,
+   "jp": "　フォレスタルキング",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11a68",
+   "off": 72296,
+   "len": 26,
+   "jp": "　　　　　　（空母）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11a82",
+   "off": 72322,
+   "len": 26,
+   "jp": "極上ロボ：",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11a9c",
+   "off": 72348,
+   "len": 26,
+   "jp": "　ヤッターバウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/KABE4:11ab6",
+   "off": 72374,
+   "len": 26,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  }
+ ]
+}

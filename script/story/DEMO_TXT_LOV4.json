@@ -1,0 +1,188 @@
+{
+ "file": "DATA/DEMO/TXT_LOV4.BIN",
+ "lz": null,
+ "group": "story",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "DEMO/TXT_LOV4:0",
+   "off": 0,
+   "len": 150,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:96",
+   "off": 150,
+   "len": 150,
+   "jp": "　南方戦線を制し、エネルギー危機も回避したラブリ　ー国に、平和な日々がおとずれたある日、",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:12c",
+   "off": 300,
+   "len": 150,
+   "jp": "ブリンブリンＨ島沖を航行中の、ラブリー国超ごうか　客船「パロニャン子号」から、ＳＯＳの通信が飛び込　んできた。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:1c2",
+   "off": 450,
+   "len": 150,
+   "jp": "　これがなんと、バウバウ国潜水艦の攻撃によるもの　と判明したのである！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:258",
+   "off": 600,
+   "len": 150,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:2ee",
+   "off": 750,
+   "len": 150,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:384",
+   "off": 900,
+   "len": 150,
+   "jp": "　こいつ＆あいつ国から２月７日島を取り返して以来、再度の侵攻を恐れたバウバウ国内では、きびしい警戒　体制がひかれていた。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:41a",
+   "off": 1050,
+   "len": 150,
+   "jp": "　そんな中、「パロニャン子号」は、ほんのわずかで　あったが本来の航路をそれて、バウバウ国の領海内に　入ってしまったのである。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:4b0",
+   "off": 1200,
+   "len": 150,
+   "jp": "　警戒警報発令に急いでかけつけた、バウバウ国警備　潜水艦「うすしおＦＣ」の再三にわたる警告にも関わ　らず、「パロニャン子号」からは全く応答がない。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:546",
+   "off": 1350,
+   "len": 150,
+   "jp": "うすしおＦＣ：「あやしい船！！応答するワン！！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:5dc",
+   "off": 1500,
+   "len": 150,
+   "jp": "　無線機：「ピィ～、ガ～、キャ～、　　　　　　　　　　　　　　ワハハハッ！！、オラオラ！！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:672",
+   "off": 1650,
+   "len": 150,
+   "jp": "　一方の「パロニャン子号」であるが、そのころ船内　では飲めや歌えやの大宴会、客船クルーを巻き込んで、王様ゲームで盛り上がっていたのであった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:708",
+   "off": 1800,
+   "len": 150,
+   "jp": "うすしおＦＣ：「ガウ～ッ！　　　　　　　　　　　　　　　　　　　　それ以上近づくと撃つワン！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:79e",
+   "off": 1950,
+   "len": 150,
+   "jp": "うすしおＦＣ：「ウワワン！　　　　　　　　　　　　　　　　　　　　もうゆるさんワン！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:834",
+   "off": 2100,
+   "len": 150,
+   "jp": "　たび重なる警告無視にしびれをきらし、ついに「う　すしおＦＣ」の魚雷が火を吹いた。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:8ca",
+   "off": 2250,
+   "len": 150,
+   "jp": "パロニャン子号：「イヤ～ン、何よこれ～、　　　　　　　　　　　　　　助けて～！！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:960",
+   "off": 2400,
+   "len": 150,
+   "jp": "　「パロニャン子号」のＳＯＳを受信したラブリー軍、戦闘開始を察知したバウバウ軍、双方から発進した軍　隊がブリンブリンＨ島沖で激突したのであった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:9f6",
+   "off": 2550,
+   "len": 150,
+   "jp": "ペン太郎：「こ、これは放っておけないのね。　　　　　　　　　　すぐにブリンブリンＨ島に　　　　　　　　　　　　　向かうんだ！！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:a8c",
+   "off": 2700,
+   "len": 150,
+   "jp": "　この知らせを受けたペン太郎王国は、戦いを止める　ため、ブリンブリンＨ島に軍隊を出動させるのであっ　た・・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV4:b22",
+   "off": 2850,
+   "len": 150,
+   "jp": "が、ついつられて戦ってしまうのであった！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

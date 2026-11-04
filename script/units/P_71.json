@@ -1,0 +1,116 @@
+{
+ "file": "DATA/P_71.BIN",
+ "lz": 132,
+ "group": "units",
+ "text_from": 34816,
+ "entries": [
+  {
+   "id": "P_71:8800",
+   "off": 34816,
+   "len": 32,
+   "jp": "　　　◆強さ５段階評価◆",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_71:8820",
+   "off": 34848,
+   "len": 32,
+   "jp": "攻撃力　３",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_71:8840",
+   "off": 34880,
+   "len": 32,
+   "jp": "守備力　３",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_71:8860",
+   "off": 34912,
+   "len": 52,
+   "jp": "「ドザえもん」である。ドザエモンでも、ドザエもんで",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_71:8894",
+   "off": 34964,
+   "len": 52,
+   "jp": "もない。この辺を間違えると、ファンの厳しいチェック",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_71:88c8",
+   "off": 35016,
+   "len": 52,
+   "jp": "が入るので注意しよう。空母としては異常に安いが、安",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_71:88fc",
+   "off": 35068,
+   "len": 52,
+   "jp": "いなりの性能しかない。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_71:8930",
+   "off": 35120,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_71:8964",
+   "off": 35172,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_71:8998",
+   "off": 35224,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_71:89cc",
+   "off": 35276,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_71:8a00",
+   "off": 35328,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  }
+ ]
+}

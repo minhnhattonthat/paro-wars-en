@@ -1,0 +1,1412 @@
+{
+ "file": "DATA/PROD_OV.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "PROD_OV:23a4",
+   "off": 9124,
+   "len": 52,
+   "jp": "兵器情報　　　　　：次ページ　　：解説　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d39c"
+   ]
+  },
+  {
+   "id": "PROD_OV:23e4",
+   "off": 9188,
+   "len": 52,
+   "jp": "兵器解説　　　　　　　　　　　　　　　　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d3dc"
+   ]
+  },
+  {
+   "id": "PROD_OV:2424",
+   "off": 9252,
+   "len": 52,
+   "jp": "兵器生産　　　　　：次ページ　　　：生産　　：情報",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d41c"
+   ]
+  },
+  {
+   "id": "PROD_OV:2474",
+   "off": 9332,
+   "len": 12,
+   "jp": "　戦闘機",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d468"
+   ]
+  },
+  {
+   "id": "PROD_OV:2480",
+   "off": 9344,
+   "len": 28,
+   "jp": "ギャラクティカファントム",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d464"
+   ]
+  },
+  {
+   "id": "PROD_OV:24cc",
+   "off": 9420,
+   "len": 8,
+   "jp": "　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d4c4"
+   ]
+  },
+  {
+   "id": "PROD_OV:24d4",
+   "off": 9428,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d4c0"
+   ]
+  },
+  {
+   "id": "PROD_OV:24d8",
+   "off": 9432,
+   "len": 8,
+   "jp": "保有数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d4bc"
+   ]
+  },
+  {
+   "id": "PROD_OV:24e0",
+   "off": 9440,
+   "len": 12,
+   "jp": "１１１１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d4b8"
+   ]
+  },
+  {
+   "id": "PROD_OV:24ec",
+   "off": 9452,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d4b4"
+   ]
+  },
+  {
+   "id": "PROD_OV:24f0",
+   "off": 9456,
+   "len": 8,
+   "jp": "科学力",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d4b0"
+   ]
+  },
+  {
+   "id": "PROD_OV:24f8",
+   "off": 9464,
+   "len": 16,
+   "jp": "１２３ウッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d4ac"
+   ]
+  },
+  {
+   "id": "PROD_OV:2508",
+   "off": 9480,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d4a8"
+   ]
+  },
+  {
+   "id": "PROD_OV:250c",
+   "off": 9484,
+   "len": 8,
+   "jp": "価格",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d4a4"
+   ]
+  },
+  {
+   "id": "PROD_OV:2538",
+   "off": 9528,
+   "len": 8,
+   "jp": "　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d530"
+   ]
+  },
+  {
+   "id": "PROD_OV:2540",
+   "off": 9536,
+   "len": 16,
+   "jp": "次回できる数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d52c"
+   ]
+  },
+  {
+   "id": "PROD_OV:2550",
+   "off": 9552,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d528"
+   ]
+  },
+  {
+   "id": "PROD_OV:2554",
+   "off": 9556,
+   "len": 8,
+   "jp": "　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d524"
+   ]
+  },
+  {
+   "id": "PROD_OV:255c",
+   "off": 9564,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d520"
+   ]
+  },
+  {
+   "id": "PROD_OV:2560",
+   "off": 9568,
+   "len": 8,
+   "jp": "生産数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d51c"
+   ]
+  },
+  {
+   "id": "PROD_OV:2584",
+   "off": 9604,
+   "len": 12,
+   "jp": "　戦闘機",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d578"
+   ]
+  },
+  {
+   "id": "PROD_OV:2590",
+   "off": 9616,
+   "len": 24,
+   "jp": "キャラクティカマグナム",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d574"
+   ]
+  },
+  {
+   "id": "PROD_OV:25d8",
+   "off": 9688,
+   "len": 8,
+   "jp": "９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d5d0"
+   ]
+  },
+  {
+   "id": "PROD_OV:25e0",
+   "off": 9696,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d5cc"
+   ]
+  },
+  {
+   "id": "PROD_OV:25e4",
+   "off": 9700,
+   "len": 8,
+   "jp": "保有数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d5c8"
+   ]
+  },
+  {
+   "id": "PROD_OV:25ec",
+   "off": 9708,
+   "len": 12,
+   "jp": "９９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d5c4"
+   ]
+  },
+  {
+   "id": "PROD_OV:25f8",
+   "off": 9720,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d5c0"
+   ]
+  },
+  {
+   "id": "PROD_OV:25fc",
+   "off": 9724,
+   "len": 8,
+   "jp": "科学力",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d5bc"
+   ]
+  },
+  {
+   "id": "PROD_OV:2604",
+   "off": 9732,
+   "len": 16,
+   "jp": "　　　ウッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d5b8"
+   ]
+  },
+  {
+   "id": "PROD_OV:2614",
+   "off": 9748,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d5b4"
+   ]
+  },
+  {
+   "id": "PROD_OV:2618",
+   "off": 9752,
+   "len": 8,
+   "jp": "価格",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d5b0"
+   ]
+  },
+  {
+   "id": "PROD_OV:2644",
+   "off": 9796,
+   "len": 8,
+   "jp": "９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d63c"
+   ]
+  },
+  {
+   "id": "PROD_OV:264c",
+   "off": 9804,
+   "len": 16,
+   "jp": "次回できる数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d638"
+   ]
+  },
+  {
+   "id": "PROD_OV:265c",
+   "off": 9820,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d634"
+   ]
+  },
+  {
+   "id": "PROD_OV:2660",
+   "off": 9824,
+   "len": 8,
+   "jp": "９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d630"
+   ]
+  },
+  {
+   "id": "PROD_OV:2668",
+   "off": 9832,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d62c"
+   ]
+  },
+  {
+   "id": "PROD_OV:266c",
+   "off": 9836,
+   "len": 8,
+   "jp": "生産数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d628"
+   ]
+  },
+  {
+   "id": "PROD_OV:2690",
+   "off": 9872,
+   "len": 12,
+   "jp": "　戦闘機",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d684"
+   ]
+  },
+  {
+   "id": "PROD_OV:269c",
+   "off": 9884,
+   "len": 16,
+   "jp": "テリオス！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d680"
+   ]
+  },
+  {
+   "id": "PROD_OV:26dc",
+   "off": 9948,
+   "len": 8,
+   "jp": "９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d6d4"
+   ]
+  },
+  {
+   "id": "PROD_OV:26e4",
+   "off": 9956,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d6d0"
+   ]
+  },
+  {
+   "id": "PROD_OV:26e8",
+   "off": 9960,
+   "len": 8,
+   "jp": "保有数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d6cc"
+   ]
+  },
+  {
+   "id": "PROD_OV:26f0",
+   "off": 9968,
+   "len": 12,
+   "jp": "９９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d6c8"
+   ]
+  },
+  {
+   "id": "PROD_OV:26fc",
+   "off": 9980,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d6c4"
+   ]
+  },
+  {
+   "id": "PROD_OV:2700",
+   "off": 9984,
+   "len": 8,
+   "jp": "科学力",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d6c0"
+   ]
+  },
+  {
+   "id": "PROD_OV:2708",
+   "off": 9992,
+   "len": 16,
+   "jp": "　　　ウッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d6bc"
+   ]
+  },
+  {
+   "id": "PROD_OV:2718",
+   "off": 10008,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d6b8"
+   ]
+  },
+  {
+   "id": "PROD_OV:271c",
+   "off": 10012,
+   "len": 8,
+   "jp": "価格",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d6b4"
+   ]
+  },
+  {
+   "id": "PROD_OV:2748",
+   "off": 10056,
+   "len": 8,
+   "jp": "９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d740"
+   ]
+  },
+  {
+   "id": "PROD_OV:2750",
+   "off": 10064,
+   "len": 16,
+   "jp": "次回できる数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d73c"
+   ]
+  },
+  {
+   "id": "PROD_OV:2760",
+   "off": 10080,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d738"
+   ]
+  },
+  {
+   "id": "PROD_OV:2764",
+   "off": 10084,
+   "len": 8,
+   "jp": "９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d734"
+   ]
+  },
+  {
+   "id": "PROD_OV:276c",
+   "off": 10092,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d730"
+   ]
+  },
+  {
+   "id": "PROD_OV:2770",
+   "off": 10096,
+   "len": 8,
+   "jp": "生産数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d72c"
+   ]
+  },
+  {
+   "id": "PROD_OV:2794",
+   "off": 10132,
+   "len": 12,
+   "jp": "　戦闘機",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d788"
+   ]
+  },
+  {
+   "id": "PROD_OV:27a0",
+   "off": 10144,
+   "len": 24,
+   "jp": "ウイニングザレインボウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d784"
+   ]
+  },
+  {
+   "id": "PROD_OV:27e8",
+   "off": 10216,
+   "len": 8,
+   "jp": "９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d7e0"
+   ]
+  },
+  {
+   "id": "PROD_OV:27f0",
+   "off": 10224,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d7dc"
+   ]
+  },
+  {
+   "id": "PROD_OV:27f4",
+   "off": 10228,
+   "len": 8,
+   "jp": "保有数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d7d8"
+   ]
+  },
+  {
+   "id": "PROD_OV:27fc",
+   "off": 10236,
+   "len": 12,
+   "jp": "９９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d7d4"
+   ]
+  },
+  {
+   "id": "PROD_OV:2808",
+   "off": 10248,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d7d0"
+   ]
+  },
+  {
+   "id": "PROD_OV:280c",
+   "off": 10252,
+   "len": 8,
+   "jp": "科学力",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d7cc"
+   ]
+  },
+  {
+   "id": "PROD_OV:2814",
+   "off": 10260,
+   "len": 16,
+   "jp": "　　　ウッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d7c8"
+   ]
+  },
+  {
+   "id": "PROD_OV:2824",
+   "off": 10276,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d7c4"
+   ]
+  },
+  {
+   "id": "PROD_OV:2828",
+   "off": 10280,
+   "len": 8,
+   "jp": "価格",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d7c0"
+   ]
+  },
+  {
+   "id": "PROD_OV:2854",
+   "off": 10324,
+   "len": 8,
+   "jp": "９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d84c"
+   ]
+  },
+  {
+   "id": "PROD_OV:285c",
+   "off": 10332,
+   "len": 16,
+   "jp": "次回できる数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d848"
+   ]
+  },
+  {
+   "id": "PROD_OV:286c",
+   "off": 10348,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d844"
+   ]
+  },
+  {
+   "id": "PROD_OV:2870",
+   "off": 10352,
+   "len": 8,
+   "jp": "９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d840"
+   ]
+  },
+  {
+   "id": "PROD_OV:2878",
+   "off": 10360,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "PROD_OV:w8014d83c"
+   ]
+  },
+  {
+   "id": "PROD_OV:287c",
+   "off": 10364,
+   "len": 8,
+   "jp": "生産数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d838"
+   ]
+  },
+  {
+   "id": "PROD_OV:28b4",
+   "off": 10420,
+   "len": 12,
+   "jp": "９９９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d8ac"
+   ]
+  },
+  {
+   "id": "PROD_OV:28c0",
+   "off": 10432,
+   "len": 4,
+   "jp": "／",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d8a8"
+   ]
+  },
+  {
+   "id": "PROD_OV:28c4",
+   "off": 10436,
+   "len": 12,
+   "jp": "９９９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d8a0"
+   ]
+  },
+  {
+   "id": "PROD_OV:28d0",
+   "off": 10448,
+   "len": 12,
+   "jp": "科学力　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d898"
+   ]
+  },
+  {
+   "id": "PROD_OV:28dc",
+   "off": 10460,
+   "len": 16,
+   "jp": "９９９ウッキー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d894"
+   ]
+  },
+  {
+   "id": "PROD_OV:28ec",
+   "off": 10476,
+   "len": 8,
+   "jp": "お金　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d890"
+   ]
+  },
+  {
+   "id": "PROD_OV:290c",
+   "off": 10508,
+   "len": 44,
+   "jp": "　生産指定　　　：増減　　：決定　　：中止",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d8f8"
+   ]
+  },
+  {
+   "id": "PROD_OV:2960",
+   "off": 10592,
+   "len": 16,
+   "jp": "９９９９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d958"
+   ]
+  },
+  {
+   "id": "PROD_OV:2970",
+   "off": 10608,
+   "len": 8,
+   "jp": "金額",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d950"
+   ]
+  },
+  {
+   "id": "PROD_OV:2978",
+   "off": 10616,
+   "len": 8,
+   "jp": "９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d948"
+   ]
+  },
+  {
+   "id": "PROD_OV:2980",
+   "off": 10624,
+   "len": 8,
+   "jp": "生産数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d940"
+   ]
+  },
+  {
+   "id": "PROD_OV:29a0",
+   "off": 10656,
+   "len": 8,
+   "jp": "ｚＺ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d998"
+   ]
+  },
+  {
+   "id": "PROD_OV:29a8",
+   "off": 10664,
+   "len": 8,
+   "jp": "移動力",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d994"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a28",
+   "off": 10792,
+   "len": 4,
+   "jp": "Ｍ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014da1c"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a2c",
+   "off": 10796,
+   "len": 4,
+   "jp": "Ｌ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014da18"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a30",
+   "off": 10800,
+   "len": 4,
+   "jp": "Ｋ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014da14"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a34",
+   "off": 10804,
+   "len": 4,
+   "jp": "Ｃ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014da10"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a38",
+   "off": 10808,
+   "len": 4,
+   "jp": "Ｂ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014da0c"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a3c",
+   "off": 10812,
+   "len": 4,
+   "jp": "Ａ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014da08"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a40",
+   "off": 10816,
+   "len": 4,
+   "jp": "Ｊ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014da04"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a44",
+   "off": 10820,
+   "len": 4,
+   "jp": "Ｉ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014da00"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a48",
+   "off": 10824,
+   "len": 4,
+   "jp": "Ｈ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d9fc"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a4c",
+   "off": 10828,
+   "len": 4,
+   "jp": "Ｇ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d9f8"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a50",
+   "off": 10832,
+   "len": 4,
+   "jp": "Ｆ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d9f4"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a54",
+   "off": 10836,
+   "len": 4,
+   "jp": "Ｅ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d9f0"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a58",
+   "off": 10840,
+   "len": 4,
+   "jp": "－",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014d9ec"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a5c",
+   "off": 10844,
+   "len": 4,
+   "jp": "建",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d9e8"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a60",
+   "off": 10848,
+   "len": 4,
+   "jp": "川",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d9e4"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a64",
+   "off": 10852,
+   "len": 4,
+   "jp": "道",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d9e0"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a68",
+   "off": 10856,
+   "len": 4,
+   "jp": "橋",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d9dc"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a6c",
+   "off": 10860,
+   "len": 4,
+   "jp": "氷",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d9d8"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a70",
+   "off": 10864,
+   "len": 4,
+   "jp": "雪",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d9d4"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a74",
+   "off": 10868,
+   "len": 4,
+   "jp": "海",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d9d0"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a78",
+   "off": 10872,
+   "len": 4,
+   "jp": "岸",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d9cc"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a7c",
+   "off": 10876,
+   "len": 4,
+   "jp": "岩",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d9c8"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a80",
+   "off": 10880,
+   "len": 4,
+   "jp": "砂",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d9c4"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a84",
+   "off": 10884,
+   "len": 4,
+   "jp": "土",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d9c0"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a88",
+   "off": 10888,
+   "len": 4,
+   "jp": "森",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d9bc"
+   ]
+  },
+  {
+   "id": "PROD_OV:2a8c",
+   "off": 10892,
+   "len": 4,
+   "jp": "草",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014d9b8"
+   ]
+  },
+  {
+   "id": "PROD_OV:2ab0",
+   "off": 10928,
+   "len": 20,
+   "jp": "ラッキーイーグル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:w8014daa8"
+   ]
+  },
+  {
+   "id": "PROD_OV:2ac4",
+   "off": 10948,
+   "len": 4,
+   "jp": "５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014daa4"
+   ]
+  },
+  {
+   "id": "PROD_OV:2ac8",
+   "off": 10952,
+   "len": 4,
+   "jp": "１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014daa0"
+   ]
+  },
+  {
+   "id": "PROD_OV:2acc",
+   "off": 10956,
+   "len": 4,
+   "jp": "－",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014da9c"
+   ]
+  },
+  {
+   "id": "PROD_OV:2ad0",
+   "off": 10960,
+   "len": 4,
+   "jp": "Ｆ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "PROD_OV:w8014da98"
+   ]
+  },
+  {
+   "id": "PROD_OV:3104",
+   "off": 12548,
+   "len": 12,
+   "jp": "（占領）",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:8014b8b4"
+   ]
+  },
+  {
+   "id": "PROD_OV:3110",
+   "off": 12560,
+   "len": 9,
+   "jp": "（占領）",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "PROD_OV:8014c5a0"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,742 @@
+{
+ "file": "DATA/LOCEX_OV.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "LOCEX_OV:35a0",
+   "off": 13728,
+   "len": 16,
+   "jp": "回収できません",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e594"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:35e0",
+   "off": 13792,
+   "len": 20,
+   "jp": "は出撃できません",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e5d4"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:35f4",
+   "off": 13812,
+   "len": 20,
+   "jp": "回収したため今回",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e5cc"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3608",
+   "off": 13832,
+   "len": 20,
+   "jp": "配置できる場所は",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "LOCEX_OV:361c",
+   "off": 13852,
+   "len": 12,
+   "jp": "あと　機",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:8014d3ac"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3628",
+   "off": 13864,
+   "len": 16,
+   "jp": "行動済みのため",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:8014c8fc"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3638",
+   "off": 13880,
+   "len": 16,
+   "jp": "輸送中のため",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:8014c8ec"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:366c",
+   "off": 13932,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "LOCEX_OV:w8014e668"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3670",
+   "off": 13936,
+   "len": 24,
+   "jp": "（基地から１０マス内）",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e664"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3688",
+   "off": 13960,
+   "len": 4,
+   "jp": "港",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e660"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:368c",
+   "off": 13964,
+   "len": 12,
+   "jp": "都市、工場",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e65c"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3698",
+   "off": 13976,
+   "len": 8,
+   "jp": "基地",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e658"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:36a0",
+   "off": 13984,
+   "len": 8,
+   "jp": "空港",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e654"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:36a8",
+   "off": 13992,
+   "len": 20,
+   "jp": "ボスの回り（海）",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e650"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:36bc",
+   "off": 14012,
+   "len": 20,
+   "jp": "ボスの回り（陸）",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e64c"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:36d0",
+   "off": 14032,
+   "len": 12,
+   "jp": "ボスの回り",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e648"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:36dc",
+   "off": 14044,
+   "len": 40,
+   "jp": "　　：次ページ　　　：情報　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:8014b710"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3704",
+   "off": 14084,
+   "len": 12,
+   "jp": "兵器一覧",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:8014b704"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3710",
+   "off": 14096,
+   "len": 40,
+   "jp": "　　　　　：兵器選択　　　：指揮官一覧",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:8014b278",
+    "LOCEX_OV:8014b5dc",
+    "LOCEX_OV:8014b64c",
+    "LOCEX_OV:8014b6a0"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3738",
+   "off": 14136,
+   "len": 40,
+   "jp": "　　　：回収　　：情報　　：指揮官一覧",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:8014b2b0",
+    "LOCEX_OV:8014b65c"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:376c",
+   "off": 14188,
+   "len": 52,
+   "jp": "兵器情報　　　　　：次ページ　　：解説　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e764"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:37ac",
+   "off": 14252,
+   "len": 52,
+   "jp": "兵器情報　　　　　　　　　　　　：解説　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e7a4"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:37ec",
+   "off": 14316,
+   "len": 52,
+   "jp": "兵器解説　　　　　　　　　　　　　　　　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e7e4"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3838",
+   "off": 14392,
+   "len": 8,
+   "jp": "ｙＹ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e830"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3840",
+   "off": 14400,
+   "len": 8,
+   "jp": "移動力",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e82c"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38c0",
+   "off": 14528,
+   "len": 4,
+   "jp": "Ｍ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e8b4"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38c4",
+   "off": 14532,
+   "len": 4,
+   "jp": "Ｌ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e8b0"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38c8",
+   "off": 14536,
+   "len": 4,
+   "jp": "Ｋ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e8ac"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38cc",
+   "off": 14540,
+   "len": 4,
+   "jp": "Ｃ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e8a8"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38d0",
+   "off": 14544,
+   "len": 4,
+   "jp": "Ｂ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e8a4"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38d4",
+   "off": 14548,
+   "len": 4,
+   "jp": "Ａ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e8a0"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38d8",
+   "off": 14552,
+   "len": 4,
+   "jp": "Ｊ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e89c"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38dc",
+   "off": 14556,
+   "len": 4,
+   "jp": "Ｉ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e898"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38e0",
+   "off": 14560,
+   "len": 4,
+   "jp": "Ｈ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e894"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38e4",
+   "off": 14564,
+   "len": 4,
+   "jp": "Ｇ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e890"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38e8",
+   "off": 14568,
+   "len": 4,
+   "jp": "Ｆ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e88c"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38ec",
+   "off": 14572,
+   "len": 4,
+   "jp": "Ｅ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e888"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38f0",
+   "off": 14576,
+   "len": 4,
+   "jp": "－",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e884"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38f4",
+   "off": 14580,
+   "len": 4,
+   "jp": "建",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e880"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38f8",
+   "off": 14584,
+   "len": 4,
+   "jp": "川",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e87c"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:38fc",
+   "off": 14588,
+   "len": 4,
+   "jp": "道",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e878"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3900",
+   "off": 14592,
+   "len": 4,
+   "jp": "橋",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e874"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3904",
+   "off": 14596,
+   "len": 4,
+   "jp": "氷",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e870"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3908",
+   "off": 14600,
+   "len": 4,
+   "jp": "雪",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e86c"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:390c",
+   "off": 14604,
+   "len": 4,
+   "jp": "海",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e868"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3910",
+   "off": 14608,
+   "len": 4,
+   "jp": "岸",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e864"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3914",
+   "off": 14612,
+   "len": 4,
+   "jp": "岩",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e860"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3918",
+   "off": 14616,
+   "len": 4,
+   "jp": "砂",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e85c"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:391c",
+   "off": 14620,
+   "len": 4,
+   "jp": "土",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e858"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3920",
+   "off": 14624,
+   "len": 4,
+   "jp": "森",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e854"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3924",
+   "off": 14628,
+   "len": 4,
+   "jp": "草",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e850"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3934",
+   "off": 14644,
+   "len": 16,
+   "jp": "回収します？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e930"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3944",
+   "off": 14660,
+   "len": 16,
+   "jp": "１と入れ替え",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e92c"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3954",
+   "off": 14676,
+   "len": 12,
+   "jp": "出撃完了",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e928"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3980",
+   "off": 14720,
+   "len": 20,
+   "jp": "ラッキーイーグル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:w8014e978"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3994",
+   "off": 14740,
+   "len": 4,
+   "jp": "５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e974"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3998",
+   "off": 14744,
+   "len": 4,
+   "jp": "１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e970"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:399c",
+   "off": 14748,
+   "len": 4,
+   "jp": "－",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e96c"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:39a0",
+   "off": 14752,
+   "len": 4,
+   "jp": "Ｆ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCEX_OV:w8014e968"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3d20",
+   "off": 15648,
+   "len": 20,
+   "jp": "編成数が０です。",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCEX_OV:8014c584"
+   ]
+  },
+  {
+   "id": "LOCEX_OV:3d34",
+   "off": 15668,
+   "len": 3,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "LOCEX_OV:8014c594"
+   ]
+  }
+ ]
+}

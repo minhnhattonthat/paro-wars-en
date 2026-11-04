@@ -15,7 +15,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise. RAM addre
 | [disc.md](disc.md) | Disc layout, the two EXEs, file-record tables, free space | records and loaders verified, except the route to `DEMO/*_0n` |
 | [flow.md](flow.md) | Game flow, state variables, overlays per screen, screens no warp reaches | verified by trace and warps |
 | [compression.md](compression.md) | The LZ codec | verified (disassembly + roundtrip test) |
-| [text.md](text.md) | Encoding, control codes, text families and their formats, pointers | engine verified on the story path; other paths guessed |
+| [text.md](text.md) | Encoding, control codes, text families and their formats, pointers | formats verified by the roundtrip and coverage test; print routines verified only on the story path |
 | [font.md](font.md) | The 12x12 font, glyph cache, options for English | font verified; English plan is a proposal for phase 5 |
 | [graphics.md](graphics.md) | Survey of Japanese drawn as graphics | all sweep sheets read and every warp scene toured; see its coverage notes |
 
@@ -28,4 +28,4 @@ in phase 6. Later reissue: Konami the Best, SLPM-86392, not this dump.
 ## Tools
 `tools/mipsre.py` (disassembly, xref, BIOS stubs), `tools/lzkc.py` (codec), `tools/unpack_all.py`, `tools/lz_embed.py`,
 `tools/font.py`, `tools/disc_tables.py`, `tools/scan_jp.py`, `tools/sweep.py`, `tools/bitmap.py`, `tools/ramfind.py`, `tools/ramscan.py`,
-`tools/classify.py`, `tools/disc_ids.py`, `tools/disc.py` (ISO walk, file writer with EDC/ECC), `tools/disc_diff.py` (sector diff of two images, by field and file), `tools/debug/glyphs.lua`, `tools/debug/trace.lua`, `tools/debug/warp.lua`, `tools/debug/x.sh`. Run the Unpack command in AGENTS.md first.
+`tools/classify.py`, `tools/disc_ids.py`, `tools/extract.py` (dump to `script/`), `tools/make_jp_tbl.py` (writes `tbl/jp.tbl`), `tools/sjis_view.py` (hex and Shift-JIS runs of a file), `tools/script_view.py` (compact listing of `script/`), `tools/disc.py` (ISO walk, file writer with EDC/ECC), `tools/disc_diff.py` (sector diff of two images, by field and file), `tools/debug/glyphs.lua`, `tools/debug/trace.lua`, `tools/debug/warp.lua`, `tools/debug/x.sh`. Run the Unpack command in AGENTS.md first.

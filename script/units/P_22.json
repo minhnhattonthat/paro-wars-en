@@ -1,0 +1,116 @@
+{
+ "file": "DATA/P_22.BIN",
+ "lz": 320,
+ "group": "units",
+ "text_from": 34816,
+ "entries": [
+  {
+   "id": "P_22:8800",
+   "off": 34816,
+   "len": 32,
+   "jp": "　　　◆強さ５段階評価◆",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_22:8820",
+   "off": 34848,
+   "len": 32,
+   "jp": "攻撃力　２（占領できます）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_22:8840",
+   "off": 34880,
+   "len": 32,
+   "jp": "守備力　１",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_22:8860",
+   "off": 34912,
+   "len": 52,
+   "jp": "こいつ＆あいつ国で最も多く生産された双尻ヘリコプタ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_22:8894",
+   "off": 34964,
+   "len": 52,
+   "jp": "ー。ひと昔前まではデザイン的に流行の最先端をいって",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_22:88c8",
+   "off": 35016,
+   "len": 52,
+   "jp": "いたが、時代の流れとともにシェイプアップと、さらな",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_22:88fc",
+   "off": 35068,
+   "len": 52,
+   "jp": "るヒップアップの声がささやかれだし、Ｍｉ１７ヒップ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_22:8930",
+   "off": 35120,
+   "len": 52,
+   "jp": "アップＺの開発につながる。やや旧式だが安さがとりえ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "P_22:8964",
+   "off": 35172,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_22:8998",
+   "off": 35224,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_22:89cc",
+   "off": 35276,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "P_22:8a00",
+   "off": 35328,
+   "len": 52,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  }
+ ]
+}

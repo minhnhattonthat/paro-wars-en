@@ -1,0 +1,107 @@
+{
+ "file": "DATA/DEMO/TXT_LOV3.BIN",
+ "lz": null,
+ "group": "story",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "DEMO/TXT_LOV3:0",
+   "off": 0,
+   "len": 150,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/TXT_LOV3:96",
+   "off": 150,
+   "len": 150,
+   "jp": "　首尾よく油田基地フランシス＝ペドロ島を奪い取っ　たラブリー軍であったが、",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV3:12c",
+   "off": 300,
+   "len": 150,
+   "jp": "すぐ目の前には敵本国であるパンダ国がひかえており、このままではフランシス＝ペドロ島も、いつ奪い返さ　れてもおかしくない状況に置かれることになる。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV3:1c2",
+   "off": 450,
+   "len": 150,
+   "jp": "　ここで一気に本国をつぶすために、勢いにのったラ　ブリー国は、パンダ国本土へと攻め上がるのであった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV3:258",
+   "off": 600,
+   "len": 150,
+   "jp": "　一方のパンダ国であるが、先の戦争でのダメージは　かなり大きかった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV3:2ee",
+   "off": 750,
+   "len": 150,
+   "jp": "　国内は森林、岩山などの自然の要塞に守られた、難　攻不落の地として名をとどろかせていたが、今の状態　では心もとない。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV3:384",
+   "off": 900,
+   "len": 150,
+   "jp": "　やむなく隣国のミカエル帝国に、救援を要請するこ　とにした。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV3:41a",
+   "off": 1050,
+   "len": 150,
+   "jp": "　パンダ国党首アンナパブロワは、さっそく、ミカエ　ル帝国帝王ミカエル・アブゥ４世のもとへと、要請に　おもむく。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV3:4b0",
+   "off": 1200,
+   "len": 150,
+   "jp": "アンナパブロワ：「ラブリー国が侵略してくるアルけ　　　　　　　　　　ど、助けてくれないアルか？？」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV3:546",
+   "off": 1350,
+   "len": 150,
+   "jp": "ミカエル：「Ｏ．Ｋ！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_LOV3:5dc",
+   "off": 1500,
+   "len": 150,
+   "jp": "　ミカエル帝国の救援を受け、戦闘態勢を整えたパン　ダ国は、てぐすね引いてラブリー国の侵攻を待ち受け　るのであった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

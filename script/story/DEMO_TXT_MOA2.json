@@ -1,0 +1,152 @@
+{
+ "file": "DATA/DEMO/TXT_MOA2.BIN",
+ "lz": null,
+ "group": "story",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "DEMO/TXT_MOA2:0",
+   "off": 0,
+   "len": 150,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:96",
+   "off": 150,
+   "len": 150,
+   "jp": "　ここリップチェイサー島で、今年も毎年好例の、　　”パロワールド対抗　超シング＆ダンス大会”が　　　開催された。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:12c",
+   "off": 300,
+   "len": 150,
+   "jp": "　大会は順調に進み、決勝はラブリー国と、モアイ国　で競われることになった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:1c2",
+   "off": 450,
+   "len": 150,
+   "jp": "　両チーム演技を終えて、いよいよ審査発表である。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:258",
+   "off": 600,
+   "len": 150,
+   "jp": "司会のニャン次郎：「それでは、　　　　　　　　　　　　　　　　　　　　モアイ国の点数をどうぞ！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:2ee",
+   "off": 750,
+   "len": 150,
+   "jp": "審査委員達　　：「　１点、１０点、１０点、１０点、　　　　　　　　　１０点、１０点、１０点、１０点」　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:384",
+   "off": 900,
+   "len": 150,
+   "jp": "司会のニャン次郎：「つづいて、　　　　　　　　　　　　　　　　　　　　ラブリー国の点数をどうぞ！」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:41a",
+   "off": 1050,
+   "len": 150,
+   "jp": "審査委員達　　：「１０点、１０点、１０点、１０点、　　　　　　　　　１０点、１０点、１０点、　１点」　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:4b0",
+   "off": 1200,
+   "len": 150,
+   "jp": "　ラブリー国に１点をつけたのがモアイ国代表の審査　委員、モアイ国に１点をつけたのがラブリー国代表の　審査委員であった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:546",
+   "off": 1350,
+   "len": 150,
+   "jp": "よしこ女帝、ひかる：「いかさまだ～！！」　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:5dc",
+   "off": 1500,
+   "len": 150,
+   "jp": "　いかさま疑惑をめぐって、とっくみあいのケンカと　なった、よしこ女帝とひかる。どうしても認めようと　しないモアイ国にしびれを切らしたラブリー国が、",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:672",
+   "off": 1650,
+   "len": 150,
+   "jp": "武力行使で主張を通そうとし、モアイ国に恨みをもつ　ペン太郎王国にも協力してもらい、リップチェイサー　島を潜水艦、戦艦の数々で包囲、攻撃を開始した。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:708",
+   "off": 1800,
+   "len": 150,
+   "jp": "　もはや、話し合いの余地の無い事を悲しみつつも、　モアイ国首長よしこ女帝は、リップチェイサー島へ　　モアイ海軍を派遣するのであった。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:79e",
+   "off": 1950,
+   "len": 150,
+   "jp": "ひかる：「だいたいさぁ～、モアイってぇ～、　　　　　　　　　ちょ～ダサダサってかんじぃ～　」　　　　　　　　　　　　　　　　　　　　　　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:834",
+   "off": 2100,
+   "len": 150,
+   "jp": "よしこ女帝：「・・・・・モアイ！？・・・・・」",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "DEMO/TXT_MOA2:8ca",
+   "off": 2250,
+   "len": 150,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  }
+ ]
+}

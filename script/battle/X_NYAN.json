@@ -1,0 +1,872 @@
+{
+ "file": "DATA/X_NYAN.BIN",
+ "lz": null,
+ "group": "battle",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "X_NYAN:4dc",
+   "off": 1244,
+   "len": 60,
+   "jp": "この勝負いただきニャン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:518",
+   "off": 1304,
+   "len": 60,
+   "jp": "ワシの強さ見せてやるニャン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:554",
+   "off": 1364,
+   "len": 60,
+   "jp": "戦闘開始だニャ～ン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:590",
+   "off": 1424,
+   "len": 60,
+   "jp": "こりゃまずいニャン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:5cc",
+   "off": 1484,
+   "len": 60,
+   "jp": "ニャ～ンと　おろかなっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:608",
+   "off": 1544,
+   "len": 60,
+   "jp": "ニャめんなよ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:644",
+   "off": 1604,
+   "len": 60,
+   "jp": "コンニャロ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:680",
+   "off": 1664,
+   "len": 60,
+   "jp": "ニャっニャっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:6bc",
+   "off": 1724,
+   "len": 60,
+   "jp": "くたばれニャ～ン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:6f8",
+   "off": 1784,
+   "len": 60,
+   "jp": "ニャ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:734",
+   "off": 1844,
+   "len": 60,
+   "jp": "ニャっはっは～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:770",
+   "off": 1904,
+   "len": 60,
+   "jp": "これでも食らえ～！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:7ac",
+   "off": 1964,
+   "len": 60,
+   "jp": "うーやーたー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:7e8",
+   "off": 2024,
+   "len": 60,
+   "jp": "これで終わりだ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:824",
+   "off": 2084,
+   "len": 60,
+   "jp": "あちょー！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:860",
+   "off": 2144,
+   "len": 60,
+   "jp": "おらおらおらおらおらおらーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:89c",
+   "off": 2204,
+   "len": 60,
+   "jp": "あたたたたたたたーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:8d8",
+   "off": 2264,
+   "len": 60,
+   "jp": "いくわよ～、そ～れっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:914",
+   "off": 2324,
+   "len": 60,
+   "jp": "君は生き残る事ができるかな？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:950",
+   "off": 2384,
+   "len": 60,
+   "jp": "おりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:98c",
+   "off": 2444,
+   "len": 60,
+   "jp": "うりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:9c8",
+   "off": 2504,
+   "len": 60,
+   "jp": "どりゃー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:a04",
+   "off": 2564,
+   "len": 60,
+   "jp": "もらったー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:a40",
+   "off": 2624,
+   "len": 60,
+   "jp": "エコエコアザラクー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:a7c",
+   "off": 2684,
+   "len": 60,
+   "jp": "おかみにたてつくたわけものはこうしてやるー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:ab8",
+   "off": 2744,
+   "len": 60,
+   "jp": "あたれー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:af4",
+   "off": 2804,
+   "len": 60,
+   "jp": "甘いな",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:b30",
+   "off": 2864,
+   "len": 60,
+   "jp": "ふぎゃーっ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:b6c",
+   "off": 2924,
+   "len": 60,
+   "jp": "ニャ・ニャ・ニャ～ン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:ba8",
+   "off": 2984,
+   "len": 60,
+   "jp": "よくもやったニャンっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:be4",
+   "off": 3044,
+   "len": 60,
+   "jp": "わぁぁぁぁぁっ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:c20",
+   "off": 3104,
+   "len": 60,
+   "jp": "ひでぶー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:c5c",
+   "off": 3164,
+   "len": 60,
+   "jp": "やったなー、親父にも殴られた事ないのにー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:c98",
+   "off": 3224,
+   "len": 60,
+   "jp": "なにをするんじゃ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:cd4",
+   "off": 3284,
+   "len": 60,
+   "jp": "バ～カヤロ！あぶねーじゃねーかっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:d10",
+   "off": 3344,
+   "len": 60,
+   "jp": "やりやがったなー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:d4c",
+   "off": 3404,
+   "len": 60,
+   "jp": "俺をだれだと思ってんだー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:d88",
+   "off": 3464,
+   "len": 60,
+   "jp": "うお～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:dc4",
+   "off": 3524,
+   "len": 60,
+   "jp": "キャー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:e00",
+   "off": 3584,
+   "len": 60,
+   "jp": "キャイーン",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:e3c",
+   "off": 3644,
+   "len": 60,
+   "jp": "ウッキーッ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:e78",
+   "off": 3704,
+   "len": 60,
+   "jp": "うわーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:eb4",
+   "off": 3764,
+   "len": 60,
+   "jp": "イッテ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:ef0",
+   "off": 3824,
+   "len": 60,
+   "jp": "ちっ、覚えてろー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:f2c",
+   "off": 3884,
+   "len": 60,
+   "jp": "な、何だってー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:f68",
+   "off": 3944,
+   "len": 60,
+   "jp": "どこねらってんだよぉ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:fa4",
+   "off": 4004,
+   "len": 60,
+   "jp": "いい根性してるじゃねーか",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:fe0",
+   "off": 4064,
+   "len": 60,
+   "jp": "甘いんだよぉ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:101c",
+   "off": 4124,
+   "len": 60,
+   "jp": "ミスったニャ～ン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1058",
+   "off": 4184,
+   "len": 60,
+   "jp": "べらんメ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1094",
+   "off": 4244,
+   "len": 60,
+   "jp": "ニャは～っ　皆のモノっ！ワシのために働け！働けっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:10d0",
+   "off": 4304,
+   "len": 60,
+   "jp": "パロワールドはこのニャン次郎様のもんじゃ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:110c",
+   "off": 4364,
+   "len": 60,
+   "jp": "ワシに勝てるワケがないニャ{br}ン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1148",
+   "off": 4424,
+   "len": 60,
+   "jp": "テメ～ら　よわっちいニャン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1184",
+   "off": 4484,
+   "len": 60,
+   "jp": "俺にたてつくなんて１０万年早いってんだよ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:11c0",
+   "off": 4544,
+   "len": 60,
+   "jp": "ふっ、手応えのない相手だったぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:11fc",
+   "off": 4604,
+   "len": 60,
+   "jp": "ウワッハッハッハッハッハー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1238",
+   "off": 4664,
+   "len": 60,
+   "jp": "まだまだだな",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1274",
+   "off": 4724,
+   "len": 60,
+   "jp": "俺をとめることはできん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:12b0",
+   "off": 4784,
+   "len": 60,
+   "jp": "とっととお家にお帰り",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:12ec",
+   "off": 4844,
+   "len": 60,
+   "jp": "ヤリィー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1328",
+   "off": 4904,
+   "len": 60,
+   "jp": "修行が足りん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1364",
+   "off": 4964,
+   "len": 60,
+   "jp": "ヨッシャー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:13a0",
+   "off": 5024,
+   "len": 60,
+   "jp": "ビンゴー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:13dc",
+   "off": 5084,
+   "len": 60,
+   "jp": "またいつでも相手してやるぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1418",
+   "off": 5144,
+   "len": 60,
+   "jp": "ニャンだとぉ～！{br}今にみてろニャン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1454",
+   "off": 5204,
+   "len": 60,
+   "jp": "そんなバカニャ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1490",
+   "off": 5264,
+   "len": 60,
+   "jp": "フッ、今日のところはこのぐらいにしといてやるぜ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:14cc",
+   "off": 5324,
+   "len": 60,
+   "jp": "や、やられちゃった～ん",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1508",
+   "off": 5384,
+   "len": 60,
+   "jp": "やっだー、信じらんな～い",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1544",
+   "off": 5444,
+   "len": 60,
+   "jp": "覚えてろ、この次は勝ってみせる",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1580",
+   "off": 5504,
+   "len": 60,
+   "jp": "さらばじゃ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:15bc",
+   "off": 5564,
+   "len": 60,
+   "jp": "くっ、{br}こんな奴に負けるなんて・・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:15f8",
+   "off": 5624,
+   "len": 60,
+   "jp": "こんな強い奴がまだいたとは{br}・・・ぐふっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1634",
+   "off": 5684,
+   "len": 60,
+   "jp": "ウエ～ン、ママにいいつけてやるぅ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1670",
+   "off": 5744,
+   "len": 60,
+   "jp": "なにぃ、全滅っ！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:16ac",
+   "off": 5804,
+   "len": 60,
+   "jp": "うおおおおおおおーっ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:16e8",
+   "off": 5864,
+   "len": 60,
+   "jp": "アンビリーバブルー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1724",
+   "off": 5924,
+   "len": 60,
+   "jp": "くそぉ、脱出だ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1760",
+   "off": 5984,
+   "len": 60,
+   "jp": "あちゃぁ、俺のせーじゃねー",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:179c",
+   "off": 6044,
+   "len": 60,
+   "jp": "この俺が、そんなばかな・・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:17d8",
+   "off": 6104,
+   "len": 60,
+   "jp": "いけっ！ニャイアントロボ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1814",
+   "off": 6164,
+   "len": 60,
+   "jp": "このニャイアント、つっえ～{br}ニャリよ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1850",
+   "off": 6224,
+   "len": 60,
+   "jp": "科学の力だっ！{br}戦え、ニャイアントロボ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:188c",
+   "off": 6284,
+   "len": 60,
+   "jp": "いっけ～！{br}ニャイクローミサイル！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:18c8",
+   "off": 6344,
+   "len": 60,
+   "jp": "ニャイアントアターック！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1904",
+   "off": 6404,
+   "len": 60,
+   "jp": "必殺！{br}ニャイクロウパーンチ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1940",
+   "off": 6464,
+   "len": 60,
+   "jp": "ぶちかませっ！{br}ニャイクロウパ～ンチっ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:197c",
+   "off": 6524,
+   "len": 60,
+   "jp": "いっくニャ～！{br}ニャイアントア～イ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:19b8",
+   "off": 6584,
+   "len": 60,
+   "jp": "ニャハっと１発！{br}ニャイアントアイ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:19f4",
+   "off": 6644,
+   "len": 60,
+   "jp": "乱世のυ雄（かんゆう）とは、ワシのことニャン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1a30",
+   "off": 6704,
+   "len": 60,
+   "jp": "ワシに刃向かうとは、おろか{br}ニャ～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1a6c",
+   "off": 6764,
+   "len": 60,
+   "jp": "妻に合わせる顔がニャイ・・・",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1aa8",
+   "off": 6824,
+   "len": 60,
+   "jp": "ニャンだって～！？",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1ae4",
+   "off": 6884,
+   "len": 60,
+   "jp": "チェーンジ！{br}ニャイアントロボ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "X_NYAN:1b20",
+   "off": 6944,
+   "len": 60,
+   "jp": "チェーンジ！{br}ニャンダーバード！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

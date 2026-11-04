@@ -1,0 +1,1261 @@
+{
+ "file": "DATA/MEMCARD.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "MEMCARD:14",
+   "off": 20,
+   "len": 12,
+   "jp": "バウバウ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015a8b4"
+   ]
+  },
+  {
+   "id": "MEMCARD:20",
+   "off": 32,
+   "len": 12,
+   "jp": "パンダ　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015a8b0"
+   ]
+  },
+  {
+   "id": "MEMCARD:2c",
+   "off": 44,
+   "len": 12,
+   "jp": "モアイ　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015a8ac"
+   ]
+  },
+  {
+   "id": "MEMCARD:38",
+   "off": 56,
+   "len": 12,
+   "jp": "こいつ　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015a8a8"
+   ]
+  },
+  {
+   "id": "MEMCARD:44",
+   "off": 68,
+   "len": 12,
+   "jp": "ラブリー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015a8a4"
+   ]
+  },
+  {
+   "id": "MEMCARD:50",
+   "off": 80,
+   "len": 12,
+   "jp": "アカシヤ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015a8a0"
+   ]
+  },
+  {
+   "id": "MEMCARD:5c",
+   "off": 92,
+   "len": 12,
+   "jp": "ミカエル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015a89c"
+   ]
+  },
+  {
+   "id": "MEMCARD:68",
+   "off": 104,
+   "len": 12,
+   "jp": "ペンタ　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015a898"
+   ]
+  },
+  {
+   "id": "MEMCARD:74",
+   "off": 116,
+   "len": 12,
+   "jp": "空き領域",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:80150fd0"
+   ]
+  },
+  {
+   "id": "MEMCARD:80",
+   "off": 128,
+   "len": 20,
+   "jp": "他のゲームデータ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:80150fe8"
+   ]
+  },
+  {
+   "id": "MEMCARD:94",
+   "off": 148,
+   "len": 24,
+   "jp": "データが破損しています",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:80150ff8"
+   ]
+  },
+  {
+   "id": "MEMCARD:ac",
+   "off": 172,
+   "len": 16,
+   "jp": "パロウォーズ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:80151154"
+   ]
+  },
+  {
+   "id": "MEMCARD:bc",
+   "off": 188,
+   "len": 48,
+   "jp": "マップ　　　　　　　　　ターン　　　　：　　：",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:80151178"
+   ]
+  },
+  {
+   "id": "MEMCARD:ec",
+   "off": 236,
+   "len": 48,
+   "jp": "　　　　　第　章　　　　ターン　　　　：　　：",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:801511b4"
+   ]
+  },
+  {
+   "id": "MEMCARD:11c",
+   "off": 284,
+   "len": 3,
+   "jp": "０",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "MEMCARD:80151258"
+   ]
+  },
+  {
+   "id": "MEMCARD:120",
+   "off": 288,
+   "len": 8,
+   "jp": "ロード",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015a984"
+   ]
+  },
+  {
+   "id": "MEMCARD:128",
+   "off": 296,
+   "len": 8,
+   "jp": "セーブ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015a980"
+   ]
+  },
+  {
+   "id": "MEMCARD:130",
+   "off": 304,
+   "len": 4,
+   "jp": "２",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "MEMCARD:80152d8c",
+    "MEMCARD:w8015a9b8"
+   ]
+  },
+  {
+   "id": "MEMCARD:134",
+   "off": 308,
+   "len": 4,
+   "jp": "１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "MEMCARD:80152cc0",
+    "MEMCARD:w8015a9b0"
+   ]
+  },
+  {
+   "id": "MEMCARD:138",
+   "off": 312,
+   "len": 44,
+   "jp": "０００００１１１　　　　　　　　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "MEMCARD:w8015aa14"
+   ]
+  },
+  {
+   "id": "MEMCARD:164",
+   "off": 356,
+   "len": 44,
+   "jp": "０００００１１０　　　　　　　　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "MEMCARD:w8015aa10"
+   ]
+  },
+  {
+   "id": "MEMCARD:190",
+   "off": 400,
+   "len": 44,
+   "jp": "０００００１０１　　　　　　　　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "MEMCARD:w8015aa0c"
+   ]
+  },
+  {
+   "id": "MEMCARD:1bc",
+   "off": 444,
+   "len": 44,
+   "jp": "０００００１００　　　　　　　　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "MEMCARD:w8015aa08"
+   ]
+  },
+  {
+   "id": "MEMCARD:1e8",
+   "off": 488,
+   "len": 44,
+   "jp": "００００００１１　　　　　　　　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "MEMCARD:w8015aa04"
+   ]
+  },
+  {
+   "id": "MEMCARD:214",
+   "off": 532,
+   "len": 44,
+   "jp": "００００００１０　　　　　　　　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "MEMCARD:w8015aa00"
+   ]
+  },
+  {
+   "id": "MEMCARD:240",
+   "off": 576,
+   "len": 44,
+   "jp": "０００００００１　　　　　　　　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "MEMCARD:w8015a9fc"
+   ]
+  },
+  {
+   "id": "MEMCARD:26c",
+   "off": 620,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "MEMCARD:w8015a9dc",
+    "MEMCARD:w8015a9e0",
+    "MEMCARD:w8015a9e4",
+    "MEMCARD:w8015a9e8",
+    "MEMCARD:w8015a9ec",
+    "MEMCARD:w8015a9f0",
+    "MEMCARD:w8015a9f4"
+   ]
+  },
+  {
+   "id": "MEMCARD:270",
+   "off": 624,
+   "len": 8,
+   "jp": "いいえ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015aa28"
+   ]
+  },
+  {
+   "id": "MEMCARD:278",
+   "off": 632,
+   "len": 8,
+   "jp": "はい",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015aa24"
+   ]
+  },
+  {
+   "id": "MEMCARD:280",
+   "off": 640,
+   "len": 32,
+   "jp": "　　：選択　　：決定　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015ad94",
+    "MEMCARD:w8015adb4"
+   ]
+  },
+  {
+   "id": "MEMCARD:2a0",
+   "off": 672,
+   "len": 36,
+   "jp": "セーブするスロットを選んでください",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015ad8c"
+   ]
+  },
+  {
+   "id": "MEMCARD:2c4",
+   "off": 708,
+   "len": 32,
+   "jp": "セーブする場所を選んでください",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015adac",
+    "MEMCARD:w8015adcc"
+   ]
+  },
+  {
+   "id": "MEMCARD:2e4",
+   "off": 740,
+   "len": 48,
+   "jp": "　　：選択　　：決定　　：戻る　　：消去操作",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015add4"
+   ]
+  },
+  {
+   "id": "MEMCARD:314",
+   "off": 788,
+   "len": 28,
+   "jp": "：選択　　：決定　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015adfc",
+    "MEMCARD:w8015b128",
+    "MEMCARD:w8015b198",
+    "MEMCARD:w8015b278",
+    "MEMCARD:w8015b298"
+   ]
+  },
+  {
+   "id": "MEMCARD:330",
+   "off": 816,
+   "len": 24,
+   "jp": "フォーマットしますか？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015adf4"
+   ]
+  },
+  {
+   "id": "MEMCARD:348",
+   "off": 840,
+   "len": 44,
+   "jp": "フォーマットしていないメモリーカードです",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015adec",
+    "MEMCARD:w8015b2f0"
+   ]
+  },
+  {
+   "id": "MEMCARD:374",
+   "off": 884,
+   "len": 8,
+   "jp": "：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015ae1c",
+    "MEMCARD:w8015ae3c",
+    "MEMCARD:w8015b2b8",
+    "MEMCARD:w8015b2d8",
+    "MEMCARD:w8015b2f8"
+   ]
+  },
+  {
+   "id": "MEMCARD:37c",
+   "off": 892,
+   "len": 28,
+   "jp": "メモリーカードがありません",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015ae14"
+   ]
+  },
+  {
+   "id": "MEMCARD:398",
+   "off": 920,
+   "len": 32,
+   "jp": "メモリーカードが壊れています",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015ae34"
+   ]
+  },
+  {
+   "id": "MEMCARD:3b8",
+   "off": 952,
+   "len": 24,
+   "jp": "スロットを調べています",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015ae54",
+    "MEMCARD:w8015af7c",
+    "MEMCARD:w8015b0b4",
+    "MEMCARD:w8015b1d0"
+   ]
+  },
+  {
+   "id": "MEMCARD:3d0",
+   "off": 976,
+   "len": 32,
+   "jp": "メモリーカードを調べています",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015ae6c",
+    "MEMCARD:w8015ae84"
+   ]
+  },
+  {
+   "id": "MEMCARD:3f0",
+   "off": 1008,
+   "len": 8,
+   "jp": "：確認",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015aeac",
+    "MEMCARD:w8015aedc",
+    "MEMCARD:w8015aefc",
+    "MEMCARD:w8015af1c",
+    "MEMCARD:w8015af9c",
+    "MEMCARD:w8015afbc",
+    "MEMCARD:w8015afe4",
+    "MEMCARD:w8015b00c",
+    "MEMCARD:w8015b02c",
+    "MEMCARD:w8015b06c",
+    "MEMCARD:w8015b094",
+    "MEMCARD:w8015b150",
+    "MEMCARD:w8015b178",
+    "MEMCARD:w8015b1f0",
+    "MEMCARD:w8015b210",
+    "MEMCARD:w8015b230",
+    "MEMCARD:w8015b258",
+    "MEMCARD:w8015b350",
+    "MEMCARD:w8015b378",
+    "MEMCARD:w8015b398",
+    "MEMCARD:w8015b3c0"
+   ]
+  },
+  {
+   "id": "MEMCARD:3f8",
+   "off": 1016,
+   "len": 24,
+   "jp": "セーブを中止しました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015aea4",
+    "MEMCARD:w8015aecc"
+   ]
+  },
+  {
+   "id": "MEMCARD:410",
+   "off": 1040,
+   "len": 40,
+   "jp": "セーブ中にメモリーカードが抜かれたので",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015ae9c",
+    "MEMCARD:w8015aec4"
+   ]
+  },
+  {
+   "id": "MEMCARD:438",
+   "off": 1080,
+   "len": 36,
+   "jp": "以前のデータは消えてしまいました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015aed4"
+   ]
+  },
+  {
+   "id": "MEMCARD:45c",
+   "off": 1116,
+   "len": 20,
+   "jp": "セーブ終了しました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015aef4"
+   ]
+  },
+  {
+   "id": "MEMCARD:470",
+   "off": 1136,
+   "len": 24,
+   "jp": "セーブに失敗しました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015af14"
+   ]
+  },
+  {
+   "id": "MEMCARD:488",
+   "off": 1160,
+   "len": 20,
+   "jp": "：確認　　：戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015af3c"
+   ]
+  },
+  {
+   "id": "MEMCARD:49c",
+   "off": 1180,
+   "len": 20,
+   "jp": "上書きセーブします",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015af34"
+   ]
+  },
+  {
+   "id": "MEMCARD:4b0",
+   "off": 1200,
+   "len": 44,
+   "jp": "メモリーカードに指一本ふれないでください",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015af5c"
+   ]
+  },
+  {
+   "id": "MEMCARD:4dc",
+   "off": 1244,
+   "len": 20,
+   "jp": "フォーマット中です",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015af54"
+   ]
+  },
+  {
+   "id": "MEMCARD:4f0",
+   "off": 1264,
+   "len": 28,
+   "jp": "フォーマットを終了しました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015af74"
+   ]
+  },
+  {
+   "id": "MEMCARD:50c",
+   "off": 1292,
+   "len": 48,
+   "jp": "フォーマット中にメモリーカードが抜かれました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015af94"
+   ]
+  },
+  {
+   "id": "MEMCARD:53c",
+   "off": 1340,
+   "len": 28,
+   "jp": "フォーマットに失敗しました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015afb4"
+   ]
+  },
+  {
+   "id": "MEMCARD:558",
+   "off": 1368,
+   "len": 32,
+   "jp": "フォーマットを取りやめました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015afdc",
+    "MEMCARD:w8015b004"
+   ]
+  },
+  {
+   "id": "MEMCARD:578",
+   "off": 1400,
+   "len": 32,
+   "jp": "スロットの状態が変化したので",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015afd4",
+    "MEMCARD:w8015b05c",
+    "MEMCARD:w8015b140",
+    "MEMCARD:w8015b340"
+   ]
+  },
+  {
+   "id": "MEMCARD:598",
+   "off": 1432,
+   "len": 32,
+   "jp": "メモリーカードが抜かれたので",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015affc",
+    "MEMCARD:w8015b084",
+    "MEMCARD:w8015b168",
+    "MEMCARD:w8015b368"
+   ]
+  },
+  {
+   "id": "MEMCARD:5b8",
+   "off": 1464,
+   "len": 32,
+   "jp": "フォーマットできませんでした",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b024"
+   ]
+  },
+  {
+   "id": "MEMCARD:5d8",
+   "off": 1496,
+   "len": 40,
+   "jp": "セーブ中です　そっとしといてください",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b044"
+   ]
+  },
+  {
+   "id": "MEMCARD:600",
+   "off": 1536,
+   "len": 24,
+   "jp": "セーブを取りやめました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b064",
+    "MEMCARD:w8015b08c"
+   ]
+  },
+  {
+   "id": "MEMCARD:618",
+   "off": 1560,
+   "len": 20,
+   "jp": "消去操作に移ります",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b0ac",
+    "MEMCARD:w8015b0cc"
+   ]
+  },
+  {
+   "id": "MEMCARD:62c",
+   "off": 1580,
+   "len": 32,
+   "jp": "ファイル情報をロードしています",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b0d4",
+    "MEMCARD:w8015b0f4"
+   ]
+  },
+  {
+   "id": "MEMCARD:64c",
+   "off": 1612,
+   "len": 20,
+   "jp": "消去終了しました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b0ec",
+    "MEMCARD:w8015b1c8"
+   ]
+  },
+  {
+   "id": "MEMCARD:660",
+   "off": 1632,
+   "len": 48,
+   "jp": "　　　　　戻って新規セーブ出来ます　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b108"
+   ]
+  },
+  {
+   "id": "MEMCARD:690",
+   "off": 1680,
+   "len": 48,
+   "jp": "新規セーブには、あと１ブロック空きが必要です",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b104"
+   ]
+  },
+  {
+   "id": "MEMCARD:6c0",
+   "off": 1728,
+   "len": 48,
+   "jp": "新規セーブには、あと２ブロック空きが必要です",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b100"
+   ]
+  },
+  {
+   "id": "MEMCARD:6f0",
+   "off": 1776,
+   "len": 32,
+   "jp": "消去するデータを選んでください",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b118"
+   ]
+  },
+  {
+   "id": "MEMCARD:710",
+   "off": 1808,
+   "len": 24,
+   "jp": "消去モードを中止します",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b148",
+    "MEMCARD:w8015b170"
+   ]
+  },
+  {
+   "id": "MEMCARD:728",
+   "off": 1832,
+   "len": 36,
+   "jp": "このデータを消去してよろしいですか",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b190"
+   ]
+  },
+  {
+   "id": "MEMCARD:74c",
+   "off": 1868,
+   "len": 12,
+   "jp": "消去中です",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b1b0"
+   ]
+  },
+  {
+   "id": "MEMCARD:758",
+   "off": 1880,
+   "len": 24,
+   "jp": "消去できませんでした",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b1e8"
+   ]
+  },
+  {
+   "id": "MEMCARD:770",
+   "off": 1904,
+   "len": 40,
+   "jp": "消去中にメモリーカードが抜かれました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b208"
+   ]
+  },
+  {
+   "id": "MEMCARD:798",
+   "off": 1944,
+   "len": 20,
+   "jp": "消去に失敗しました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b228"
+   ]
+  },
+  {
+   "id": "MEMCARD:7ac",
+   "off": 1964,
+   "len": 24,
+   "jp": "消去モードを終わります",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b250"
+   ]
+  },
+  {
+   "id": "MEMCARD:7c4",
+   "off": 1988,
+   "len": 32,
+   "jp": "消去できるデータはありません",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b248"
+   ]
+  },
+  {
+   "id": "MEMCARD:7e4",
+   "off": 2020,
+   "len": 36,
+   "jp": "ロードするスロットを選んでください",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b270"
+   ]
+  },
+  {
+   "id": "MEMCARD:808",
+   "off": 2056,
+   "len": 36,
+   "jp": "ロードするデータを選んでください",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b290"
+   ]
+  },
+  {
+   "id": "MEMCARD:82c",
+   "off": 2092,
+   "len": 20,
+   "jp": "データがありません",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b2b0"
+   ]
+  },
+  {
+   "id": "MEMCARD:840",
+   "off": 2112,
+   "len": 32,
+   "jp": "ロードできるデータがありません",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b2d0"
+   ]
+  },
+  {
+   "id": "MEMCARD:860",
+   "off": 2144,
+   "len": 16,
+   "jp": "ロード中です",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b310"
+   ]
+  },
+  {
+   "id": "MEMCARD:870",
+   "off": 2160,
+   "len": 20,
+   "jp": "データ構築中です",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b328"
+   ]
+  },
+  {
+   "id": "MEMCARD:884",
+   "off": 2180,
+   "len": 24,
+   "jp": "ロードを取りやめました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b348",
+    "MEMCARD:w8015b370"
+   ]
+  },
+  {
+   "id": "MEMCARD:89c",
+   "off": 2204,
+   "len": 24,
+   "jp": "ロードに失敗しました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b390"
+   ]
+  },
+  {
+   "id": "MEMCARD:8b4",
+   "off": 2228,
+   "len": 24,
+   "jp": "ロードを中止しました",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b3b8"
+   ]
+  },
+  {
+   "id": "MEMCARD:8cc",
+   "off": 2252,
+   "len": 56,
+   "jp": "ロード中にメモリーカードが抜かれたので",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "MEMCARD:w8015b3b0"
+   ]
+  },
+  {
+   "id": "MEMCARD:a38",
+   "off": 2616,
+   "len": 8,
+   "jp": "１－Ｄ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "MEMCARD:w8015b514"
+   ]
+  },
+  {
+   "id": "MEMCARD:a40",
+   "off": 2624,
+   "len": 8,
+   "jp": "１－Ｃ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "MEMCARD:w8015b510"
+   ]
+  },
+  {
+   "id": "MEMCARD:a48",
+   "off": 2632,
+   "len": 8,
+   "jp": "１－Ｂ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "MEMCARD:w8015b50c"
+   ]
+  },
+  {
+   "id": "MEMCARD:a50",
+   "off": 2640,
+   "len": 7,
+   "jp": "１－Ａ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "MEMCARD:w8015b508"
+   ]
+  },
+  {
+   "id": "MEMCARD:e73e",
+   "off": 59198,
+   "len": 5,
+   "jp": "１燃",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables and a font map after the code"
+  },
+  {
+   "id": "MEMCARD:eb59",
+   "off": 60249,
+   "len": 11,
+   "jp": "蒡",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables and a font map after the code"
+  },
+  {
+   "id": "MEMCARD:ebe1",
+   "off": 60385,
+   "len": 5,
+   "jp": "蒡",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables and a font map after the code"
+  },
+  {
+   "id": "MEMCARD:ebf0",
+   "off": 60400,
+   "len": 5,
+   "jp": "塁",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables and a font map after the code"
+  },
+  {
+   "id": "MEMCARD:f361",
+   "off": 62305,
+   "len": 11,
+   "jp": "蒡",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables and a font map after the code"
+  },
+  {
+   "id": "MEMCARD:f3e1",
+   "off": 62433,
+   "len": 13,
+   "jp": "蒡",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables and a font map after the code"
+  },
+  {
+   "id": "MEMCARD:f3f8",
+   "off": 62456,
+   "len": 5,
+   "jp": "塁",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables and a font map after the code"
+  },
+  {
+   "id": "MEMCARD:104f8",
+   "off": 66808,
+   "len": 8,
+   "jp": "１Ａ",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [
+    "MEMCARD:80152ca8"
+   ],
+   "notes": "tables and a font map after the code"
+  },
+  {
+   "id": "MEMCARD:10500",
+   "off": 66816,
+   "len": 8,
+   "jp": "２Ａ",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [
+    "MEMCARD:80152d78"
+   ],
+   "notes": "tables and a font map after the code"
+  },
+  {
+   "id": "MEMCARD:10540",
+   "off": 66880,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [
+    "MEMCARD:801552d0"
+   ],
+   "notes": "tables and a font map after the code"
+  },
+  {
+   "id": "MEMCARD:10549",
+   "off": 66889,
+   "len": 3,
+   "jp": "[82]A",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables and a font map after the code"
+  }
+ ]
+}

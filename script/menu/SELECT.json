@@ -1,0 +1,211 @@
+{
+ "file": "DATA/SELECT.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "SELECT:4",
+   "off": 4,
+   "len": 32,
+   "jp": "　　　　　　　　　　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "SELECT:w80155b70"
+   ]
+  },
+  {
+   "id": "SELECT:24",
+   "off": 36,
+   "len": 48,
+   "jp": "　　　：決定　　　　　：変更　　　　　：国情報",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SELECT:w80155b6c"
+   ]
+  },
+  {
+   "id": "SELECT:54",
+   "off": 84,
+   "len": 44,
+   "jp": "　　：ゲーム開始　　：戻る　　　　　：変更",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SELECT:w80155b68"
+   ]
+  },
+  {
+   "id": "SELECT:80",
+   "off": 128,
+   "len": 36,
+   "jp": "　　　　：決定　　：戻る　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SELECT:w80155b64"
+   ]
+  },
+  {
+   "id": "SELECT:a4",
+   "off": 164,
+   "len": 36,
+   "jp": "　　　　　　　　　　　　：戻る　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SELECT:w80155b60"
+   ]
+  },
+  {
+   "id": "SELECT:c8",
+   "off": 200,
+   "len": 36,
+   "jp": "　　　　：決定　　　　　：変更　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SELECT:w80155b5c"
+   ]
+  },
+  {
+   "id": "SELECT:ec",
+   "off": 236,
+   "len": 36,
+   "jp": "　　　　　　　　　　　　　　　　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "SELECT:w80155b58"
+   ]
+  },
+  {
+   "id": "SELECT:110",
+   "off": 272,
+   "len": 36,
+   "jp": "　　　：画面回転　　　：戻る　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SELECT:w80155b54"
+   ]
+  },
+  {
+   "id": "SELECT:134",
+   "off": 308,
+   "len": 28,
+   "jp": "ステータスを変更しますか？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SELECT:w80155b50"
+   ]
+  },
+  {
+   "id": "SELECT:150",
+   "off": 336,
+   "len": 28,
+   "jp": "この設定でゲームを始めます",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SELECT:w80155b4c"
+   ]
+  },
+  {
+   "id": "SELECT:16c",
+   "off": 364,
+   "len": 28,
+   "jp": "同盟を結べる国がありません",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SELECT:w80155b48"
+   ]
+  },
+  {
+   "id": "SELECT:188",
+   "off": 392,
+   "len": 32,
+   "jp": "コントローラを変更してください",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SELECT:w80155b44"
+   ]
+  },
+  {
+   "id": "SELECT:1a8",
+   "off": 424,
+   "len": 32,
+   "jp": "プレイヤーを変更してください",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SELECT:w80155b40"
+   ]
+  },
+  {
+   "id": "SELECT:1c8",
+   "off": 456,
+   "len": 28,
+   "jp": "同盟国を変更してください",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SELECT:w80155b3c"
+   ]
+  },
+  {
+   "id": "SELECT:1e4",
+   "off": 484,
+   "len": 28,
+   "jp": "国の色を変更してください",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SELECT:w80155b38"
+   ]
+  },
+  {
+   "id": "SELECT:200",
+   "off": 512,
+   "len": 23,
+   "jp": "国名を変更してください",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "SELECT:w80155b34"
+   ]
+  },
+  {
+   "id": "SELECT:b046",
+   "off": 45126,
+   "len": 3,
+   "jp": "俺",
+   "en": "",
+   "status": "todo",
+   "kind": "data",
+   "refs": [],
+   "notes": "tables after the code"
+  }
+ ]
+}

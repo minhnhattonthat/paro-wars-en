@@ -1,0 +1,143 @@
+{
+ "file": "DATA/SEL_HELP.BIN",
+ "lz": null,
+ "group": "data",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "SEL_HELP:0",
+   "off": 0,
+   "len": 50,
+   "jp": "　「なし」では、移動しても燃料は減らないし、いく",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "SEL_HELP:32",
+   "off": 50,
+   "len": 50,
+   "jp": "ら攻撃しても武器のたまも減らないのだ。「あり」で",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "SEL_HELP:64",
+   "off": 100,
+   "len": 50,
+   "jp": "は、移動した分の燃料は減り、攻撃した分たまも減っ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "SEL_HELP:96",
+   "off": 150,
+   "len": 50,
+   "jp": "ていく。飛行系兵器は、移動しない場合でも移動力の",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "SEL_HELP:c8",
+   "off": 200,
+   "len": 50,
+   "jp": "３分の１の燃料が減り、燃料がなくなると墜落する。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "SEL_HELP:fa",
+   "off": 250,
+   "len": 50,
+   "jp": "　「あり」は、味方の建物や、味方ユニットのまわり",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "SEL_HELP:12c",
+   "off": 300,
+   "len": 50,
+   "jp": "の一定範囲内にいる敵軍しか見えないドキドキモード",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "SEL_HELP:15e",
+   "off": 350,
+   "len": 50,
+   "jp": "「なし」では山や建物のカゲになって見えない場合を",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "SEL_HELP:190",
+   "off": 400,
+   "len": 50,
+   "jp": "のぞいて、敵、味方すべての部隊が見え見えのモード",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "SEL_HELP:1c2",
+   "off": 450,
+   "len": 50,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank"
+  },
+  {
+   "id": "SEL_HELP:1f4",
+   "off": 500,
+   "len": 50,
+   "jp": "　移動の時、敵の影響を受けるかどうかの設定。Ｚ．",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "SEL_HELP:226",
+   "off": 550,
+   "len": 50,
+   "jp": "Ｏ．Ｃ．（ゾーン・オブ・コントロール（支配地域）",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "SEL_HELP:258",
+   "off": 600,
+   "len": 50,
+   "jp": "）を「あり」にすると、移動の時、敵と、となり合せ",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "SEL_HELP:28a",
+   "off": 650,
+   "len": 50,
+   "jp": "の場所（敵の支配地域）に入ると、移動を止められて",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  },
+  {
+   "id": "SEL_HELP:2bc",
+   "off": 700,
+   "len": 50,
+   "jp": "しまう。「なし」では敵のまわりもすんなり通れる。",
+   "en": "",
+   "status": "todo",
+   "kind": "text"
+  }
+ ]
+}

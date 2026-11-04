@@ -1,0 +1,1964 @@
+{
+ "file": "DATA/LOCS_OV.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "LOCS_OV:600",
+   "off": 1536,
+   "len": 16,
+   "jp": "いっきま～す",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdfc"
+   ]
+  },
+  {
+   "id": "LOCS_OV:610",
+   "off": 1552,
+   "len": 16,
+   "jp": "いっきま～す",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdf8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:620",
+   "off": 1568,
+   "len": 32,
+   "jp": "好き勝手には、やらせない！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdf4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:640",
+   "off": 1600,
+   "len": 32,
+   "jp": "派手にでむかえてやろうぜ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdf0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:660",
+   "off": 1632,
+   "len": 24,
+   "jp": "やつら、ゆるさん！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdec"
+   ]
+  },
+  {
+   "id": "LOCS_OV:678",
+   "off": 1656,
+   "len": 28,
+   "jp": "一気にけちらしちゃいますよ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cde8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:694",
+   "off": 1684,
+   "len": 28,
+   "jp": "もっと強いやつと戦いたい",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cde4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:6b0",
+   "off": 1712,
+   "len": 16,
+   "jp": "やってやるぜー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cde0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:6c0",
+   "off": 1728,
+   "len": 12,
+   "jp": "よっしゃ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cddc"
+   ]
+  },
+  {
+   "id": "LOCS_OV:6cc",
+   "off": 1740,
+   "len": 20,
+   "jp": "がんばります！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdd8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:6e0",
+   "off": 1760,
+   "len": 16,
+   "jp": "いっきま～す",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdd4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:6f0",
+   "off": 1776,
+   "len": 24,
+   "jp": "みんな、気をつけてね",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdd0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:708",
+   "off": 1800,
+   "len": 32,
+   "jp": "死なない程度にがんばろ～っと",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdcc"
+   ]
+  },
+  {
+   "id": "LOCS_OV:728",
+   "off": 1832,
+   "len": 24,
+   "jp": "まぁ、なんとかなるさ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdc8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:740",
+   "off": 1856,
+   "len": 16,
+   "jp": "体弱いのにー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdc4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:750",
+   "off": 1872,
+   "len": 32,
+   "jp": "わっはっは～、冗談きついぜ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdc0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:770",
+   "off": 1904,
+   "len": 16,
+   "jp": "めんどくせー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdbc"
+   ]
+  },
+  {
+   "id": "LOCS_OV:780",
+   "off": 1920,
+   "len": 16,
+   "jp": "聞いてないよー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdb8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:790",
+   "off": 1936,
+   "len": 28,
+   "jp": "ええっ！！ついてないよ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cdb4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:7fc",
+   "off": 2044,
+   "len": 20,
+   "jp": "やってやるでちゅー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cff8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:810",
+   "off": 2064,
+   "len": 20,
+   "jp": "やってやるでちゅー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cff4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:824",
+   "off": 2084,
+   "len": 36,
+   "jp": "好き勝手には、やらせんでちゅ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cff0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:848",
+   "off": 2120,
+   "len": 20,
+   "jp": "がんばります！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfec"
+   ]
+  },
+  {
+   "id": "LOCS_OV:85c",
+   "off": 2140,
+   "len": 20,
+   "jp": "ついてないでちゅ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfe8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:870",
+   "off": 2160,
+   "len": 28,
+   "jp": "一気にけちらしちゃいますよ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfe4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:88c",
+   "off": 2188,
+   "len": 32,
+   "jp": "派手にでむかえてやろうぜ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfe0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:8ac",
+   "off": 2220,
+   "len": 24,
+   "jp": "やつら、ゆるさん！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfdc"
+   ]
+  },
+  {
+   "id": "LOCS_OV:8c4",
+   "off": 2244,
+   "len": 28,
+   "jp": "もっと強いやつと戦いたい",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfd8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:8e0",
+   "off": 2272,
+   "len": 20,
+   "jp": "やってやるでちゅー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfd4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:8f4",
+   "off": 2292,
+   "len": 12,
+   "jp": "よっしゃ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfd0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:900",
+   "off": 2304,
+   "len": 20,
+   "jp": "がんばります！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfcc"
+   ]
+  },
+  {
+   "id": "LOCS_OV:914",
+   "off": 2324,
+   "len": 20,
+   "jp": "いっきま～ちゅ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfc8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:928",
+   "off": 2344,
+   "len": 24,
+   "jp": "みんな、気をつけてね",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfc4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:940",
+   "off": 2368,
+   "len": 32,
+   "jp": "死なない程度にがんばろ～っと",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfc0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:960",
+   "off": 2400,
+   "len": 24,
+   "jp": "まぁ、なんとかなるさ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfbc"
+   ]
+  },
+  {
+   "id": "LOCS_OV:978",
+   "off": 2424,
+   "len": 16,
+   "jp": "体弱いのにー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfb8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:988",
+   "off": 2440,
+   "len": 16,
+   "jp": "めんどくせー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfb4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:998",
+   "off": 2456,
+   "len": 20,
+   "jp": "聞いてないでちゅー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfb0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:9ac",
+   "off": 2476,
+   "len": 32,
+   "jp": "出撃させるなら金をくれっちゅ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015cfac"
+   ]
+  },
+  {
+   "id": "LOCS_OV:a1c",
+   "off": 2588,
+   "len": 28,
+   "jp": "天に代わっておしおきよ！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d218"
+   ]
+  },
+  {
+   "id": "LOCS_OV:a38",
+   "off": 2616,
+   "len": 20,
+   "jp": "がんばります！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d214"
+   ]
+  },
+  {
+   "id": "LOCS_OV:a4c",
+   "off": 2636,
+   "len": 16,
+   "jp": "いっきま～す",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d210"
+   ]
+  },
+  {
+   "id": "LOCS_OV:a5c",
+   "off": 2652,
+   "len": 32,
+   "jp": "好き勝手には、やらせないわ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d20c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:a7c",
+   "off": 2684,
+   "len": 28,
+   "jp": "一気にけちらしちゃいますよ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d208"
+   ]
+  },
+  {
+   "id": "LOCS_OV:a98",
+   "off": 2712,
+   "len": 20,
+   "jp": "やってやるわ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d204"
+   ]
+  },
+  {
+   "id": "LOCS_OV:aac",
+   "off": 2732,
+   "len": 28,
+   "jp": "よぉ～し、覚悟しなさい！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d200"
+   ]
+  },
+  {
+   "id": "LOCS_OV:ac8",
+   "off": 2760,
+   "len": 32,
+   "jp": "派手にでむかえてあげるわ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d1fc"
+   ]
+  },
+  {
+   "id": "LOCS_OV:ae8",
+   "off": 2792,
+   "len": 24,
+   "jp": "やつら、ゆるさない！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d1f8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:b00",
+   "off": 2816,
+   "len": 32,
+   "jp": "うっふ～ん、いっちゃうわよ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d1f4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:b20",
+   "off": 2848,
+   "len": 20,
+   "jp": "がんばります！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d1f0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:b34",
+   "off": 2868,
+   "len": 16,
+   "jp": "いっきま～す",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d1ec"
+   ]
+  },
+  {
+   "id": "LOCS_OV:b44",
+   "off": 2884,
+   "len": 28,
+   "jp": "もっと強いやつと戦いたい",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d1e8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:b60",
+   "off": 2912,
+   "len": 24,
+   "jp": "みんな、気をつけてね",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d1e4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:b78",
+   "off": 2936,
+   "len": 32,
+   "jp": "死なない程度にがんばろ～っと",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d1e0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:b98",
+   "off": 2968,
+   "len": 28,
+   "jp": "まぁ、なんとかなるかしら",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d1dc"
+   ]
+  },
+  {
+   "id": "LOCS_OV:bb4",
+   "off": 2996,
+   "len": 16,
+   "jp": "体弱いのにー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d1d8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:bc4",
+   "off": 3012,
+   "len": 16,
+   "jp": "めんどくさ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d1d4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:bd4",
+   "off": 3028,
+   "len": 20,
+   "jp": "聞いてないわよ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d1d0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:be8",
+   "off": 3048,
+   "len": 16,
+   "jp": "ついてないわ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d1cc"
+   ]
+  },
+  {
+   "id": "LOCS_OV:c48",
+   "off": 3144,
+   "len": 24,
+   "jp": "ιτθρλαλβλτι",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d444"
+   ]
+  },
+  {
+   "id": "LOCS_OV:c60",
+   "off": 3168,
+   "len": 24,
+   "jp": "λτιρλαβθλτι",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d440"
+   ]
+  },
+  {
+   "id": "LOCS_OV:c78",
+   "off": 3192,
+   "len": 32,
+   "jp": "ζθελτιμδλβνλγσμ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d43c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:c98",
+   "off": 3224,
+   "len": 32,
+   "jp": "μζβνλγθελτιμδλσ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d438"
+   ]
+  },
+  {
+   "id": "LOCS_OV:cb8",
+   "off": 3256,
+   "len": 28,
+   "jp": "νλγσμζθετιμδ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d434"
+   ]
+  },
+  {
+   "id": "LOCS_OV:cd4",
+   "off": 3284,
+   "len": 24,
+   "jp": "σμζβθετιμδ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d430"
+   ]
+  },
+  {
+   "id": "LOCS_OV:cec",
+   "off": 3308,
+   "len": 24,
+   "jp": "μζολγκτβιρρ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d42c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:d04",
+   "off": 3332,
+   "len": 24,
+   "jp": "ρλανξοσγθπ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d428"
+   ]
+  },
+  {
+   "id": "LOCS_OV:d1c",
+   "off": 3356,
+   "len": 20,
+   "jp": "ξαδζθετρ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d424"
+   ]
+  },
+  {
+   "id": "LOCS_OV:d30",
+   "off": 3376,
+   "len": 24,
+   "jp": "νγμζβθελιμδ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d420"
+   ]
+  },
+  {
+   "id": "LOCS_OV:d48",
+   "off": 3400,
+   "len": 32,
+   "jp": "νλγσμζβθελτιμδ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d41c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:d68",
+   "off": 3432,
+   "len": 28,
+   "jp": "μζξολαγκτβιρρ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d418"
+   ]
+  },
+  {
+   "id": "LOCS_OV:d84",
+   "off": 3460,
+   "len": 28,
+   "jp": "ρρλανξοσγθπρρ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d414"
+   ]
+  },
+  {
+   "id": "LOCS_OV:da0",
+   "off": 3488,
+   "len": 24,
+   "jp": "ατεζθνμοπλκ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d410"
+   ]
+  },
+  {
+   "id": "LOCS_OV:db8",
+   "off": 3512,
+   "len": 20,
+   "jp": "ρρβμξαρρ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d40c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:dcc",
+   "off": 3532,
+   "len": 16,
+   "jp": "θαβγθιη",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d408"
+   ]
+  },
+  {
+   "id": "LOCS_OV:ddc",
+   "off": 3548,
+   "len": 32,
+   "jp": "ρρμζξολαγκτβιρ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d404"
+   ]
+  },
+  {
+   "id": "LOCS_OV:dfc",
+   "off": 3580,
+   "len": 28,
+   "jp": "ρρλανξοσγθπρρ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d400"
+   ]
+  },
+  {
+   "id": "LOCS_OV:e18",
+   "off": 3608,
+   "len": 24,
+   "jp": "κξαδμζθετρρ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d3fc"
+   ]
+  },
+  {
+   "id": "LOCS_OV:e30",
+   "off": 3632,
+   "len": 32,
+   "jp": "νλγσμζβθελτιμδ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d3f8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:ea0",
+   "off": 3744,
+   "len": 24,
+   "jp": "みんな、気をつけるモ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d69c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:eb8",
+   "off": 3768,
+   "len": 24,
+   "jp": "みんな、気をつけるモ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d698"
+   ]
+  },
+  {
+   "id": "LOCS_OV:ed0",
+   "off": 3792,
+   "len": 16,
+   "jp": "やってやるモ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d694"
+   ]
+  },
+  {
+   "id": "LOCS_OV:ee0",
+   "off": 3808,
+   "len": 32,
+   "jp": "好き勝手には、やらせない！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d690"
+   ]
+  },
+  {
+   "id": "LOCS_OV:f00",
+   "off": 3840,
+   "len": 28,
+   "jp": "一気にけちらしちゃうモ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d68c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:f1c",
+   "off": 3868,
+   "len": 16,
+   "jp": "やってやるモ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d688"
+   ]
+  },
+  {
+   "id": "LOCS_OV:f2c",
+   "off": 3884,
+   "len": 12,
+   "jp": "よっしゃ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d684"
+   ]
+  },
+  {
+   "id": "LOCS_OV:f38",
+   "off": 3896,
+   "len": 32,
+   "jp": "派手にでむかえてやるモ～！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d680"
+   ]
+  },
+  {
+   "id": "LOCS_OV:f58",
+   "off": 3928,
+   "len": 28,
+   "jp": "やつら、ゆるさんモ～！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d67c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:f74",
+   "off": 3956,
+   "len": 32,
+   "jp": "もっと強いやつと戦いたいモ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d678"
+   ]
+  },
+  {
+   "id": "LOCS_OV:f94",
+   "off": 3988,
+   "len": 20,
+   "jp": "がんばるモ～！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d674"
+   ]
+  },
+  {
+   "id": "LOCS_OV:fa8",
+   "off": 4008,
+   "len": 16,
+   "jp": "いっきま～す",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d670"
+   ]
+  },
+  {
+   "id": "LOCS_OV:fb8",
+   "off": 4024,
+   "len": 24,
+   "jp": "みんな、気をつけるモ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d66c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:fd0",
+   "off": 4048,
+   "len": 32,
+   "jp": "死なない程度にがんばるっす！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d668"
+   ]
+  },
+  {
+   "id": "LOCS_OV:ff0",
+   "off": 4080,
+   "len": 24,
+   "jp": "まぁ、なんとかなるだろ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d664"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1008",
+   "off": 4104,
+   "len": 16,
+   "jp": "体弱いのにー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d660"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1018",
+   "off": 4120,
+   "len": 16,
+   "jp": "聞いてない！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d65c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1028",
+   "off": 4136,
+   "len": 20,
+   "jp": "めんどくさいモ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d658"
+   ]
+  },
+  {
+   "id": "LOCS_OV:103c",
+   "off": 4156,
+   "len": 16,
+   "jp": "ついてないモ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d654"
+   ]
+  },
+  {
+   "id": "LOCS_OV:104c",
+   "off": 4172,
+   "len": 16,
+   "jp": "モ、モアイ？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d650"
+   ]
+  },
+  {
+   "id": "LOCS_OV:10b0",
+   "off": 4272,
+   "len": 16,
+   "jp": "シンはどこだ？",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d8ac"
+   ]
+  },
+  {
+   "id": "LOCS_OV:10c0",
+   "off": 4288,
+   "len": 48,
+   "jp": "どんな相手でもいい！どの団体でも上がるワン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d8a8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:10f0",
+   "off": 4336,
+   "len": 20,
+   "jp": "がんばるワン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d8a4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1104",
+   "off": 4356,
+   "len": 20,
+   "jp": "がんばるワン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d8a0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1118",
+   "off": 4376,
+   "len": 36,
+   "jp": "好き勝手には、やらせないワン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d89c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:113c",
+   "off": 4412,
+   "len": 28,
+   "jp": "一気にけちらしちゃうワン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d898"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1158",
+   "off": 4440,
+   "len": 16,
+   "jp": "やってやるワン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d894"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1168",
+   "off": 4456,
+   "len": 12,
+   "jp": "よっしゃ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d890"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1174",
+   "off": 4468,
+   "len": 32,
+   "jp": "派手にでむかえてやるワン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d88c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1194",
+   "off": 4500,
+   "len": 28,
+   "jp": "やつら、ゆるさんワン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d888"
+   ]
+  },
+  {
+   "id": "LOCS_OV:11b0",
+   "off": 4528,
+   "len": 32,
+   "jp": "もっと強いやつと戦いたいワン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d884"
+   ]
+  },
+  {
+   "id": "LOCS_OV:11d0",
+   "off": 4560,
+   "len": 20,
+   "jp": "がんばるワン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d880"
+   ]
+  },
+  {
+   "id": "LOCS_OV:11e4",
+   "off": 4580,
+   "len": 20,
+   "jp": "いっきま～すワン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d87c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:11f8",
+   "off": 4600,
+   "len": 24,
+   "jp": "みんな、気をつけるワン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d878"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1210",
+   "off": 4624,
+   "len": 28,
+   "jp": "死なない程度にがんばるワン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d874"
+   ]
+  },
+  {
+   "id": "LOCS_OV:122c",
+   "off": 4652,
+   "len": 24,
+   "jp": "まぁ、なんとかなるワン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d870"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1244",
+   "off": 4676,
+   "len": 16,
+   "jp": "体弱いのにー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d86c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1254",
+   "off": 4692,
+   "len": 20,
+   "jp": "聞いてないワン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d868"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1268",
+   "off": 4712,
+   "len": 32,
+   "jp": "出撃させるなら金をくれワン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d864"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1288",
+   "off": 4744,
+   "len": 20,
+   "jp": "めんどくさいワン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d860"
+   ]
+  },
+  {
+   "id": "LOCS_OV:129c",
+   "off": 4764,
+   "len": 16,
+   "jp": "ついてないワン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015d85c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:12fc",
+   "off": 4860,
+   "len": 28,
+   "jp": "てめ～らシンだりｨ～や～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015daf8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1318",
+   "off": 4888,
+   "len": 24,
+   "jp": "おろかなやつらニャン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015daf4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1330",
+   "off": 4912,
+   "len": 28,
+   "jp": "血まつりにあげたるニャン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015daf0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:134c",
+   "off": 4940,
+   "len": 36,
+   "jp": "カクの違いをみせちゃるニャン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015daec"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1370",
+   "off": 4976,
+   "len": 28,
+   "jp": "血まつりにあげたるニャン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dae8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:138c",
+   "off": 5004,
+   "len": 28,
+   "jp": "一気にけちらしちゃうニャン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dae4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:13a8",
+   "off": 5032,
+   "len": 32,
+   "jp": "派手にでむかえてやるニャン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dae0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:13c8",
+   "off": 5064,
+   "len": 32,
+   "jp": "おめ～ら、ゆるさんニャン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dadc"
+   ]
+  },
+  {
+   "id": "LOCS_OV:13e8",
+   "off": 5096,
+   "len": 48,
+   "jp": "ニャー帝国に逆らうなんて百万年早いニャン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dad8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1418",
+   "off": 5144,
+   "len": 36,
+   "jp": "カクの違いをみせちゃるニャン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dad4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:143c",
+   "off": 5180,
+   "len": 28,
+   "jp": "てめ～らシンだりｨ～や～！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dad0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1458",
+   "off": 5208,
+   "len": 28,
+   "jp": "かわいがってやるニャン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dacc"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1474",
+   "off": 5236,
+   "len": 12,
+   "jp": "よっしゃ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dac8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1480",
+   "off": 5248,
+   "len": 32,
+   "jp": "あやまっても、もうおそいニャン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dac4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:14a0",
+   "off": 5280,
+   "len": 20,
+   "jp": "がんばるニャン！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dac0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:14b4",
+   "off": 5300,
+   "len": 20,
+   "jp": "やってやるニャン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dabc"
+   ]
+  },
+  {
+   "id": "LOCS_OV:14c8",
+   "off": 5320,
+   "len": 24,
+   "jp": "おろかなやつらニャン！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dab8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:14e0",
+   "off": 5344,
+   "len": 32,
+   "jp": "遊びあいてになってやるニャン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dab4"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1500",
+   "off": 5376,
+   "len": 20,
+   "jp": "ついてないニャン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dab0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1514",
+   "off": 5396,
+   "len": 20,
+   "jp": "めんどくさいニャン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015daac"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1578",
+   "off": 5496,
+   "len": 40,
+   "jp": "好き勝手には、やらせませんでちゅ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd74"
+   ]
+  },
+  {
+   "id": "LOCS_OV:15a0",
+   "off": 5536,
+   "len": 20,
+   "jp": "やってやるでちゅー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd70"
+   ]
+  },
+  {
+   "id": "LOCS_OV:15b4",
+   "off": 5556,
+   "len": 20,
+   "jp": "やってやるでちゅー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd6c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:15c8",
+   "off": 5576,
+   "len": 40,
+   "jp": "好き勝手には、やらせませんでちゅ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd68"
+   ]
+  },
+  {
+   "id": "LOCS_OV:15f0",
+   "off": 5616,
+   "len": 20,
+   "jp": "がんばります！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd64"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1604",
+   "off": 5636,
+   "len": 20,
+   "jp": "ついてないでちゅ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd60"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1618",
+   "off": 5656,
+   "len": 28,
+   "jp": "一気にけちらしちゃいますよ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd5c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1634",
+   "off": 5684,
+   "len": 32,
+   "jp": "派手にでむかえてやるでちゅ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd58"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1654",
+   "off": 5716,
+   "len": 32,
+   "jp": "やつら、ゆるしませんでちゅ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd54"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1674",
+   "off": 5748,
+   "len": 32,
+   "jp": "もっと強いやつと戦いたいでちゅ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd50"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1694",
+   "off": 5780,
+   "len": 20,
+   "jp": "やってやるでちゅー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd4c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:16a8",
+   "off": 5800,
+   "len": 20,
+   "jp": "がんばります！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd48"
+   ]
+  },
+  {
+   "id": "LOCS_OV:16bc",
+   "off": 5820,
+   "len": 20,
+   "jp": "いっきま～ちゅ！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd44"
+   ]
+  },
+  {
+   "id": "LOCS_OV:16d0",
+   "off": 5840,
+   "len": 24,
+   "jp": "みんな、気をつけてね",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd40"
+   ]
+  },
+  {
+   "id": "LOCS_OV:16e8",
+   "off": 5864,
+   "len": 32,
+   "jp": "死なない程度にがんばろ～っと",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd3c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1708",
+   "off": 5896,
+   "len": 24,
+   "jp": "まぁ、なんとかなるわ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd38"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1720",
+   "off": 5920,
+   "len": 16,
+   "jp": "体弱いのにー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd34"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1730",
+   "off": 5936,
+   "len": 24,
+   "jp": "めんどくさいでちゅ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd30"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1748",
+   "off": 5960,
+   "len": 24,
+   "jp": "聞いてないでちゅー！！",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd2c"
+   ]
+  },
+  {
+   "id": "LOCS_OV:1760",
+   "off": 5984,
+   "len": 20,
+   "jp": "うっちゅっちゅ～",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "LOCS_OV:w8015dd28"
+   ]
+  },
+  {
+   "id": "LOCS_OV:17ec",
+   "off": 6124,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "LOCS_OV:w8015dfe0"
+   ]
+  },
+  {
+   "id": "LOCS_OV:17f0",
+   "off": 6128,
+   "len": 4,
+   "jp": "］",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCS_OV:w8015dfd8"
+   ]
+  },
+  {
+   "id": "LOCS_OV:17f4",
+   "off": 6132,
+   "len": 8,
+   "jp": "［",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "LOCS_OV:w8015dfc8"
+   ]
+  }
+ ]
+}

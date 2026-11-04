@@ -1,0 +1,1302 @@
+{
+ "file": "DATA/BUTAI_OV.BIN",
+ "lz": null,
+ "group": "menu",
+ "text_from": 0,
+ "entries": [
+  {
+   "id": "BUTAI_OV:23a0",
+   "off": 9120,
+   "len": 24,
+   "jp": "ペンタロウ王国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:8015c8d8",
+    "BUTAI_OV:8015c964"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:23b8",
+   "off": 9144,
+   "len": 24,
+   "jp": "ミカエル帝国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "BUTAI_OV:23d0",
+   "off": 9168,
+   "len": 24,
+   "jp": "アカシヤランド共和国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "BUTAI_OV:23e8",
+   "off": 9192,
+   "len": 24,
+   "jp": "ラブリー連邦合衆国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "BUTAI_OV:2400",
+   "off": 9216,
+   "len": 24,
+   "jp": "こいつ＆あいつ共和国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "BUTAI_OV:2418",
+   "off": 9240,
+   "len": 24,
+   "jp": "モアイ諸島首長国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "BUTAI_OV:2430",
+   "off": 9264,
+   "len": 24,
+   "jp": "パンダ茶会獣民共和国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "BUTAI_OV:2448",
+   "off": 9288,
+   "len": 24,
+   "jp": "バウバウ国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "BUTAI_OV:2460",
+   "off": 9312,
+   "len": 24,
+   "jp": "ニャー帝国",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": []
+  },
+  {
+   "id": "BUTAI_OV:24a0",
+   "off": 9376,
+   "len": 4,
+   "jp": "％",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ec98"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:24a4",
+   "off": 9380,
+   "len": 8,
+   "jp": "１００",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ec94"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:24ac",
+   "off": 9388,
+   "len": 12,
+   "jp": "　　　弾数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ec90"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:24b8",
+   "off": 9400,
+   "len": 4,
+   "jp": "８",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ec8c"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:24bc",
+   "off": 9404,
+   "len": 4,
+   "jp": "／",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ec88"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:24c0",
+   "off": 9408,
+   "len": 4,
+   "jp": "８",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ec84"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:24c4",
+   "off": 9412,
+   "len": 8,
+   "jp": "機　数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ec80"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:24f4",
+   "off": 9460,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "BUTAI_OV:w8015ecec"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:24f8",
+   "off": 9464,
+   "len": 8,
+   "jp": "ｘ０",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ece8"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2500",
+   "off": 9472,
+   "len": 12,
+   "jp": "　　移動力",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ece4"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:250c",
+   "off": 9484,
+   "len": 4,
+   "jp": "８",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ece0"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2510",
+   "off": 9488,
+   "len": 4,
+   "jp": "／",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ecdc"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2514",
+   "off": 9492,
+   "len": 4,
+   "jp": "８",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ecd8"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2518",
+   "off": 9496,
+   "len": 8,
+   "jp": "機　数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ecd4"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2560",
+   "off": 9568,
+   "len": 8,
+   "jp": "９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ed58"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2568",
+   "off": 9576,
+   "len": 4,
+   "jp": "／",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ed54"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:256c",
+   "off": 9580,
+   "len": 8,
+   "jp": "９９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ed50"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2574",
+   "off": 9588,
+   "len": 8,
+   "jp": "燃料",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ed48"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2594",
+   "off": 9620,
+   "len": 8,
+   "jp": "海　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ed8c"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:259c",
+   "off": 9628,
+   "len": 8,
+   "jp": "陸　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ed88"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:25a4",
+   "off": 9636,
+   "len": 8,
+   "jp": "空　　",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ed84"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:25ac",
+   "off": 9644,
+   "len": 12,
+   "jp": "防　御：",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ed80"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2604",
+   "off": 9732,
+   "len": 12,
+   "jp": "アイテム",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015edfc"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2610",
+   "off": 9744,
+   "len": 8,
+   "jp": "根性",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015edf8"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2618",
+   "off": 9752,
+   "len": 8,
+   "jp": "直感",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015edf4"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2620",
+   "off": 9760,
+   "len": 8,
+   "jp": "命中",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015edf0"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2628",
+   "off": 9768,
+   "len": 8,
+   "jp": "海指",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015edec"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2630",
+   "off": 9776,
+   "len": 8,
+   "jp": "陸指",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ede8"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2638",
+   "off": 9784,
+   "len": 8,
+   "jp": "空指",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ede4"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2640",
+   "off": 9792,
+   "len": 8,
+   "jp": "レベル",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ede0"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2648",
+   "off": 9800,
+   "len": 12,
+   "jp": "機種別",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015eddc"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2674",
+   "off": 9844,
+   "len": 8,
+   "jp": "個数",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ee70"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:267c",
+   "off": 9852,
+   "len": 8,
+   "jp": "根性",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ee6c"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2684",
+   "off": 9860,
+   "len": 8,
+   "jp": "直感",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ee68"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:268c",
+   "off": 9868,
+   "len": 8,
+   "jp": "命中",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ee64"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2694",
+   "off": 9876,
+   "len": 8,
+   "jp": "海指",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ee60"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:269c",
+   "off": 9884,
+   "len": 8,
+   "jp": "陸指",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ee5c"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:26a4",
+   "off": 9892,
+   "len": 8,
+   "jp": "空指",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ee58"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:26ac",
+   "off": 9900,
+   "len": 8,
+   "jp": "ＬＶ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ee54"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:26cc",
+   "off": 9932,
+   "len": 4,
+   "jp": "＋",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015eec8"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:26d0",
+   "off": 9936,
+   "len": 4,
+   "jp": "＊",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015eec4"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:26d4",
+   "off": 9940,
+   "len": 4,
+   "jp": "＝",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015eec0"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:26d8",
+   "off": 9944,
+   "len": 4,
+   "jp": "＆",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015eebc"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:26dc",
+   "off": 9948,
+   "len": 4,
+   "jp": "＃",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015eeb8"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:26e0",
+   "off": 9952,
+   "len": 4,
+   "jp": "＄",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015eeb4"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:26fc",
+   "off": 9980,
+   "len": 8,
+   "jp": "６７",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015eef8"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2704",
+   "off": 9988,
+   "len": 8,
+   "jp": "５６",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015eef4"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:270c",
+   "off": 9996,
+   "len": 8,
+   "jp": "４５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015eef0"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2714",
+   "off": 10004,
+   "len": 8,
+   "jp": "３４",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015eeec"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:271c",
+   "off": 10012,
+   "len": 8,
+   "jp": "２３",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015eee8"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2724",
+   "off": 10020,
+   "len": 8,
+   "jp": "１２",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015eee4"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2744",
+   "off": 10052,
+   "len": 8,
+   "jp": "６７８",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ef40"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:274c",
+   "off": 10060,
+   "len": 8,
+   "jp": "５６７",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ef3c"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2754",
+   "off": 10068,
+   "len": 8,
+   "jp": "４５６",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ef38"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:275c",
+   "off": 10076,
+   "len": 8,
+   "jp": "３４５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ef34"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2764",
+   "off": 10084,
+   "len": 8,
+   "jp": "２３４",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ef30"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:276c",
+   "off": 10092,
+   "len": 8,
+   "jp": "１２３",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015ef2c"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2798",
+   "off": 10136,
+   "len": 8,
+   "jp": "搭乗中",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ef94"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:27a0",
+   "off": 10144,
+   "len": 8,
+   "jp": "あ　り",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ef90"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:27a8",
+   "off": 10152,
+   "len": 8,
+   "jp": "な　し",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ef8c"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:27b0",
+   "off": 10160,
+   "len": 8,
+   "jp": "迎　撃",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ef88"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:27b8",
+   "off": 10168,
+   "len": 8,
+   "jp": "防　衛",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ef84"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:27c0",
+   "off": 10176,
+   "len": 8,
+   "jp": "護　衛",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ef80"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:27c8",
+   "off": 10184,
+   "len": 8,
+   "jp": "占　領",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ef7c"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:27d0",
+   "off": 10192,
+   "len": 8,
+   "jp": "戦　闘",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ef78"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:27d8",
+   "off": 10200,
+   "len": 8,
+   "jp": "目的地",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015ef74"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:27e0",
+   "off": 10208,
+   "len": 52,
+   "jp": "　　　次ページ　　移動　　情報　　順変更　　戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:8015d45c",
+    "BUTAI_OV:w8015f0b4"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2814",
+   "off": 10260,
+   "len": 52,
+   "jp": "部隊表　　　　　　移動　　情報　　順変更　　戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:8015d520"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2848",
+   "off": 10312,
+   "len": 52,
+   "jp": "部隊表　　　　次ページ　　情報　　順変更　　戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:8015d4b0"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:287c",
+   "off": 10364,
+   "len": 52,
+   "jp": "部隊表　　　　　　　　　　情報　　順変更　　戻る",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:8015d544"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:28d8",
+   "off": 10456,
+   "len": 8,
+   "jp": "作戦",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015f0d0"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:28e0",
+   "off": 10464,
+   "len": 8,
+   "jp": "種別",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015f0cc"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:28e8",
+   "off": 10472,
+   "len": 8,
+   "jp": "兵器名",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015f0c8"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:28f0",
+   "off": 10480,
+   "len": 8,
+   "jp": "Ｎｏ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015f0c4"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:29dc",
+   "off": 10716,
+   "len": 8,
+   "jp": "　６",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015f1b8"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:29e4",
+   "off": 10724,
+   "len": 8,
+   "jp": "　５",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015f194"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:29ec",
+   "off": 10732,
+   "len": 8,
+   "jp": "　４",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015f170"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:29f4",
+   "off": 10740,
+   "len": 8,
+   "jp": "　３",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015f14c"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:29fc",
+   "off": 10748,
+   "len": 8,
+   "jp": "　２",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015f128"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2a04",
+   "off": 10756,
+   "len": 8,
+   "jp": "　１",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015f104"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2a30",
+   "off": 10800,
+   "len": 8,
+   "jp": "９９",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015f228"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2a38",
+   "off": 10808,
+   "len": 8,
+   "jp": "ＬＶ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015f220"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2a40",
+   "off": 10816,
+   "len": 8,
+   "jp": "名前",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015f214"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2c68",
+   "off": 11368,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "BUTAI_OV:w8015f464"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2c6c",
+   "off": 11372,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "BUTAI_OV:w8015f460"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2c70",
+   "off": 11376,
+   "len": 12,
+   "jp": "ＩＣＢＭ",
+   "en": "",
+   "status": "todo",
+   "kind": "num",
+   "refs": [
+    "BUTAI_OV:w8015f45c"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2c7c",
+   "off": 11388,
+   "len": 12,
+   "jp": "スクリュー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015f458"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2c88",
+   "off": 11400,
+   "len": 12,
+   "jp": "オーラボム",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015f454"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2c94",
+   "off": 11412,
+   "len": 12,
+   "jp": "レインボー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015f450"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2ca0",
+   "off": 11424,
+   "len": 12,
+   "jp": "ド根性玉",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015f44c"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2cac",
+   "off": 11436,
+   "len": 12,
+   "jp": "エンジン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015f448"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2cb8",
+   "off": 11448,
+   "len": 12,
+   "jp": "バズーカ",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015f444"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2cc4",
+   "off": 11460,
+   "len": 8,
+   "jp": "地　雷",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015f440"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2ccc",
+   "off": 11468,
+   "len": 12,
+   "jp": "トップガン",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015f43c"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2cd8",
+   "off": 11480,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "BUTAI_OV:w8015f438"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2cdc",
+   "off": 11484,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "BUTAI_OV:w8015f434"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2ce0",
+   "off": 11488,
+   "len": 12,
+   "jp": "ファイヤー",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:w8015f430"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2cec",
+   "off": 11500,
+   "len": 4,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "BUTAI_OV:w8015f42c"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2cf0",
+   "off": 11504,
+   "len": 8,
+   "jp": "　",
+   "en": "",
+   "status": "todo",
+   "kind": "blank",
+   "refs": [
+    "BUTAI_OV:w8015f428"
+   ]
+  },
+  {
+   "id": "BUTAI_OV:2cf8",
+   "off": 11512,
+   "len": 5,
+   "jp": "作戦",
+   "en": "",
+   "status": "todo",
+   "kind": "text",
+   "refs": [
+    "BUTAI_OV:8015d16c"
+   ]
+  }
+ ]
+}
