@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　５（空に攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 5 (no air attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　１",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 1",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "戦術地対地弾道ミサイル。モアイ諸島首長国が湾岩戦争",
-   "en": "",
-   "status": "todo",
+   "en": "A tactical surface-to-surface ballistic missile.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "で使用したスカットイッパツはアル・クセイン・ヨシオ",
-   "en": "",
-   "status": "todo",
+   "en": "The Scud One-Shot used by Moai in the Gulf Rock",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "型で、射程は延長され６００～６５０ｋｍにも達すると",
-   "en": "",
-   "status": "todo",
+   "en": "War was an Al-Kusein-Yoshio type, rumored (only",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "いう、うわさ（あくまでうわさ）です。",
-   "en": "",
-   "status": "todo",
+   "en": "rumored) to reach 600 to 650 km.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "射程が長いのは本当。攻撃力は最高ではないけど、射程",
-   "en": "",
-   "status": "todo",
+   "en": "The long range is true. Attack isn't the top, but",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "を考慮した合せ技で５点。間接攻撃は移動後はできない",
-   "en": "",
-   "status": "todo",
+   "en": "with range it scores a combined 5. No attacks",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "ので、うまく敵をおびき寄せて攻撃しよう！！",
-   "en": "",
-   "status": "todo",
+   "en": "after moving, so lure enemies in and strike!!",
+   "status": "done",
    "kind": "text"
   }
  ]

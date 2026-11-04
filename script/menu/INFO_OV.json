@@ -9,8 +9,8 @@
    "off": 3376,
    "len": 52,
    "jp": "ユニット情報２　　　　　　　：次ページ　　：戻る",
-   "en": "",
-   "status": "todo",
+   "en": "Unit Info 2{x:168}: Next page{x:252}: Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014bd28"
@@ -21,8 +21,8 @@
    "off": 3440,
    "len": 52,
    "jp": "ユニット情報３　　　　　　　：次ページ　　：戻る",
-   "en": "",
-   "status": "todo",
+   "en": "Unit Info 3{x:168}: Next page{x:252}: Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014bd68"
@@ -33,8 +33,8 @@
    "off": 3496,
    "len": 52,
    "jp": "アイテム一覧　　　　　　　　：次ページ　　：戻る",
-   "en": "",
-   "status": "todo",
+   "en": "Item List{x:168}: Next page{x:252}: Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014bda4"
@@ -57,8 +57,8 @@
    "off": 3580,
    "len": 8,
    "jp": "移動力",
-   "en": "",
-   "status": "todo",
+   "en": "Move",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014bde8"
@@ -225,8 +225,8 @@
    "off": 3832,
    "len": 4,
    "jp": "建",
-   "en": "",
-   "status": "todo",
+   "en": "Bd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014be84"
@@ -237,8 +237,8 @@
    "off": 3836,
    "len": 4,
    "jp": "川",
-   "en": "",
-   "status": "todo",
+   "en": "Rv",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014be80"
@@ -249,8 +249,8 @@
    "off": 3840,
    "len": 4,
    "jp": "道",
-   "en": "",
-   "status": "todo",
+   "en": "Rd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014be7c"
@@ -261,8 +261,8 @@
    "off": 3844,
    "len": 4,
    "jp": "橋",
-   "en": "",
-   "status": "todo",
+   "en": "Br",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014be78"
@@ -273,8 +273,8 @@
    "off": 3848,
    "len": 4,
    "jp": "氷",
-   "en": "",
-   "status": "todo",
+   "en": "Ic",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014be74"
@@ -285,8 +285,8 @@
    "off": 3852,
    "len": 4,
    "jp": "雪",
-   "en": "",
-   "status": "todo",
+   "en": "Sn",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014be70"
@@ -297,8 +297,8 @@
    "off": 3856,
    "len": 4,
    "jp": "海",
-   "en": "",
-   "status": "todo",
+   "en": "Se",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014be6c"
@@ -309,8 +309,8 @@
    "off": 3860,
    "len": 4,
    "jp": "岸",
-   "en": "",
-   "status": "todo",
+   "en": "Cs",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014be68"
@@ -321,8 +321,8 @@
    "off": 3864,
    "len": 4,
    "jp": "岩",
-   "en": "",
-   "status": "todo",
+   "en": "Rk",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014be64"
@@ -333,8 +333,8 @@
    "off": 3868,
    "len": 4,
    "jp": "砂",
-   "en": "",
-   "status": "todo",
+   "en": "Sa",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014be60"
@@ -345,8 +345,8 @@
    "off": 3872,
    "len": 4,
    "jp": "土",
-   "en": "",
-   "status": "todo",
+   "en": "Dt",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014be5c"
@@ -357,8 +357,8 @@
    "off": 3876,
    "len": 4,
    "jp": "森",
-   "en": "",
-   "status": "todo",
+   "en": "Fr",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014be58"
@@ -369,8 +369,8 @@
    "off": 3880,
    "len": 4,
    "jp": "草",
-   "en": "",
-   "status": "todo",
+   "en": "Gr",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014be54"
@@ -381,8 +381,8 @@
    "off": 3916,
    "len": 20,
    "jp": "ラッキーイーグル",
-   "en": "",
-   "status": "todo",
+   "en": "Lucky Eagle",
+   "status": "done",
    "kind": "text",
    "refs": [
     "INFO_OV:w8014bf44"

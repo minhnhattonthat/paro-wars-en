@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　２",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "　ペン太連合側のポークに相当する長距離ミサイル。",
-   "en": "",
-   "status": "todo",
+   "en": "A long-range missile equal to the Penta Alliance's",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "射程は対空ロケット中最大である。",
-   "en": "",
-   "status": "todo",
+   "en": "Pork. The longest range of any anti-air rocket.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "長距離、強力攻撃がしかけられるが、命中率は低めなの",
-   "en": "",
-   "status": "todo",
+   "en": "Strong long-range attacks, but low accuracy; to",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "で、いらいらしたくなかったら陸指の高い指揮官に指揮",
-   "en": "",
-   "status": "todo",
+   "en": "avoid frustration, give it a commander with high",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "をまかせよう。やはりよわよわ防御なので、攻撃されな",
-   "en": "",
-   "status": "todo",
+   "en": "Land command. Feeble defense too, so take full",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "いように万全の配慮が必要だ。",
-   "en": "",
-   "status": "todo",
+   "en": "care to avoid attacks.",
+   "status": "done",
    "kind": "text"
   },
   {

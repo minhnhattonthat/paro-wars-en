@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "産業スパイを使ってボンジュールミラージュの資料を盗",
-   "en": "",
-   "status": "todo",
+   "en": "The Michael Empire's home-grown fighter, built",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "みだし１９９９年７の月からブラックカーテン計画の名",
-   "en": "",
-   "status": "todo",
+   "en": "from Bonjour Mirage plans stolen by spies, under",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "で開発されたミカエル帝国の国産戦闘機。国民性が反映",
-   "en": "",
-   "status": "todo",
+   "en": "the Black Curtain Plan of the seventh month of",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "されてか、機体は一般的戦闘機より一回り太いが、だか",
-   "en": "",
-   "status": "todo",
+   "en": "1999. True to the national character, it's plumper",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "らといって特に頑丈だということはないのである！！",
-   "en": "",
-   "status": "todo",
+   "en": "than most fighters, but no tougher!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "スピード、守備力は平均的です。攻撃面では、地上攻撃",
-   "en": "",
-   "status": "todo",
+   "en": "Average speed and defense. It can attack the",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "能力もあるのでなかなか使いやすい戦闘機でしょう。",
-   "en": "",
-   "status": "todo",
+   "en": "ground too, so it's quite an easy fighter to use.",
+   "status": "done",
    "kind": "text"
   }
  ]

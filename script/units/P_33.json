@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３（空に攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3 (no air attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　２",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "軽量、高速な軽戦車。装甲が薄く防御力は弱いが攻撃力",
-   "en": "",
-   "status": "todo",
+   "en": "A light, fast light tank. Thin armor means weak",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "はいい方です。",
-   "en": "",
-   "status": "todo",
+   "en": "defense, but good attack.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "機動力が高いので、偵察や敵の侵入を遅れさせるための",
-   "en": "",
-   "status": "todo",
+   "en": "High mobility. Expect it to shine up front as a",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "バリケード役など最前線での活躍が期待されます。",
-   "en": "",
-   "status": "todo",
+   "en": "scout or a barricade to delay enemies.",
+   "status": "done",
    "kind": "text"
   },
   {

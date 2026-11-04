@@ -9,8 +9,8 @@
    "off": 34816,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 34848,
    "len": 32,
    "jp": "攻撃力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 34880,
    "len": 32,
    "jp": "守備力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 34912,
    "len": 52,
    "jp": "ペン太連合の科学力を結集して開発された、ダンサー型",
-   "en": "",
-   "status": "todo",
+   "en": "Primitive-powered giant dancer robot, peak Penta",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 34964,
    "len": 52,
    "jp": "原始力巨大ロボ。相変わらず腰を振っておそってくる。",
-   "en": "",
-   "status": "todo",
+   "en": "Alliance science. Attacks, hips swinging as ever.",
+   "status": "done",
    "kind": "text"
   },
   {

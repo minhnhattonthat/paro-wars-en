@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　２",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　２",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "こいつ＆あいつ国初の超音速戦闘機。高速度の追求のし",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu & Aitsu's first supersonic fighter. Chasing",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "すぎと、お金をケチったために極度の虚弱体質戦闘機に",
-   "en": "",
-   "status": "todo",
+   "en": "speed and pinching pennies made it a very frail",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "仕上がっている。速さだけは優秀。",
-   "en": "",
-   "status": "todo",
+   "en": "plane. Only its speed is any good.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "速さを生かした攻撃を考えないと体がもちません。",
-   "en": "",
-   "status": "todo",
+   "en": "Use its speed when attacking or it won't survive.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "なるべく敵との距離を保って、倒しきれなかった敵への",
-   "en": "",
-   "status": "todo",
+   "en": "Keep your distance and stick to finishing off the",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "最後の一撃役に徹しましょう。",
-   "en": "",
-   "status": "todo",
+   "en": "enemies others couldn't.",
+   "status": "done",
    "kind": "text"
   },
   {

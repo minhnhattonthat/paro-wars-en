@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　プリンス王国を失い、原油の輸入元であったパンダ　国が壊滅したことにより、ペン太郎王国は資源問題が　深刻化していた。",
-   "en": "",
-   "status": "todo",
+   "en": "With Prince Kingdom lost and its oil supplier Panda destroyed, Pentaro Kingdom's resource problem grew serious.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "　そこでペン太郎王国は、自国のすぐ南に位置するグ　ウェート地方に目をつけた。",
-   "en": "",
-   "status": "todo",
+   "en": "So Pentaro Kingdom set its sights on the Gwait region, just south of its border.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "　しかし、グウェート地方といえば、世界の中心に近　い所にあり、多くの国に接する、資源豊富な場所で世　界の共有財産的な存在なのである。",
-   "en": "",
-   "status": "todo",
+   "en": "But the Gwait region, near the center of the world, bordering many nations and rich in resources, was something like the world's shared asset.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "　そこをひとり占めしたとなれば、他の国が黙ってい　ないだろう。",
-   "en": "",
-   "status": "todo",
+   "en": "If one nation grabbed it all, the others would never stay quiet.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "　そこでペン太郎王国は、同盟国のラブリー国と、　　",
-   "en": "",
-   "status": "todo",
+   "en": "So Pentaro Kingdom went to its ally Lovely,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "同じく資源問題が深刻化しているこいつ＆あいつ国に、共同でグウェート地方を手に入れ、豊富な資源を山分　けする、第一次グウェート分割政策の話を持ちかけた",
-   "en": "",
-   "status": "todo",
+   "en": "and to Koitsu & Aitsu, also short of resources, proposing the First Gwait Partition Policy: take Gwait jointly and split its riches.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "　お互いの利害関係で同意を得た３国は、いよいよグ　ウェート地方侵攻に乗り出す。",
-   "en": "",
-   "status": "todo",
+   "en": "With their interests aligned, the 3 nations finally set out to invade the Gwait region.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "　グウェート地方の南方に位置するミカエル帝国は、　この許されざる行いに立ち上がるのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "The Michael Empire, south of Gwait, rose up against this unforgivable act.",
+   "status": "done",
    "kind": "text"
   }
  ]

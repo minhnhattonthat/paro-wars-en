@@ -9,8 +9,8 @@
    "off": 7072,
    "len": 24,
    "jp": "聖はいを手に入れた！",
-   "en": "",
-   "status": "todo",
+   "en": "Got the Holy Grail!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb9c"
@@ -21,8 +21,8 @@
    "off": 7096,
    "len": 32,
    "jp": "神の珠（たま）を手に入れた！",
-   "en": "",
-   "status": "todo",
+   "en": "Got the Divine Orb!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb98"
@@ -33,8 +33,8 @@
    "off": 7128,
    "len": 24,
    "jp": "神の箱を手に入れた！",
-   "en": "",
-   "status": "todo",
+   "en": "Got the Divine Box!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb94"
@@ -45,8 +45,8 @@
    "off": 7152,
    "len": 24,
    "jp": "神のキバを手に入れた！",
-   "en": "",
-   "status": "todo",
+   "en": "Got the Divine Fang!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb90"
@@ -57,8 +57,8 @@
    "off": 7176,
    "len": 32,
    "jp": "ピッコロミラーを手に入れた！",
-   "en": "",
-   "status": "todo",
+   "en": "Got the Piccolo Mirror!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb8c"
@@ -69,8 +69,8 @@
    "off": 7208,
    "len": 32,
    "jp": "不老不死のつぼを手に入れた！",
-   "en": "",
-   "status": "todo",
+   "en": "Got the Urn of Immortality!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb88"
@@ -81,8 +81,8 @@
    "off": 7240,
    "len": 32,
    "jp": "コルトランサーを手に入れた！",
-   "en": "",
-   "status": "todo",
+   "en": "Got the Colt Lancer!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb84"
@@ -93,8 +93,8 @@
    "off": 7272,
    "len": 32,
    "jp": "フェアリーソードを手に入れた",
-   "en": "",
-   "status": "todo",
+   "en": "Got the Fairy Sword!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb80"
@@ -105,8 +105,8 @@
    "off": 7304,
    "len": 20,
    "jp": "バウバウ国伝国の",
-   "en": "",
-   "status": "todo",
+   "en": "Bow-Wow heirloom:",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb7c"
@@ -117,8 +117,8 @@
    "off": 7324,
    "len": 24,
    "jp": "パンダ獣民共和国伝国の",
-   "en": "",
-   "status": "todo",
+   "en": "Panda heirloom:",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb78"
@@ -129,8 +129,8 @@
    "off": 7348,
    "len": 20,
    "jp": "モアイ首長国伝国の",
-   "en": "",
-   "status": "todo",
+   "en": "Moai heirloom:",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb74"
@@ -141,8 +141,8 @@
    "off": 7368,
    "len": 24,
    "jp": "こいつ＆あいつ国伝国の",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu & Aitsu heirloom:",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb70"
@@ -153,8 +153,8 @@
    "off": 7392,
    "len": 24,
    "jp": "ラブリー合衆国伝国の",
-   "en": "",
-   "status": "todo",
+   "en": "Lovely heirloom:",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb6c"
@@ -165,8 +165,8 @@
    "off": 7416,
    "len": 24,
    "jp": "アカシヤ共和国伝国の",
-   "en": "",
-   "status": "todo",
+   "en": "Akashiya heirloom:",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb68"
@@ -177,8 +177,8 @@
    "off": 7440,
    "len": 20,
    "jp": "ミカエル帝国伝国の",
-   "en": "",
-   "status": "todo",
+   "en": "Michael heirloom:",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb64"
@@ -189,8 +189,8 @@
    "off": 7460,
    "len": 24,
    "jp": "ペンタロウ王国伝国の",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro heirloom:",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BEND_OV:w8014cb60"

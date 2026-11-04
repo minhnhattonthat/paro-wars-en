@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　４（空に攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 4 (no air attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　１",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 1",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "３００ｍｍという特大型の自走ロケット砲を、機動力を",
-   "en": "",
-   "status": "todo",
+   "en": "A huge 300mm self-propelled rocket launcher,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "重視して前面、鼻の中にうめこんである。",
-   "en": "",
-   "status": "todo",
+   "en": "buried in its nose up front for mobility's sake.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "３００ロケットによる地上の敵への間接攻撃しかできな",
-   "en": "",
-   "status": "todo",
+   "en": "Its 300 Rocket can only hit ground foes",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "いので、敵ととなり合わないよう注意しよう。間接攻撃",
-   "en": "",
-   "status": "todo",
+   "en": "indirectly, so don't let enemies get adjacent. It",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "は移動後はできないので、うまく敵をおびき寄せて攻撃",
-   "en": "",
-   "status": "todo",
+   "en": "can't attack after moving, so lure enemies in and",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "だ！",
-   "en": "",
-   "status": "todo",
+   "en": "strike!",
+   "status": "done",
    "kind": "text"
   },
   {

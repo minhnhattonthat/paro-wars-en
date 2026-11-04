@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　４",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 4",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "かつては「多い日も安心レーザー」のかげにかくれた使",
-   "en": "",
-   "status": "todo",
+   "en": "Once useless beside the \"Safe-on-Heavy-Days",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "えない存在だったが、過去のデーターをもとに武装の変",
-   "en": "",
-   "status": "todo",
+   "en": "Laser,\" but a weapon change based on past data",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "更が行われ、連射性などが大幅に向上した。",
-   "en": "",
-   "status": "todo",
+   "en": "greatly improved rapid fire and more.",
+   "status": "done",
    "kind": "text"
   },
   {

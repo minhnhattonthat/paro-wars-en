@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　２（空に攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 2 (no air attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "Ｔバック３４主力戦車の改良型で９０ｍｍ砲をパンツの",
-   "en": "",
-   "status": "todo",
+   "en": "Upgrade of the T-Back 34 main battle tank, with a",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "中に装備している。第２次パロワールド大戦ではミカエ",
-   "en": "",
-   "status": "todo",
+   "en": "90mm gun equipped inside its panties. It terrified",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "ル帝国軍を恐れさせた存在であった。",
-   "en": "",
-   "status": "todo",
+   "en": "the Michael Empire in Paro World War II.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "旧式の部類にはいる兵器で攻撃部隊としては期待がもて",
-   "en": "",
-   "status": "todo",
+   "en": "An older weapon, so don't expect much on the",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "ない、守りたい部隊のバリケード役になってもらおう。",
-   "en": "",
-   "status": "todo",
+   "en": "attack. Use it as a barricade for units you want",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "もちろん空に攻撃なんてできっこないのだ。",
-   "en": "",
-   "status": "todo",
+   "en": "to protect. Attacking air? Not a chance.",
+   "status": "done",
    "kind": "text"
   },
   {

@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　４（地上攻撃力は弱い）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 4 (weak vs ground)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "最新鋭の大型戦闘機です。構造重量の４２．１９５％に",
-   "en": "",
-   "status": "todo",
+   "en": "The latest large fighter. Using 42.195% Chogokin P",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "調合金Ｐを使用することにより軽量化、耐久力のある機",
-   "en": "",
-   "status": "todo",
+   "en": "in its structure gave a light, tough airframe. Its",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "体開発に成功。大推進力エンジン装備により高い運動性",
-   "en": "",
-   "status": "todo",
+   "en": "high-thrust engine gives great agility.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "を持つ。",
-   "en": "",
-   "status": "todo",
+   "en": " ",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "最強の部類に入る戦闘機なので普通に戦っていても勝て",
-   "en": "",
-   "status": "todo",
+   "en": "One of the strongest fighters, so it should win in",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "るはず。値段が高いのでやはり間接兵器を使ってなるべ",
-   "en": "",
-   "status": "todo",
+   "en": "a straight fight. It's pricey, so use ranged",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "く損害が少ないように戦おう。",
-   "en": "",
-   "status": "todo",
+   "en": "weapons to limit your losses.",
+   "status": "done",
    "kind": "text"
   }
  ]

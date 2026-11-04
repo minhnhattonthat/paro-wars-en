@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　２",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "　ポークは世界最初の持続波誘導を使ったミサイルで、",
-   "en": "",
-   "status": "todo",
+   "en": "The world's first continuous-wave guided missile.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "ペン太郎王国が正式採用したのを皮切りにペン太連合側",
-   "en": "",
-   "status": "todo",
+   "en": "First adopted by Pentaro Kingdom, it became a",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "各国で使用された対空ミサイルシステムのベストセラー",
-   "en": "",
-   "status": "todo",
+   "en": "best-selling anti-air system in the Penta camp.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "射程が長く、攻撃力、命中率もかなりいいほうです。",
-   "en": "",
-   "status": "todo",
+   "en": "Long range, with quite good attack and accuracy.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "守備力はよわよわなので、敵が離れている間にしとめら",
-   "en": "",
-   "status": "todo",
+   "en": "Its defense is feeble, so if you can't kill foes",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "れないと悲惨なことになります。",
-   "en": "",
-   "status": "todo",
+   "en": "while they're far off, tragedy follows.",
+   "status": "done",
    "kind": "text"
   },
   {

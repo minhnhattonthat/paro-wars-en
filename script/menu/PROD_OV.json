@@ -9,8 +9,8 @@
    "off": 9124,
    "len": 52,
    "jp": "兵器情報　　　　　：次ページ　　：解説　　：戻る",
-   "en": "",
-   "status": "todo",
+   "en": "Weapon Info{x:108}: Next page{x:192}: Details{x:252}: Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d39c"
@@ -21,8 +21,8 @@
    "off": 9188,
    "len": 52,
    "jp": "兵器解説　　　　　　　　　　　　　　　　　：戻る",
-   "en": "",
-   "status": "todo",
+   "en": "Weapon Details{x:252}: Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d3dc"
@@ -33,8 +33,8 @@
    "off": 9252,
    "len": 52,
    "jp": "兵器生産　　　　　：次ページ　　　：生産　　：情報",
-   "en": "",
-   "status": "todo",
+   "en": "Build Weapons{x:108}: Next page{x:204}: Build{x:264}: Info",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d41c"
@@ -45,8 +45,8 @@
    "off": 9332,
    "len": 12,
    "jp": "　戦闘機",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Fighter",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d468"
@@ -57,8 +57,8 @@
    "off": 9344,
    "len": 28,
    "jp": "ギャラクティカファントム",
-   "en": "",
-   "status": "todo",
+   "en": "Galactica Phantom",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d464"
@@ -93,8 +93,8 @@
    "off": 9432,
    "len": 8,
    "jp": "保有数",
-   "en": "",
-   "status": "todo",
+   "en": "Owned",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d4bc"
@@ -129,8 +129,8 @@
    "off": 9456,
    "len": 8,
    "jp": "科学力",
-   "en": "",
-   "status": "todo",
+   "en": "Science",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d4b0"
@@ -141,8 +141,8 @@
    "off": 9464,
    "len": 16,
    "jp": "１２３ウッキー",
-   "en": "",
-   "status": "todo",
+   "en": "123 Ukki",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d4ac"
@@ -165,8 +165,8 @@
    "off": 9484,
    "len": 8,
    "jp": "価格",
-   "en": "",
-   "status": "todo",
+   "en": "Cost",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d4a4"
@@ -189,8 +189,8 @@
    "off": 9536,
    "len": 16,
    "jp": "次回できる数",
-   "en": "",
-   "status": "todo",
+   "en": "Next batch",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d52c"
@@ -237,8 +237,8 @@
    "off": 9568,
    "len": 8,
    "jp": "生産数",
-   "en": "",
-   "status": "todo",
+   "en": "Built",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d51c"
@@ -249,8 +249,8 @@
    "off": 9604,
    "len": 12,
    "jp": "　戦闘機",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Fighter",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d578"
@@ -261,8 +261,8 @@
    "off": 9616,
    "len": 24,
    "jp": "キャラクティカマグナム",
-   "en": "",
-   "status": "todo",
+   "en": "Galactica Magnum",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d574"
@@ -297,8 +297,8 @@
    "off": 9700,
    "len": 8,
    "jp": "保有数",
-   "en": "",
-   "status": "todo",
+   "en": "Owned",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d5c8"
@@ -333,8 +333,8 @@
    "off": 9724,
    "len": 8,
    "jp": "科学力",
-   "en": "",
-   "status": "todo",
+   "en": "Science",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d5bc"
@@ -345,8 +345,8 @@
    "off": 9732,
    "len": 16,
    "jp": "　　　ウッキー",
-   "en": "",
-   "status": "todo",
+   "en": "{x:36} Ukki",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d5b8"
@@ -369,8 +369,8 @@
    "off": 9752,
    "len": 8,
    "jp": "価格",
-   "en": "",
-   "status": "todo",
+   "en": "Cost",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d5b0"
@@ -393,8 +393,8 @@
    "off": 9804,
    "len": 16,
    "jp": "次回できる数",
-   "en": "",
-   "status": "todo",
+   "en": "Next batch",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d638"
@@ -441,8 +441,8 @@
    "off": 9836,
    "len": 8,
    "jp": "生産数",
-   "en": "",
-   "status": "todo",
+   "en": "Built",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d628"
@@ -453,8 +453,8 @@
    "off": 9872,
    "len": 12,
    "jp": "　戦闘機",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Fighter",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d684"
@@ -465,8 +465,8 @@
    "off": 9884,
    "len": 16,
    "jp": "テリオス！！",
-   "en": "",
-   "status": "todo",
+   "en": "Terios!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d680"
@@ -501,8 +501,8 @@
    "off": 9960,
    "len": 8,
    "jp": "保有数",
-   "en": "",
-   "status": "todo",
+   "en": "Owned",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d6cc"
@@ -537,8 +537,8 @@
    "off": 9984,
    "len": 8,
    "jp": "科学力",
-   "en": "",
-   "status": "todo",
+   "en": "Science",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d6c0"
@@ -549,8 +549,8 @@
    "off": 9992,
    "len": 16,
    "jp": "　　　ウッキー",
-   "en": "",
-   "status": "todo",
+   "en": "{x:36} Ukki",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d6bc"
@@ -573,8 +573,8 @@
    "off": 10012,
    "len": 8,
    "jp": "価格",
-   "en": "",
-   "status": "todo",
+   "en": "Cost",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d6b4"
@@ -597,8 +597,8 @@
    "off": 10064,
    "len": 16,
    "jp": "次回できる数",
-   "en": "",
-   "status": "todo",
+   "en": "Next batch",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d73c"
@@ -645,8 +645,8 @@
    "off": 10096,
    "len": 8,
    "jp": "生産数",
-   "en": "",
-   "status": "todo",
+   "en": "Built",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d72c"
@@ -657,8 +657,8 @@
    "off": 10132,
    "len": 12,
    "jp": "　戦闘機",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Fighter",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d788"
@@ -669,8 +669,8 @@
    "off": 10144,
    "len": 24,
    "jp": "ウイニングザレインボウ",
-   "en": "",
-   "status": "todo",
+   "en": "Winning the Rainbow",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d784"
@@ -705,8 +705,8 @@
    "off": 10228,
    "len": 8,
    "jp": "保有数",
-   "en": "",
-   "status": "todo",
+   "en": "Owned",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d7d8"
@@ -741,8 +741,8 @@
    "off": 10252,
    "len": 8,
    "jp": "科学力",
-   "en": "",
-   "status": "todo",
+   "en": "Science",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d7cc"
@@ -753,8 +753,8 @@
    "off": 10260,
    "len": 16,
    "jp": "　　　ウッキー",
-   "en": "",
-   "status": "todo",
+   "en": "{x:36} Ukki",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d7c8"
@@ -777,8 +777,8 @@
    "off": 10280,
    "len": 8,
    "jp": "価格",
-   "en": "",
-   "status": "todo",
+   "en": "Cost",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d7c0"
@@ -801,8 +801,8 @@
    "off": 10332,
    "len": 16,
    "jp": "次回できる数",
-   "en": "",
-   "status": "todo",
+   "en": "Next batch",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d848"
@@ -849,8 +849,8 @@
    "off": 10364,
    "len": 8,
    "jp": "生産数",
-   "en": "",
-   "status": "todo",
+   "en": "Built",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d838"
@@ -897,8 +897,8 @@
    "off": 10448,
    "len": 12,
    "jp": "科学力　",
-   "en": "",
-   "status": "todo",
+   "en": "Science",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d898"
@@ -909,8 +909,8 @@
    "off": 10460,
    "len": 16,
    "jp": "９９９ウッキー",
-   "en": "",
-   "status": "todo",
+   "en": "999 Ukki",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d894"
@@ -921,8 +921,8 @@
    "off": 10476,
    "len": 8,
    "jp": "お金　",
-   "en": "",
-   "status": "todo",
+   "en": "Money",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d890"
@@ -933,8 +933,8 @@
    "off": 10508,
    "len": 44,
    "jp": "　生産指定　　　：増減　　：決定　　：中止",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Set Build{x:96}: Adjust{x:156}: Confirm{x:216}: Stop",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d8f8"
@@ -957,8 +957,8 @@
    "off": 10608,
    "len": 8,
    "jp": "金額",
-   "en": "",
-   "status": "todo",
+   "en": "Cost",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d950"
@@ -981,8 +981,8 @@
    "off": 10624,
    "len": 8,
    "jp": "生産数",
-   "en": "",
-   "status": "todo",
+   "en": "Built",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d940"
@@ -1005,8 +1005,8 @@
    "off": 10664,
    "len": 8,
    "jp": "移動力",
-   "en": "",
-   "status": "todo",
+   "en": "Move",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d994"
@@ -1173,8 +1173,8 @@
    "off": 10844,
    "len": 4,
    "jp": "建",
-   "en": "",
-   "status": "todo",
+   "en": "Bd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d9e8"
@@ -1185,8 +1185,8 @@
    "off": 10848,
    "len": 4,
    "jp": "川",
-   "en": "",
-   "status": "todo",
+   "en": "Rv",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d9e4"
@@ -1197,8 +1197,8 @@
    "off": 10852,
    "len": 4,
    "jp": "道",
-   "en": "",
-   "status": "todo",
+   "en": "Rd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d9e0"
@@ -1209,8 +1209,8 @@
    "off": 10856,
    "len": 4,
    "jp": "橋",
-   "en": "",
-   "status": "todo",
+   "en": "Br",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d9dc"
@@ -1221,8 +1221,8 @@
    "off": 10860,
    "len": 4,
    "jp": "氷",
-   "en": "",
-   "status": "todo",
+   "en": "Ic",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d9d8"
@@ -1233,8 +1233,8 @@
    "off": 10864,
    "len": 4,
    "jp": "雪",
-   "en": "",
-   "status": "todo",
+   "en": "Sn",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d9d4"
@@ -1245,8 +1245,8 @@
    "off": 10868,
    "len": 4,
    "jp": "海",
-   "en": "",
-   "status": "todo",
+   "en": "Se",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d9d0"
@@ -1257,8 +1257,8 @@
    "off": 10872,
    "len": 4,
    "jp": "岸",
-   "en": "",
-   "status": "todo",
+   "en": "Cs",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d9cc"
@@ -1269,8 +1269,8 @@
    "off": 10876,
    "len": 4,
    "jp": "岩",
-   "en": "",
-   "status": "todo",
+   "en": "Rk",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d9c8"
@@ -1281,8 +1281,8 @@
    "off": 10880,
    "len": 4,
    "jp": "砂",
-   "en": "",
-   "status": "todo",
+   "en": "Sa",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d9c4"
@@ -1293,8 +1293,8 @@
    "off": 10884,
    "len": 4,
    "jp": "土",
-   "en": "",
-   "status": "todo",
+   "en": "Dt",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d9c0"
@@ -1305,8 +1305,8 @@
    "off": 10888,
    "len": 4,
    "jp": "森",
-   "en": "",
-   "status": "todo",
+   "en": "Fr",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d9bc"
@@ -1317,8 +1317,8 @@
    "off": 10892,
    "len": 4,
    "jp": "草",
-   "en": "",
-   "status": "todo",
+   "en": "Gr",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014d9b8"
@@ -1329,8 +1329,8 @@
    "off": 10928,
    "len": 20,
    "jp": "ラッキーイーグル",
-   "en": "",
-   "status": "todo",
+   "en": "Lucky Eagle",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:w8014daa8"
@@ -1389,8 +1389,8 @@
    "off": 12548,
    "len": 12,
    "jp": "（占領）",
-   "en": "",
-   "status": "todo",
+   "en": "(Capture)",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:8014b8b4"
@@ -1401,8 +1401,8 @@
    "off": 12560,
    "len": 9,
    "jp": "（占領）",
-   "en": "",
-   "status": "todo",
+   "en": "(Capture)",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:8014c5a0"

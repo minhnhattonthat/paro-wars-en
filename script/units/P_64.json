@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "単独でも対艦攻撃ができるほどの重武装を誇り、おこら",
-   "en": "",
-   "status": "todo",
+   "en": "The newest Kireru-class carrier, so heavily armed",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "せたらこわいキレル級空母の最新鋭艦。",
-   "en": "",
-   "status": "todo",
+   "en": "it can attack ships alone, and scary when angered.",
+   "status": "done",
    "kind": "text"
   },
   {

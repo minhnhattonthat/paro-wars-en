@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　５（空に攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 5 (no air attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　２",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "ペン太郎王国、ラブリー連邦合衆国など、３か国と共同",
-   "en": "",
-   "status": "todo",
+   "en": "Jointly built by Pentaro Kingdom, Lovely and",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "開発した車両で、車体はＳＭ２ブラッド自爆レイを大改",
-   "en": "",
-   "status": "todo",
+   "en": "others, 3 countries in all. A heavily rebuilt SM2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "造したもので機動力にすぐれ、非常に強力な火力支援車",
-   "en": "",
-   "status": "todo",
+   "en": "Brad Kaboom-Ray hull gives it fine mobility: a",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "両といえる。",
-   "en": "",
-   "status": "todo",
+   "en": "very strong fire support vehicle.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "射程も長く、威力もあって、はっきり言って使えます。",
-   "en": "",
-   "status": "todo",
+   "en": "Long range and real power: frankly, it's useful.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "お金をためてたくさん配備したい兵器です。",
-   "en": "",
-   "status": "todo",
+   "en": "Save your money and deploy plenty.",
+   "status": "done",
    "kind": "text"
   },
   {

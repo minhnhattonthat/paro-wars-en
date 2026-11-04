@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "次世代潜水艦競争などまったくおかまいなしの旧世代艦",
-   "en": "",
-   "status": "todo",
+   "en": "An old-generation ship that ignores the next-gen",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "　さすがに老朽化のために第一線をさりつつあるが、ビ",
-   "en": "",
-   "status": "todo",
+   "en": "sub race entirely. It's leaving the front line due",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "デオ入力に対応した「新型うすしおＦＣ」で生き残りを",
-   "en": "",
-   "status": "todo",
+   "en": "to age, but stakes its survival on the",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "かける。",
-   "en": "",
-   "status": "todo",
+   "en": "video-capable \"New Usushio FC.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "潜水艦は艦船ユニット以外では、攻撃ヘリからしか攻撃",
-   "en": "",
-   "status": "todo",
+   "en": "Besides ships, only attack helicopters can hit",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "をうけない。また、視界が「あり」のモードでは敵から",
-   "en": "",
-   "status": "todo",
+   "en": "subs. In \"Sight On\" mode they're also hard to",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "発見されにくく、いやな存在なのである。",
-   "en": "",
-   "status": "todo",
+   "en": "spot: a real pest.",
+   "status": "done",
    "kind": "text"
   }
  ]

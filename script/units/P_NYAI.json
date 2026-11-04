@@ -9,8 +9,8 @@
    "off": 34816,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 34848,
    "len": 32,
    "jp": "攻撃力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 34880,
    "len": 32,
    "jp": "守備力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 34912,
    "len": 52,
    "jp": "　ニャー帝国の科学力が生んだ、パロワールド最強の",
-   "en": "",
-   "status": "todo",
+   "en": "The Nya Empire's science created Paro World's",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 34964,
    "len": 52,
    "jp": "汎用猫型決戦兵器。ニャンダーバードと呼ばれる鳥の",
-   "en": "",
-   "status": "todo",
+   "en": "strongest all-purpose cat-type decisive weapon.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 35016,
    "len": 52,
    "jp": "ように変形して体当たりしてくる攻撃はかなり強力で",
-   "en": "",
-   "status": "todo",
+   "en": "Its charge, changing into a bird called",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 35068,
    "len": 52,
    "jp": "ある。ニャン次郎（ニャー帝国帝王ニャー・ムーン）",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanderbird, is very strong. Nyanjiro (Nya Empire",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 35120,
    "len": 52,
    "jp": "には　”ニャイアント”の愛称で呼ばれている。",
-   "en": "",
-   "status": "todo",
+   "en": "Emperor Nya-Mu) calls it \"Nyaiant.\"",
+   "status": "done",
    "kind": "text"
   },
   {

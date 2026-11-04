@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　激戦の末、２月７日島からこいつ＆あいつ軍を追い　出したペン太郎王国であったが、",
-   "en": "",
-   "status": "todo",
+   "en": "After a fierce fight, Pentaro Kingdom drove the Koitsu & Aitsu army from February 7th Island,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "この事件によって、こいつ＆あいつ国から逆恨みをか　ってしまった。",
-   "en": "",
-   "status": "todo",
+   "en": "but this earned it the spiteful grudge of Koitsu & Aitsu.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "　こいつ＆あいつは、これまでペンタ連合側にとって　重要なエネルギーの輸入元であった同盟国の、",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu & Aitsu went to their ally, long a key energy supplier for the Penta Alliance:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "パンダ茶会主義獣民共和国の党首、アンナパブロワに、ペン太郎王国に対する、経済制裁の話を持ちかけたの　である。",
-   "en": "",
-   "status": "todo",
+   "en": "Anna Pavlova, leader of the Panda Tea Party Beasts' Republic, and proposed economic sanctions against Pentaro Kingdom.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "こいつ：「ρρλανξοσγθπρρ」",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu: \"ρρλανξοσγθπρρ\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "アンナパブロワ：「おもしろいアルね！　　　　　　　　　　　　　　　　もうペンタ国には、二度と原油は　　　　　　　　　　渡さないアル！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Anna Pavlova: \"How amusing, aru! No more crude oil for the Pentas, not ever again, aru!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "　かくしてパンダ国は、ペンタ連合側への原油輸出を　停止したのである。",
-   "en": "",
-   "status": "todo",
+   "en": "And so Panda halted its crude oil exports to the Penta Alliance.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "アンナパブロワ：「今後一切、おまえらには原油を売　　　　　　　　　　らないアル。」",
-   "en": "",
-   "status": "todo",
+   "en": "Anna Pavlova: \"From now on, we sell you people no crude oil at all, aru.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "ペン太郎：「な、なんだってぇ～！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro: \"Wh-what did you saaay?!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "　パンダ国から原油の輸入を、完全にストップさせら　れてしまったペン太郎王国としてはたまらない。",
-   "en": "",
-   "status": "todo",
+   "en": "With its oil imports from Panda completely cut off, Pentaro Kingdom was in big trouble.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1650,
    "len": 150,
    "jp": "　パンダ国は、コイツ＆アイツ機構の加盟国なので、　いくら交渉しても考え直してもらえないだろう。",
-   "en": "",
-   "status": "todo",
+   "en": "Panda was a member of the Koitsu & Aitsu Pact, so no amount of talks would change its mind.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 1800,
    "len": 150,
    "jp": "ペン太郎：「ふっ・・・。まぁ、しゃ～ね～な！」",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro: \"Heh... Well, can't be helped!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 1950,
    "len": 150,
    "jp": "ペン太郎：「こうなリャ腕ずくだ～っ！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro: \"Then it's time to use force!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 2100,
    "len": 150,
    "jp": "　こうなったらやるしかない。　　　　　　　　　　　　パンダ国南部の油田基地を奪い取るため、フランシ　ス＝ペドロ島侵攻が開始された。",
-   "en": "",
-   "status": "todo",
+   "en": "There was nothing else for it. To seize the oil base in southern Panda, the invasion of Francis-Pedro Island began.",
+   "status": "done",
    "kind": "text"
   }
  ]

@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３（空に攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3 (no air attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "　軽量ながら被弾性を考慮した構造になっている。",
-   "en": "",
-   "status": "todo",
+   "en": "Light but built to survive hits. Its low-power gas",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "低出力ガソリンエンジンながら時速６４ｋｍで高速走行",
-   "en": "",
-   "status": "todo",
+   "en": "engine still does 64 km/h. Well rated in Bow-Wow",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "する。バウバウ国でも評価が高く自営隊に配備された。",
-   "en": "",
-   "status": "todo",
+   "en": "too, and issued to its Self-Employed Force.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "攻撃力、守備力、機動力すべて中間的な軽戦車です。",
-   "en": "",
-   "status": "todo",
+   "en": "A light tank that's average in attack, defense and",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "軽戦車なんだからそんなに大きい期待をかけては、いけ",
-   "en": "",
-   "status": "todo",
+   "en": "mobility. It's a light tank, so don't get your",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "ません。",
-   "en": "",
-   "status": "todo",
+   "en": "hopes up too high.",
+   "status": "done",
    "kind": "text"
   },
   {

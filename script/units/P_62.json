@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "大都会向けの空母で、搭載機のプロペラの奏でる高音と",
-   "en": "",
-   "status": "todo",
+   "en": "A carrier for the big city. The gap between its",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "スクリューの低音の落差が絶妙のハーモニーと評される",
-   "en": "",
-   "status": "todo",
+   "en": "planes' high propeller notes and its screws' low",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "ただ、今となってはかなり老朽化していて知っている人",
-   "en": "",
-   "status": "todo",
+   "en": "notes is hailed as sublime harmony. It's quite",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "の方がめずらしいらしい。",
-   "en": "",
-   "status": "todo",
+   "en": "decrepit now, and few people even know of it.",
+   "status": "done",
    "kind": "text"
   },
   {

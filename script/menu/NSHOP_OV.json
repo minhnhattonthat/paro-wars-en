@@ -9,8 +9,8 @@
    "off": 4,
    "len": 28,
    "jp": "持ち物がいっぱいニャン！！",
-   "en": "",
-   "status": "todo",
+   "en": "Your bag's full, nyan!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w801590d4",
@@ -22,8 +22,8 @@
    "off": 32,
    "len": 20,
    "jp": "　　　　　ウッキー",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Ukki",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w801590d0",
@@ -35,8 +35,8 @@
    "off": 52,
    "len": 32,
    "jp": "用がないならとっとと帰るニャン",
-   "en": "",
-   "status": "todo",
+   "en": "No business? Then beat it, nyan.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w801590cc",
@@ -48,8 +48,8 @@
    "off": 84,
    "len": 20,
    "jp": "毎度あり～ニャン！",
-   "en": "",
-   "status": "todo",
+   "en": "Thanks a lot, nyan!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w801590c8"
@@ -60,8 +60,8 @@
    "off": 104,
    "len": 28,
    "jp": "お金が足りないニャン！！",
-   "en": "",
-   "status": "todo",
+   "en": "Not enough money, nyan!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w801590c4",
@@ -73,8 +73,8 @@
    "off": 132,
    "len": 32,
    "jp": "で引き取るけどいいかニャン？",
-   "en": "",
-   "status": "todo",
+   "en": "is my offer. OK, nyan?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w801590c0",
@@ -86,8 +86,8 @@
    "off": 164,
    "len": 28,
    "jp": "いただくけどいいかニャン？",
-   "en": "",
-   "status": "todo",
+   "en": "is the price. OK, nyan?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w801590bc"
@@ -98,8 +98,8 @@
    "off": 192,
    "len": 28,
    "jp": "いらっしゃいまし～ニャン！",
-   "en": "",
-   "status": "todo",
+   "en": "Welcome, welcome, nyaaan!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w801590b8"
@@ -110,8 +110,8 @@
    "off": 220,
    "len": 32,
    "jp": "用が済んだらとっとと帰るニャン",
-   "en": "",
-   "status": "todo",
+   "en": "All done? Then beat it, nyan.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w801590e8"
@@ -122,8 +122,8 @@
    "off": 252,
    "len": 20,
    "jp": "いただくニャン！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll take that, nyan!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w801590dc"
@@ -134,8 +134,8 @@
    "off": 272,
    "len": 20,
    "jp": "何の用だニャン！！",
-   "en": "",
-   "status": "todo",
+   "en": "What is it, nyan!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w801590d8"
@@ -146,8 +146,8 @@
    "off": 292,
    "len": 8,
    "jp": "やめる",
-   "en": "",
-   "status": "todo",
+   "en": "Quit",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w8015911c"
@@ -158,8 +158,8 @@
    "off": 300,
    "len": 8,
    "jp": "うる",
-   "en": "",
-   "status": "todo",
+   "en": "Sell",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159118"
@@ -170,8 +170,8 @@
    "off": 308,
    "len": 8,
    "jp": "かう",
-   "en": "",
-   "status": "todo",
+   "en": "Buy",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159114"
@@ -337,8 +337,8 @@
    "off": 408,
    "len": 12,
    "jp": "ウッキー",
-   "en": "",
-   "status": "todo",
+   "en": "Ukki",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159140",
@@ -590,8 +590,8 @@
    "off": 572,
    "len": 20,
    "jp": "コークスクリュー",
-   "en": "",
-   "status": "todo",
+   "en": "Corkscrew",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w801592a0",
@@ -603,8 +603,8 @@
    "off": 592,
    "len": 20,
    "jp": "ターボスクリュー",
-   "en": "",
-   "status": "todo",
+   "en": "Turbo Screw",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w8015929c",
@@ -616,8 +616,8 @@
    "off": 612,
    "len": 12,
    "jp": "オーラボム",
-   "en": "",
-   "status": "todo",
+   "en": "Aura Bomb",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159298",
@@ -629,8 +629,8 @@
    "off": 624,
    "len": 16,
    "jp": "ターボエンジン",
-   "en": "",
-   "status": "todo",
+   "en": "Turbo Engine",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159294",
@@ -642,8 +642,8 @@
    "off": 640,
    "len": 8,
    "jp": "地　雷",
-   "en": "",
-   "status": "todo",
+   "en": "Mine",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159290",
@@ -655,8 +655,8 @@
    "off": 648,
    "len": 12,
    "jp": "トップガン",
-   "en": "",
-   "status": "todo",
+   "en": "Top Gun",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w8015928c",
@@ -668,8 +668,8 @@
    "off": 660,
    "len": 16,
    "jp": "ゴッドサービス",
-   "en": "",
-   "status": "todo",
+   "en": "God Service",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159288",
@@ -681,8 +681,8 @@
    "off": 676,
    "len": 12,
    "jp": "エレキラー",
-   "en": "",
-   "status": "todo",
+   "en": "Elekiller",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159284",
@@ -694,8 +694,8 @@
    "off": 688,
    "len": 16,
    "jp": "ターボジェット",
-   "en": "",
-   "status": "todo",
+   "en": "Turbo Jet",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159280",
@@ -707,8 +707,8 @@
    "off": 704,
    "len": 24,
    "jp": "猫潜水艦ニャニャーント",
-   "en": "",
-   "status": "todo",
+   "en": "Cat Sub Nyanyaant",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w8015927c"
@@ -719,8 +719,8 @@
    "off": 728,
    "len": 20,
    "jp": "猫空母ドザえもん",
-   "en": "",
-   "status": "todo",
+   "en": "Catrier Doza-emon",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159278"
@@ -731,8 +731,8 @@
    "off": 748,
    "len": 20,
    "jp": "猫駆逐艦あまつさえ",
-   "en": "",
-   "status": "todo",
+   "en": "Cat Destroyer Also",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159274"
@@ -743,8 +743,8 @@
    "off": 768,
    "len": 24,
    "jp": "猫戦艦ウチガホンケヤ",
-   "en": "",
-   "status": "todo",
+   "en": "Cat Battleship Original",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159270"
@@ -755,8 +755,8 @@
    "off": 792,
    "len": 20,
    "jp": "ニャンニャンＮ１",
-   "en": "",
-   "status": "todo",
+   "en": "Nyan-Nyan N1",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w8015926c"
@@ -767,8 +767,8 @@
    "off": 812,
    "len": 24,
    "jp": "ニャンニャン式軽戦車",
-   "en": "",
-   "status": "todo",
+   "en": "Nyan-Nyan Light Tank",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159268"
@@ -791,8 +791,8 @@
    "off": 848,
    "len": 8,
    "jp": "持ち金",
-   "en": "",
-   "status": "todo",
+   "en": "Money",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159318"
@@ -815,8 +815,8 @@
    "off": 868,
    "len": 8,
    "jp": "お会計",
-   "en": "",
-   "status": "todo",
+   "en": "Total",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w801592f8"
@@ -827,8 +827,8 @@
    "off": 876,
    "len": 8,
    "jp": "バリア",
-   "en": "",
-   "status": "todo",
+   "en": "Barrier",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159378"
@@ -851,8 +851,8 @@
    "off": 896,
    "len": 20,
    "jp": "レインボーショット",
-   "en": "",
-   "status": "todo",
+   "en": "Rainbow Shot",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159364"
@@ -863,8 +863,8 @@
    "off": 916,
    "len": 12,
    "jp": "ド根性玉",
-   "en": "",
-   "status": "todo",
+   "en": "Guts Ball",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159360"
@@ -875,8 +875,8 @@
    "off": 928,
    "len": 16,
    "jp": "ワイドバズーカ",
-   "en": "",
-   "status": "todo",
+   "en": "Wide Bazooka",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159358"
@@ -887,8 +887,8 @@
    "off": 944,
    "len": 20,
    "jp": "ファイヤーストーム",
-   "en": "",
-   "status": "todo",
+   "en": "Firestorm",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159344"
@@ -899,8 +899,8 @@
    "off": 964,
    "len": 18,
    "jp": "フェニックスＤＸ",
-   "en": "",
-   "status": "todo",
+   "en": "Phoenix DX",
+   "status": "done",
    "kind": "text",
    "refs": [
     "NSHOP_OV:w80159340"

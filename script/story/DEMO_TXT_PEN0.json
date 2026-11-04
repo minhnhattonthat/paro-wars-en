@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　ペン太郎王国の北東に位置するプリンス王国。　　　　小さな国だが金、銀などの貴重な鉱物資源が豊富で、長年の間ペン太郎王国とは姉妹国関係にあった。",
-   "en": "",
-   "status": "todo",
+   "en": "Prince Kingdom lies northeast of Pentaro Kingdom. Small but rich in gold, silver and other precious minerals, it was a longtime sister nation.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "　ペン太郎王国にとって、現在の繁栄はこのプリンス　王国の豊かな資源によるものだ、といっても過言では　ないほどの重要な拠点である。",
-   "en": "",
-   "status": "todo",
+   "en": "It's no exaggeration to say Pentaro Kingdom owes its prosperity to Prince Kingdom's rich resources. It's that vital a stronghold.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "　一方、モアイ諸島首長国は、観光を中心に栄えてき　た国である。この国は原油の産出も豊富で、これもま　た、産業の大きな柱となっていた。",
-   "en": "",
-   "status": "todo",
+   "en": "Meanwhile, the Moai Islands Emirate thrived mainly on tourism. It also produced plenty of crude oil, another great pillar of its industry.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "　事件は、このモアイ国に観光と商売に訪れた、７つ　の海をかけめぐる謎の行商猫、ジョン・ニャン次郎の　問題発言から始まった。",
-   "en": "",
-   "status": "todo",
+   "en": "It began with a troubling remark by John Nyanjiro, the mysterious peddler cat of the seven seas, on a sightseeing and business trip to Moai.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "　いつものように、モアイ国首長であるよしこ女帝７　世に挨拶をしていたニャン次郎は、その席で・・・　　　",
-   "en": "",
-   "status": "todo",
+   "en": "While paying his usual respects to Moai's chief, Empress Yoshiko VII, Nyanjiro...",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "ニャン次郎：「今日はパンダ国の山奥に行ったときに　　　　　　　　覚えた、パンダ国４千年の歴史が生ん　　　　　　　　だ気孔術をおひろめするニャン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"Today I'll show you qigong, born of Panda's 4,000-year history, which I learned deep in the Panda mountains, nyan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "ニャン次郎：「これは、生命と大地が発生する『気』　　　　　　　　のパワーを使った、『風水に聞く』と　　　　　　　　いう技ニャのだ！」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"It's a technique called 'Asking the Feng Shui,' using the power of 'ki' that springs from life and land, nyan!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "よしこ女帝：「やって！　やって！　　　　　　　　　　　　　　　　早くやってぇ～！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Empress Yoshiko: \"Do it! Do it! Do it right nooow!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "ニャン次郎：「それニャー集中っ！！！　　　　　　　　　　　　　『気ハ風ニ乗ジテ散ジ、水ニ界レバ・・・　　　　　　　ブツブツ・・・。』」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"Nyow, concentrate!!! 'Ki rides the wind and scatters, and meets water, and... mumble, mumble...'\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "ニャン次郎：「ウッ！！　ぐふっ！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"Ugh!! Gahhh!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1650,
    "len": 150,
    "jp": "よしこ女帝：「ど、どうしました？」",
-   "en": "",
-   "status": "todo",
+   "en": "Empress Yoshiko: \"Wh-what's wrong?\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 1800,
    "len": 150,
    "jp": "ニャン次郎：「ハァ、ハァ、だめだニャン！　　　　　　　　　　　　この土地ニャー、風水パワーがほとん　　　　　　　　ど残ってないニャン！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"Hah, hah, it's no good, nyan! This land has almost no feng shui power left, nyan!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 1950,
    "len": 150,
    "jp": "よしこ女帝：「なんですとぉ～！？」",
-   "en": "",
-   "status": "todo",
+   "en": "Empress Yoshiko: \"What did you saaay?!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 2100,
    "len": 150,
    "jp": "　ニャン次郎が行った「風水に聞く」の秘法によって、ここ数年のうちにモアイ国の原油が枯れてしまう、と　いうショッキングな事実が判明した。",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro's secret \"Asking the Feng Shui\" rite revealed a shocking fact: within a few years, Moai's crude oil would run dry.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -144,8 +144,8 @@
    "off": 2250,
    "len": 150,
    "jp": "ジョン・ニャン次郎といえば、いくつかの黒いうわさ　もささやかれるが、これまでにも数々の事件を予言し、その筋ではかなり名の通った猫である。",
-   "en": "",
-   "status": "todo",
+   "en": "John Nyanjiro had some dark rumors about him, but he had foretold many events and was a rather famous cat in certain circles.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -153,8 +153,8 @@
    "off": 2400,
    "len": 150,
    "jp": "　この予言を聞いてびっくりしてしまったのが、モア　イ国首長よしこ女帝。",
-   "en": "",
-   "status": "todo",
+   "en": "The one most shocked by this prophecy was Moai's chief, Empress Yoshiko.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -162,8 +162,8 @@
    "off": 2550,
    "len": 150,
    "jp": "　じつはモアイ国は、国内のレジャーランド建設の為　に、ジョン・ニャン次郎から多額の借金を抱えており、　",
-   "en": "",
-   "status": "todo",
+   "en": "The truth was, Moai had borrowed a fortune from John Nyanjiro to build leisure lands at home,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -171,8 +171,8 @@
    "off": 2700,
    "len": 150,
    "jp": "今、原油が枯れてしまうと、借金で首が回らなくなっ　てしまうのであった（もともと首は回らないのだが）。",
-   "en": "",
-   "status": "todo",
+   "en": "and if its oil dried up now, she'd be in debt up to her neck. (Not that a moai has a neck to begin with.)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -180,8 +180,8 @@
    "off": 2850,
    "len": 150,
    "jp": "　そこで、ジョン・ニャン次郎を交えての、緊急国会　が召集された。",
-   "en": "",
-   "status": "todo",
+   "en": "So an emergency session of parliament was called, with John Nyanjiro in attendance.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -189,8 +189,8 @@
    "off": 3000,
    "len": 150,
    "jp": "　根本的な解決策がないまま、むなしく繰り返される　議論の中、ジョン・ニャン次郎が１つの提案をあげた。　",
-   "en": "",
-   "status": "todo",
+   "en": "Amid hollow, endless debate with no real solution, John Nyanjiro put forward a proposal.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -198,8 +198,8 @@
    "off": 3150,
    "len": 150,
    "jp": "ニャン次郎：「北方の『プリンス王国』という国をご　　　　　　　　存知かニャ～ン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"Do you know a country up north called 'Prince Kingdom,' nyaaan?\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -207,8 +207,8 @@
    "off": 3300,
    "len": 150,
    "jp": "ニャン次郎：「あの国は、ペン太郎王国のすぐ隣にあ　　　　　　　　るから、ペン太郎王国の領土の一部と　　　　　　　　思われがちだけど、」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"It's right next to Pentaro Kingdom, so people tend to think it's part of Pentaro Kingdom, but,\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -216,8 +216,8 @@
    "off": 3450,
    "len": 150,
    "jp": "ニャン次郎：「じつは、どこの国の領土でもないんだ　　　　　　　　ニャ～ン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"in truth it isn't any country's territory, nyaaan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -225,8 +225,8 @@
    "off": 3600,
    "len": 150,
    "jp": "ニャン次郎：「あそこは、金銀なんかがざっくざく！　　　　　　　　ペンタ国だけに甘い汁を吸わせておく　　　　　　　　ことはニャイと思うけどニャ～ン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"That place is overflowing with gold and silver! No need to let the Pentas have all the gravy, I'd say, nyaaan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -234,8 +234,8 @@
    "off": 3750,
    "len": 150,
    "jp": "よしこ女帝：「よっし！分かった！　　　　　　　　　　　　　　　　早いとこ、プリンス王国につばつけと　　　　　　　　こ！」",
-   "en": "",
-   "status": "todo",
+   "en": "Empress Yoshiko: \"All right! Got it! Let's hurry and call dibs on Prince Kingdom!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -243,8 +243,8 @@
    "off": 3900,
    "len": 150,
    "jp": "　と、いうわけで、モアイ国のプリンス王国侵攻が即　決されたのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "And so Moai's invasion of Prince Kingdom was decided on the spot.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -252,8 +252,8 @@
    "off": 4050,
    "len": 150,
    "jp": "　ニャン次郎の話に乗せられてしまった、モアイ国の　黒い魔の手がプリンス王国にせまる。　　　　　　　　ペン太郎王国も姉妹国の危機を黙って見過ごせない！",
-   "en": "",
-   "status": "todo",
+   "en": "Taken in by Nyanjiro's story, Moai reached its dark claws toward Prince Kingdom. Pentaro Kingdom could not abandon its sister nation!",
+   "status": "done",
    "kind": "text"
   }
  ]

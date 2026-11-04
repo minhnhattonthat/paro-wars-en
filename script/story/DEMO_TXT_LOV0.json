@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　ラブリー連邦合衆国の、はるか西側に位置するプリ　ンス王国。",
-   "en": "",
-   "status": "todo",
+   "en": "Prince Kingdom lies far to the west of the Lovely Federal States.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "　この国は小さな国ではあるが、金、銀などの貴重な　鉱物資源が豊富で、古くからペンタ連合側の国々とは　友好的な間柄であった。",
-   "en": "",
-   "status": "todo",
+   "en": "This small country is rich in gold, silver and other precious minerals, and had long been friendly with the nations of the Penta Alliance.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "　ペンタ連合に所属するラブリー国にとって、現在の　繁栄はプリンス王国の豊かな資源によるものだ、とい　っても過言ではないほどの重要な拠点である。",
-   "en": "",
-   "status": "todo",
+   "en": "For Lovely, a Penta Alliance member, it's no exaggeration to say its prosperity comes from Prince Kingdom's resources. It's that vital.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "　一方、モアイ諸島首長国は、観光を中心に栄えてき　た国である。この国は原油の産出も豊富で、これもま　た、産業の大きな柱となっていた。",
-   "en": "",
-   "status": "todo",
+   "en": "Meanwhile, the Moai Islands Emirate thrived mainly on tourism. It also produced plenty of crude oil, another great pillar of its industry.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "　事件は、このモアイ国に観光と商売に訪れた、７つ　の海をかけめぐる謎の行商猫、ジョン・ニャン次郎の　問題発言から始まった。",
-   "en": "",
-   "status": "todo",
+   "en": "It began with a troubling remark by John Nyanjiro, the mysterious peddler cat of the seven seas, on a sightseeing and business trip to Moai.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "　なんとこのジョン・ニャン次郎、大胆にも、ここ数　年のうちにモアイ国の原油が枯れてしまう、などとい　う大予言をしてしまったのである。",
-   "en": "",
-   "status": "todo",
+   "en": "Incredibly, John Nyanjiro boldly made a grand prophecy: within a few years, Moai's crude oil would run dry.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "　ジョン・ニャン次郎といえば、いくつかの黒いうわ　さもささやかれるが、これまでにも数々の事件を予言　し、その筋ではかなり名の通った猫である。",
-   "en": "",
-   "status": "todo",
+   "en": "John Nyanjiro had some dark rumors about him, but he had foretold many events and was a rather famous cat in certain circles.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "　この予言を聞いてびっくりしてしまったのが、モア　イ国首長よしこ女帝。",
-   "en": "",
-   "status": "todo",
+   "en": "The one most shocked by this prophecy was Moai's chief, Empress Yoshiko.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "　じつは、モアイ国は国内のレジャーランド建設の為　に、ジョン・ニャン次郎から多額の借金を抱えており、　",
-   "en": "",
-   "status": "todo",
+   "en": "The truth was, Moai had borrowed a fortune from John Nyanjiro to build leisure lands at home,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "今、原油が枯れてしまうと、借金で首が回らなくなっ　てしまうのであった（もともと首は回らないのだが）。",
-   "en": "",
-   "status": "todo",
+   "en": "and if its oil dried up now, she'd be in debt up to her neck. (Not that a moai has a neck to begin with.)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1650,
    "len": 150,
    "jp": "　そこで、ジョン・ニャン次郎を交えての緊急国会が　召集された。",
-   "en": "",
-   "status": "todo",
+   "en": "So an emergency session of parliament was called, with John Nyanjiro in attendance.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 1800,
    "len": 150,
    "jp": "　根本的な解決策がないまま、むなしく繰り返される　議論の中、ジョン・ニャン次郎が１つの提案をあげた。　",
-   "en": "",
-   "status": "todo",
+   "en": "Amid hollow, endless debate with no real solution, John Nyanjiro put forward a proposal.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 1950,
    "len": 150,
    "jp": "ニャン次郎：「北方の『プリンス王国』という国を　　　　　　　　　ご存知かニャ～ン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"Do you know a country up north called 'Prince Kingdom,' nyaaan?\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 2100,
    "len": 150,
    "jp": "ニャン次郎：「あの国は、ペン太郎王国のすぐ隣にあ　　　　　　　　るから、ペン太郎王国の領土の一部と　　　　　　　　思われがちだけど、」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"It's right next to Pentaro Kingdom, so people tend to think it's part of Pentaro Kingdom, but,\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -144,8 +144,8 @@
    "off": 2250,
    "len": 150,
    "jp": "ニャン次郎：「じつは、どこの国の領土でもないんだ　　　　　　　　ニャ～ン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"in truth it isn't any country's territory, nyaaan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -153,8 +153,8 @@
    "off": 2400,
    "len": 150,
    "jp": "ニャン次郎：「あそこは、金銀なんかがざっくざく！　　　　　　　　ペンタ国だけに、甘い汁を吸わせておく　　　　　　　ことはニャイと思うけどニャ～ン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"That place is overflowing with gold and silver! No need to let the Pentas have all the gravy, I'd say, nyaaan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -162,8 +162,8 @@
    "off": 2550,
    "len": 150,
    "jp": "よしこ女帝：「よっし！分かった！　　　　　　　　　　　　　　　　早いとこ、プリンス王国につばつけと　　　　　　　　こ！」",
-   "en": "",
-   "status": "todo",
+   "en": "Empress Yoshiko: \"All right! Got it! Let's hurry and call dibs on Prince Kingdom!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -171,8 +171,8 @@
    "off": 2700,
    "len": 150,
    "jp": "　と、いうわけで、モアイ国のプリンス王国侵攻が即　決されたのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "And so Moai's invasion of Prince Kingdom was decided on the spot.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -180,8 +180,8 @@
    "off": 2850,
    "len": 150,
    "jp": "　ニャン次郎のおいしい話に乗ってしまった、モアイ　国の黒い魔の手が、今まさにプリンス王国に迫ろうと　していた。",
-   "en": "",
-   "status": "todo",
+   "en": "Taken in by Nyanjiro's juicy tale, Moai now reached its dark claws toward Prince Kingdom.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -189,8 +189,8 @@
    "off": 3000,
    "len": 150,
    "jp": "　プリンス王国からのＳＯＳを受けたペンタ連合側の　国々、助けてやりたいのはやまやまだが、みんな痛い　のは嫌いである。",
-   "en": "",
-   "status": "todo",
+   "en": "Prince Kingdom's SOS reached the Penta Alliance nations. They would love to help, but nobody likes getting hurt.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -198,8 +198,8 @@
    "off": 3150,
    "len": 150,
    "jp": "　ここに、ペンタ連合緊急サミットが開催された。",
-   "en": "",
-   "status": "todo",
+   "en": "And so an emergency Penta Alliance summit was held.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -207,8 +207,8 @@
    "off": 3300,
    "len": 150,
    "jp": "ペン太郎：「それじゃ、　　　　　　　　　　　　　　　　　　　　じゃんけんで負けた人がいくのね！」",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro: \"Okay then, whoever loses at rock-paper-scissors goes, okay?\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -216,8 +216,8 @@
    "off": 3450,
    "len": 150,
    "jp": "ポチ之嵐：「ナイスな考えだワン！」",
-   "en": "",
-   "status": "todo",
+   "en": "Pochi-no-Arashi: \"Nice idea, woof!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -225,8 +225,8 @@
    "off": 3600,
    "len": 150,
    "jp": "ひかる・あかね：「負けないわよ～。」",
-   "en": "",
-   "status": "todo",
+   "en": "Hikaru and Akane: \"We won't lose!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -234,8 +234,8 @@
    "off": 3750,
    "len": 150,
    "jp": "一　同：「じゃんけんポン！」",
-   "en": "",
-   "status": "todo",
+   "en": "Everyone: \"Rock, paper, scissors!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -243,8 +243,8 @@
    "off": 3900,
    "len": 150,
    "jp": "ペンタ・・・グー、ポチ之嵐・・チョキ、　　　　　　ひかる・・・グー、あかね・・・パー",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro... rock. Pochi-no-Arashi... scissors. Hikaru... rock. Akane... paper.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -252,8 +252,8 @@
    "off": 4050,
    "len": 150,
    "jp": "ペンタ、ポチ之嵐：「あ～っ！ちょんぼ！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro, Pochi-no-Arashi: \"Aaah! That's a foul!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -261,8 +261,8 @@
    "off": 4200,
    "len": 150,
    "jp": "　ひかる・あかねのチョンボということで、ラブリー　国は、むりやりプリンス王国に救援部隊を派遣させら　れるのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "Ruled a foul on Hikaru and Akane, Lovely was forced to send a rescue force to Prince Kingdom.",
+   "status": "done",
    "kind": "text"
   }
  ]

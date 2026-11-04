@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　ペンタ連合との争いに、なんとか決着をつけた　　　こいつ＆あいつ国であった。",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu & Aitsu had somehow settled their fight with the Penta Alliance.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "が、戦勝の喜びもつかの間、新たな事件に巻き込まれ　ることになってしまう。",
-   "en": "",
-   "status": "todo",
+   "en": "But the joy of victory was short-lived. They were about to be dragged into a new affair.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "　なんと、同盟国のパンダ国が、アラジオ連合のミカ　エル帝国とモアイ諸島首長国に突然攻め込まれ、占領　されてしまったのである。",
-   "en": "",
-   "status": "todo",
+   "en": "Incredibly, their ally Panda had been suddenly attacked and occupied by the Aladio Alliance's Michael Empire and Moai Islands Emirate.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "　事件は、モアイ国に観光と商売に訪れた、７つの海　をかけめぐる謎の行商猫、ジョン・ニャン次郎の発言　から始まった。",
-   "en": "",
-   "status": "todo",
+   "en": "It began with a remark by John Nyanjiro, the mysterious peddler cat of the seven seas, on a sightseeing and business trip to Moai.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "　モアイ諸島首長国といえば、観光を中心に栄えてき　た国である。",
-   "en": "",
-   "status": "todo",
+   "en": "The Moai Islands Emirate had long thrived mainly on tourism.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "　また、この国は原油の産出も豊富で、これも産業の　大きな柱となっていた。",
-   "en": "",
-   "status": "todo",
+   "en": "The country also produced plenty of crude oil, another great pillar of its industry.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "　しかし、大胆にもジョン・ニャン次郎は、ここ数年　のうちにモアイ国の原油が枯れる、などという大予言　をしてしまったのである。",
-   "en": "",
-   "status": "todo",
+   "en": "But John Nyanjiro boldly made a grand prophecy: within a few years, Moai's crude oil would run dry.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "　ジョン・ニャン次郎といえば、いくつかの黒いうわ　さもささやかれるが、これまでにも、数々の事件を予　言しその筋ではかなり名の通った猫である。",
-   "en": "",
-   "status": "todo",
+   "en": "John Nyanjiro had some dark rumors about him, but he had foretold many events and was a rather famous cat in certain circles.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "　この予言を聞いて、びっくりしてしまったのが、　　モアイ国首長よしこ女帝。",
-   "en": "",
-   "status": "todo",
+   "en": "The one most shocked by this prophecy was Moai's chief, Empress Yoshiko.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "　じつは、モアイ国は国内のレジャーランド建設の為　に、ジョン・ニャン次郎から多額の借金を抱えており、　",
-   "en": "",
-   "status": "todo",
+   "en": "The truth was, Moai had borrowed a fortune from John Nyanjiro to build leisure lands at home,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1650,
    "len": 150,
    "jp": "今、原油が枯れてしまうと、借金で首が回らなくなっ　てしまうのであった（もともと首は回らないのだが）。",
-   "en": "",
-   "status": "todo",
+   "en": "and if its oil dried up now, she'd be in debt up to her neck. (Not that a moai has a neck to begin with.)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 1800,
    "len": 150,
    "jp": "　そこで、ジョン・ニャン次郎を交えての、緊急国会　が召集された。",
-   "en": "",
-   "status": "todo",
+   "en": "So an emergency session of parliament was called, with John Nyanjiro in attendance.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 1950,
    "len": 150,
    "jp": "　根本的な解決策がないまま、むなしく繰り返される　議論の中、ジョン・ニャン次郎が１つの提案を掲げた。　",
-   "en": "",
-   "status": "todo",
+   "en": "Amid hollow, endless debate with no real solution, John Nyanjiro put forward a proposal.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 2100,
    "len": 150,
    "jp": "ニャン次郎：「いっそのこと、お隣のパンダ国をいた　　　　　　　　だいちゃったらどうかニャ～ン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"Why not just help yourselves to Panda next door, nyaaan?\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -144,8 +144,8 @@
    "off": 2250,
    "len": 150,
    "jp": "ニャン次郎：「ここの同盟国のミカエル帝国との仲も　　　　　　　　良くニャイようだし、一緒にいけば　　　　　　　　　楽勝ニャン！」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"They don't seem to get along with your ally the Michael Empire either. Go in together and it's a cinch, nyan!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -153,8 +153,8 @@
    "off": 2400,
    "len": 150,
    "jp": "よしこ女帝：「よっし！　　　　　　　　　　　　　　　　　　　　　その作戦でいくモ～！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Empress Yoshiko: \"All right! We'll go with that plan, mo!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -162,8 +162,8 @@
    "off": 2550,
    "len": 150,
    "jp": "　と、いうわけで、モアイ国・ミカエル帝国連合のパ　ンダ国侵攻が即決され、不意をつかれたパンダ国はあ　っさり占領されてしまったのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "And so the joint Moai-Michael Empire invasion of Panda was decided on the spot. Caught off guard, Panda fell without much of a fight.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -171,8 +171,8 @@
    "off": 2700,
    "len": 150,
    "jp": "　路頭にまよってしまったパンダ国党首アンナパブロ　ワは、やむなく同盟国のこいつ＆あいつ国に泣きつい　た。",
-   "en": "",
-   "status": "todo",
+   "en": "Left out on the street, Panda's leader Anna Pavlova had no choice but to go crying to her ally, Koitsu & Aitsu.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -180,8 +180,8 @@
    "off": 2850,
    "len": 150,
    "jp": "　事情を聞いたこいつ＆あいつ。　　　　　　　　　　「θαβγθιη。」と思いつつも、同盟国のよしみ　でパンダ国奪還に動きだす。",
-   "en": "",
-   "status": "todo",
+   "en": "Hearing the story, Koitsu & Aitsu thought \"θαβγθιη.\" Still, as allies they set about retaking Panda.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -189,8 +189,8 @@
    "off": 3000,
    "len": 150,
    "jp": "　パンダ国といえば、森林、岩山などの自然の要塞に　守られたうえに、ファンファン要塞を本拠地とする、　難攻不落の地として名をとどろかせており、",
-   "en": "",
-   "status": "todo",
+   "en": "Panda, guarded by natural fortresses of forest and crag, with Fan-Fan Fortress as its base, was famed as an impregnable land,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -198,8 +198,8 @@
    "off": 3150,
    "len": 150,
    "jp": "普通だったら、かなり攻略は難しい土地のはずである　（パンダ国は何してたんだ～）。　　　　　　　　　　　さらに２対１となれば、まさに激戦必至である。",
-   "en": "",
-   "status": "todo",
+   "en": "so it should have been very hard to conquer. (What was Panda even doing?) And at two against one, a fierce battle was assured.",
+   "status": "done",
    "kind": "text"
   }
  ]

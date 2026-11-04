@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "ペン太郎王国とラブリー連邦合衆国で共同開発された、",
-   "en": "",
-   "status": "todo",
+   "en": "A self-propelled Paroland missile vehicle, jointly",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "パローランドミサイルの自走化車両。",
-   "en": "",
-   "status": "todo",
+   "en": "built by Pentaro Kingdom and Lovely.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "攻撃力と命中率の高さから対空ミサイルとしては、かな",
-   "en": "",
-   "status": "todo",
+   "en": "High attack and accuracy make it a very high-class",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "り高級な兵器です。これが十分配備してあれば対空攻撃",
-   "en": "",
-   "status": "todo",
+   "en": "anti-air missile. With enough of these deployed,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "への配慮は問題なしといえるでしょう。射程は短めなの",
-   "en": "",
-   "status": "todo",
+   "en": "your air defense has no worries. Range is short,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "でもっと安心して離れて戦いたい人はポークがおすすめ",
-   "en": "",
-   "status": "todo",
+   "en": "so those who want to fight from a safe distance",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "です。",
-   "en": "",
-   "status": "todo",
+   "en": "should try the Pork.",
+   "status": "done",
    "kind": "text"
   }
  ]

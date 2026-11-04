@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "　樫の木ノックスは、改造駆逐艦である。護衛艦として",
-   "en": "",
-   "status": "todo",
+   "en": "Oak Knox is a converted destroyer. Rebuilding the",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "活躍していた、横山ノックスの艦体を固くて浮きやすい",
-   "en": "",
-   "status": "todo",
+   "en": "hull of the escort Yokoyama Knox in hard, buoyant",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "樫の木製にすることにより、重装備を可能とした。もと",
-   "en": "",
-   "status": "todo",
+   "en": "oak made heavy gear possible. It was always good",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "もと対潜能力には優れていたが、対艦／対空能力に欠け",
-   "en": "",
-   "status": "todo",
+   "en": "vs subs, but criticism of its weak anti-ship and",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "るという批判があったため、改造手術を受けることにな",
-   "en": "",
-   "status": "todo",
+   "en": "anti-air ability got it sent in for surgery.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "った。",
-   "en": "",
-   "status": "todo",
+   "en": " ",
+   "status": "done",
    "kind": "text"
   },
   {

@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "レオナルド１の車体を流用し大型砲塔の両わきに対空、",
-   "en": "",
-   "status": "todo",
+   "en": "Reuses the Leonardo 1 hull, with dual-purpose",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "対地両用の機関砲を外装している。砲は高速に動き音速",
-   "en": "",
-   "status": "todo",
+   "en": "autocannons on a big turret. Its fast guns can",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "近い速度で飛来する戦闘機にも対処できる。",
-   "en": "",
-   "status": "todo",
+   "en": "handle fighters near the speed of sound.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "対空兵器としては、まあまあ普通に使える兵器だ。陸指",
-   "en": "",
-   "status": "todo",
+   "en": "A decent, ordinary anti-air weapon. It may do well",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "の高い指揮官が指揮すればかなり戦果が期待できるかも",
-   "en": "",
-   "status": "todo",
+   "en": "under a commander with high Land command. Like",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "　他の対空兵器同様、守備力は弱いので、攻撃を受けな",
-   "en": "",
-   "status": "todo",
+   "en": "other anti-air, defense is weak, so plan",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "いような隊形をよく考えよう。",
-   "en": "",
-   "status": "todo",
+   "en": "formations to avoid hits.",
+   "status": "done",
    "kind": "text"
   }
  ]

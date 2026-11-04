@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　４（３に近い）",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 4 (close to 3)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "　ラブリー国空軍のＰ－１０に匹敵するコイツ＆アイツ",
-   "en": "",
-   "status": "todo",
+   "en": "The Koitsu & Aitsu Pact's close-support attack",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "機構側の近接支援用攻撃機。Ｐ－１０に比べると攻撃力",
-   "en": "",
-   "status": "todo",
+   "en": "plane, the match of Lovely's P-10. Less attack",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "は劣るがその代わりパワーの大きいエンジンを使用して",
-   "en": "",
-   "status": "todo",
+   "en": "than the P-10, but a stronger engine, favoring",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "速度性を重視している。コックピットは、チタン合金の",
-   "en": "",
-   "status": "todo",
+   "en": "speed. The cockpit has titanium armor and thick",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "装甲板と、ぶ厚い防弾ガラスによって防御され、機体の",
-   "en": "",
-   "status": "todo",
+   "en": "bulletproof glass, and armor all over the airframe",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "各部にも装甲を施して防御力を高めている。",
-   "en": "",
-   "status": "todo",
+   "en": "raises its defense.",
+   "status": "done",
    "kind": "text"
   },
   {

@@ -9,8 +9,8 @@
    "off": 34816,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 34848,
    "len": 32,
    "jp": "攻撃力　３（間接攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3 (no ranged attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 34880,
    "len": 32,
    "jp": "守備力　４",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 4",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 34912,
    "len": 52,
    "jp": "ラブリー国空軍の、軽量戦闘機計画に基づいて開発され",
-   "en": "",
-   "status": "todo",
+   "en": "A small, cheap fighter from the Lovely air force's",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 34964,
    "len": 52,
    "jp": "た、小型で安価な戦闘機である。接近戦にすぐれており",
-   "en": "",
-   "status": "todo",
+   "en": "lightweight fighter plan. Strong up close and as",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 35016,
    "len": 52,
    "jp": "空戦能力ではイーグルサブにも劣らないが、間接攻撃が",
-   "en": "",
-   "status": "todo",
+   "en": "good as the Eagle Saburo in a dogfight, but has no",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 35068,
    "len": 52,
    "jp": "できない。５００爆弾を装備しているので、地上兵器に",
-   "en": "",
-   "status": "todo",
+   "en": "ranged attack. Its 500 Bombs let it hit ground",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 35120,
    "len": 52,
    "jp": "有効な攻撃が可能。",
-   "en": "",
-   "status": "todo",
+   "en": "weapons well.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 35224,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 35276,
    "len": 52,
    "jp": "　空にも陸にもそれなりの攻撃ができるので、お値段の",
-   "en": "",
-   "status": "todo",
+   "en": "It can do decent damage to both air and ground, so",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 35328,
    "len": 52,
    "jp": "割りにお得です。配備しておきたい戦闘機です。",
-   "en": "",
-   "status": "todo",
+   "en": "it's a great deal. One you'll want to deploy.",
+   "status": "done",
    "kind": "text"
   }
  ]

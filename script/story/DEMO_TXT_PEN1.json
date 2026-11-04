@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　モアイ国の侵略行為を、なんとかしのいだペン太郎　王国だが、戦勝の喜びもつかの間、新たな事件に巻き　込まれることになるのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro Kingdom somehow fended off Moai's invasion, but the joy of victory was short-lived. A new affair was about to drag it in.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "　極東の島国バウバウ国。　　　　　　　　　　　　　　この国とは、ラブリー連邦合衆国とペン太郎王国と　で、三国同盟を結んでいる関係であった。",
-   "en": "",
-   "status": "todo",
+   "en": "The Far East island nation of Bow-Wow was in a Triple Alliance with the Lovely Federal States and Pentaro Kingdom.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "　今、このバウバウ国で、新たな戦争がもち上がった　のである。",
-   "en": "",
-   "status": "todo",
+   "en": "And in this Bow-Wow, a new war had just broken out.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "　バウバウ国は、第２次パロワールド大戦の敗戦で、　自国の一部分を戦勝国に占領されてしまったが、戦後　５０年の間に、そのほとんどが返還されていた。",
-   "en": "",
-   "status": "todo",
+   "en": "Bow-Wow lost Paro World War II and had land occupied by the victors. In the 50 years since, nearly all of it had been handed back.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "　ところが、唯一返還されていない地域があった。",
-   "en": "",
-   "status": "todo",
+   "en": "But one region was never returned.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "　それが、バウバウ国の北方に位置する、２月７日島　である。",
-   "en": "",
-   "status": "todo",
+   "en": "That was February 7th Island, north of Bow-Wow.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "　２月７日島は、こいつ＆あいつ連邦共和国の占領下　にあり何度か交渉を行うものの、言葉が通じないせい　か、いつも双方もの分かれに終わっていた。",
-   "en": "",
-   "status": "todo",
+   "en": "February 7th Island was held by Koitsu & Aitsu. Talks came and went, but maybe due to the language barrier, they always fell apart.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "　そんなこんなのある日、バウバウ国に、謎の行商猫、ジョン・ニャン次郎が訪れた。　",
-   "en": "",
-   "status": "todo",
+   "en": "Then one day, the mysterious peddler cat John Nyanjiro came to Bow-Wow.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "　ジョン・ニャン次郎がバウバウ国を訪れる際には、　いつも総理のポチ之嵐に耳よりな情報を提供していた　が、今回の情報というのは・・・",
-   "en": "",
-   "status": "todo",
+   "en": "Whenever John Nyanjiro came to Bow-Wow, he brought juicy tips for Prime Minister Pochi-no-Arashi. And this time's tip was...",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "ニャン次郎：「こいつ＆あいつ国は、２月７日島に一　　　　　　　　大リゾート地を作るらしいニャン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"Looks like Koitsu & Aitsu will build a giant resort on February 7th Island, nyan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1650,
    "len": 150,
    "jp": "ニャン次郎：「本土に比べると、あそこは気候がいい　　　　　　　　からニャ～ン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"The climate's nicer there than on their mainland, nyaaan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 1800,
    "len": 150,
    "jp": "ニャン次郎：「もともと、あの島がバウバウ国の領土　　　　　　　　だってことは、すっかり忘れてるみた　　　　　　　　いだニャン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"They seem to have clean forgotten that the island was Bow-Wow territory to begin with, nyan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 1950,
    "len": 150,
    "jp": "ポチ之嵐：「口で言ってわかんねーなら、　　　　　　　　　　　　体で思い出させてやるワン！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Pochi-no-Arashi: \"If words won't get through to them, I'll beat the memory back into them, woof!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 2100,
    "len": 150,
    "jp": "　と、いうわけで、２月７日島にバウバウ国自営隊が、突撃、奇襲をしかけた。",
-   "en": "",
-   "status": "todo",
+   "en": "And so Bow-Wow's Self-Employed Defense Force charged February 7th Island in a surprise attack.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -144,8 +144,8 @@
    "off": 2250,
    "len": 150,
    "jp": "　しかし、どこから情報がもれたのか２月７日島では、こいつ＆あいつ軍が鉄壁のディフェンスで待ちかまえ　ていた。",
-   "en": "",
-   "status": "todo",
+   "en": "But somehow word got out, and on February 7th Island the Koitsu & Aitsu army lay in wait with an ironclad defense.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -153,8 +153,8 @@
    "off": 2400,
    "len": 150,
    "jp": "　突然の出撃に、心の準備が整っていなかったのも響　いたのか、バウバウ軍は大口をたたいた割には、ケチ　ョンケチョンに返り討ちにあってしまった。",
-   "en": "",
-   "status": "todo",
+   "en": "Perhaps unready in spirit for the sudden sortie, the Bow-Wow army, for all its big talk, got beaten to a pulp.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -162,8 +162,8 @@
    "off": 2550,
    "len": 150,
    "jp": "　このままでは、勢いあまって本国までもが襲われそ　うな情勢になって、大ピンチへと追いやられる。",
-   "en": "",
-   "status": "todo",
+   "en": "At this rate its momentum would carry the enemy to the homeland. It was a huge crisis.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -171,8 +171,8 @@
    "off": 2700,
    "len": 150,
    "jp": "　わらをもすがる思いで、ポチ之嵐は、同盟国である　ペン太郎王国に救援を求めるのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "Clutching at straws, Pochi-no-Arashi begged Bow-Wow's ally, Pentaro Kingdom, for help.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -180,8 +180,8 @@
    "off": 2850,
    "len": 150,
    "jp": "ポチ之嵐：「や、やられちゃったワ～ン！！　　　　　　　　　　　この恨み、どうか晴らしてくれワン！！」　",
-   "en": "",
-   "status": "todo",
+   "en": "Pochi-no-Arashi: \"Th-they got us, wooof!! Please avenge us, woof!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -189,8 +189,8 @@
    "off": 3000,
    "len": 150,
    "jp": "ペン太郎：「ふっ・・・。まぁ、しゃ～ね～な！」",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro: \"Heh... Well, can't be helped!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -198,8 +198,8 @@
    "off": 3150,
    "len": 150,
    "jp": "　救援要請を受けたペン太郎王国。　　　　　　　　　ペン太郎王国にとっても、こいつ＆あいつ国は目の上　のたんこぶ的な存在である。",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro Kingdom received the plea. To Pentaro Kingdom, too, Koitsu & Aitsu had long been a thorn in the side.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -207,8 +207,8 @@
    "off": 3300,
    "len": 150,
    "jp": "　世論に反しない正当な理由で、こいつ＆あいつ軍と　戦えるのであるから、願ったりかなったりである。こ　こにペンタ軍は、２月７日島へ救援部隊を派遣した。",
-   "en": "",
-   "status": "todo",
+   "en": "A just cause to fight Koitsu & Aitsu, with public opinion on side? Just what it wanted! The Penta army sent a force to February 7th Island.",
+   "status": "done",
    "kind": "text"
   }
  ]

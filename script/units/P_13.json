@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "強力な対地攻撃と制空戦闘を目的とするラブリー合衆国",
-   "en": "",
-   "status": "todo",
+   "en": "From the Lovely air force's multi-role fighter",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "空軍の多用途戦闘機計画に基づいて開発された機体。",
-   "en": "",
-   "status": "todo",
+   "en": "plan, for heavy ground attack and air superiority.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "普通のイーグルに対地攻撃力をグレードアップした飛行",
-   "en": "",
-   "status": "todo",
+   "en": "A regular Eagle with upgraded ground attack. It's",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "機です。とっても高価なので手に入れたらやられないよ",
-   "en": "",
-   "status": "todo",
+   "en": "very costly, so once you get one, try not to lose",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "う頑張りましょう。（かなり強いけれど油断しないよう",
-   "en": "",
-   "status": "todo",
+   "en": "it. (It's very strong, but don't get careless.)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "に）",
-   "en": "",
-   "status": "todo",
+   "en": " ",
+   "status": "done",
    "kind": "text"
   },
   {

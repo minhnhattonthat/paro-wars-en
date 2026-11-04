@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　４（空に攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 4 (no air attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "簡素で量産しやすいこいつ国らしい戦車です。ライバル",
-   "en": "",
-   "status": "todo",
+   "en": "A simple, easy-to-build tank typical of Koitsu.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "はラブリー国産のＳＭ－６０だ。自慢のライフルでヒィ",
-   "en": "",
-   "status": "todo",
+   "en": "Its rival is Lovely's SM-60. Make them squeal with",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "ーヒィーいわせてやるのだ！！",
-   "en": "",
-   "status": "todo",
+   "en": "your prized rifle!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "まあ自分より強い相手に向わなければけっこう戦えます",
-   "en": "",
-   "status": "todo",
+   "en": "It fights well enough as long as it avoids anyone",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "（あたりまえか）",
-   "en": "",
-   "status": "todo",
+   "en": "stronger. (Well, obviously.)",
+   "status": "done",
    "kind": "text"
   },
   {

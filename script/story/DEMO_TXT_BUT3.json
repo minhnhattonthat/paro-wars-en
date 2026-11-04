@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　リップチェイサー島の戦いで、こいつ＆あいつ国と　アカシヤランドは、ミカエル帝国軍によって壊滅的な　打撃を受けた。",
-   "en": "",
-   "status": "todo",
+   "en": "In the battle of Lip Chaser Island, the Michael Empire's army dealt Koitsu & Aitsu and Akashiya Land a crushing blow.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "　有名無実、風前のともしび状態へとおとしめられた　コイツ＆アイツ機構の、アラジオ連合に対する憎しみ　は、今まさに頂点に達していた。",
-   "en": "",
-   "status": "todo",
+   "en": "The Koitsu & Aitsu Pact, now a hollow name flickering like a candle, hated the Aladio Alliance with a passion at its peak.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "タコスケ：「ア、アンナ・・・。　　　　　　　　　　　　　　　　後は、後は、たのん・だ・・で・・・」",
-   "en": "",
-   "status": "todo",
+   "en": "Takosuke: \"A-Anna... The rest... the rest... is up... to... ya...\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "アンナパブロワ：「タコスケェ～！　　　　　　　　　　　　　　　　　　こいつ～ぅ！！あいつ～～っ！！」　",
-   "en": "",
-   "status": "todo",
+   "en": "Anna Pavlova: \"Takosukeeee! You Koitsuuuu!! You Aitsuuuuu!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "　ここに、コイツ＆アイツ機構の中でただ一国五体満　足なパンダ国が「同盟国の恨みをはらすアルね～！！」とばかりに、立ち上がるのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "The one Koitsu & Aitsu Pact nation still in one piece, Panda, rose up with a cry of \"We shall avenge our allies, aru!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "　まずパンダ国は見せしめとして、ミカエル帝国の同　盟国である、モアイ国へと侵攻していった。",
-   "en": "",
-   "status": "todo",
+   "en": "First, as a warning, Panda invaded Moai, the Michael Empire's ally.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "　侵攻は大成功をおさめ、しかも国宝の「神の箱」ま　で奪い取ることに成功したのである。",
-   "en": "",
-   "status": "todo",
+   "en": "The invasion was a great success. It even captured the national treasure, the \"Divine Box.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "よしこ女帝：「た、助けて！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Empress Yoshiko: \"H-help!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "ミカエル：「よしこ～しっかりするんだぁ～！　　　　　　　　　　おのれぇ～、いい気になりおってぇ～！」　",
-   "en": "",
-   "status": "todo",
+   "en": "Michael: \"Yoshikooo, hang in there! Damn you, gettin' cocky, are ya!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "　これをだまって見過ごすわけにはいかないミカエル　帝国は、ぼろぼろのモアイ軍と共に、アラジオ連合コ　ンビでパンダ国へと攻め込むのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "The Michael Empire couldn't let this pass. With the battered Moai army, the Aladio Alliance duo marched on Panda.",
+   "status": "done",
    "kind": "text"
   }
  ]

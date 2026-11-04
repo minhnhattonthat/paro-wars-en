@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　４",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 4",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　２",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "バウバウ国初の国産超音速練習機Ｔ－２の発展型で、",
-   "en": "",
-   "status": "todo",
+   "en": "An attack plane from Bow-Wow's first home-built",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "対艦攻撃や対地支援攻撃を主任務とする、攻撃機。",
-   "en": "",
-   "status": "todo",
+   "en": "supersonic trainer, the T-2, for attacking ships",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "長距離ミサイルを装備しており、迎撃機としての任",
-   "en": "",
-   "status": "todo",
+   "en": "and land support. Its long-range missiles also",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "務にも使える。",
-   "en": "",
-   "status": "todo",
+   "en": "suit it to interceptor duty.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "装備はわりと強そうなんですが、とっても打たれ弱いの",
-   "en": "",
-   "status": "todo",
+   "en": "The gear looks strong, but it can't take a hit, so",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "で攻撃にばかり夢中にならないよう注意しましょう。",
-   "en": "",
-   "status": "todo",
+   "en": "don't get too carried away attacking.",
+   "status": "done",
    "kind": "text"
   },
   {

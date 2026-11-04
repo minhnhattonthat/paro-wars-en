@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　アカシヤランドの侵略を何とかしのいだミカエル帝　国に、休むまもなく新たな事件が巻きおこった。",
-   "en": "",
-   "status": "todo",
+   "en": "The Michael Empire somehow fended off Akashiya Land's invasion, but with no time to rest, a new affair broke out.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "　ミカエル帝国といえば、原油産出量世界一をほこっ　ており、これがこの国ただひとつの産業の柱であった。",
-   "en": "",
-   "status": "todo",
+   "en": "The Michael Empire boasted the world's largest crude oil output, its one and only industrial pillar.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "　事件は、ミカエル帝国に観光と商売に訪れた、７つ　の海をかけ巡る謎の行商猫、ジョン・ニャン次郎の問　題発言から始まった。",
-   "en": "",
-   "status": "todo",
+   "en": "It began with a troubling remark by John Nyanjiro, mysterious peddler cat of the seven seas, visiting the Michael Empire on business.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "　なんとこのジョン・ニャン次郎、大胆にも、ここ数　年のうちにミカエル帝国の原油が枯れてしまう、など　という大予言をしてしまったのである。",
-   "en": "",
-   "status": "todo",
+   "en": "Incredibly, John Nyanjiro boldly made a grand prophecy: within a few years, the Michael Empire's crude oil would run dry.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "　ジョン・ニャン次郎といえば、いくつかの黒いうわ　さもささやかれるが、これまでにも数々の事件を予言　し、その筋ではかなり名の通った猫である。",
-   "en": "",
-   "status": "todo",
+   "en": "John Nyanjiro had some dark rumors about him, but he had foretold many events and was a rather famous cat in certain circles.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "　この予言を聞いてびっくりしてしまったのが、ミカ　エル帝国の帝王ミカエル・アブゥ４世である。",
-   "en": "",
-   "status": "todo",
+   "en": "The one most shocked by this prophecy was the Michael Empire's Emperor, Michael Abu IV.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "　原油がなかったらただの砂漠のこの国にとって、こ　れは死活問題である。ここに、ジョン・ニャン次郎を　交えての、緊急国会がひらかれた。",
-   "en": "",
-   "status": "todo",
+   "en": "Without oil, this country was nothing but desert: a matter of life and death. An emergency parliament met, with John Nyanjiro present.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "　根本的な解決方法がないまま、むなしく繰り返され　る議論の中、ジョン・ニャン次郎が１つの提案を持ち　かけるのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "Amid hollow, endless debate with no real solution, John Nyanjiro put forward a proposal.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "ニャン次郎：「北方の『プリンス王国』という国をご　　　　　　　　存知かニャ～ン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"Do you know a country up north called 'Prince Kingdom,' nyaaan?\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "ニャン次郎：「あの国は、ペン太郎王国のすぐ隣にあ　　　　　　　　るから、ペン太郎王国の領土の一部と　　　　　　　　思われがちだけど、」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"It's right next to Pentaro Kingdom, so people tend to think it's part of Pentaro Kingdom, but,\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1650,
    "len": 150,
    "jp": "ニャン次郎：「じつは、どこの国の領土でもないんだ　　　　　　　　ニャ～ン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"in truth it isn't any country's territory, nyaaan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 1800,
    "len": 150,
    "jp": "ニャン次郎：「あそこは、金銀なんかがざっくざく！　　　　　　　　ペンタ国だけに甘い汁を吸わせておく　　　　　　　　ことはニャイと思うけどニャ～ン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"That place is overflowing with gold and silver! No need to let the Pentas have all the gravy, I'd say, nyaaan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 1950,
    "len": 150,
    "jp": "ミカエル：「よっし！分かったゼィ！　　　　　　　　　　　　　　速攻でプリンス王国をゲットだゼィ！！」　",
-   "en": "",
-   "status": "todo",
+   "en": "Michael: \"All right! Got it, see! We'll grab Prince Kingdom on the double, see!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 2100,
    "len": 150,
    "jp": "　と、いうわけで、ミカエル帝国のプリンス王国侵攻　が即決されたのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "And so the Michael Empire's invasion of Prince Kingdom was decided on the spot.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -144,8 +144,8 @@
    "off": 2250,
    "len": 150,
    "jp": "　ペン太郎王国の北東に位置するプリンス王国。　　　小国ではあるが金、銀などの貴重な鉱物資源が豊富で、長年の間ペン太郎王国とは姉妹国関係にあった。",
-   "en": "",
-   "status": "todo",
+   "en": "Prince Kingdom lies northeast of Pentaro Kingdom. Small but rich in gold, silver and other precious minerals, it was a longtime sister nation.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -153,8 +153,8 @@
    "off": 2400,
    "len": 150,
    "jp": "　ペン太郎王国にとって、現在の繁栄はこのプリンス　王国の豊かな資源によるものだ、といっても過言では　ないほどの重要な拠点である。",
-   "en": "",
-   "status": "todo",
+   "en": "It's no exaggeration to say Pentaro Kingdom owes its prosperity to Prince Kingdom's rich resources. It's that vital a stronghold.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -162,8 +162,8 @@
    "off": 2550,
    "len": 150,
    "jp": "　ニャン次郎のうまい話に乗せられてしまった、ミカ　エル帝国軍がプリンス王国にせまる。　　　　　　　　ペン太郎王国も姉妹国の危機を黙って見過ごせない！",
-   "en": "",
-   "status": "todo",
+   "en": "Taken in by Nyanjiro's sweet talk, the Michael Empire's army closed in on Prince Kingdom. Pentaro Kingdom could not abandon its sister nation!",
+   "status": "done",
    "kind": "text"
   }
  ]

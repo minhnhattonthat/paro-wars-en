@@ -167,15 +167,13 @@ def build(marker, qa, out):
         if qa:
             raise ValueError(f"--qa ids not in the script: {sorted(qa)}")
         move_strings(moves, paw, changed, read)
+    over = [f"{rel}: {len(data)} bytes don't fit in {entries['/' + rel][1]} sectors" for rel, data in changed.items() if len(data) > entries["/" + rel][1] * 2048]
+    if over:  # before the copy, so a failed build can't leave the Japanese disc under the English name
+        raise ValueError("; ".join(over))
     OUTBIN = BUILD / (out + ".bin")
     shutil.copyfile(ORIG, OUTBIN)
     with open(OUTBIN, "r+b") as f:
-        files = []
-        for rel, data in changed.items():
-            lba, sectors, size = entries["/" + rel]
-            if len(data) > sectors * 2048:
-                raise ValueError(f"{rel}: {len(data)} bytes don't fit in {sectors} sectors")
-            files.append(((lba, sectors, size), bytes(data)))
+        files = [(entries["/" + rel], bytes(data)) for rel, data in changed.items()]
         disc.write_files(f, files)
     cue = ORIG.with_suffix(".cue").read_text(encoding="ascii")
     OUTBIN.with_suffix(".cue").write_text(cue.replace(ORIG.name, OUTBIN.name), encoding="ascii", newline="\r\n")

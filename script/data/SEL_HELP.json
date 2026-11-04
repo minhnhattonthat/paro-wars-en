@@ -9,8 +9,8 @@
    "off": 0,
    "len": 50,
    "jp": "　「なし」では、移動しても燃料は減らないし、いく",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}With \"Off\", moving burns no fuel, and no",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 50,
    "len": 50,
    "jp": "ら攻撃しても武器のたまも減らないのだ。「あり」で",
-   "en": "",
-   "status": "todo",
+   "en": "amount of attacking uses up ammo! With \"On\",",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 100,
    "len": 50,
    "jp": "は、移動した分の燃料は減り、攻撃した分たまも減っ",
-   "en": "",
-   "status": "todo",
+   "en": "fuel drops as you move and ammo as you attack.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 150,
    "len": 50,
    "jp": "ていく。飛行系兵器は、移動しない場合でも移動力の",
-   "en": "",
-   "status": "todo",
+   "en": "Air weapons lose fuel equal to 1/3 of their Move",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 200,
    "len": 50,
    "jp": "３分の１の燃料が減り、燃料がなくなると墜落する。",
-   "en": "",
-   "status": "todo",
+   "en": "even if idle, and they crash when it runs out.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 250,
    "len": 50,
    "jp": "　「あり」は、味方の建物や、味方ユニットのまわり",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}\"On\": a heart-pounding mode showing only the",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 300,
    "len": 50,
    "jp": "の一定範囲内にいる敵軍しか見えないドキドキモード",
-   "en": "",
-   "status": "todo",
+   "en": "enemies within a set range of your buildings and",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 350,
    "len": 50,
    "jp": "「なし」では山や建物のカゲになって見えない場合を",
-   "en": "",
-   "status": "todo",
+   "en": "units. \"Off\": apart from those behind mountains",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 400,
    "len": 50,
    "jp": "のぞいて、敵、味方すべての部隊が見え見えのモード",
-   "en": "",
-   "status": "todo",
+   "en": "or buildings, all units show: the see-all mode.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 500,
    "len": 50,
    "jp": "　移動の時、敵の影響を受けるかどうかの設定。Ｚ．",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Sets whether enemies affect your movement.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 550,
    "len": 50,
    "jp": "Ｏ．Ｃ．（ゾーン・オブ・コントロール（支配地域）",
-   "en": "",
-   "status": "todo",
+   "en": "With Z.O.C. (Zone of Control, area of control)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 600,
    "len": 50,
    "jp": "）を「あり」にすると、移動の時、敵と、となり合せ",
-   "en": "",
-   "status": "todo",
+   "en": "\"On\", moving onto a square next to an enemy",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 650,
    "len": 50,
    "jp": "の場所（敵の支配地域）に入ると、移動を止められて",
-   "en": "",
-   "status": "todo",
+   "en": "(the enemy's area of control) stops your move.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 700,
    "len": 50,
    "jp": "しまう。「なし」では敵のまわりもすんなり通れる。",
-   "en": "",
-   "status": "todo",
+   "en": "With \"Off\", you can slip right past enemies.",
+   "status": "done",
    "kind": "text"
   }
  ]

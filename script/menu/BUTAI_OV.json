@@ -9,8 +9,8 @@
    "off": 9120,
    "len": 24,
    "jp": "ペンタロウ王国",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro Kingdom",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:8015c8d8",
@@ -22,8 +22,8 @@
    "off": 9144,
    "len": 24,
    "jp": "ミカエル帝国",
-   "en": "",
-   "status": "todo",
+   "en": "Michael Empire",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -32,8 +32,8 @@
    "off": 9168,
    "len": 24,
    "jp": "アカシヤランド共和国",
-   "en": "",
-   "status": "todo",
+   "en": "Akashiya Land",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -42,8 +42,8 @@
    "off": 9192,
    "len": 24,
    "jp": "ラブリー連邦合衆国",
-   "en": "",
-   "status": "todo",
+   "en": "Lovely Fed. States",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -52,8 +52,8 @@
    "off": 9216,
    "len": 24,
    "jp": "こいつ＆あいつ共和国",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu & Aitsu",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -62,8 +62,8 @@
    "off": 9240,
    "len": 24,
    "jp": "モアイ諸島首長国",
-   "en": "",
-   "status": "todo",
+   "en": "Moai Emirate",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -72,8 +72,8 @@
    "off": 9264,
    "len": 24,
    "jp": "パンダ茶会獣民共和国",
-   "en": "",
-   "status": "todo",
+   "en": "Panda Tea Party",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -82,8 +82,8 @@
    "off": 9288,
    "len": 24,
    "jp": "バウバウ国",
-   "en": "",
-   "status": "todo",
+   "en": "Bow-Wow",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -92,8 +92,8 @@
    "off": 9312,
    "len": 24,
    "jp": "ニャー帝国",
-   "en": "",
-   "status": "todo",
+   "en": "Nya Empire",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -126,8 +126,8 @@
    "off": 9388,
    "len": 12,
    "jp": "　　　弾数",
-   "en": "",
-   "status": "todo",
+   "en": "{x:32}Ammo",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ec90"
@@ -174,8 +174,8 @@
    "off": 9412,
    "len": 8,
    "jp": "機　数",
-   "en": "",
-   "status": "todo",
+   "en": "Units",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ec80"
@@ -210,8 +210,8 @@
    "off": 9472,
    "len": 12,
    "jp": "　　移動力",
-   "en": "",
-   "status": "todo",
+   "en": "{x:24}Move",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ece4"
@@ -258,8 +258,8 @@
    "off": 9496,
    "len": 8,
    "jp": "機　数",
-   "en": "",
-   "status": "todo",
+   "en": "Units",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ecd4"
@@ -306,8 +306,8 @@
    "off": 9588,
    "len": 8,
    "jp": "燃料",
-   "en": "",
-   "status": "todo",
+   "en": "Fuel",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ed48"
@@ -318,8 +318,8 @@
    "off": 9620,
    "len": 8,
    "jp": "海　　",
-   "en": "",
-   "status": "todo",
+   "en": "Sea",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ed8c"
@@ -330,8 +330,8 @@
    "off": 9628,
    "len": 8,
    "jp": "陸　　",
-   "en": "",
-   "status": "todo",
+   "en": "Land",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ed88"
@@ -342,8 +342,8 @@
    "off": 9636,
    "len": 8,
    "jp": "空　　",
-   "en": "",
-   "status": "todo",
+   "en": "Air",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ed84"
@@ -354,8 +354,8 @@
    "off": 9644,
    "len": 12,
    "jp": "防　御：",
-   "en": "",
-   "status": "todo",
+   "en": "Defense:",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ed80"
@@ -366,8 +366,8 @@
    "off": 9732,
    "len": 12,
    "jp": "アイテム",
-   "en": "",
-   "status": "todo",
+   "en": "Item",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015edfc"
@@ -378,8 +378,8 @@
    "off": 9744,
    "len": 8,
    "jp": "根性",
-   "en": "",
-   "status": "todo",
+   "en": "Guts",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015edf8"
@@ -390,8 +390,8 @@
    "off": 9752,
    "len": 8,
    "jp": "直感",
-   "en": "",
-   "status": "todo",
+   "en": "Inst",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015edf4"
@@ -402,8 +402,8 @@
    "off": 9760,
    "len": 8,
    "jp": "命中",
-   "en": "",
-   "status": "todo",
+   "en": "Acc",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015edf0"
@@ -414,8 +414,8 @@
    "off": 9768,
    "len": 8,
    "jp": "海指",
-   "en": "",
-   "status": "todo",
+   "en": "Sea",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015edec"
@@ -426,8 +426,8 @@
    "off": 9776,
    "len": 8,
    "jp": "陸指",
-   "en": "",
-   "status": "todo",
+   "en": "Land",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ede8"
@@ -438,8 +438,8 @@
    "off": 9784,
    "len": 8,
    "jp": "空指",
-   "en": "",
-   "status": "todo",
+   "en": "Air",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ede4"
@@ -450,8 +450,8 @@
    "off": 9792,
    "len": 8,
    "jp": "レベル",
-   "en": "",
-   "status": "todo",
+   "en": "Level",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ede0"
@@ -462,8 +462,8 @@
    "off": 9800,
    "len": 12,
    "jp": "機種別",
-   "en": "",
-   "status": "todo",
+   "en": "Type",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015eddc"
@@ -474,8 +474,8 @@
    "off": 9844,
    "len": 8,
    "jp": "個数",
-   "en": "",
-   "status": "todo",
+   "en": "Qty",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ee70"
@@ -486,8 +486,8 @@
    "off": 9852,
    "len": 8,
    "jp": "根性",
-   "en": "",
-   "status": "todo",
+   "en": "Guts",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ee6c"
@@ -498,8 +498,8 @@
    "off": 9860,
    "len": 8,
    "jp": "直感",
-   "en": "",
-   "status": "todo",
+   "en": "Inst",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ee68"
@@ -510,8 +510,8 @@
    "off": 9868,
    "len": 8,
    "jp": "命中",
-   "en": "",
-   "status": "todo",
+   "en": "Acc",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ee64"
@@ -522,8 +522,8 @@
    "off": 9876,
    "len": 8,
    "jp": "海指",
-   "en": "",
-   "status": "todo",
+   "en": "Sea",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ee60"
@@ -534,8 +534,8 @@
    "off": 9884,
    "len": 8,
    "jp": "陸指",
-   "en": "",
-   "status": "todo",
+   "en": "Land",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ee5c"
@@ -546,8 +546,8 @@
    "off": 9892,
    "len": 8,
    "jp": "空指",
-   "en": "",
-   "status": "todo",
+   "en": "Air",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ee58"
@@ -786,8 +786,8 @@
    "off": 10136,
    "len": 8,
    "jp": "搭乗中",
-   "en": "",
-   "status": "todo",
+   "en": "Aboard",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ef94"
@@ -798,8 +798,8 @@
    "off": 10144,
    "len": 8,
    "jp": "あ　り",
-   "en": "",
-   "status": "todo",
+   "en": "Yes",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ef90"
@@ -810,8 +810,8 @@
    "off": 10152,
    "len": 8,
    "jp": "な　し",
-   "en": "",
-   "status": "todo",
+   "en": "None",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ef8c"
@@ -822,8 +822,8 @@
    "off": 10160,
    "len": 8,
    "jp": "迎　撃",
-   "en": "",
-   "status": "todo",
+   "en": "Interc",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ef88"
@@ -834,8 +834,8 @@
    "off": 10168,
    "len": 8,
    "jp": "防　衛",
-   "en": "",
-   "status": "todo",
+   "en": "Defend",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ef84"
@@ -846,8 +846,8 @@
    "off": 10176,
    "len": 8,
    "jp": "護　衛",
-   "en": "",
-   "status": "todo",
+   "en": "Escort",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ef80"
@@ -858,8 +858,8 @@
    "off": 10184,
    "len": 8,
    "jp": "占　領",
-   "en": "",
-   "status": "todo",
+   "en": "Captr",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ef7c"
@@ -870,8 +870,8 @@
    "off": 10192,
    "len": 8,
    "jp": "戦　闘",
-   "en": "",
-   "status": "todo",
+   "en": "Battle",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ef78"
@@ -882,8 +882,8 @@
    "off": 10200,
    "len": 8,
    "jp": "目的地",
-   "en": "",
-   "status": "todo",
+   "en": "Goal",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015ef74"
@@ -894,8 +894,8 @@
    "off": 10208,
    "len": 52,
    "jp": "　　　次ページ　　移動　　情報　　順変更　　戻る",
-   "en": "",
-   "status": "todo",
+   "en": "{x:36}Next page{x:108}Move{x:156}Info{x:204}Reorder{x:264}Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:8015d45c",
@@ -907,8 +907,8 @@
    "off": 10260,
    "len": 52,
    "jp": "部隊表　　　　　　移動　　情報　　順変更　　戻る",
-   "en": "",
-   "status": "todo",
+   "en": "Unit List{x:108}Move{x:156}Info{x:204}Reorder{x:264}Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:8015d520"
@@ -919,8 +919,8 @@
    "off": 10312,
    "len": 52,
    "jp": "部隊表　　　　次ページ　　情報　　順変更　　戻る",
-   "en": "",
-   "status": "todo",
+   "en": "Unit List{x:84}Next page{x:156}Info{x:204}Reorder{x:264}Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:8015d4b0"
@@ -931,8 +931,8 @@
    "off": 10364,
    "len": 52,
    "jp": "部隊表　　　　　　　　　　情報　　順変更　　戻る",
-   "en": "",
-   "status": "todo",
+   "en": "Unit List{x:156}Info{x:204}Reorder{x:264}Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:8015d544"
@@ -943,8 +943,8 @@
    "off": 10456,
    "len": 8,
    "jp": "作戦",
-   "en": "",
-   "status": "todo",
+   "en": "Plan",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015f0d0"
@@ -955,8 +955,8 @@
    "off": 10464,
    "len": 8,
    "jp": "種別",
-   "en": "",
-   "status": "todo",
+   "en": "Type",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015f0cc"
@@ -967,8 +967,8 @@
    "off": 10472,
    "len": 8,
    "jp": "兵器名",
-   "en": "",
-   "status": "todo",
+   "en": "Name",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015f0c8"
@@ -1087,8 +1087,8 @@
    "off": 10816,
    "len": 8,
    "jp": "名前",
-   "en": "",
-   "status": "todo",
+   "en": "Nm.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015f214"
@@ -1135,8 +1135,8 @@
    "off": 11388,
    "len": 12,
    "jp": "スクリュー",
-   "en": "",
-   "status": "todo",
+   "en": "Screw",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015f458"
@@ -1147,8 +1147,8 @@
    "off": 11400,
    "len": 12,
    "jp": "オーラボム",
-   "en": "",
-   "status": "todo",
+   "en": "Aura Bomb",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015f454"
@@ -1159,8 +1159,8 @@
    "off": 11412,
    "len": 12,
    "jp": "レインボー",
-   "en": "",
-   "status": "todo",
+   "en": "Rainbow",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015f450"
@@ -1171,8 +1171,8 @@
    "off": 11424,
    "len": 12,
    "jp": "ド根性玉",
-   "en": "",
-   "status": "todo",
+   "en": "Guts Ball",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015f44c"
@@ -1183,8 +1183,8 @@
    "off": 11436,
    "len": 12,
    "jp": "エンジン",
-   "en": "",
-   "status": "todo",
+   "en": "Engine",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015f448"
@@ -1195,8 +1195,8 @@
    "off": 11448,
    "len": 12,
    "jp": "バズーカ",
-   "en": "",
-   "status": "todo",
+   "en": "Bazooka",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015f444"
@@ -1207,8 +1207,8 @@
    "off": 11460,
    "len": 8,
    "jp": "地　雷",
-   "en": "",
-   "status": "todo",
+   "en": "Mine",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015f440"
@@ -1219,8 +1219,8 @@
    "off": 11468,
    "len": 12,
    "jp": "トップガン",
-   "en": "",
-   "status": "todo",
+   "en": "Top Gun",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015f43c"
@@ -1255,8 +1255,8 @@
    "off": 11488,
    "len": 12,
    "jp": "ファイヤー",
-   "en": "",
-   "status": "todo",
+   "en": "Firestorm",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:w8015f430"
@@ -1291,8 +1291,8 @@
    "off": 11512,
    "len": 5,
    "jp": "作戦",
-   "en": "",
-   "status": "todo",
+   "en": "Plan",
+   "status": "done",
    "kind": "text",
    "refs": [
     "BUTAI_OV:8015d16c"

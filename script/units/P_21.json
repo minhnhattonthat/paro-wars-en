@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　２（占領できます）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 2 (can capture)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　１",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 1",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "ラブリー国陸軍の中型汎用ヘリコプターとして１９５６",
-   "en": "",
-   "status": "todo",
+   "en": "Completed in 1956 as the Lovely army's mid-size",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "年に完成し、その後タービンヘリコプターの標準的な、",
-   "en": "",
-   "status": "todo",
+   "en": "utility helicopter, it went on to become the",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "形態となった。",
-   "en": "",
-   "status": "todo",
+   "en": "standard form of the turbine helicopter.",
+   "status": "done",
    "kind": "text"
   },
   {

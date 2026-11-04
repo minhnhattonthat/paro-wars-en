@@ -21,8 +21,8 @@
    "off": 36,
    "len": 48,
    "jp": "　　　：決定　　　　　：変更　　　　　：国情報",
-   "en": "",
-   "status": "todo",
+   "en": "{x:36}: Confirm{x:132}: Change{x:228}: Nation",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SELECT:w80155b6c"
@@ -33,8 +33,8 @@
    "off": 84,
    "len": 44,
    "jp": "　　：ゲーム開始　　：戻る　　　　　：変更",
-   "en": "",
-   "status": "todo",
+   "en": "{x:24}: Start game{br}{x:24}: Back{br}{x:24}: Change",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SELECT:w80155b68"
@@ -45,8 +45,8 @@
    "off": 128,
    "len": 36,
    "jp": "　　　　：決定　　：戻る　　　　",
-   "en": "",
-   "status": "todo",
+   "en": "{x:48}: Confirm{x:108}: Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SELECT:w80155b64"
@@ -57,8 +57,8 @@
    "off": 164,
    "len": 36,
    "jp": "　　　　　　　　　　　　：戻る　",
-   "en": "",
-   "status": "todo",
+   "en": "{x:144}: Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SELECT:w80155b60"
@@ -69,8 +69,8 @@
    "off": 200,
    "len": 36,
    "jp": "　　　　：決定　　　　　：変更　",
-   "en": "",
-   "status": "todo",
+   "en": "{x:48}: Confirm{x:144}: Change",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SELECT:w80155b5c"
@@ -93,8 +93,8 @@
    "off": 272,
    "len": 36,
    "jp": "　　　：画面回転　　　：戻る　　",
-   "en": "",
-   "status": "todo",
+   "en": "{x:36}: Rotate screen{x:132}: Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SELECT:w80155b54"
@@ -105,8 +105,8 @@
    "off": 308,
    "len": 28,
    "jp": "ステータスを変更しますか？",
-   "en": "",
-   "status": "todo",
+   "en": "Change status?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SELECT:w80155b50"
@@ -117,8 +117,8 @@
    "off": 336,
    "len": 28,
    "jp": "この設定でゲームを始めます",
-   "en": "",
-   "status": "todo",
+   "en": "Start with these settings",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SELECT:w80155b4c"
@@ -129,8 +129,8 @@
    "off": 364,
    "len": 28,
    "jp": "同盟を結べる国がありません",
-   "en": "",
-   "status": "todo",
+   "en": "No nations to ally with",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SELECT:w80155b48"
@@ -141,8 +141,8 @@
    "off": 392,
    "len": 32,
    "jp": "コントローラを変更してください",
-   "en": "",
-   "status": "todo",
+   "en": "Please change the controller",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SELECT:w80155b44"
@@ -153,8 +153,8 @@
    "off": 424,
    "len": 32,
    "jp": "プレイヤーを変更してください",
-   "en": "",
-   "status": "todo",
+   "en": "Please change the player",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SELECT:w80155b40"
@@ -165,8 +165,8 @@
    "off": 456,
    "len": 28,
    "jp": "同盟国を変更してください",
-   "en": "",
-   "status": "todo",
+   "en": "Please change the allies",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SELECT:w80155b3c"
@@ -177,8 +177,8 @@
    "off": 484,
    "len": 28,
    "jp": "国の色を変更してください",
-   "en": "",
-   "status": "todo",
+   "en": "Please change the color",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SELECT:w80155b38"
@@ -189,8 +189,8 @@
    "off": 512,
    "len": 23,
    "jp": "国名を変更してください",
-   "en": "",
-   "status": "todo",
+   "en": "Please change the name",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SELECT:w80155b34"

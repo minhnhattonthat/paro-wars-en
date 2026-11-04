@@ -9,8 +9,8 @@
    "off": 65536,
    "len": 26,
    "jp": "国王：",
-   "en": "",
-   "status": "todo",
+   "en": "King:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 65562,
    "len": 26,
    "jp": "　ペンタロウキング３世",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}King Pentaro III",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 65588,
    "len": 26,
    "jp": "首都：",
-   "en": "",
-   "status": "todo",
+   "en": "Capital:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 65614,
    "len": 26,
    "jp": "　究極合体都市",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Ultimate Fusion City",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 65640,
    "len": 26,
    "jp": "　　　　　　ロン＆ドン",
-   "en": "",
-   "status": "todo",
+   "en": "{x:72}Lon & Don",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 65666,
    "len": 26,
    "jp": "民族：",
-   "en": "",
-   "status": "todo",
+   "en": "Ethnic Group:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 65692,
    "len": 26,
    "jp": "　アングロ－サクソン　",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Anglo-Saxon",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 65718,
    "len": 26,
    "jp": "　　　　　　ペンギン族",
-   "en": "",
-   "status": "todo",
+   "en": "{x:72}Penguin Tribe",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 65744,
    "len": 26,
    "jp": "軍事組織：",
-   "en": "",
-   "status": "todo",
+   "en": "Military Bloc:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 65770,
    "len": 26,
    "jp": "　ペンタ連合",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Penta Alliance",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 65822,
    "len": 26,
    "jp": "　軍事組織「ペンタ連合」",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Chairs the military",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 65848,
    "len": 26,
    "jp": "の議長国。極上産業革命",
-   "en": "",
-   "status": "todo",
+   "en": "bloc \"Penta Alliance\".",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 65874,
    "len": 26,
    "jp": "以来、地上兵器の開発に",
-   "en": "",
-   "status": "todo",
+   "en": "Since the Deluxe",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 65900,
    "len": 26,
    "jp": "おいて高い技術水準を堅",
-   "en": "",
-   "status": "todo",
+   "en": "Industrial Revolution,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -144,8 +144,8 @@
    "off": 65926,
    "len": 26,
    "jp": "持している。",
-   "en": "",
-   "status": "todo",
+   "en": "its ground-weapon tech",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -153,8 +153,8 @@
    "off": 65952,
    "len": 26,
    "jp": "「ＳＭ－１」は、ペンタ",
-   "en": "",
-   "status": "todo",
+   "en": "stays high. The \"SM-1\",",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -162,8 +162,8 @@
    "off": 65978,
    "len": 26,
    "jp": "王国が誇る主力戦車で、",
-   "en": "",
-   "status": "todo",
+   "en": "Penta's proud main tank,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -171,8 +171,8 @@
    "off": 66004,
    "len": 26,
    "jp": "ペンタ連合の「動く砦」",
-   "en": "",
-   "status": "todo",
+   "en": "is called the Alliance's",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -180,8 +180,8 @@
    "off": 66030,
    "len": 26,
    "jp": "と言われている。",
-   "en": "",
-   "status": "todo",
+   "en": "\"moving fortress\".",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -207,8 +207,8 @@
    "off": 66108,
    "len": 26,
    "jp": "主力戦車：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Tank:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -225,8 +225,8 @@
    "off": 66160,
    "len": 26,
    "jp": "主力機：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Plane:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -234,8 +234,8 @@
    "off": 66186,
    "len": 26,
    "jp": "　イーグル",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Eagle",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -243,8 +243,8 @@
    "off": 66212,
    "len": 26,
    "jp": "　　　サブロウシロウ",
-   "en": "",
-   "status": "todo",
+   "en": "{x:36}Saburo-Shiro",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -252,8 +252,8 @@
    "off": 66238,
    "len": 26,
    "jp": "主力戦艦：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Battleship:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -261,8 +261,8 @@
    "off": 66264,
    "len": 26,
    "jp": "　フォレスタルキング",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Forrestal King",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -270,8 +270,8 @@
    "off": 66290,
    "len": 26,
    "jp": "　　　　　　（空母）",
-   "en": "",
-   "status": "todo",
+   "en": "{x:72}(Carrier)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -279,8 +279,8 @@
    "off": 66316,
    "len": 26,
    "jp": "極上ロボ：",
-   "en": "",
-   "status": "todo",
+   "en": "Deluxe Robo:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -288,8 +288,8 @@
    "off": 66342,
    "len": 26,
    "jp": "　ペンタロウＸ",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Pentaro X",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -306,8 +306,8 @@
    "off": 66394,
    "len": 26,
    "jp": "帝王：",
-   "en": "",
-   "status": "todo",
+   "en": "Emperor:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -315,8 +315,8 @@
    "off": 66420,
    "len": 26,
    "jp": "　ミカエル・アブゥ４世",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Michael Abu IV",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -324,8 +324,8 @@
    "off": 66446,
    "len": 26,
    "jp": "首都：",
-   "en": "",
-   "status": "todo",
+   "en": "Capital:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -333,8 +333,8 @@
    "off": 66472,
    "len": 26,
    "jp": "　複合都市アブゥリャド",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Complex City Aburiyadh",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -342,8 +342,8 @@
    "off": 66498,
    "len": 26,
    "jp": "民族：",
-   "en": "",
-   "status": "todo",
+   "en": "Ethnic Group:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -351,8 +351,8 @@
    "off": 66524,
    "len": 26,
    "jp": "　ワッハーブサウード－",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Wahhab-Saud-",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -360,8 +360,8 @@
    "off": 66550,
    "len": 26,
    "jp": "　　　ピッグミカエル族",
-   "en": "",
-   "status": "todo",
+   "en": "{x:36}Pig Michael Tribe",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -369,8 +369,8 @@
    "off": 66576,
    "len": 26,
    "jp": "軍事組織：",
-   "en": "",
-   "status": "todo",
+   "en": "Military Bloc:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -378,8 +378,8 @@
    "off": 66602,
    "len": 26,
    "jp": "　アラジオ連合",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Aladio Alliance",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -405,8 +405,8 @@
    "off": 66680,
    "len": 26,
    "jp": "　軍事組織「アラジオ連",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}The \"Aladio Alliance\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -414,8 +414,8 @@
    "off": 66706,
    "len": 26,
    "jp": "合」の隣国への軍事介入",
-   "en": "",
-   "status": "todo",
+   "en": "bloc's military meddling",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -423,8 +423,8 @@
    "off": 66732,
    "len": 26,
    "jp": "はすさまじい。自国にこ",
-   "en": "",
-   "status": "todo",
+   "en": "in neighbors is fierce.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -432,8 +432,8 @@
    "off": 66758,
    "len": 26,
    "jp": "そ武器開発の高度な技術",
-   "en": "",
-   "status": "todo",
+   "en": "It lacks advanced weapon",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -441,8 +441,8 @@
    "off": 66784,
    "len": 26,
    "jp": "力はないものの、石油貿",
-   "en": "",
-   "status": "todo",
+   "en": "tech at home, but oil",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -450,8 +450,8 @@
    "off": 66810,
    "len": 26,
    "jp": "易による利益を元手に、",
-   "en": "",
-   "status": "todo",
+   "en": "trade profits buy it the",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -459,8 +459,8 @@
    "off": 66836,
    "len": 26,
    "jp": "西側・東側の最新兵器を",
-   "en": "",
-   "status": "todo",
+   "en": "latest West and East",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -468,8 +468,8 @@
    "off": 66862,
    "len": 26,
    "jp": "購入し、武装を整えてい",
-   "en": "",
-   "status": "todo",
+   "en": "arms to kit itself out.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -477,8 +477,8 @@
    "off": 66888,
    "len": 26,
    "jp": "る。地上装備はピカ一。",
-   "en": "",
-   "status": "todo",
+   "en": "Its ground gear is ace.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -504,8 +504,8 @@
    "off": 66966,
    "len": 26,
    "jp": "主力戦車：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Tank:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -513,8 +513,8 @@
    "off": 66992,
    "len": 26,
    "jp": "　レオナルド２",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Leonardo 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -522,8 +522,8 @@
    "off": 67018,
    "len": 26,
    "jp": "主力機：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Plane:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -531,8 +531,8 @@
    "off": 67044,
    "len": 26,
    "jp": "　ぷりぷりクフィル",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Bouncy Kfir",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -549,8 +549,8 @@
    "off": 67096,
    "len": 26,
    "jp": "主力戦艦：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Battleship:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -558,8 +558,8 @@
    "off": 67122,
    "len": 26,
    "jp": "　ビンビンダブル",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Vin-Vin Double",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -567,8 +567,8 @@
    "off": 67148,
    "len": 26,
    "jp": "　　　　　　（空母）",
-   "en": "",
-   "status": "todo",
+   "en": "{x:72}(Carrier)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -576,8 +576,8 @@
    "off": 67174,
    "len": 26,
    "jp": "極上ロボ：",
-   "en": "",
-   "status": "todo",
+   "en": "Deluxe Robo:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -585,8 +585,8 @@
    "off": 67200,
    "len": 26,
    "jp": "　ブタシオｍｋ２",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Salt Pork mk2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -603,8 +603,8 @@
    "off": 67252,
    "len": 26,
    "jp": "総統：",
-   "en": "",
-   "status": "todo",
+   "en": "Fuehrer:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -612,8 +612,8 @@
    "off": 67278,
    "len": 26,
    "jp": "　Ａ．タコスケＪｒ．",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}A. Takosuke Jr.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -621,8 +621,8 @@
    "off": 67304,
    "len": 26,
    "jp": "首都：",
-   "en": "",
-   "status": "todo",
+   "en": "Capital:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -630,8 +630,8 @@
    "off": 67330,
    "len": 26,
    "jp": "　アカシヤシティー",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Akashiya City",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -639,8 +639,8 @@
    "off": 67356,
    "len": 26,
    "jp": "民族：",
-   "en": "",
-   "status": "todo",
+   "en": "Ethnic Group:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -648,8 +648,8 @@
    "off": 67382,
    "len": 26,
    "jp": "　コリャ－タコスケ族",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Korya-Takosuke Tribe",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -657,8 +657,8 @@
    "off": 67408,
    "len": 26,
    "jp": "軍事組織：",
-   "en": "",
-   "status": "todo",
+   "en": "Military Bloc:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -666,8 +666,8 @@
    "off": 67434,
    "len": 26,
    "jp": "　コイツ＆アイツ機構　",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Koitsu & Aitsu Pact",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -702,8 +702,8 @@
    "off": 67538,
    "len": 26,
    "jp": "　国の大部分が海に囲ま",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}With most of the land",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -711,8 +711,8 @@
    "off": 67564,
    "len": 26,
    "jp": "れていることから、海軍",
-   "en": "",
-   "status": "todo",
+   "en": "ringed by sea, its arms",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -720,8 +720,8 @@
    "off": 67590,
    "len": 26,
    "jp": "を中心とした武装体型を",
-   "en": "",
-   "status": "todo",
+   "en": "are built around the",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -729,8 +729,8 @@
    "off": 67616,
    "len": 26,
    "jp": "とっている。",
-   "en": "",
-   "status": "todo",
+   "en": "navy.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -738,8 +738,8 @@
    "off": 67642,
    "len": 26,
    "jp": "国営あいつ＝なんタロウ",
-   "en": "",
-   "status": "todo",
+   "en": "State-run Aitsu-Nantaro",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -747,8 +747,8 @@
    "off": 67668,
    "len": 26,
    "jp": "社製の戦闘空母「キレル",
-   "en": "",
-   "status": "todo",
+   "en": "Inc. built its 3 battle",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -756,8 +756,8 @@
    "off": 67694,
    "len": 26,
    "jp": "ンバ！」を３隻保有する",
-   "en": "",
-   "status": "todo",
+   "en": "carriers, \"Kire-Rumba!\",",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -765,8 +765,8 @@
    "off": 67720,
    "len": 26,
    "jp": "他、多くの潜水艦を保有",
-   "en": "",
-   "status": "todo",
+   "en": "and it also owns many",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -774,8 +774,8 @@
    "off": 67746,
    "len": 26,
    "jp": "している。",
-   "en": "",
-   "status": "todo",
+   "en": "submarines.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -801,8 +801,8 @@
    "off": 67824,
    "len": 26,
    "jp": "主力戦車：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Tank:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -810,8 +810,8 @@
    "off": 67850,
    "len": 26,
    "jp": "　Ｔバック－８０",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}T-Back-80",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -819,8 +819,8 @@
    "off": 67876,
    "len": 26,
    "jp": "主力機：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Plane:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -828,8 +828,8 @@
    "off": 67902,
    "len": 26,
    "jp": "　ボンジュール",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Bonjour",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -837,8 +837,8 @@
    "off": 67928,
    "len": 26,
    "jp": "　　　　　ミラージュ",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Mirage",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -846,8 +846,8 @@
    "off": 67954,
    "len": 26,
    "jp": "主力戦艦：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Battleship:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -855,8 +855,8 @@
    "off": 67980,
    "len": 26,
    "jp": "　キレルンバ！（空母）",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Kire-Rumba! (Carrier)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -864,8 +864,8 @@
    "off": 68006,
    "len": 26,
    "jp": "極上ロボ：",
-   "en": "",
-   "status": "todo",
+   "en": "Deluxe Robo:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -873,8 +873,8 @@
    "off": 68032,
    "len": 26,
    "jp": "　ラッキー君",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Lucky-kun",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -900,8 +900,8 @@
    "off": 68110,
    "len": 26,
    "jp": "大統領：",
-   "en": "",
-   "status": "todo",
+   "en": "President:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -909,8 +909,8 @@
    "off": 68136,
    "len": 26,
    "jp": "　ひかる・あかね",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Hikaru & Akane",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -918,8 +918,8 @@
    "off": 68162,
    "len": 26,
    "jp": "首都：",
-   "en": "",
-   "status": "todo",
+   "en": "Capital:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -927,8 +927,8 @@
    "off": 68188,
    "len": 26,
    "jp": "　イーグルサム・オン",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Eagle Sam-On",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -936,8 +936,8 @@
    "off": 68214,
    "len": 26,
    "jp": "民族：",
-   "en": "",
-   "status": "todo",
+   "en": "Ethnic Group:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -945,8 +945,8 @@
    "off": 68240,
    "len": 26,
    "jp": "　アングロ－サクソン　",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Anglo-Saxon",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -954,8 +954,8 @@
    "off": 68266,
    "len": 26,
    "jp": "　　　ペンギン族",
-   "en": "",
-   "status": "todo",
+   "en": "{x:36}Penguin Tribe",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -963,8 +963,8 @@
    "off": 68292,
    "len": 26,
    "jp": "　　　／究極セクシー族",
-   "en": "",
-   "status": "todo",
+   "en": "{x:36}/Ultimate Sexy Tribe",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -972,8 +972,8 @@
    "off": 68318,
    "len": 26,
    "jp": "軍事組織：",
-   "en": "",
-   "status": "todo",
+   "en": "Military Bloc:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -981,8 +981,8 @@
    "off": 68344,
    "len": 26,
    "jp": "　ペンタ連合",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Penta Alliance",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -999,8 +999,8 @@
    "off": 68396,
    "len": 26,
    "jp": "　航空産業においては世",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Its aviation industry",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1008,8 +1008,8 @@
    "off": 68422,
    "len": 26,
    "jp": "界一を誇る。パグラス社",
-   "en": "",
-   "status": "todo",
+   "en": "is the world's best.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1017,8 +1017,8 @@
    "off": 68448,
    "len": 26,
    "jp": "の「Ｆ－１５ラッキーイ",
-   "en": "",
-   "status": "todo",
+   "en": "From Puglas Inc.'s \"F-15",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1026,8 +1026,8 @@
    "off": 68474,
    "len": 26,
    "jp": "ーグル」をはじめとする",
-   "en": "",
-   "status": "todo",
+   "en": "Lucky Eagle\" on, all its",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1035,8 +1035,8 @@
    "off": 68500,
    "len": 26,
    "jp": "戦闘機はどれも高性能で",
-   "en": "",
-   "status": "todo",
+   "en": "fighters are high-grade",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1044,8 +1044,8 @@
    "off": 68526,
    "len": 26,
    "jp": "パイロットもよく訓練さ",
-   "en": "",
-   "status": "todo",
+   "en": "and its pilots are well",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1053,8 +1053,8 @@
    "off": 68552,
    "len": 26,
    "jp": "れている。各国にセクシ",
-   "en": "",
-   "status": "todo",
+   "en": "drilled. It sends Sexy",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1062,8 +1062,8 @@
    "off": 68578,
    "len": 26,
    "jp": "ー海兵隊を派遣し、世界",
-   "en": "",
-   "status": "todo",
+   "en": "Marines to many lands to",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1071,8 +1071,8 @@
    "off": 68604,
    "len": 26,
    "jp": "の治安を守っている。　",
-   "en": "",
-   "status": "todo",
+   "en": "keep the world safe.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1098,8 +1098,8 @@
    "off": 68682,
    "len": 26,
    "jp": "主力戦車：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Tank:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1116,8 +1116,8 @@
    "off": 68734,
    "len": 26,
    "jp": "主力機：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Plane:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1125,8 +1125,8 @@
    "off": 68760,
    "len": 26,
    "jp": "　Ｆ－１５ラッキー",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}F-15 Lucky",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1134,8 +1134,8 @@
    "off": 68786,
    "len": 26,
    "jp": "　　　　　　　イーグル",
-   "en": "",
-   "status": "todo",
+   "en": "{x:84}Eagle",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1143,8 +1143,8 @@
    "off": 68812,
    "len": 26,
    "jp": "主力戦艦：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Battleship:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1152,8 +1152,8 @@
    "off": 68838,
    "len": 26,
    "jp": "　Ｉ／Ｏ　Ｗａ！（戦艦）",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}I/O Wa! (Battleship)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1161,8 +1161,8 @@
    "off": 68864,
    "len": 26,
    "jp": "極上ロボ：",
-   "en": "",
-   "status": "todo",
+   "en": "Deluxe Robo:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1170,8 +1170,8 @@
    "off": 68890,
    "len": 26,
    "jp": "　バニーちゃん",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Bunny-chan",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1197,8 +1197,8 @@
    "off": 68968,
    "len": 26,
    "jp": "書記長：",
-   "en": "",
-   "status": "todo",
+   "en": "General Secretary:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1206,8 +1206,8 @@
    "off": 68994,
    "len": 26,
    "jp": "　こいつ書記長",
-   "en": "",
-   "status": "todo",
+   "en": "General Secretary Koitsu",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1215,8 +1215,8 @@
    "off": 69020,
    "len": 26,
    "jp": "　　　　　あいつ大統領",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}President Aitsu",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1224,8 +1224,8 @@
    "off": 69046,
    "len": 26,
    "jp": "首都：",
-   "en": "",
-   "status": "todo",
+   "en": "Capital:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1233,8 +1233,8 @@
    "off": 69072,
    "len": 26,
    "jp": "　極上都市パロラード",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Deluxe City Parorad",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1242,8 +1242,8 @@
    "off": 69098,
    "len": 26,
    "jp": "民族：",
-   "en": "",
-   "status": "todo",
+   "en": "Ethnic Group:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1251,8 +1251,8 @@
    "off": 69124,
    "len": 26,
    "jp": "　こいつ＆あいつ",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Koitsu & Aitsu",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1260,8 +1260,8 @@
    "off": 69150,
    "len": 26,
    "jp": "　　　　　　ブルース族",
-   "en": "",
-   "status": "todo",
+   "en": "{x:72}Blues Tribe",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1269,8 +1269,8 @@
    "off": 69176,
    "len": 26,
    "jp": "軍事組織：",
-   "en": "",
-   "status": "todo",
+   "en": "Military Bloc:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1278,8 +1278,8 @@
    "off": 69202,
    "len": 26,
    "jp": "　コイツ＆アイツ機構　",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Koitsu & Aitsu Pact",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1296,8 +1296,8 @@
    "off": 69254,
    "len": 26,
    "jp": "　コイツ＆アイツ機構の",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Head of the Koitsu &",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1305,8 +1305,8 @@
    "off": 69280,
    "len": 26,
    "jp": "長。世界に軍事スパイを",
-   "en": "",
-   "status": "todo",
+   "en": "Aitsu Pact. It sends",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1314,8 +1314,8 @@
    "off": 69306,
    "len": 26,
    "jp": "送り込み、徹底したスパ",
-   "en": "",
-   "status": "todo",
+   "en": "military spies worldwide",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1323,8 +1323,8 @@
    "off": 69332,
    "len": 26,
    "jp": "イ活動を行っている。",
-   "en": "",
-   "status": "todo",
+   "en": "for thorough espionage.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1332,8 +1332,8 @@
    "off": 69358,
    "len": 26,
    "jp": "東側の武器のほとんどを",
-   "en": "",
-   "status": "todo",
+   "en": "It makes most of the",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1341,8 +1341,8 @@
    "off": 69384,
    "len": 26,
    "jp": "製造し、ミカエル帝国を",
-   "en": "",
-   "status": "todo",
+   "en": "East's arms and exports",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1350,8 +1350,8 @@
    "off": 69410,
    "len": 26,
    "jp": "はじめ、多くの国に武器",
-   "en": "",
-   "status": "todo",
+   "en": "them to the Michael",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1359,8 +1359,8 @@
    "off": 69436,
    "len": 26,
    "jp": "の輸出を行っている。",
-   "en": "",
-   "status": "todo",
+   "en": "Empire and many others.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1395,8 +1395,8 @@
    "off": 69540,
    "len": 26,
    "jp": "主力戦車：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Tank:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1404,8 +1404,8 @@
    "off": 69566,
    "len": 26,
    "jp": "　Ｔバック－８０",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}T-Back-80",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1413,8 +1413,8 @@
    "off": 69592,
    "len": 26,
    "jp": "主力機：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Plane:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1422,8 +1422,8 @@
    "off": 69618,
    "len": 26,
    "jp": "　紙ヒコーキ",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Paper Plane",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1440,8 +1440,8 @@
    "off": 69670,
    "len": 26,
    "jp": "主力戦艦：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Battleship:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1449,8 +1449,8 @@
    "off": 69696,
    "len": 26,
    "jp": "　キレルンバ！（空母）",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Kire-Rumba! (Carrier)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1458,8 +1458,8 @@
    "off": 69722,
    "len": 26,
    "jp": "極上ロボ：",
-   "en": "",
-   "status": "todo",
+   "en": "Deluxe Robo:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1467,8 +1467,8 @@
    "off": 69748,
    "len": 26,
    "jp": "　コイツジャイアント",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Koitsu Giant",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1494,8 +1494,8 @@
    "off": 69826,
    "len": 26,
    "jp": "首長：",
-   "en": "",
-   "status": "todo",
+   "en": "Emir:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1503,8 +1503,8 @@
    "off": 69852,
    "len": 26,
    "jp": "　よしこ女帝７世",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Empress Yoshiko VII",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1512,8 +1512,8 @@
    "off": 69878,
    "len": 26,
    "jp": "首都：",
-   "en": "",
-   "status": "todo",
+   "en": "Capital:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1521,8 +1521,8 @@
    "off": 69904,
    "len": 26,
    "jp": "　観光都市",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Tourist City",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1530,8 +1530,8 @@
    "off": 69930,
    "len": 26,
    "jp": "　　　プリンセスよしこ",
-   "en": "",
-   "status": "todo",
+   "en": "{x:36}Princess Yoshiko",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1539,8 +1539,8 @@
    "off": 69956,
    "len": 26,
    "jp": "民族：",
-   "en": "",
-   "status": "todo",
+   "en": "Ethnic Group:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1548,8 +1548,8 @@
    "off": 69982,
    "len": 26,
    "jp": "　ピグム－モーリー",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Pygm-Maori",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1557,8 +1557,8 @@
    "off": 70008,
    "len": 26,
    "jp": "　　　　　　　モアイ族",
-   "en": "",
-   "status": "todo",
+   "en": "{x:84}Moai Tribe",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1566,8 +1566,8 @@
    "off": 70034,
    "len": 26,
    "jp": "軍事組織：",
-   "en": "",
-   "status": "todo",
+   "en": "Military Bloc:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1575,8 +1575,8 @@
    "off": 70060,
    "len": 26,
    "jp": "　アラジオ連合",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Aladio Alliance",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1593,8 +1593,8 @@
    "off": 70112,
    "len": 26,
    "jp": "　ミカエル帝国との同盟",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Through its alliance",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1602,8 +1602,8 @@
    "off": 70138,
    "len": 26,
    "jp": "により、近隣諸島への軍",
-   "en": "",
-   "status": "todo",
+   "en": "with the Michael Empire,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1611,8 +1611,8 @@
    "off": 70164,
    "len": 26,
    "jp": "事介入を行っている。",
-   "en": "",
-   "status": "todo",
+   "en": "it meddles militarily in",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1620,8 +1620,8 @@
    "off": 70190,
    "len": 26,
    "jp": "モアイの兵士は勇敢で、",
-   "en": "",
-   "status": "todo",
+   "en": "nearby islands. Moai",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1629,8 +1629,8 @@
    "off": 70216,
    "len": 26,
    "jp": "引くことを知らない荒武",
-   "en": "",
-   "status": "todo",
+   "en": "troops are brave, said",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1638,8 +1638,8 @@
    "off": 70242,
    "len": 26,
    "jp": "者ぞろいといわれている。",
-   "en": "",
-   "status": "todo",
+   "en": "to be wild warriors who",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1647,8 +1647,8 @@
    "off": 70268,
    "len": 26,
    "jp": "東側の兵器を中心に、陸",
-   "en": "",
-   "status": "todo",
+   "en": "never retreat. With arms",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1656,8 +1656,8 @@
    "off": 70294,
    "len": 26,
    "jp": "・海・空軍の装備の強化",
-   "en": "",
-   "status": "todo",
+   "en": "mainly from the East, it",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1665,8 +1665,8 @@
    "off": 70320,
    "len": 26,
    "jp": "をはかっている。",
-   "en": "",
-   "status": "todo",
+   "en": "boosts land, sea & air.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1692,8 +1692,8 @@
    "off": 70398,
    "len": 26,
    "jp": "主力戦車：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Tank:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1701,8 +1701,8 @@
    "off": 70424,
    "len": 26,
    "jp": "　レオナルド２",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Leonardo 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1710,8 +1710,8 @@
    "off": 70450,
    "len": 26,
    "jp": "主力機：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Plane:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1719,8 +1719,8 @@
    "off": 70476,
    "len": 26,
    "jp": "　ファンタジー",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Fantasy",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1728,8 +1728,8 @@
    "off": 70502,
    "len": 26,
    "jp": "　　　　　　ファルコン",
-   "en": "",
-   "status": "todo",
+   "en": "{x:72}Falcon",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1737,8 +1737,8 @@
    "off": 70528,
    "len": 26,
    "jp": "主力戦艦：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Battleship:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1746,8 +1746,8 @@
    "off": 70554,
    "len": 26,
    "jp": "　ビンビンダブル",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Vin-Vin Double",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1755,8 +1755,8 @@
    "off": 70580,
    "len": 26,
    "jp": "　　　　　　　（空母）",
-   "en": "",
-   "status": "todo",
+   "en": "{x:84}(Carrier)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1764,8 +1764,8 @@
    "off": 70606,
    "len": 26,
    "jp": "極上ロボ：",
-   "en": "",
-   "status": "todo",
+   "en": "Deluxe Robo:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1773,8 +1773,8 @@
    "off": 70632,
    "len": 26,
    "jp": "　ビックサンダーモアイ",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Big Thunder Moai",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1791,8 +1791,8 @@
    "off": 70684,
    "len": 26,
    "jp": "党首：",
-   "en": "",
-   "status": "todo",
+   "en": "Leader:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1800,8 +1800,8 @@
    "off": 70710,
    "len": 26,
    "jp": "　アンナパブロワ",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Anna Pavlova",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1809,8 +1809,8 @@
    "off": 70736,
    "len": 26,
    "jp": "首都：",
-   "en": "",
-   "status": "todo",
+   "en": "Capital:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1818,8 +1818,8 @@
    "off": 70762,
    "len": 26,
    "jp": "　文化経済都市北金",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Arts & Cash City Pekin",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1827,8 +1827,8 @@
    "off": 70788,
    "len": 26,
    "jp": "民族：",
-   "en": "",
-   "status": "todo",
+   "en": "Ethnic Group:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1836,8 +1836,8 @@
    "off": 70814,
    "len": 26,
    "jp": "　パン族",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Pan Tribe",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1845,8 +1845,8 @@
    "off": 70840,
    "len": 26,
    "jp": "軍事組織：",
-   "en": "",
-   "status": "todo",
+   "en": "Military Bloc:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1854,8 +1854,8 @@
    "off": 70866,
    "len": 26,
    "jp": "　コイツ＆アイツ機構　",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Koitsu & Aitsu Pact",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1890,8 +1890,8 @@
    "off": 70970,
    "len": 26,
    "jp": "　この国の豊富な労働力",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Its abundant workforce",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1899,8 +1899,8 @@
    "off": 70996,
    "len": 26,
    "jp": "は、時として豊富な戦闘",
-   "en": "",
-   "status": "todo",
+   "en": "can at times become an",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1908,8 +1908,8 @@
    "off": 71022,
    "len": 26,
    "jp": "兵となる。軍事産業は、",
-   "en": "",
-   "status": "todo",
+   "en": "abundant army. Its arms",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1917,8 +1917,8 @@
    "off": 71048,
    "len": 26,
    "jp": "戦車等の陸上兵器の製造",
-   "en": "",
-   "status": "todo",
+   "en": "industry thrives, mainly",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1926,8 +1926,8 @@
    "off": 71074,
    "len": 26,
    "jp": "を中心にさかんである。",
-   "en": "",
-   "status": "todo",
+   "en": "on tanks and other land",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1935,8 +1935,8 @@
    "off": 71100,
    "len": 26,
    "jp": "近代化には遅れているも",
-   "en": "",
-   "status": "todo",
+   "en": "weapons. Its military",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1944,8 +1944,8 @@
    "off": 71126,
    "len": 26,
    "jp": "のの、軍隊の規模は世界",
-   "en": "",
-   "status": "todo",
+   "en": "lags in modernizing, but",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1953,8 +1953,8 @@
    "off": 71152,
    "len": 26,
    "jp": "最大である。",
-   "en": "",
-   "status": "todo",
+   "en": "is the world's largest.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1989,8 +1989,8 @@
    "off": 71256,
    "len": 26,
    "jp": "主力戦車：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Tank:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -1998,8 +1998,8 @@
    "off": 71282,
    "len": 26,
    "jp": "　Ｔバック－８０",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}T-Back-80",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2007,8 +2007,8 @@
    "off": 71308,
    "len": 26,
    "jp": "主力機：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Plane:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2025,8 +2025,8 @@
    "off": 71360,
    "len": 26,
    "jp": "　　　　８００ＤＸ！？",
-   "en": "",
-   "status": "todo",
+   "en": "{x:48}800DX!?",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2034,8 +2034,8 @@
    "off": 71386,
    "len": 26,
    "jp": "主力戦艦：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Battleship:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2043,8 +2043,8 @@
    "off": 71412,
    "len": 26,
    "jp": "　キレルンバ！（空母）",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Kire-Rumba! (Carrier)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2052,8 +2052,8 @@
    "off": 71438,
    "len": 26,
    "jp": "極上ロボ：",
-   "en": "",
-   "status": "todo",
+   "en": "Deluxe Robo:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2061,8 +2061,8 @@
    "off": 71464,
    "len": 26,
    "jp": "　メローラ",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Melora",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2088,8 +2088,8 @@
    "off": 71542,
    "len": 26,
    "jp": "総理：",
-   "en": "",
-   "status": "todo",
+   "en": "Prime Minister:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2097,8 +2097,8 @@
    "off": 71568,
    "len": 26,
    "jp": "　ポチ之嵐",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Pochi-no-Arashi",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2106,8 +2106,8 @@
    "off": 71594,
    "len": 26,
    "jp": "首都：",
-   "en": "",
-   "status": "todo",
+   "en": "Capital:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2115,8 +2115,8 @@
    "off": 71620,
    "len": 26,
    "jp": "　衛星都市ハチ公",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Satellite City Hachiko",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2124,8 +2124,8 @@
    "off": 71646,
    "len": 26,
    "jp": "民族：",
-   "en": "",
-   "status": "todo",
+   "en": "Ethnic Group:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2133,8 +2133,8 @@
    "off": 71672,
    "len": 26,
    "jp": "　チュウケン－ミン族",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Chuken-Min Tribe",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2142,8 +2142,8 @@
    "off": 71698,
    "len": 26,
    "jp": "軍事組織：",
-   "en": "",
-   "status": "todo",
+   "en": "Military Bloc:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2151,8 +2151,8 @@
    "off": 71724,
    "len": 26,
    "jp": "　ペンタ連合",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Penta Alliance",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2187,8 +2187,8 @@
    "off": 71828,
    "len": 26,
    "jp": "　憲法で軍隊はもたない",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}By its constitution it",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2196,8 +2196,8 @@
    "off": 71854,
    "len": 26,
    "jp": "事になっているが、ここ",
-   "en": "",
-   "status": "todo",
+   "en": "has no military, but now",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2205,8 +2205,8 @@
    "off": 71880,
    "len": 26,
    "jp": "に来て隣国との緊張が高",
-   "en": "",
-   "status": "todo",
+   "en": "tension with neighbors",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2214,8 +2214,8 @@
    "off": 71906,
    "len": 26,
    "jp": "まってきており、防衛の",
-   "en": "",
-   "status": "todo",
+   "en": "is rising, so it's",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2223,8 +2223,8 @@
    "off": 71932,
    "len": 26,
    "jp": "ための軍備増強を進めて",
-   "en": "",
-   "status": "todo",
+   "en": "building up arms for",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2232,8 +2232,8 @@
    "off": 71958,
    "len": 26,
    "jp": "いる。",
-   "en": "",
-   "status": "todo",
+   "en": "self-defense.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2241,8 +2241,8 @@
    "off": 71984,
    "len": 26,
    "jp": "独自の高度な武器開発技",
-   "en": "",
-   "status": "todo",
+   "en": "It has its own advanced",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2250,8 +2250,8 @@
    "off": 72010,
    "len": 26,
    "jp": "術をもっており、本気に",
-   "en": "",
-   "status": "todo",
+   "en": "arms tech: once it gets",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2259,8 +2259,8 @@
    "off": 72036,
    "len": 26,
    "jp": "なったら恐い存在である。",
-   "en": "",
-   "status": "todo",
+   "en": "serious, it's scary.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2286,8 +2286,8 @@
    "off": 72114,
    "len": 26,
    "jp": "主力戦車：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Tank:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2304,8 +2304,8 @@
    "off": 72166,
    "len": 26,
    "jp": "主力機：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Plane:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2313,8 +2313,8 @@
    "off": 72192,
    "len": 26,
    "jp": "　ビシバシＦ１",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Bishi-Bashi F1",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2331,8 +2331,8 @@
    "off": 72244,
    "len": 26,
    "jp": "主力戦艦：",
-   "en": "",
-   "status": "todo",
+   "en": "Main Battleship:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2340,8 +2340,8 @@
    "off": 72270,
    "len": 26,
    "jp": "　フォレスタルキング",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Forrestal King",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2349,8 +2349,8 @@
    "off": 72296,
    "len": 26,
    "jp": "　　　　　　（空母）",
-   "en": "",
-   "status": "todo",
+   "en": "{x:72}(Carrier)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2358,8 +2358,8 @@
    "off": 72322,
    "len": 26,
    "jp": "極上ロボ：",
-   "en": "",
-   "status": "todo",
+   "en": "Deluxe Robo:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -2367,8 +2367,8 @@
    "off": 72348,
    "len": 26,
    "jp": "　ヤッターバウ",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Yatter-Bow",
+   "status": "done",
    "kind": "text"
   },
   {

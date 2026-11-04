@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　激戦の末、プリンス王国の戦いでペンタ軍を撃退し　たモアイ国に、平和な日々が戻ったようだった。",
-   "en": "",
-   "status": "todo",
+   "en": "After a fierce fight, Moai drove off the Penta army in the battle of Prince Kingdom, and peace seemed to return.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "　だがしかし、アラジオ連合の同盟国ミカエル帝国に、大変な事態が発生したのである。",
-   "en": "",
-   "status": "todo",
+   "en": "But then, a terrible situation arose in Moai's Aladio Alliance partner, the Michael Empire.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "　事件は、またしてもあのジョン・ニャン次郎によっ　て引き起こされた。",
-   "en": "",
-   "status": "todo",
+   "en": "Once again, that John Nyanjiro had set it off.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "　灼熱の太陽の国アカシヤランド共和国に、あの謎の　行商猫、ジョン・ニャン次郎が、何ヵ月ぶりかでまた　帰ってきたのである。",
-   "en": "",
-   "status": "todo",
+   "en": "To Akashiya Land, country of the scorching sun, that mysterious peddler cat John Nyanjiro returned after many months away.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "　今回は珍しく、お供の者をいっしょに引き連れてい　るようである・・・　　　　　　　　　　　　　　　　",
-   "en": "",
-   "status": "todo",
+   "en": "This time, unusually, he seemed to have someone with him...",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "ようである・・・　　　　　　　　　　　　　　　　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Or so it seemed...",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "　いつもおんなじスタイルじゃおもしろくないので、　ちょっと今回はおもむきを変えての登場だ。",
-   "en": "",
-   "status": "todo",
+   "en": "The same old routine would be no fun, so this time he made his entrance a little differently.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "　ジョン・ニャン次郎は、まずはいつものようにアカ　シヤランド共和国総統、Ａ．タコスケＪｒ．のもとへ　と、挨拶におもむいた。",
-   "en": "",
-   "status": "todo",
+   "en": "As usual, John Nyanjiro first went to pay his respects to Akashiya Land's Fuehrer, A. Takosuke Jr.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "ニャン次郎：「今回はお友達をつれてきたニャン。紹　　　　　　　　介します。こちらが１万年に一度の占　　　　　　　　い師と名高いチキィンさんニャ～。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"Today I've brought a friend, nyan. Meet Chikin-san, famed as the once-in-ten-thousand-years fortune-teller, nyaa.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "タコスケ：「ほんまかいな！　　　　　　　　　　　　　　　　　　ほな、さっそく占ってもらおか～。」",
-   "en": "",
-   "status": "todo",
+   "en": "Takosuke: \"Izzat so! Then let's have that fortune read right now, y'hear.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1650,
    "len": 150,
    "jp": "チキィン：「それではこの国の将来を占ニャイます。　　　　　　　『う～や～た～、エイッ！！』」",
-   "en": "",
-   "status": "todo",
+   "en": "Chikin: \"Then I shall read this country's future, nyan. 'Uuu-yaaa-taaa, ei!!'\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 1800,
    "len": 150,
    "jp": "チキィン：「お答えします。　　　　　　　　　　　　　　　　　　この国の将来は超大凶とでました。」",
-   "en": "",
-   "status": "todo",
+   "en": "Chikin: \"I have my answer. Your country's future reads: ultra-terrible luck.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 1950,
    "len": 150,
    "jp": "　占いの結果に驚いたタコスケは、その詳細をチキィ　ンさんに問いただすのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "Shocked at the result, Takosuke pressed Chikin-san for the details.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 2100,
    "len": 150,
    "jp": "　チキィンさんによれば、この国は、これから環境汚　染による酸性雨が原因で森林が枯れ、砂漠化していく　ばかりか、",
-   "en": "",
-   "status": "todo",
+   "en": "According to Chikin-san, pollution would bring acid rain to this country, and its forests would wither and turn to desert,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -144,8 +144,8 @@
    "off": 2250,
    "len": 150,
    "jp": "上空のオゾン層破壊によって、ガンが大流行するとい　うのである。",
-   "en": "",
-   "status": "todo",
+   "en": "and what's more, the destruction of the ozone layer above would cause a plague of cancer.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -153,8 +153,8 @@
    "off": 2400,
    "len": 150,
    "jp": "タコスケ：「環境汚染やてっ！そないなことした覚え　　　　　　　ないで！　そんなん週刊誌のでっち上げ　　　　　　　や、事実無根や！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Takosuke: \"Pollution?! I don't remember doin' any such thing! That's tabloid garbage, it's groundless, y'hear!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -162,8 +162,8 @@
    "off": 2550,
    "len": 150,
    "jp": "チキィン：「いいえ、環境汚染は確かにあるニャン。」　",
-   "en": "",
-   "status": "todo",
+   "en": "Chikin: \"No, the pollution is quite real, nyan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -171,8 +171,8 @@
    "off": 2700,
    "len": 150,
    "jp": "　チキィンさんがいうには、アカシヤランドの東南の　ミカエル帝国から排出される、石油精製工場の有毒ガ　スやら、ヘアースプレーのフロンガスやら何やらが、",
-   "en": "",
-   "status": "todo",
+   "en": "Chikin-san said toxic fumes from refineries in the Michael Empire, southeast of Akashiya Land, plus hairspray CFCs and whatnot,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -180,8 +180,8 @@
    "off": 2850,
    "len": 150,
    "jp": "大気の流れの関係で、すべてアカシヤランド上空に集　まってしまうというのである。",
-   "en": "",
-   "status": "todo",
+   "en": "all rode the air currents and gathered over Akashiya Land.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -189,8 +189,8 @@
    "off": 3000,
    "len": 150,
    "jp": "タコスケ：「うおおーっ！！！　　　　　　　　　　　　　　　　　どないせいっちゅーねん！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Takosuke: \"Uoooh!!! Then what the heck am I s'posed to do!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -198,8 +198,8 @@
    "off": 3150,
    "len": 150,
    "jp": "ニャン次郎：「くさい臭いはもとからたたなきゃダメ　　　　　　　　って、昔からよくいうニャン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"To kill a stink you must cut it off at the source, as they've always said, nyan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -207,8 +207,8 @@
    "off": 3300,
    "len": 150,
    "jp": "　と、いうわけで、かくしてアカシヤ軍のミカエル帝　国壊滅作戦がはじまった。",
-   "en": "",
-   "status": "todo",
+   "en": "And so the Akashiya army's operation to wipe out the Michael Empire began.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -216,8 +216,8 @@
    "off": 3450,
    "len": 150,
    "jp": "　そして、突然のアカシヤ軍の襲撃に、ミカエル軍は　なすすべもなく敗れさってしまうのである。",
-   "en": "",
-   "status": "todo",
+   "en": "The sudden Akashiya attack left the Michael army helpless, and it was soon beaten.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -225,8 +225,8 @@
    "off": 3600,
    "len": 150,
    "jp": "ミカエル：「助けてくれ～、よしこ！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Michael: \"Help me, Yoshiko!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -234,8 +234,8 @@
    "off": 3750,
    "len": 150,
    "jp": "　ミカエルからの救援要請を受けたモアイ国は、ミカ　エル帝国解放に立ち上がるのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "Answering Michael's plea, Moai rose to liberate the Michael Empire.",
+   "status": "done",
    "kind": "text"
   }
  ]

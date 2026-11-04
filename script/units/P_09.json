@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "Ａ－４ウルトラポークの後継機となった本機は、超音速",
-   "en": "",
-   "status": "todo",
+   "en": "Successor to the A-4 Ultra Pork. It skips",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "性を必要としない代わりに、Ａ－４の約２倍の兵器搭載",
-   "en": "",
-   "status": "todo",
+   "en": "supersonic speed, but has about twice the A-4's",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "量と航続力を備え、過激で攻撃的なマシンとして恐れら",
-   "en": "",
-   "status": "todo",
+   "en": "payload and range, and is feared as a wild,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "れている。",
-   "en": "",
-   "status": "todo",
+   "en": "aggressive machine.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "対地、対空、ともに強力な攻撃が可能です。移動力は弱",
-   "en": "",
-   "status": "todo",
+   "en": "Strong attacks on both ground and air. Movement is",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "めですがその代わり航続力がある（エネルギー「なし」",
-   "en": "",
-   "status": "todo",
+   "en": "weak, but it has good range (moot in \"Energy Off\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "のモードでは関係ありませんが）ので、けっこうねばり",
-   "en": "",
-   "status": "todo",
+   "en": "mode), so it can keep attacking for a long time.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "強い攻撃が可能です。",
-   "en": "",
-   "status": "todo",
+   "en": " ",
+   "status": "done",
    "kind": "text"
   }
  ]

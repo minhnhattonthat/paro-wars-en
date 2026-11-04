@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　４（空に攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 4 (no air attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　２",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "車体は防弾鋼板製で、全周旋回可能な砲塔も防弾鋼板",
-   "en": "",
-   "status": "todo",
+   "en": "Hull of bulletproof plate, with an all-round",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "溶接構造。上面に照準潜望鏡、展望台や機銃を装備し",
-   "en": "",
-   "status": "todo",
+   "en": "turret of welded plate. A sight periscope,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "赤外線暗視装置と対ＮＢＣ防御システムを標準装備して",
-   "en": "",
-   "status": "todo",
+   "en": "observation deck and machine gun up top, plus",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "いる。",
-   "en": "",
-   "status": "todo",
+   "en": "standard infrared night vision and NBC defense.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "説明はすごそうだけどそんなにすごくありません。",
-   "en": "",
-   "status": "todo",
+   "en": "Sounds amazing, but it isn't that amazing. As I",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "何度もいいますが、間接攻撃系の兵器は敵にくっつかれ",
-   "en": "",
-   "status": "todo",
+   "en": "keep saying, ranged weapons are done for once",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "たら終わりです。移動後の攻撃もできないので注意。",
-   "en": "",
-   "status": "todo",
+   "en": "enemies get close. No attacks after moving.",
+   "status": "done",
    "kind": "text"
   }
  ]

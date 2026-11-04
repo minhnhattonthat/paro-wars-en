@@ -9,8 +9,8 @@
    "off": 1536,
    "len": 16,
    "jp": "いっきま～す",
-   "en": "",
-   "status": "todo",
+   "en": "Here I gooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdfc"
@@ -21,8 +21,8 @@
    "off": 1552,
    "len": 16,
    "jp": "いっきま～す",
-   "en": "",
-   "status": "todo",
+   "en": "Here I gooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdf8"
@@ -33,8 +33,8 @@
    "off": 1568,
    "len": 32,
    "jp": "好き勝手には、やらせない！！",
-   "en": "",
-   "status": "todo",
+   "en": "I won't let you run wild!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdf4"
@@ -45,8 +45,8 @@
    "off": 1600,
    "len": 32,
    "jp": "派手にでむかえてやろうぜ！！",
-   "en": "",
-   "status": "todo",
+   "en": "Let's give 'em a big, flashy welcome!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdf0"
@@ -57,8 +57,8 @@
    "off": 1632,
    "len": 24,
    "jp": "やつら、ゆるさん！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll never forgive those guys!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdec"
@@ -69,8 +69,8 @@
    "off": 1656,
    "len": 28,
    "jp": "一気にけちらしちゃいますよ",
-   "en": "",
-   "status": "todo",
+   "en": "I'll blow them away in one go, sir.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cde8"
@@ -81,8 +81,8 @@
    "off": 1684,
    "len": 28,
    "jp": "もっと強いやつと戦いたい",
-   "en": "",
-   "status": "todo",
+   "en": "I wanna fight somebody stronger.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cde4"
@@ -93,8 +93,8 @@
    "off": 1712,
    "len": 16,
    "jp": "やってやるぜー",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show 'em!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cde0"
@@ -105,8 +105,8 @@
    "off": 1728,
    "len": 12,
    "jp": "よっしゃ～",
-   "en": "",
-   "status": "todo",
+   "en": "All riiight!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cddc"
@@ -117,8 +117,8 @@
    "off": 1740,
    "len": 20,
    "jp": "がんばります！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdd8"
@@ -129,8 +129,8 @@
    "off": 1760,
    "len": 16,
    "jp": "いっきま～す",
-   "en": "",
-   "status": "todo",
+   "en": "Here I gooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdd4"
@@ -141,8 +141,8 @@
    "off": 1776,
    "len": 24,
    "jp": "みんな、気をつけてね",
-   "en": "",
-   "status": "todo",
+   "en": "Everyone, be careful, okay?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdd0"
@@ -153,8 +153,8 @@
    "off": 1800,
    "len": 32,
    "jp": "死なない程度にがんばろ～っと",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best, just short of dyin'.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdcc"
@@ -165,8 +165,8 @@
    "off": 1832,
    "len": 24,
    "jp": "まぁ、なんとかなるさ",
-   "en": "",
-   "status": "todo",
+   "en": "Eh, it'll work out.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdc8"
@@ -177,8 +177,8 @@
    "off": 1856,
    "len": 16,
    "jp": "体弱いのにー",
-   "en": "",
-   "status": "todo",
+   "en": "But I'm so siiickly!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdc4"
@@ -189,8 +189,8 @@
    "off": 1872,
    "len": 32,
    "jp": "わっはっは～、冗談きついぜ！！",
-   "en": "",
-   "status": "todo",
+   "en": "Wa-ha-haaa, you gotta be kiddin' me!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdc0"
@@ -201,8 +201,8 @@
    "off": 1904,
    "len": 16,
    "jp": "めんどくせー",
-   "en": "",
-   "status": "todo",
+   "en": "What a draaag.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdbc"
@@ -213,8 +213,8 @@
    "off": 1920,
    "len": 16,
    "jp": "聞いてないよー",
-   "en": "",
-   "status": "todo",
+   "en": "Nobody told meee!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdb8"
@@ -225,8 +225,8 @@
    "off": 1936,
    "len": 28,
    "jp": "ええっ！！ついてないよ～",
-   "en": "",
-   "status": "todo",
+   "en": "Whaat!! Just my luuuck!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cdb4"
@@ -237,8 +237,8 @@
    "off": 2044,
    "len": 20,
    "jp": "やってやるでちゅー",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show 'em, chuuu!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cff8"
@@ -249,8 +249,8 @@
    "off": 2064,
    "len": 20,
    "jp": "やってやるでちゅー",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show 'em, chuuu!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cff4"
@@ -261,8 +261,8 @@
    "off": 2084,
    "len": 36,
    "jp": "好き勝手には、やらせんでちゅ！！",
-   "en": "",
-   "status": "todo",
+   "en": "I won't let you run wild, chu!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cff0"
@@ -273,8 +273,8 @@
    "off": 2120,
    "len": 20,
    "jp": "がんばります！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfec"
@@ -285,8 +285,8 @@
    "off": 2140,
    "len": 20,
    "jp": "ついてないでちゅ～",
-   "en": "",
-   "status": "todo",
+   "en": "Just my luck, chuuu!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfe8"
@@ -297,8 +297,8 @@
    "off": 2160,
    "len": 28,
    "jp": "一気にけちらしちゃいますよ",
-   "en": "",
-   "status": "todo",
+   "en": "I'll blow them away in one go, sir.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfe4"
@@ -309,8 +309,8 @@
    "off": 2188,
    "len": 32,
    "jp": "派手にでむかえてやろうぜ！！",
-   "en": "",
-   "status": "todo",
+   "en": "Let's give 'em a big, flashy welcome!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfe0"
@@ -321,8 +321,8 @@
    "off": 2220,
    "len": 24,
    "jp": "やつら、ゆるさん！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll never forgive those guys!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfdc"
@@ -333,8 +333,8 @@
    "off": 2244,
    "len": 28,
    "jp": "もっと強いやつと戦いたい",
-   "en": "",
-   "status": "todo",
+   "en": "I wanna fight somebody stronger.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfd8"
@@ -345,8 +345,8 @@
    "off": 2272,
    "len": 20,
    "jp": "やってやるでちゅー",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show 'em, chuuu!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfd4"
@@ -357,8 +357,8 @@
    "off": 2292,
    "len": 12,
    "jp": "よっしゃ～",
-   "en": "",
-   "status": "todo",
+   "en": "All riiight!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfd0"
@@ -369,8 +369,8 @@
    "off": 2304,
    "len": 20,
    "jp": "がんばります！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfcc"
@@ -381,8 +381,8 @@
    "off": 2324,
    "len": 20,
    "jp": "いっきま～ちゅ！！",
-   "en": "",
-   "status": "todo",
+   "en": "Here I go-chuuu!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfc8"
@@ -393,8 +393,8 @@
    "off": 2344,
    "len": 24,
    "jp": "みんな、気をつけてね",
-   "en": "",
-   "status": "todo",
+   "en": "Everyone, be careful, okay?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfc4"
@@ -405,8 +405,8 @@
    "off": 2368,
    "len": 32,
    "jp": "死なない程度にがんばろ～っと",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best, just short of dyin'.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfc0"
@@ -417,8 +417,8 @@
    "off": 2400,
    "len": 24,
    "jp": "まぁ、なんとかなるさ",
-   "en": "",
-   "status": "todo",
+   "en": "Eh, it'll work out.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfbc"
@@ -429,8 +429,8 @@
    "off": 2424,
    "len": 16,
    "jp": "体弱いのにー",
-   "en": "",
-   "status": "todo",
+   "en": "But I'm so siiickly!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfb8"
@@ -441,8 +441,8 @@
    "off": 2440,
    "len": 16,
    "jp": "めんどくせー",
-   "en": "",
-   "status": "todo",
+   "en": "What a draaag.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfb4"
@@ -453,8 +453,8 @@
    "off": 2456,
    "len": 20,
    "jp": "聞いてないでちゅー",
-   "en": "",
-   "status": "todo",
+   "en": "Nobody told me, chuuu!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfb0"
@@ -465,8 +465,8 @@
    "off": 2476,
    "len": 32,
    "jp": "出撃させるなら金をくれっちゅ～",
-   "en": "",
-   "status": "todo",
+   "en": "If you want me out there, pay up, chuuu!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015cfac"
@@ -477,8 +477,8 @@
    "off": 2588,
    "len": 28,
    "jp": "天に代わっておしおきよ！",
-   "en": "",
-   "status": "todo",
+   "en": "In heaven's name, I'll punish you!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d218"
@@ -489,8 +489,8 @@
    "off": 2616,
    "len": 20,
    "jp": "がんばります！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d214"
@@ -501,8 +501,8 @@
    "off": 2636,
    "len": 16,
    "jp": "いっきま～す",
-   "en": "",
-   "status": "todo",
+   "en": "Here I gooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d210"
@@ -513,8 +513,8 @@
    "off": 2652,
    "len": 32,
    "jp": "好き勝手には、やらせないわ！！",
-   "en": "",
-   "status": "todo",
+   "en": "I won't let you run wild, you know!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d20c"
@@ -525,8 +525,8 @@
    "off": 2684,
    "len": 28,
    "jp": "一気にけちらしちゃいますよ",
-   "en": "",
-   "status": "todo",
+   "en": "I'll blow them away in one go, dear.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d208"
@@ -537,8 +537,8 @@
    "off": 2712,
    "len": 20,
    "jp": "やってやるわ！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show them, dear!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d204"
@@ -549,8 +549,8 @@
    "off": 2732,
    "len": 28,
    "jp": "よぉ～し、覚悟しなさい！！",
-   "en": "",
-   "status": "todo",
+   "en": "Riiight, prepare yourselves!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d200"
@@ -561,8 +561,8 @@
    "off": 2760,
    "len": 32,
    "jp": "派手にでむかえてあげるわ！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll give you a big, flashy welcome, dear!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d1fc"
@@ -573,8 +573,8 @@
    "off": 2792,
    "len": 24,
    "jp": "やつら、ゆるさない！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll never forgive them!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d1f8"
@@ -585,8 +585,8 @@
    "off": 2816,
    "len": 32,
    "jp": "うっふ～ん、いっちゃうわよ～",
-   "en": "",
-   "status": "todo",
+   "en": "Oooh, here I cooome!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d1f4"
@@ -597,8 +597,8 @@
    "off": 2848,
    "len": 20,
    "jp": "がんばります！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d1f0"
@@ -609,8 +609,8 @@
    "off": 2868,
    "len": 16,
    "jp": "いっきま～す",
-   "en": "",
-   "status": "todo",
+   "en": "Here I gooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d1ec"
@@ -621,8 +621,8 @@
    "off": 2884,
    "len": 28,
    "jp": "もっと強いやつと戦いたい",
-   "en": "",
-   "status": "todo",
+   "en": "I want to fight somebody stronger.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d1e8"
@@ -633,8 +633,8 @@
    "off": 2912,
    "len": 24,
    "jp": "みんな、気をつけてね",
-   "en": "",
-   "status": "todo",
+   "en": "Everyone, be careful, okay?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d1e4"
@@ -645,8 +645,8 @@
    "off": 2936,
    "len": 32,
    "jp": "死なない程度にがんばろ～っと",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best, just short of dying, dear.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d1e0"
@@ -657,8 +657,8 @@
    "off": 2968,
    "len": 28,
    "jp": "まぁ、なんとかなるかしら",
-   "en": "",
-   "status": "todo",
+   "en": "Well, I suppose it'll work out.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d1dc"
@@ -669,8 +669,8 @@
    "off": 2996,
    "len": 16,
    "jp": "体弱いのにー",
-   "en": "",
-   "status": "todo",
+   "en": "But I'm so siiickly!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d1d8"
@@ -681,8 +681,8 @@
    "off": 3012,
    "len": 16,
    "jp": "めんどくさ～",
-   "en": "",
-   "status": "todo",
+   "en": "What a draaag.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d1d4"
@@ -693,8 +693,8 @@
    "off": 3028,
    "len": 20,
    "jp": "聞いてないわよ～",
-   "en": "",
-   "status": "todo",
+   "en": "Nobody told me, you knooow!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d1d0"
@@ -705,8 +705,8 @@
    "off": 3048,
    "len": 16,
    "jp": "ついてないわ～",
-   "en": "",
-   "status": "todo",
+   "en": "Just my luuuck, dear!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d1cc"
@@ -717,8 +717,8 @@
    "off": 3144,
    "len": 24,
    "jp": "ιτθρλαλβλτι",
-   "en": "",
-   "status": "todo",
+   "en": "ιτθρλαλβλτι",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d444"
@@ -729,8 +729,8 @@
    "off": 3168,
    "len": 24,
    "jp": "λτιρλαβθλτι",
-   "en": "",
-   "status": "todo",
+   "en": "λτιρλαβθλτι",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d440"
@@ -741,8 +741,8 @@
    "off": 3192,
    "len": 32,
    "jp": "ζθελτιμδλβνλγσμ",
-   "en": "",
-   "status": "todo",
+   "en": "ζθελτιμδλβνλγσ μ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d43c"
@@ -753,8 +753,8 @@
    "off": 3224,
    "len": 32,
    "jp": "μζβνλγθελτιμδλσ",
-   "en": "",
-   "status": "todo",
+   "en": "μζβνλγθελτιμδλ σ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d438"
@@ -765,8 +765,8 @@
    "off": 3256,
    "len": 28,
    "jp": "νλγσμζθετιμδ",
-   "en": "",
-   "status": "todo",
+   "en": "νλγσμζθετιμδ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d434"
@@ -777,8 +777,8 @@
    "off": 3284,
    "len": 24,
    "jp": "σμζβθετιμδ",
-   "en": "",
-   "status": "todo",
+   "en": "σμζβθετιμδ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d430"
@@ -789,8 +789,8 @@
    "off": 3308,
    "len": 24,
    "jp": "μζολγκτβιρρ",
-   "en": "",
-   "status": "todo",
+   "en": "μζολγκτβιρρ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d42c"
@@ -801,8 +801,8 @@
    "off": 3332,
    "len": 24,
    "jp": "ρλανξοσγθπ",
-   "en": "",
-   "status": "todo",
+   "en": "ρλανξοσγθπ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d428"
@@ -813,8 +813,8 @@
    "off": 3356,
    "len": 20,
    "jp": "ξαδζθετρ",
-   "en": "",
-   "status": "todo",
+   "en": "ξαδζθετρ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d424"
@@ -825,8 +825,8 @@
    "off": 3376,
    "len": 24,
    "jp": "νγμζβθελιμδ",
-   "en": "",
-   "status": "todo",
+   "en": "νγμζβθελιμδ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d420"
@@ -837,8 +837,8 @@
    "off": 3400,
    "len": 32,
    "jp": "νλγσμζβθελτιμδ",
-   "en": "",
-   "status": "todo",
+   "en": "νλγσμζβθελτιμδ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d41c"
@@ -849,8 +849,8 @@
    "off": 3432,
    "len": 28,
    "jp": "μζξολαγκτβιρρ",
-   "en": "",
-   "status": "todo",
+   "en": "μζξολαγκτβιρρ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d418"
@@ -861,8 +861,8 @@
    "off": 3460,
    "len": 28,
    "jp": "ρρλανξοσγθπρρ",
-   "en": "",
-   "status": "todo",
+   "en": "ρρλανξοσγθπρρ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d414"
@@ -873,8 +873,8 @@
    "off": 3488,
    "len": 24,
    "jp": "ατεζθνμοπλκ",
-   "en": "",
-   "status": "todo",
+   "en": "ατεζθνμοπλκ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d410"
@@ -885,8 +885,8 @@
    "off": 3512,
    "len": 20,
    "jp": "ρρβμξαρρ",
-   "en": "",
-   "status": "todo",
+   "en": "ρρβμξαρρ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d40c"
@@ -897,8 +897,8 @@
    "off": 3532,
    "len": 16,
    "jp": "θαβγθιη",
-   "en": "",
-   "status": "todo",
+   "en": "θαβγθιη",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d408"
@@ -909,8 +909,8 @@
    "off": 3548,
    "len": 32,
    "jp": "ρρμζξολαγκτβιρ",
-   "en": "",
-   "status": "todo",
+   "en": "ρρμζξολαγκτβιρ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d404"
@@ -921,8 +921,8 @@
    "off": 3580,
    "len": 28,
    "jp": "ρρλανξοσγθπρρ",
-   "en": "",
-   "status": "todo",
+   "en": "ρρλανξοσγθπρρ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d400"
@@ -933,8 +933,8 @@
    "off": 3608,
    "len": 24,
    "jp": "κξαδμζθετρρ",
-   "en": "",
-   "status": "todo",
+   "en": "κξαδμζθετρρ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d3fc"
@@ -945,8 +945,8 @@
    "off": 3632,
    "len": 32,
    "jp": "νλγσμζβθελτιμδ",
-   "en": "",
-   "status": "todo",
+   "en": "νλγσμζβθελτιμδ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d3f8"
@@ -957,8 +957,8 @@
    "off": 3744,
    "len": 24,
    "jp": "みんな、気をつけるモ～",
-   "en": "",
-   "status": "todo",
+   "en": "Everyone, be careful, mooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d69c"
@@ -969,8 +969,8 @@
    "off": 3768,
    "len": 24,
    "jp": "みんな、気をつけるモ～",
-   "en": "",
-   "status": "todo",
+   "en": "Everyone, be careful, mooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d698"
@@ -981,8 +981,8 @@
    "off": 3792,
    "len": 16,
    "jp": "やってやるモ～",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show 'em, mooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d694"
@@ -993,8 +993,8 @@
    "off": 3808,
    "len": 32,
    "jp": "好き勝手には、やらせない！！",
-   "en": "",
-   "status": "todo",
+   "en": "I won't let you run wild!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d690"
@@ -1005,8 +1005,8 @@
    "off": 3840,
    "len": 28,
    "jp": "一気にけちらしちゃうモ～",
-   "en": "",
-   "status": "todo",
+   "en": "I'll blow 'em away in one go, mooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d68c"
@@ -1017,8 +1017,8 @@
    "off": 3868,
    "len": 16,
    "jp": "やってやるモ～",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show 'em, mooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d688"
@@ -1029,8 +1029,8 @@
    "off": 3884,
    "len": 12,
    "jp": "よっしゃ～",
-   "en": "",
-   "status": "todo",
+   "en": "All riiight!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d684"
@@ -1041,8 +1041,8 @@
    "off": 3896,
    "len": 32,
    "jp": "派手にでむかえてやるモ～！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll give 'em a flashy welcome, mooo!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d680"
@@ -1053,8 +1053,8 @@
    "off": 3928,
    "len": 28,
    "jp": "やつら、ゆるさんモ～！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll never forgive those guys, mooo!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d67c"
@@ -1065,8 +1065,8 @@
    "off": 3956,
    "len": 32,
    "jp": "もっと強いやつと戦いたいモ～",
-   "en": "",
-   "status": "todo",
+   "en": "I wanna fight somebody stronger, mooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d678"
@@ -1077,8 +1077,8 @@
    "off": 3988,
    "len": 20,
    "jp": "がんばるモ～！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best, mooo!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d674"
@@ -1089,8 +1089,8 @@
    "off": 4008,
    "len": 16,
    "jp": "いっきま～す",
-   "en": "",
-   "status": "todo",
+   "en": "Here I gooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d670"
@@ -1101,8 +1101,8 @@
    "off": 4024,
    "len": 24,
    "jp": "みんな、気をつけるモ～",
-   "en": "",
-   "status": "todo",
+   "en": "Everyone, be careful, mooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d66c"
@@ -1113,8 +1113,8 @@
    "off": 4048,
    "len": 32,
    "jp": "死なない程度にがんばるっす！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best, short of dyin', boss!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d668"
@@ -1125,8 +1125,8 @@
    "off": 4080,
    "len": 24,
    "jp": "まぁ、なんとかなるだろ",
-   "en": "",
-   "status": "todo",
+   "en": "Eh, it'll work out, probably.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d664"
@@ -1137,8 +1137,8 @@
    "off": 4104,
    "len": 16,
    "jp": "体弱いのにー",
-   "en": "",
-   "status": "todo",
+   "en": "But I'm so siiickly!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d660"
@@ -1149,8 +1149,8 @@
    "off": 4120,
    "len": 16,
    "jp": "聞いてない！！",
-   "en": "",
-   "status": "todo",
+   "en": "Nobody told me!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d65c"
@@ -1161,8 +1161,8 @@
    "off": 4136,
    "len": 20,
    "jp": "めんどくさいモ～",
-   "en": "",
-   "status": "todo",
+   "en": "What a drag, mooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d658"
@@ -1173,8 +1173,8 @@
    "off": 4156,
    "len": 16,
    "jp": "ついてないモ～",
-   "en": "",
-   "status": "todo",
+   "en": "Just my luck, mooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d654"
@@ -1185,8 +1185,8 @@
    "off": 4172,
    "len": 16,
    "jp": "モ、モアイ？",
-   "en": "",
-   "status": "todo",
+   "en": "M-Moai?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d650"
@@ -1197,8 +1197,8 @@
    "off": 4272,
    "len": 16,
    "jp": "シンはどこだ？",
-   "en": "",
-   "status": "todo",
+   "en": "Where is Shin?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d8ac"
@@ -1209,8 +1209,8 @@
    "off": 4288,
    "len": 48,
    "jp": "どんな相手でもいい！どの団体でも上がるワン！",
-   "en": "",
-   "status": "todo",
+   "en": "Any opponent will do! I'll step into any promotion's ring, woof!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d8a8"
@@ -1221,8 +1221,8 @@
    "off": 4336,
    "len": 20,
    "jp": "がんばるワン！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best, woof!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d8a4"
@@ -1233,8 +1233,8 @@
    "off": 4356,
    "len": 20,
    "jp": "がんばるワン！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best, woof!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d8a0"
@@ -1245,8 +1245,8 @@
    "off": 4376,
    "len": 36,
    "jp": "好き勝手には、やらせないワン！！",
-   "en": "",
-   "status": "todo",
+   "en": "I won't let you run wild, woof!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d89c"
@@ -1257,8 +1257,8 @@
    "off": 4412,
    "len": 28,
    "jp": "一気にけちらしちゃうワン",
-   "en": "",
-   "status": "todo",
+   "en": "I'll blow 'em away in one go, woof.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d898"
@@ -1269,8 +1269,8 @@
    "off": 4440,
    "len": 16,
    "jp": "やってやるワン",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show 'em, woof.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d894"
@@ -1281,8 +1281,8 @@
    "off": 4456,
    "len": 12,
    "jp": "よっしゃ～",
-   "en": "",
-   "status": "todo",
+   "en": "All riiight!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d890"
@@ -1293,8 +1293,8 @@
    "off": 4468,
    "len": 32,
    "jp": "派手にでむかえてやるワン！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll give 'em a flashy welcome, woof!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d88c"
@@ -1305,8 +1305,8 @@
    "off": 4500,
    "len": 28,
    "jp": "やつら、ゆるさんワン！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll never forgive those guys, woof!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d888"
@@ -1317,8 +1317,8 @@
    "off": 4528,
    "len": 32,
    "jp": "もっと強いやつと戦いたいワン",
-   "en": "",
-   "status": "todo",
+   "en": "I want to fight somebody stronger, woof.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d884"
@@ -1329,8 +1329,8 @@
    "off": 4560,
    "len": 20,
    "jp": "がんばるワン！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best, woof!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d880"
@@ -1341,8 +1341,8 @@
    "off": 4580,
    "len": 20,
    "jp": "いっきま～すワン",
-   "en": "",
-   "status": "todo",
+   "en": "Here I gooo, woof!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d87c"
@@ -1353,8 +1353,8 @@
    "off": 4600,
    "len": 24,
    "jp": "みんな、気をつけるワン",
-   "en": "",
-   "status": "todo",
+   "en": "Everyone, be careful, woof.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d878"
@@ -1365,8 +1365,8 @@
    "off": 4624,
    "len": 28,
    "jp": "死なない程度にがんばるワン",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best, short of dying, woof.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d874"
@@ -1377,8 +1377,8 @@
    "off": 4652,
    "len": 24,
    "jp": "まぁ、なんとかなるワン",
-   "en": "",
-   "status": "todo",
+   "en": "Eh, it'll work out, woof.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d870"
@@ -1389,8 +1389,8 @@
    "off": 4676,
    "len": 16,
    "jp": "体弱いのにー",
-   "en": "",
-   "status": "todo",
+   "en": "But I'm so siiickly!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d86c"
@@ -1401,8 +1401,8 @@
    "off": 4692,
    "len": 20,
    "jp": "聞いてないワン！！",
-   "en": "",
-   "status": "todo",
+   "en": "Nobody told me, woof!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d868"
@@ -1413,8 +1413,8 @@
    "off": 4712,
    "len": 32,
    "jp": "出撃させるなら金をくれワン！",
-   "en": "",
-   "status": "todo",
+   "en": "If you want me out there, pay up, woof!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d864"
@@ -1425,8 +1425,8 @@
    "off": 4744,
    "len": 20,
    "jp": "めんどくさいワン",
-   "en": "",
-   "status": "todo",
+   "en": "What a drag, woof.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d860"
@@ -1437,8 +1437,8 @@
    "off": 4764,
    "len": 16,
    "jp": "ついてないワン",
-   "en": "",
-   "status": "todo",
+   "en": "Just my luck, woof.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015d85c"
@@ -1449,8 +1449,8 @@
    "off": 4860,
    "len": 28,
    "jp": "てめ～らシンだりｨ～や～！",
-   "en": "",
-   "status": "todo",
+   "en": "Drop deaaad, the lot of ya!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015daf8"
@@ -1461,8 +1461,8 @@
    "off": 4888,
    "len": 24,
    "jp": "おろかなやつらニャン！",
-   "en": "",
-   "status": "todo",
+   "en": "What foolish creatures, nyan!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015daf4"
@@ -1473,8 +1473,8 @@
    "off": 4912,
    "len": 28,
    "jp": "血まつりにあげたるニャン",
-   "en": "",
-   "status": "todo",
+   "en": "I'll offer you up at a festival of blood, nyan.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015daf0"
@@ -1485,8 +1485,8 @@
    "off": 4940,
    "len": 36,
    "jp": "カクの違いをみせちゃるニャン！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show you we're in different leagues, nyan!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015daec"
@@ -1497,8 +1497,8 @@
    "off": 4976,
    "len": 28,
    "jp": "血まつりにあげたるニャン",
-   "en": "",
-   "status": "todo",
+   "en": "I'll offer you up at a festival of blood, nyan.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dae8"
@@ -1509,8 +1509,8 @@
    "off": 5004,
    "len": 28,
    "jp": "一気にけちらしちゃうニャン",
-   "en": "",
-   "status": "todo",
+   "en": "I'll blow 'em away in one go, nyan.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dae4"
@@ -1521,8 +1521,8 @@
    "off": 5032,
    "len": 32,
    "jp": "派手にでむかえてやるニャン！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll give 'em a flashy welcome, nyan!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dae0"
@@ -1533,8 +1533,8 @@
    "off": 5064,
    "len": 32,
    "jp": "おめ～ら、ゆるさんニャン！！",
-   "en": "",
-   "status": "todo",
+   "en": "You lot, I'll never forgive ya, nyan!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dadc"
@@ -1545,8 +1545,8 @@
    "off": 5096,
    "len": 48,
    "jp": "ニャー帝国に逆らうなんて百万年早いニャン！！",
-   "en": "",
-   "status": "todo",
+   "en": "Defy the Nya Empire? A million years too soon, nyan!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dad8"
@@ -1557,8 +1557,8 @@
    "off": 5144,
    "len": 36,
    "jp": "カクの違いをみせちゃるニャン！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show you we're in different leagues, nyan!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dad4"
@@ -1569,8 +1569,8 @@
    "off": 5180,
    "len": 28,
    "jp": "てめ～らシンだりｨ～や～！",
-   "en": "",
-   "status": "todo",
+   "en": "Drop deaaad, the lot of ya!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dad0"
@@ -1581,8 +1581,8 @@
    "off": 5208,
    "len": 28,
    "jp": "かわいがってやるニャン！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll give you some tender lovin', nyan!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dacc"
@@ -1593,8 +1593,8 @@
    "off": 5236,
    "len": 12,
    "jp": "よっしゃ～",
-   "en": "",
-   "status": "todo",
+   "en": "All riiight!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dac8"
@@ -1605,8 +1605,8 @@
    "off": 5248,
    "len": 32,
    "jp": "あやまっても、もうおそいニャン",
-   "en": "",
-   "status": "todo",
+   "en": "Too late to say sorry now, nyan.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dac4"
@@ -1617,8 +1617,8 @@
    "off": 5280,
    "len": 20,
    "jp": "がんばるニャン！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best, nyan!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dac0"
@@ -1629,8 +1629,8 @@
    "off": 5300,
    "len": 20,
    "jp": "やってやるニャン",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show 'em, nyan.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dabc"
@@ -1641,8 +1641,8 @@
    "off": 5320,
    "len": 24,
    "jp": "おろかなやつらニャン！",
-   "en": "",
-   "status": "todo",
+   "en": "What foolish creatures, nyan!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dab8"
@@ -1653,8 +1653,8 @@
    "off": 5344,
    "len": 32,
    "jp": "遊びあいてになってやるニャン",
-   "en": "",
-   "status": "todo",
+   "en": "I'll be your playmate, nyan.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dab4"
@@ -1665,8 +1665,8 @@
    "off": 5376,
    "len": 20,
    "jp": "ついてないニャン",
-   "en": "",
-   "status": "todo",
+   "en": "Just my luck, nyan.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dab0"
@@ -1677,8 +1677,8 @@
    "off": 5396,
    "len": 20,
    "jp": "めんどくさいニャン",
-   "en": "",
-   "status": "todo",
+   "en": "What a drag, nyan.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015daac"
@@ -1689,8 +1689,8 @@
    "off": 5496,
    "len": 40,
    "jp": "好き勝手には、やらせませんでちゅ！！",
-   "en": "",
-   "status": "todo",
+   "en": "I will not let you run wild, chu!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd74"
@@ -1701,8 +1701,8 @@
    "off": 5536,
    "len": 20,
    "jp": "やってやるでちゅー",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show 'em, chuuu!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd70"
@@ -1713,8 +1713,8 @@
    "off": 5556,
    "len": 20,
    "jp": "やってやるでちゅー",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show 'em, chuuu!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd6c"
@@ -1725,8 +1725,8 @@
    "off": 5576,
    "len": 40,
    "jp": "好き勝手には、やらせませんでちゅ！！",
-   "en": "",
-   "status": "todo",
+   "en": "I will not let you run wild, chu!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd68"
@@ -1737,8 +1737,8 @@
    "off": 5616,
    "len": 20,
    "jp": "がんばります！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd64"
@@ -1749,8 +1749,8 @@
    "off": 5636,
    "len": 20,
    "jp": "ついてないでちゅ～",
-   "en": "",
-   "status": "todo",
+   "en": "Just my luck, chuuu!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd60"
@@ -1761,8 +1761,8 @@
    "off": 5656,
    "len": 28,
    "jp": "一気にけちらしちゃいますよ",
-   "en": "",
-   "status": "todo",
+   "en": "I'll blow them away in one go, sir.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd5c"
@@ -1773,8 +1773,8 @@
    "off": 5684,
    "len": 32,
    "jp": "派手にでむかえてやるでちゅ！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll give 'em a flashy welcome, chu!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd58"
@@ -1785,8 +1785,8 @@
    "off": 5716,
    "len": 32,
    "jp": "やつら、ゆるしませんでちゅ！！",
-   "en": "",
-   "status": "todo",
+   "en": "I will never forgive them, chu!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd54"
@@ -1797,8 +1797,8 @@
    "off": 5748,
    "len": 32,
    "jp": "もっと強いやつと戦いたいでちゅ",
-   "en": "",
-   "status": "todo",
+   "en": "I want to fight somebody stronger, chu.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd50"
@@ -1809,8 +1809,8 @@
    "off": 5780,
    "len": 20,
    "jp": "やってやるでちゅー",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show 'em, chuuu!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd4c"
@@ -1821,8 +1821,8 @@
    "off": 5800,
    "len": 20,
    "jp": "がんばります！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd48"
@@ -1833,8 +1833,8 @@
    "off": 5820,
    "len": 20,
    "jp": "いっきま～ちゅ！！",
-   "en": "",
-   "status": "todo",
+   "en": "Here I go-chuuu!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd44"
@@ -1845,8 +1845,8 @@
    "off": 5840,
    "len": 24,
    "jp": "みんな、気をつけてね",
-   "en": "",
-   "status": "todo",
+   "en": "Everyone, be careful, okay?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd40"
@@ -1857,8 +1857,8 @@
    "off": 5864,
    "len": 32,
    "jp": "死なない程度にがんばろ～っと",
-   "en": "",
-   "status": "todo",
+   "en": "I'll do my best, just short of dying.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd3c"
@@ -1869,8 +1869,8 @@
    "off": 5896,
    "len": 24,
    "jp": "まぁ、なんとかなるわ",
-   "en": "",
-   "status": "todo",
+   "en": "Well, it'll work out, you know.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd38"
@@ -1881,8 +1881,8 @@
    "off": 5920,
    "len": 16,
    "jp": "体弱いのにー",
-   "en": "",
-   "status": "todo",
+   "en": "But I'm so siiickly!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd34"
@@ -1893,8 +1893,8 @@
    "off": 5936,
    "len": 24,
    "jp": "めんどくさいでちゅ～",
-   "en": "",
-   "status": "todo",
+   "en": "What a drag, chuuu!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd30"
@@ -1905,8 +1905,8 @@
    "off": 5960,
    "len": 24,
    "jp": "聞いてないでちゅー！！",
-   "en": "",
-   "status": "todo",
+   "en": "Nobody told me, chuuu!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd2c"
@@ -1917,8 +1917,8 @@
    "off": 5984,
    "len": 20,
    "jp": "うっちゅっちゅ～",
-   "en": "",
-   "status": "todo",
+   "en": "Uchu-chuuu!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCS_OV:w8015dd28"

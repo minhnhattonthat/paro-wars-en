@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３（占領できます）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3 (can capture)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "攻撃力がある占領可能な戦車。ネコ系戦車の特徴である",
-   "en": "",
-   "status": "todo",
+   "en": "A tank that can attack and capture. Cat tanks'",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "速くて、とっても打たれ弱い特徴はニャンニャンＮ１で",
-   "en": "",
-   "status": "todo",
+   "en": "trademark of being fast and very frail lives on in",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "も健在だ！！",
-   "en": "",
-   "status": "todo",
+   "en": "the Nyan-Nyan N1!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "国によっては歩兵戦車を生産できない国もあるので金の",
-   "en": "",
-   "status": "todo",
+   "en": "Some nations can't build infantry tanks and must",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "力で買うしかない。少々お値段は高くても前線での占領",
-   "en": "",
-   "status": "todo",
+   "en": "buy them with cold cash. A little pricey, but a",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "活動には心強い兵器なのだ。",
-   "en": "",
-   "status": "todo",
+   "en": "comfort for capturing at the front.",
+   "status": "done",
    "kind": "text"
   },
   {

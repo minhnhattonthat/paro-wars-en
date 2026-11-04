@@ -9,8 +9,8 @@
    "off": 1288,
    "len": 60,
    "jp": "ガツンといっきま～す",
-   "en": "",
-   "status": "todo",
+   "en": "Here comes a big one, dear!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 1348,
    "len": 60,
    "jp": "よ～しっ戦闘開始っ！",
-   "en": "",
-   "status": "todo",
+   "en": "Okay! Battle start!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 1408,
    "len": 60,
    "jp": "いっくよ～！",
-   "en": "",
-   "status": "todo",
+   "en": "Here we gooo!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 1468,
    "len": 60,
    "jp": "あっれ～　これって違～う！",
-   "en": "",
-   "status": "todo",
+   "en": "Huh? This isn't it at all!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 1528,
    "len": 60,
    "jp": "貴方達って、戦いの素人ね",
-   "en": "",
-   "status": "todo",
+   "en": "You're amateurs at war, you know.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 1588,
    "len": 60,
    "jp": "かかってらっしゃい！",
-   "en": "",
-   "status": "todo",
+   "en": "Come at me, dear!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 1648,
    "len": 60,
    "jp": "負けないもん！",
-   "en": "",
-   "status": "todo",
+   "en": "I won't lose, you know!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1708,
    "len": 60,
    "jp": "貴方達ってレディに失礼ね",
-   "en": "",
-   "status": "todo",
+   "en": "You're so rude to a lady, you know.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1768,
    "len": 60,
    "jp": "いくわよっ！",
-   "en": "",
-   "status": "todo",
+   "en": "Here I go!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1828,
    "len": 60,
    "jp": "わ～い",
-   "en": "",
-   "status": "todo",
+   "en": "Yaaay!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1888,
    "len": 60,
    "jp": "あたって！",
-   "en": "",
-   "status": "todo",
+   "en": "Please hit!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1948,
    "len": 60,
    "jp": "これでも食らいなさい！！",
-   "en": "",
-   "status": "todo",
+   "en": "Eat this, why don't you!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 2008,
    "len": 60,
    "jp": "うーやーたー！",
-   "en": "",
-   "status": "todo",
+   "en": "Uuu-yaaa-taaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 2068,
    "len": 60,
    "jp": "これで終わりよ！",
-   "en": "",
-   "status": "todo",
+   "en": "This ends it!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 2128,
    "len": 60,
    "jp": "あちょー！",
-   "en": "",
-   "status": "todo",
+   "en": "Ah-tchaaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -144,8 +144,8 @@
    "off": 2188,
    "len": 60,
    "jp": "おらおらおらおらーっ！",
-   "en": "",
-   "status": "todo",
+   "en": "Oraoraoraora!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -153,8 +153,8 @@
    "off": 2248,
    "len": 60,
    "jp": "あたたたたたたたたーっ！",
-   "en": "",
-   "status": "todo",
+   "en": "Atatatatatatatatah!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -162,8 +162,8 @@
    "off": 2308,
    "len": 60,
    "jp": "いくわよぉ　そ～れっ！",
-   "en": "",
-   "status": "todo",
+   "en": "Here I come! Hup!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -171,8 +171,8 @@
    "off": 2368,
    "len": 60,
    "jp": "君は生き残る事ができるかな？",
-   "en": "",
-   "status": "todo",
+   "en": "Can YOU survive, hmm?",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -180,8 +180,8 @@
    "off": 2428,
    "len": 60,
    "jp": "おりゃー！",
-   "en": "",
-   "status": "todo",
+   "en": "Oryaaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -189,8 +189,8 @@
    "off": 2488,
    "len": 60,
    "jp": "うりゃー！",
-   "en": "",
-   "status": "todo",
+   "en": "Uryaaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -198,8 +198,8 @@
    "off": 2548,
    "len": 60,
    "jp": "どりゃー！",
-   "en": "",
-   "status": "todo",
+   "en": "Doryaaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -207,8 +207,8 @@
    "off": 2608,
    "len": 60,
    "jp": "もらったー！",
-   "en": "",
-   "status": "todo",
+   "en": "Got you!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -216,8 +216,8 @@
    "off": 2668,
    "len": 60,
    "jp": "エコエコアザラクー",
-   "en": "",
-   "status": "todo",
+   "en": "Eko Eko Azarak!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -225,8 +225,8 @@
    "off": 2728,
    "len": 60,
    "jp": "おかみにたてつくたわけものはこうしてやるぅ！",
-   "en": "",
-   "status": "todo",
+   "en": "Defy the state, you fool? Take thiiis!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -234,8 +234,8 @@
    "off": 2788,
    "len": 60,
    "jp": "あたれー！",
-   "en": "",
-   "status": "todo",
+   "en": "Hit 'em!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -243,8 +243,8 @@
    "off": 2848,
    "len": 60,
    "jp": "甘いわ",
-   "en": "",
-   "status": "todo",
+   "en": "Too soft, silly.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -252,8 +252,8 @@
    "off": 2908,
    "len": 60,
    "jp": "暴力反対っ！",
-   "en": "",
-   "status": "todo",
+   "en": "Say no to violence!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -261,8 +261,8 @@
    "off": 2968,
    "len": 60,
    "jp": "あ～んっ",
-   "en": "",
-   "status": "todo",
+   "en": "Aaahn!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -270,8 +270,8 @@
    "off": 3028,
    "len": 60,
    "jp": "このマシン手入れが悪いのよ～",
-   "en": "",
-   "status": "todo",
+   "en": "This machine's poorly maintained, you know!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -279,8 +279,8 @@
    "off": 3088,
    "len": 60,
    "jp": "ひでぶー",
-   "en": "",
-   "status": "todo",
+   "en": "Hidebu!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -288,8 +288,8 @@
    "off": 3148,
    "len": 60,
    "jp": "やったわねー、パパにも殴られた事ないのにぃー",
-   "en": "",
-   "status": "todo",
+   "en": "You hit me! Not even my papa ever hit me!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -297,8 +297,8 @@
    "off": 3208,
    "len": 60,
    "jp": "なにすんのよー",
-   "en": "",
-   "status": "todo",
+   "en": "What's the big idea!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -306,8 +306,8 @@
    "off": 3268,
    "len": 60,
    "jp": "バッキャロー！あぶねーじゃ{br}ねーかー",
-   "en": "",
-   "status": "todo",
+   "en": "You moron! That's dangerous, you know!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -315,8 +315,8 @@
    "off": 3328,
    "len": 60,
    "jp": "よくもやってくれたわね！",
-   "en": "",
-   "status": "todo",
+   "en": "How dare you!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -324,8 +324,8 @@
    "off": 3388,
    "len": 60,
    "jp": "私をだれだと思ってんの！！",
-   "en": "",
-   "status": "todo",
+   "en": "Who do you think I am!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -333,8 +333,8 @@
    "off": 3448,
    "len": 60,
    "jp": "わぁ～お",
-   "en": "",
-   "status": "todo",
+   "en": "Wow!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -342,8 +342,8 @@
    "off": 3508,
    "len": 60,
    "jp": "キャァァー",
-   "en": "",
-   "status": "todo",
+   "en": "Eeeek!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -351,8 +351,8 @@
    "off": 3568,
    "len": 60,
    "jp": "キャイ～ン",
-   "en": "",
-   "status": "todo",
+   "en": "Yipe!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -360,8 +360,8 @@
    "off": 3628,
    "len": 60,
    "jp": "ウキーッ",
-   "en": "",
-   "status": "todo",
+   "en": "Ukkiii!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -369,8 +369,8 @@
    "off": 3688,
    "len": 60,
    "jp": "うわぁ～ん",
-   "en": "",
-   "status": "todo",
+   "en": "Waaahn!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -378,8 +378,8 @@
    "off": 3748,
    "len": 60,
    "jp": "痛いじゃない！！",
-   "en": "",
-   "status": "todo",
+   "en": "That hurts!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -387,8 +387,8 @@
    "off": 3808,
    "len": 60,
    "jp": "ちっ、覚えてなさ～い",
-   "en": "",
-   "status": "todo",
+   "en": "Tch, you'll pay for this!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -396,8 +396,8 @@
    "off": 3868,
    "len": 60,
    "jp": "な、何ですってぇ",
-   "en": "",
-   "status": "todo",
+   "en": "Wh-what did you say!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -405,8 +405,8 @@
    "off": 3928,
    "len": 60,
    "jp": "どこねらってんのよぉ！",
-   "en": "",
-   "status": "todo",
+   "en": "Where are you aiming, silly!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -414,8 +414,8 @@
    "off": 3988,
    "len": 60,
    "jp": "いい根性してるわねっ",
-   "en": "",
-   "status": "todo",
+   "en": "You've got some guts, you know!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -423,8 +423,8 @@
    "off": 4048,
    "len": 60,
    "jp": "甘いわね！！",
-   "en": "",
-   "status": "todo",
+   "en": "Too soft, dear!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -432,8 +432,8 @@
    "off": 4108,
    "len": 60,
    "jp": "この機械いかれてる～ぅ",
-   "en": "",
-   "status": "todo",
+   "en": "This machine's gone craaazy!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -441,8 +441,8 @@
    "off": 4168,
    "len": 60,
    "jp": "あ～っん！　暴走してる～ぅ",
-   "en": "",
-   "status": "todo",
+   "en": "Aaahn! It's going wiiild!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -450,8 +450,8 @@
    "off": 4228,
    "len": 60,
    "jp": "みなさ～ん　私達のためにありがと～　ん～ラブリーっ",
-   "en": "",
-   "status": "todo",
+   "en": "Thanks, everyone, for all you did for us! Mmm, lovely!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -459,8 +459,8 @@
    "off": 4288,
    "len": 60,
    "jp": "これからも私達はがんばりま～すっ！",
-   "en": "",
-   "status": "todo",
+   "en": "We'll keep doing our best!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -468,8 +468,8 @@
    "off": 4348,
    "len": 60,
    "jp": "ばんざ～い！",
-   "en": "",
-   "status": "todo",
+   "en": "Banzaaai!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -477,8 +477,8 @@
    "off": 4408,
    "len": 60,
    "jp": "私達　勝ちましたっ！",
-   "en": "",
-   "status": "todo",
+   "en": "We won!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -486,8 +486,8 @@
    "off": 4468,
    "len": 60,
    "jp": "私達にたてつくなんて１０年早いわ！",
-   "en": "",
-   "status": "todo",
+   "en": "You're 10 years too early to cross us, you know!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -495,8 +495,8 @@
    "off": 4528,
    "len": 60,
    "jp": "ふんっ、手応えのない相手だったわ",
-   "en": "",
-   "status": "todo",
+   "en": "Hmph, no challenge at all.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -504,8 +504,8 @@
    "off": 4588,
    "len": 60,
    "jp": "アッハッハハハハハー",
-   "en": "",
-   "status": "todo",
+   "en": "Ahahahahaha!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -513,8 +513,8 @@
    "off": 4648,
    "len": 60,
    "jp": "まだまだだね",
-   "en": "",
-   "status": "todo",
+   "en": "You're not there yet, dear.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -522,8 +522,8 @@
    "off": 4708,
    "len": 60,
    "jp": "私をとめることはできないわ",
-   "en": "",
-   "status": "todo",
+   "en": "You can't stop me, you know.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -531,8 +531,8 @@
    "off": 4768,
    "len": 60,
    "jp": "とっととお家にお帰り",
-   "en": "",
-   "status": "todo",
+   "en": "Run along home now, dear.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -540,8 +540,8 @@
    "off": 4828,
    "len": 60,
    "jp": "ヤリィー",
-   "en": "",
-   "status": "todo",
+   "en": "Yay!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -549,8 +549,8 @@
    "off": 4888,
    "len": 60,
    "jp": "修行不足よ！",
-   "en": "",
-   "status": "todo",
+   "en": "Train harder, silly!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -558,8 +558,8 @@
    "off": 4948,
    "len": 60,
    "jp": "ヨォ～シ！！",
-   "en": "",
-   "status": "todo",
+   "en": "All right!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -567,8 +567,8 @@
    "off": 5008,
    "len": 60,
    "jp": "ビンゴー",
-   "en": "",
-   "status": "todo",
+   "en": "Bingo!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -576,8 +576,8 @@
    "off": 5068,
    "len": 60,
    "jp": "またいつでも相手してあげるわ",
-   "en": "",
-   "status": "todo",
+   "en": "I'll take you on anytime, dear.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -585,8 +585,8 @@
    "off": 5128,
    "len": 60,
    "jp": "今度は負けないから～！",
-   "en": "",
-   "status": "todo",
+   "en": "I won't lose next time!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -594,8 +594,8 @@
    "off": 5188,
    "len": 60,
    "jp": "覚えてらっしゃいっ！",
-   "en": "",
-   "status": "todo",
+   "en": "You'll remember this, dear!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -603,8 +603,8 @@
    "off": 5248,
    "len": 60,
    "jp": "げきむかつくぅ～",
-   "en": "",
-   "status": "todo",
+   "en": "That's mega-annoyiiing!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -612,8 +612,8 @@
    "off": 5308,
    "len": 60,
    "jp": "ちょべりばー",
-   "en": "",
-   "status": "todo",
+   "en": "Like, so very baaad!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -621,8 +621,8 @@
    "off": 5368,
    "len": 60,
    "jp": "ちょーばっどぉー",
-   "en": "",
-   "status": "todo",
+   "en": "Ultra baaad!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -630,8 +630,8 @@
    "off": 5428,
    "len": 60,
    "jp": "フッ、今日のところはこれぐらいにしといてあげるわ",
-   "en": "",
-   "status": "todo",
+   "en": "Heh, I'll let you off for today, dear.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -639,8 +639,8 @@
    "off": 5488,
    "len": 60,
    "jp": "や、やられちゃったぁ～ん",
-   "en": "",
-   "status": "todo",
+   "en": "Th-they got meee!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -648,8 +648,8 @@
    "off": 5548,
    "len": 60,
    "jp": "やぁだ～、信じらんな～い",
-   "en": "",
-   "status": "todo",
+   "en": "Ew, I can't believe it!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -657,8 +657,8 @@
    "off": 5608,
    "len": 60,
    "jp": "覚えてなさい　この次は勝ってみせるわ",
-   "en": "",
-   "status": "todo",
+   "en": "Remember this, next time I'll win!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -666,8 +666,8 @@
    "off": 5668,
    "len": 60,
    "jp": "さようならぁ～",
-   "en": "",
-   "status": "todo",
+   "en": "Goodbyeee!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -675,8 +675,8 @@
    "off": 5728,
    "len": 60,
    "jp": "うっ、{br}こんな奴に負けるなんて・・・",
-   "en": "",
-   "status": "todo",
+   "en": "Ugh, to lose to someone like this...",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -684,8 +684,8 @@
    "off": 5788,
    "len": 60,
    "jp": "こんな強い奴が、まだいたとは・・・うっ！",
-   "en": "",
-   "status": "todo",
+   "en": "To think someone this strong... Ugh!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -693,8 +693,8 @@
    "off": 5848,
    "len": 60,
    "jp": "フェ～ン、ママにいいつけてやるぅ～",
-   "en": "",
-   "status": "todo",
+   "en": "Waaah, I'm telling my mom!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -702,8 +702,8 @@
    "off": 5908,
    "len": 60,
    "jp": "なにーっ！全滅ぅ！？",
-   "en": "",
-   "status": "todo",
+   "en": "What?! Wiped out?!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -711,8 +711,8 @@
    "off": 5968,
    "len": 60,
    "jp": "キャァァァァァーッ",
-   "en": "",
-   "status": "todo",
+   "en": "Eeeeeeek!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -720,8 +720,8 @@
    "off": 6028,
    "len": 60,
    "jp": "アンビリーバブルー",
-   "en": "",
-   "status": "todo",
+   "en": "Unbeliiievable!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -729,8 +729,8 @@
    "off": 6088,
    "len": 60,
    "jp": "やっだー脱出よ！",
-   "en": "",
-   "status": "todo",
+   "en": "Oh, no! I'm bailing out, dear!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -738,8 +738,8 @@
    "off": 6148,
    "len": 60,
    "jp": "あちゃぁ、私のせーじゃないわ",
-   "en": "",
-   "status": "todo",
+   "en": "Oopsie! That's not my fault, you know!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -747,8 +747,8 @@
    "off": 6208,
    "len": 60,
    "jp": "この私が！？そんなばかなぁ～",
-   "en": "",
-   "status": "todo",
+   "en": "Me?! That's impossiiible!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -756,8 +756,8 @@
    "off": 6268,
    "len": 60,
    "jp": "巨大メカの参上ですっ！",
-   "en": "",
-   "status": "todo",
+   "en": "One giant mecha, at your service!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -765,8 +765,8 @@
    "off": 6328,
    "len": 60,
    "jp": "女性パワー！",
-   "en": "",
-   "status": "todo",
+   "en": "Girl power!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -774,8 +774,8 @@
    "off": 6388,
    "len": 60,
    "jp": "バニーちゃんのおでましよっ！",
-   "en": "",
-   "status": "todo",
+   "en": "Here comes Bunny-chan, dear!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -783,8 +783,8 @@
    "off": 6448,
    "len": 60,
    "jp": "見せちゃうわよ～",
-   "en": "",
-   "status": "todo",
+   "en": "Wanna see? I'll shooow you!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -792,8 +792,8 @@
    "off": 6508,
    "len": 60,
    "jp": "踏みつぶしよ～",
-   "en": "",
-   "status": "todo",
+   "en": "You're getting stooomped, silly!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -801,8 +801,8 @@
    "off": 6568,
    "len": 60,
    "jp": "これできまりねっ",
-   "en": "",
-   "status": "todo",
+   "en": "And that settles it, dear!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -810,8 +810,8 @@
    "off": 6628,
    "len": 60,
    "jp": "私達って　あっぶな～い！",
-   "en": "",
-   "status": "todo",
+   "en": "We're just too daaangerous, you know!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -819,8 +819,8 @@
    "off": 6688,
    "len": 60,
    "jp": "お決まり　お決まりっ！",
-   "en": "",
-   "status": "todo",
+   "en": "Right on cue, right on cue!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -828,8 +828,8 @@
    "off": 6748,
    "len": 60,
    "jp": "お・や・く・そ・く．．．ね？",
-   "en": "",
-   "status": "todo",
+   "en": "Tra-di-tion... right?",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -837,8 +837,8 @@
    "off": 6808,
    "len": 60,
    "jp": "バニーちゃん私の操作ミスでゴメンナサーイ！",
-   "en": "",
-   "status": "todo",
+   "en": "Bunny-chan, I botched the controls! I'm so sooorry!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -846,8 +846,8 @@
    "off": 6868,
    "len": 60,
    "jp": "強力なサービス　してあげるっ",
-   "en": "",
-   "status": "todo",
+   "en": "I'll give you some extra-strength service, dear!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -855,8 +855,8 @@
    "off": 6928,
    "len": 60,
    "jp": "バニィーいっちゃえ～！",
-   "en": "",
-   "status": "todo",
+   "en": "Go get 'em, Bunnyyy!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -864,8 +864,8 @@
    "off": 6988,
    "len": 60,
    "jp": "バニィー・フラーッシュ！",
-   "en": "",
-   "status": "todo",
+   "en": "Bunny Flaaash!",
+   "status": "done",
    "kind": "text"
   }
  ]

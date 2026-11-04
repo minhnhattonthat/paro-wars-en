@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　　強さ５段階評価",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　５（地上攻撃力は弱い）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 5 (weak vs ground)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　４（３．５くらいかな）",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 4 (more like 3.5)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "　ラブリー合衆国空母機動部隊の防空用主力迎撃機。",
-   "en": "",
-   "status": "todo",
+   "en": "Main air defense interceptor of Lovely's carrier",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "攻撃武器として装備されているフェニックスは本格的な",
-   "en": "",
-   "status": "todo",
+   "en": "force. Its Phoenix is a true long-range missile",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "長距離ミサイルで１６０ｋｍ以上先の目標を追尾し攻撃",
-   "en": "",
-   "status": "todo",
+   "en": "that can track and hit targets over 160 km away.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "できます。",
-   "en": "",
-   "status": "todo",
+   "en": " ",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "対空攻撃力は最強です。なんといってもフェニックスに",
-   "en": "",
-   "status": "todo",
+   "en": "The strongest anti-air attack. The Phoenix's",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "よる長距離間接攻撃が魅力です。守備力の方は、強力と",
-   "en": "",
-   "status": "todo",
+   "en": "long-range indirect attack is the big draw.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "はいえませんので、敵との距離をある程度保った戦いが",
-   "en": "",
-   "status": "todo",
+   "en": "Defense isn't great, so it's best to keep some",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "ベストでしょう。スピードもＮｏ．１です。",
-   "en": "",
-   "status": "todo",
+   "en": "distance from the enemy. Its speed is No. 1, too.",
+   "status": "done",
    "kind": "text"
   }
  ]

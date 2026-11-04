@@ -9,8 +9,8 @@
    "off": 0,
    "len": 96,
    "jp": "ターボジェット　　：飛行系ユニットの移動力が{br}　　　　　　　　　　４アップ",
-   "en": "",
-   "status": "todo",
+   "en": "Turbo Jet{x:108}:{x:120}Air units' Move +4",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 96,
    "len": 96,
    "jp": "フェニックスＤＸ　：フェニックスより射程が３{br}　　　　　　　　　　長いミサイル",
-   "en": "",
-   "status": "todo",
+   "en": "Phoenix DX{x:108}:{x:120}Missile with 3 more Range{br}{x:120}than Phoenix",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 192,
    "len": 96,
    "jp": "ファイヤーストーム：半径５マスに環状に炎が広{br}　　　　　　　　　　がる",
-   "en": "",
-   "status": "todo",
+   "en": "Firestorm{x:108}:{x:120}Fire ring, 5-square radius",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 288,
    "len": 96,
    "jp": "エレキラー　　　　：敵の攻撃の命中率が下がる",
-   "en": "",
-   "status": "todo",
+   "en": "Elekiller{x:108}:{x:120}Lowers enemy Accuracy",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 384,
    "len": 96,
    "jp": "ゴッドサービス　　：命中率２割り増し",
-   "en": "",
-   "status": "todo",
+   "en": "God Service{x:108}:{x:120}Accuracy +20%",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 480,
    "len": 96,
    "jp": "トップガン　　　　：命中率、直感が　１００に{br}　　　　　　　　　　なる",
-   "en": "",
-   "status": "todo",
+   "en": "Top Gun{x:108}:{x:120}Accuracy, Instinct = 100",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 576,
    "len": 96,
    "jp": "地　雷　　　　　　：マップ上に配置できる。　{br}　　　　　　　　　　配置後見えなくなる",
-   "en": "",
-   "status": "todo",
+   "en": "Mine{x:108}:{x:120}Place it on the map.{br}{x:120}Unseen once placed",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 672,
    "len": 96,
    "jp": "ワイドバズーカ　　：幅３、射程６の範囲の部隊{br}　　　　　　　　　　を一気に攻撃する",
-   "en": "",
-   "status": "todo",
+   "en": "Wide Bazooka{x:108}:{x:120}Hits all units at once:{br}{x:120}Width 3, Range 6",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 768,
    "len": 96,
    "jp": "ターボエンジン　　：陸上系ユニットの移動力が{br}　　　　　　　　　　２アップ",
-   "en": "",
-   "status": "todo",
+   "en": "Turbo Engine{x:108}:{x:120}Land units' Move +2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 864,
    "len": 96,
    "jp": "ド根性玉　　　　　：攻撃後、さらにもう一度　{br}　　　　　　　　　　攻撃コマンドが実行できる",
-   "en": "",
-   "status": "todo",
+   "en": "Guts Ball{x:108}:{x:120}After attacking, lets{br}{x:120}you Attack once more",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 960,
    "len": 96,
    "jp": "レインボーショット：５～７マス先の部隊にダメ{br}　　　　　　　　　　ージ",
-   "en": "",
-   "status": "todo",
+   "en": "Rainbow Shot{x:108}:{x:120}Damage 5-7 squares away",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1056,
    "len": 96,
    "jp": "オーラボム　　　　：半径５マス内の敵全体の命{br}　　　　　　　　　　中率、直感を３割減",
-   "en": "",
-   "status": "todo",
+   "en": "Aura Bomb{x:108}:{x:120}Foes in 5 squares: Accuracy,{br}{x:120}Instinct -30%",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 1152,
    "len": 96,
    "jp": "ターボスクリュー　：海上系ユニットの移動力が{br}　　　　　　　　　　２アップ",
-   "en": "",
-   "status": "todo",
+   "en": "Turbo Screw{x:108}:{x:120}Sea units' Move +2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 1248,
    "len": 96,
    "jp": "ＩＣＢＭ　　　　　：４～７マス先を中心に半径{br}　　　　　　　　　　５マス内の部隊にダメージ",
-   "en": "",
-   "status": "todo",
+   "en": "ICBM{x:108}:{x:120}Damages units within 5{br}{x:120}of a spot 4-7 squares off",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 1344,
    "len": 96,
    "jp": "コークスクリュー　：水流を速くして２ターン　{br}　　　　　　　　　　身動き不能にする",
-   "en": "",
-   "status": "todo",
+   "en": "Corkscrew{x:108}:{x:120}Speeds the current: no{br}{x:120}moving for 2 turns",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -144,8 +144,8 @@
    "off": 1440,
    "len": 96,
    "jp": "バリア　　　　　　：アイテムによる攻撃を防御{br}　　　　　　　　　　する（自動使用）",
-   "en": "",
-   "status": "todo",
+   "en": "Barrier{x:108}:{x:120}Blocks item attacks{br}{x:120}(auto-used)",
+   "status": "done",
    "kind": "text"
   }
  ]

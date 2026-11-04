@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３（空に攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3 (no air attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "ラブリー国がこいつ＆あいつ国のＴバック－５５に対抗",
-   "en": "",
-   "status": "todo",
+   "en": "Built by Lovely to counter Koitsu & Aitsu's T-Back",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "して開発した戦車で、その風ぼうはまさに対Ｔバック系",
-   "en": "",
-   "status": "todo",
+   "en": "55, with looks truly fit for an anti-T-Back tank.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "にふさわしいものになりました。初めてディーゼルエン",
-   "en": "",
-   "status": "todo",
+   "en": "The first with a diesel engine: over 45 km/h and a",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "ジンを採用し時速４５ｋｍ以上、航続距離は４５０ｋｍ",
-   "en": "",
-   "status": "todo",
+   "en": "450 km range.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "である。",
-   "en": "",
-   "status": "todo",
+   "en": " ",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "攻守面では可もなく不可もなくといったところですな。",
-   "en": "",
-   "status": "todo",
+   "en": "So-so in attack and defense. The way it fires its",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "機銃のうち方がいかします。機動力は高めです。",
-   "en": "",
-   "status": "todo",
+   "en": "machine gun is cool. High mobility.",
+   "status": "done",
    "kind": "text"
   },
   {

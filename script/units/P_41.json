@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　４",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 4",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "１９５７年のこいつ国革命パレードの際にペンタ連合側",
-   "en": "",
-   "status": "todo",
+   "en": "First seen by the Penta Alliance at Koitsu's 1957",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "に初めて確認された車両でＴバック５４の車体を流用、",
-   "en": "",
-   "status": "todo",
+   "en": "revolution parade. Uses a lighter T-Back 54 hull",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "軽量化して、大きなトップレス砲塔をのせている。",
-   "en": "",
-   "status": "todo",
+   "en": "topped with a big topless turret.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "　かなり強力な攻撃力があるが、命中率の信頼性がやや",
-   "en": "",
-   "status": "todo",
+   "en": "Very strong attack, but accuracy is a bit shaky,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "低いため、陸指の低い指揮官の指揮下では十分に実力を",
-   "en": "",
-   "status": "todo",
+   "en": "so it may not live up to it under a commander with",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "発揮できない恐れもある。",
-   "en": "",
-   "status": "todo",
+   "en": "low Land command.",
+   "status": "done",
    "kind": "text"
   },
   {

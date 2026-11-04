@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　４",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 4",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　４",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 4",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "３つ足バージョンのねこ戦艦を改造して作られた潜水艦",
-   "en": "",
-   "status": "todo",
+   "en": "A sub made by modifying the three-legged cat",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "である。　潜水艦としての能力は最上級であるものの、",
-   "en": "",
-   "status": "todo",
+   "en": "battleship. It's top-class as a sub, but due to",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "ねこ自体の成長のために、近い将来退役となるようだ。",
-   "en": "",
-   "status": "todo",
+   "en": "the cat's own growth, it may retire soon. Will it",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "　今度は４つ足のねこ潜水艦となるのか、５つ足のねこ",
-   "en": "",
-   "status": "todo",
+   "en": "become a four-legged cat sub, or a five-legged cat",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "宇宙戦艦となるのか？それとも・・・？？？",
-   "en": "",
-   "status": "todo",
+   "en": "space battleship? Or else...???",
+   "status": "done",
    "kind": "text"
   },
   {

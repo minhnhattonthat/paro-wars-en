@@ -9,8 +9,8 @@
    "off": 4,
    "len": 16,
    "jp": "しまいました。",
-   "en": "",
-   "status": "todo",
+   "en": "on a mine.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "JIRAI_OV:w8014bd5c"
@@ -21,8 +21,8 @@
    "off": 20,
    "len": 14,
    "jp": "地雷をふんで",
-   "en": "",
-   "status": "todo",
+   "en": "Oops! Stepped",
+   "status": "done",
    "kind": "text",
    "refs": [
     "JIRAI_OV:w8014bd54"

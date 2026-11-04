@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　ファンファン要塞での戦いで、もろくも破れ去った　アラジオ連合であったが、",
-   "en": "",
-   "status": "todo",
+   "en": "The Aladio Alliance had been easily crushed in the battle of Fan-Fan Fortress,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "　モアイ国としても生活がかかっているため、ここで　おめおめとは引き下がれない。",
-   "en": "",
-   "status": "todo",
+   "en": "but with Moai's livelihood on the line, it couldn't just slink away.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "よしこ女帝：「ウワーン！！　　　　　　　　　　　　　　　　　　　このままじゃ借金地獄で夜逃げする　　　　　　　　　しかないモー！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Empress Yoshiko: \"Waaah!! At this rate it's debt hell, and I'll have to skip town in the night, mo!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "ミカエル：「泣くんじゃね～よしこ。　　　　　　　　　　　　　　俺に金の心当たりがある！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Michael: \"Quit yer cryin', Yoshiko. I know where to get money!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "ミカエル：「俺の国の北側のグウェート地方てやつぁ～　　　　　　いい金づるになるゼィ！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Michael: \"That Gwait region, north of my country, is gonna be a real cash cow, see!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "　アラジオ連合コンビ、こんどはミカエル帝国の北側　に隣接する、グウェート地方に目をつけた。",
-   "en": "",
-   "status": "todo",
+   "en": "The Aladio Alliance duo now set their sights on the Gwait region, just north of the Michael Empire.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "　ここならば、だれの本国でもないし、目をつぶって　くれるのでは、という甘い考えで、グウェート地方に　侵攻したのである。",
-   "en": "",
-   "status": "todo",
+   "en": "It was nobody's homeland, so surely everyone would look the other way. With that naive idea, they invaded Gwait.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "　しかし、アラジオ連合にとっては意外でも、その他　の国にとっては、当然のことながらこのような状況を　見逃せるはずがない。",
-   "en": "",
-   "status": "todo",
+   "en": "It may have surprised the Aladio Alliance, but of course no other nation could overlook such a situation.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "　グウェート地方といえば、世界の中心に近い所に位　置し、多くの国に接する、資源豊富な世界の共有財産　的な存在の場所である。",
-   "en": "",
-   "status": "todo",
+   "en": "The Gwait region, near the center of the world, bordering many nations and rich in resources, was something like the world's shared asset.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "　グウェート地方のすぐ北側に位置する西側陣営の大国ペン太郎王国と、こりずに私利私欲のために侵略行為に走るアラジオ連合のやり口がゆるせないパンダ国は、",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro Kingdom, the western great power just north of Gwait, and Panda, which could not stomach the Aladio Alliance's greedy invasions,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1650,
    "len": 150,
    "jp": "グウェート防衛の名目のもと、それぞれ単独でグウェ　ート地方に乗り込むのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "and each marched into Gwait alone, in the name of defending it.",
+   "status": "done",
    "kind": "text"
   }
  ]

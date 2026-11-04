@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "こいつ＆あいつ共和国で初めて統合的な攻撃システムが",
-   "en": "",
-   "status": "todo",
+   "en": "The first plane in Koitsu & Aitsu with an",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "開発された機体で前方監視レーダー、地形追随レーダー",
-   "en": "",
-   "status": "todo",
+   "en": "integrated attack system: a navigation and bombing",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "感性航法システムなどが統合された、航法爆撃システム",
-   "en": "",
-   "status": "todo",
+   "en": "system that unites forward radar,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "を持つ。",
-   "en": "",
-   "status": "todo",
+   "en": "terrain-following radar and inertial navigation.",
+   "status": "done",
    "kind": "text"
   },
   {

@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　４（空に攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 4 (no air attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　１",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 1",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "大型の２０３ｍｍリュウ弾砲をむき出しの状態で搭載し",
-   "en": "",
-   "status": "todo",
+   "en": "Mounts a big, exposed 203mm howitzer. A mid-range",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "ている。中距離間接攻撃用兵器。",
-   "en": "",
-   "status": "todo",
+   "en": "indirect attack weapon.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　他の間接攻撃兵器同様、敵にくっつかないで戦うよう",
-   "en": "",
-   "status": "todo",
+   "en": "Like other ranged weapons, don't let enemies get",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "注意しよう。放火力は強力。機動力が低めだ。",
-   "en": "",
-   "status": "todo",
+   "en": "close. Strong firepower. Low mobility.",
+   "status": "done",
    "kind": "text"
   },
   {

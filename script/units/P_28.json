@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３（空に攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3 (no air attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　４",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 4",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "Ｍｋ２を改良したもので、特殊装甲によりさらに防御力",
-   "en": "",
-   "status": "todo",
+   "en": "An improved Mk2 with special armor for even more",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "を強化した。攻撃面でも装備だけはしっかりしている（",
-   "en": "",
-   "status": "todo",
+   "en": "defense. Its attack gear is solid too, at least on",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "効果のほどはさだかではないが）",
-   "en": "",
-   "status": "todo",
+   "en": "paper (the effect is unclear).",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "防御力はまあまあ、装備も充実しているので、うまくい",
-   "en": "",
-   "status": "todo",
+   "en": "Defense is so-so and gear is rich, so with luck it",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "けば主力としても使えるでしょう。機動力は弱めです。",
-   "en": "",
-   "status": "todo",
+   "en": "can be a mainstay. Mobility is weak.",
+   "status": "done",
    "kind": "text"
   },
   {

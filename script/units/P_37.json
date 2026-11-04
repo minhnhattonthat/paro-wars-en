@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３（占領ができます）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3 (can capture)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "　攻撃力もある占領が可能な戦車。装甲は薄いながらも",
-   "en": "",
-   "status": "todo",
+   "en": "A tank that can attack and capture. Armor is thin",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "防弾鋼板でおおわれており、なんとか頑張れそうです。",
-   "en": "",
-   "status": "todo",
+   "en": "but bulletproof; it may just hold up.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "ちょっとお値段は高めでもやっぱり占領も攻撃力がある",
-   "en": "",
-   "status": "todo",
+   "en": "Even at a higher price, a weapon with attack and",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "兵器の方が安心だ。最前線では攻撃効果も期待して歩兵",
-   "en": "",
-   "status": "todo",
+   "en": "capture feels safer. On the front line, capture",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "戦車で占領活動をしたいところなのだ。",
-   "en": "",
-   "status": "todo",
+   "en": "with infantry tanks that can also fight.",
+   "status": "done",
    "kind": "text"
   },
   {

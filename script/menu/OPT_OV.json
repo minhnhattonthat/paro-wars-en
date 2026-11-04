@@ -21,8 +21,8 @@
    "off": 4872,
    "len": 20,
    "jp": "スタック部隊の選択",
-   "en": "",
-   "status": "todo",
+   "en": "Select Stacked Unit",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c2fc"
@@ -33,8 +33,8 @@
    "off": 4892,
    "len": 24,
    "jp": "コンパス表示位置変更",
-   "en": "",
-   "status": "todo",
+   "en": "Compass Position",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c2f8"
@@ -45,8 +45,8 @@
    "off": 4916,
    "len": 12,
    "jp": "スクロール",
-   "en": "",
-   "status": "todo",
+   "en": "Scroll",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c2f4"
@@ -57,8 +57,8 @@
    "off": 4928,
    "len": 12,
    "jp": "キャンセル",
-   "en": "",
-   "status": "todo",
+   "en": "Cancel",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c2f0"
@@ -69,8 +69,8 @@
    "off": 4940,
    "len": 8,
    "jp": "決定",
-   "en": "",
-   "status": "todo",
+   "en": "OK",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c2ec"
@@ -81,8 +81,8 @@
    "off": 4948,
    "len": 16,
    "jp": "情報・部隊表",
-   "en": "",
-   "status": "todo",
+   "en": "Info/Unit List",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c2e8"
@@ -93,8 +93,8 @@
    "off": 4964,
    "len": 16,
    "jp": "マップ右回転",
-   "en": "",
-   "status": "todo",
+   "en": "Rotate Right",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c2e4"
@@ -105,8 +105,8 @@
    "off": 4980,
    "len": 16,
    "jp": "マップ左回転",
-   "en": "",
-   "status": "todo",
+   "en": "Rotate Left",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c2e0"
@@ -117,8 +117,8 @@
    "off": 4996,
    "len": 16,
    "jp": "次部隊（後）",
-   "en": "",
-   "status": "todo",
+   "en": "Unit Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c2dc"
@@ -129,8 +129,8 @@
    "off": 5012,
    "len": 16,
    "jp": "次部隊（前）",
-   "en": "",
-   "status": "todo",
+   "en": "Unit Forward",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c2d8"
@@ -141,8 +141,8 @@
    "off": 5040,
    "len": 24,
    "jp": "　機　能　　　：変更",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Options{x:84}: Edit",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c3a8"
@@ -177,8 +177,8 @@
    "off": 5128,
    "len": 24,
    "jp": "バトル音声　　　ＯＮ",
-   "en": "",
-   "status": "todo",
+   "en": "Battle Voice{x:96}ON",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c404"
@@ -189,8 +189,8 @@
    "off": 5152,
    "len": 24,
    "jp": "バトル音声　　ＯＦＦ",
-   "en": "",
-   "status": "todo",
+   "en": "Battle Voice{x:84}OFF",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c400"
@@ -201,8 +201,8 @@
    "off": 5184,
    "len": 24,
    "jp": "ニャンＴＶ　　　ＯＮ",
-   "en": "",
-   "status": "todo",
+   "en": "Nyan TV{x:96}ON",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c43c"
@@ -213,8 +213,8 @@
    "off": 5208,
    "len": 24,
    "jp": "ニャンＴＶ　　ＯＦＦ",
-   "en": "",
-   "status": "todo",
+   "en": "Nyan TV{x:84}OFF",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c438"
@@ -225,8 +225,8 @@
    "off": 5244,
    "len": 24,
    "jp": "スクエア　　くっきり",
-   "en": "",
-   "status": "todo",
+   "en": "Grid{x:72}Sharp",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c478"
@@ -237,8 +237,8 @@
    "off": 5268,
    "len": 24,
    "jp": "スクエア　　すっきり",
-   "en": "",
-   "status": "todo",
+   "en": "Grid{x:72}Light",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c474"
@@ -249,8 +249,8 @@
    "off": 5292,
    "len": 24,
    "jp": "スクエア　　　　なし",
-   "en": "",
-   "status": "todo",
+   "en": "Grid{x:96}Off",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c470"
@@ -261,8 +261,8 @@
    "off": 5324,
    "len": 24,
    "jp": "カーソル音　　　ＯＮ",
-   "en": "",
-   "status": "todo",
+   "en": "Cursor Sound{x:96}ON",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c4c8"
@@ -273,8 +273,8 @@
    "off": 5348,
    "len": 24,
    "jp": "カーソル音　　ＯＦＦ",
-   "en": "",
-   "status": "todo",
+   "en": "Cursor Sound{x:84}OFF",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c4c4"
@@ -285,8 +285,8 @@
    "off": 5380,
    "len": 24,
    "jp": "窓カーソル　　きおく",
-   "en": "",
-   "status": "todo",
+   "en": "Window Cursor{x:84}Keep",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c500"
@@ -297,8 +297,8 @@
    "off": 5404,
    "len": 24,
    "jp": "窓カーソル　　一番上",
-   "en": "",
-   "status": "todo",
+   "en": "Window Cursor{x:84}Top",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c4fc"
@@ -321,8 +321,8 @@
    "off": 5508,
    "len": 16,
    "jp": "ＣＯＭ（予）",
-   "en": "",
-   "status": "todo",
+   "en": "COM (Res.)",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c578"
@@ -333,8 +333,8 @@
    "off": 5524,
    "len": 12,
    "jp": "４Ｐ（予）",
-   "en": "",
-   "status": "todo",
+   "en": "4P (Res.)",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c574"
@@ -345,8 +345,8 @@
    "off": 5536,
    "len": 12,
    "jp": "３Ｐ（予）",
-   "en": "",
-   "status": "todo",
+   "en": "3P (Res.)",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c570"
@@ -357,8 +357,8 @@
    "off": 5548,
    "len": 12,
    "jp": "２Ｐ（予）",
-   "en": "",
-   "status": "todo",
+   "en": "2P (Res.)",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c56c"
@@ -369,8 +369,8 @@
    "off": 5560,
    "len": 12,
    "jp": "１Ｐ（予）",
-   "en": "",
-   "status": "todo",
+   "en": "1P (Res.)",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c568"
@@ -441,8 +441,8 @@
    "off": 5736,
    "len": 12,
    "jp": "ボタン説明",
-   "en": "",
-   "status": "todo",
+   "en": "Button Help",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c660"
@@ -453,8 +453,8 @@
    "off": 5748,
    "len": 16,
    "jp": "プレイヤー変更",
-   "en": "",
-   "status": "todo",
+   "en": "Change Player",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c65c"
@@ -465,8 +465,8 @@
    "off": 5804,
    "len": 8,
    "jp": "負け",
-   "en": "",
-   "status": "todo",
+   "en": "Lost",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c6a8"
@@ -477,8 +477,8 @@
    "off": 5812,
    "len": 12,
    "jp": "ニャー帝国",
-   "en": "",
-   "status": "todo",
+   "en": "Nya Empire",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c6a4"
@@ -489,8 +489,8 @@
    "off": 5824,
    "len": 12,
    "jp": "バウバウ",
-   "en": "",
-   "status": "todo",
+   "en": "Bow-Wow",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c6a0"
@@ -501,8 +501,8 @@
    "off": 5836,
    "len": 8,
    "jp": "パンダ",
-   "en": "",
-   "status": "todo",
+   "en": "Panda",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c69c"
@@ -513,8 +513,8 @@
    "off": 5844,
    "len": 8,
    "jp": "モアイ",
-   "en": "",
-   "status": "todo",
+   "en": "Moai",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c698"
@@ -525,8 +525,8 @@
    "off": 5852,
    "len": 8,
    "jp": "こいつ",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c694"
@@ -537,8 +537,8 @@
    "off": 5860,
    "len": 12,
    "jp": "ラブリー",
-   "en": "",
-   "status": "todo",
+   "en": "Lovely",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c690"
@@ -549,8 +549,8 @@
    "off": 5872,
    "len": 12,
    "jp": "アカシヤ",
-   "en": "",
-   "status": "todo",
+   "en": "Akashiya",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c68c"
@@ -561,8 +561,8 @@
    "off": 5884,
    "len": 12,
    "jp": "ミカエル",
-   "en": "",
-   "status": "todo",
+   "en": "Michael",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c688"
@@ -573,8 +573,8 @@
    "off": 5896,
    "len": 12,
    "jp": "ペンタロウ",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro",
+   "status": "done",
    "kind": "text",
    "refs": [
     "OPT_OV:w8014c684"

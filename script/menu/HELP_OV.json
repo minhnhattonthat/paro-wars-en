@@ -9,8 +9,8 @@
    "off": 4,
    "len": 40,
    "jp": "ポチの嵐！　わたしたちも協力するわよ！",
-   "en": "",
-   "status": "todo",
+   "en": "Pochi-no-Arashi! We'll help out too, you know!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bc20"
@@ -21,8 +21,8 @@
    "off": 44,
    "len": 48,
    "jp": "ポチの嵐！　ペンタ連合としてぼくらも戦うのね",
-   "en": "",
-   "status": "todo",
+   "en": "Pochi-no-Arashi! As the Penta Alliance, we'll fight too, okay?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bc1c"
@@ -33,8 +33,8 @@
    "off": 92,
    "len": 48,
    "jp": "まっかせなさいっ！　アカシヤ軍も戦うでチュ～",
-   "en": "",
-   "status": "todo",
+   "en": "Leave it to us! Akashiya's army fights too, chuuu!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bc18"
@@ -45,8 +45,8 @@
    "off": 140,
    "len": 44,
    "jp": "イエ～ィ！！　アカシヤ軍も協力するよ！！",
-   "en": "",
-   "status": "todo",
+   "en": "Yeaaah!! Akashiya's army will help too!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bc10"
@@ -57,8 +57,8 @@
    "off": 184,
    "len": 40,
    "jp": "よしこ～！！　助けにきてやったゼィ！！",
-   "en": "",
-   "status": "todo",
+   "en": "Yoshikooo!! I came to save yer hide, see!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bc0c"
@@ -69,8 +69,8 @@
    "off": 224,
    "len": 48,
    "jp": "アカシヤ軍も、忘れてもらってはこまるッチュ～",
-   "en": "",
-   "status": "todo",
+   "en": "Don't you forget Akashiya's army, chuuu!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bc08"
@@ -81,8 +81,8 @@
    "off": 272,
    "len": 52,
    "jp": "こいつにあいつ！　わたしたちもいっしょに戦うアル",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu and Aitsu! We'll fight by your side too, aru!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bc04"
@@ -93,8 +93,8 @@
    "off": 324,
    "len": 48,
    "jp": "ペン太郎王国も、だまって見てられないのね！！",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro Kingdom can't just stand by and watch either, okay?!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bc00"
@@ -105,8 +105,8 @@
    "off": 372,
    "len": 48,
    "jp": "ひかる！あかね！　バウバウ国も協力するワン！！",
-   "en": "",
-   "status": "todo",
+   "en": "Hikaru! Akane! Bow-Wow will help too, woof!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bbfc"
@@ -117,8 +117,8 @@
    "off": 420,
    "len": 32,
    "jp": "νγμζβθελιμδιμρρ",
-   "en": "",
-   "status": "todo",
+   "en": "νγμζβθελιμδιμρ ρ",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bbf8",
@@ -130,8 +130,8 @@
    "off": 452,
    "len": 48,
    "jp": "タコスケ！！　わたしたちもいっしょに戦うアル",
-   "en": "",
-   "status": "todo",
+   "en": "Takosuke!! We'll fight by your side too, aru!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bbf4"
@@ -142,8 +142,8 @@
    "off": 500,
    "len": 36,
    "jp": "最後の戦い、パンダ国も協力するアル",
-   "en": "",
-   "status": "todo",
+   "en": "In this last battle, Panda will help too, aru!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bbf0"
@@ -154,8 +154,8 @@
    "off": 536,
    "len": 48,
    "jp": "ミカエル！！　わたしたちもいっしょに戦うモ～",
-   "en": "",
-   "status": "todo",
+   "en": "Michael!! We'll fight by your side too, mooo!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bbec"
@@ -166,8 +166,8 @@
    "off": 584,
    "len": 40,
    "jp": "最後の戦いは多国籍軍で戦うんだワン！",
-   "en": "",
-   "status": "todo",
+   "en": "In the last battle we fight as a multinational force, woof!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bbe8"
@@ -178,8 +178,8 @@
    "off": 624,
    "len": 40,
    "jp": "ペン太郎！　わたしたちも協力するわ！！",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro! We'll help out too, dear!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "HELP_OV:w8014bbe4"

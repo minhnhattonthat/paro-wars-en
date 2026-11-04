@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "名前から推測すると、ム○ンクレスタがモデルであると",
-   "en": "",
-   "status": "todo",
+   "en": "From the name, it's surely modeled on the M**n",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "思われる。だとすると本艦の１号艦から３号艦までが、",
-   "en": "",
-   "status": "todo",
+   "en": "Cresta. If so, ships No. 1 to 3 ought to combine",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "合体してパワーアップする事が可能であるはずだが、そ",
-   "en": "",
-   "status": "todo",
+   "en": "and power up, but they show no sign of it. Maybe",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "のそぶりすら見せようとしない。最近のレトロゲームブ",
-   "en": "",
-   "status": "todo",
+   "en": "due to the recent retro game boom, it's a bit",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "ームのためか、能力の割にお値段がやや高め。",
-   "en": "",
-   "status": "todo",
+   "en": "pricey for its ability.",
+   "status": "done",
    "kind": "text"
   },
   {

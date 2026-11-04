@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　　強さ５段階評価",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　５（地上攻撃力は弱い）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 5 (weak vs ground)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "こいつ＆あいつ国の最新鋭機であり対空能力に優れてい",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu & Aitsu's newest jet, superb at anti-air.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "る。射程の長いエイモスを搭載しており、これはフェニ",
-   "en": "",
-   "status": "todo",
+   "en": "Its long-range Amos missile, like the Phoenix,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "ックス同様、最後の数ｋｍはアクティブ誘導となる。　",
-   "en": "",
-   "status": "todo",
+   "en": "uses active guidance for the final few km.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "トムキャッツと同じく射程が長く強力な空対空ミサイル",
-   "en": "",
-   "status": "todo",
+   "en": "Like the Tomcats, it has long-range, strong",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "を装備しており、対空面では最強といっていいでしょう",
-   "en": "",
-   "status": "todo",
+   "en": "air-to-air missiles: arguably the best in the air.",
+   "status": "done",
    "kind": "text"
   },
   {

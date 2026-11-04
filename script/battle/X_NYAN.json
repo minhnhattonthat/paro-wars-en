@@ -9,8 +9,8 @@
    "off": 1244,
    "len": 60,
    "jp": "この勝負いただきニャン！",
-   "en": "",
-   "status": "todo",
+   "en": "This fight is mine, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 1304,
    "len": 60,
    "jp": "ワシの強さ見せてやるニャン！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll show you my strength, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 1364,
    "len": 60,
    "jp": "戦闘開始だニャ～ン",
-   "en": "",
-   "status": "todo",
+   "en": "Let the battle begin, nyaaan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 1424,
    "len": 60,
    "jp": "こりゃまずいニャン！",
-   "en": "",
-   "status": "todo",
+   "en": "This is bad, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 1484,
    "len": 60,
    "jp": "ニャ～ンと　おろかなっ！",
-   "en": "",
-   "status": "todo",
+   "en": "Nyaaow foolish!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 1544,
    "len": 60,
    "jp": "ニャめんなよ～！",
-   "en": "",
-   "status": "todo",
+   "en": "Don't nyou dare mock me!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 1604,
    "len": 60,
    "jp": "コンニャロ～",
-   "en": "",
-   "status": "todo",
+   "en": "You nyasty punk!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1664,
    "len": 60,
    "jp": "ニャっニャっ！",
-   "en": "",
-   "status": "todo",
+   "en": "Nya! Nya!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1724,
    "len": 60,
    "jp": "くたばれニャ～ン！",
-   "en": "",
-   "status": "todo",
+   "en": "Drop dead, nyaaan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1784,
    "len": 60,
    "jp": "ニャ～！",
-   "en": "",
-   "status": "todo",
+   "en": "Nyaaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1844,
    "len": 60,
    "jp": "ニャっはっは～",
-   "en": "",
-   "status": "todo",
+   "en": "Nyahahaaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1904,
    "len": 60,
    "jp": "これでも食らえ～！！",
-   "en": "",
-   "status": "todo",
+   "en": "Eat this, nyan!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 1964,
    "len": 60,
    "jp": "うーやーたー",
-   "en": "",
-   "status": "todo",
+   "en": "Uuu-yaaa-taaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 2024,
    "len": 60,
    "jp": "これで終わりだ！",
-   "en": "",
-   "status": "todo",
+   "en": "This ends it, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 2084,
    "len": 60,
    "jp": "あちょー！",
-   "en": "",
-   "status": "todo",
+   "en": "Ah-tchaaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -144,8 +144,8 @@
    "off": 2144,
    "len": 60,
    "jp": "おらおらおらおらおらおらーっ",
-   "en": "",
-   "status": "todo",
+   "en": "Oraoraoraoraoraora!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -153,8 +153,8 @@
    "off": 2204,
    "len": 60,
    "jp": "あたたたたたたたーっ",
-   "en": "",
-   "status": "todo",
+   "en": "Atatatatatatah!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -162,8 +162,8 @@
    "off": 2264,
    "len": 60,
    "jp": "いくわよ～、そ～れっ！",
-   "en": "",
-   "status": "todo",
+   "en": "Here I come, nyaa! Hup!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -171,8 +171,8 @@
    "off": 2324,
    "len": 60,
    "jp": "君は生き残る事ができるかな？",
-   "en": "",
-   "status": "todo",
+   "en": "Can YOU survive, hmm?",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -180,8 +180,8 @@
    "off": 2384,
    "len": 60,
    "jp": "おりゃー",
-   "en": "",
-   "status": "todo",
+   "en": "Oryaaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -189,8 +189,8 @@
    "off": 2444,
    "len": 60,
    "jp": "うりゃー",
-   "en": "",
-   "status": "todo",
+   "en": "Uryaaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -198,8 +198,8 @@
    "off": 2504,
    "len": 60,
    "jp": "どりゃー",
-   "en": "",
-   "status": "todo",
+   "en": "Doryaaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -207,8 +207,8 @@
    "off": 2564,
    "len": 60,
    "jp": "もらったー",
-   "en": "",
-   "status": "todo",
+   "en": "Got you, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -216,8 +216,8 @@
    "off": 2624,
    "len": 60,
    "jp": "エコエコアザラクー",
-   "en": "",
-   "status": "todo",
+   "en": "Eko Eko Azarak!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -225,8 +225,8 @@
    "off": 2684,
    "len": 60,
    "jp": "おかみにたてつくたわけものはこうしてやるー",
-   "en": "",
-   "status": "todo",
+   "en": "Defy the state, you fool? Take this, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -234,8 +234,8 @@
    "off": 2744,
    "len": 60,
    "jp": "あたれー",
-   "en": "",
-   "status": "todo",
+   "en": "Hit 'em, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -243,8 +243,8 @@
    "off": 2804,
    "len": 60,
    "jp": "甘いな",
-   "en": "",
-   "status": "todo",
+   "en": "Too soft, nyan.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -252,8 +252,8 @@
    "off": 2864,
    "len": 60,
    "jp": "ふぎゃーっ！！",
-   "en": "",
-   "status": "todo",
+   "en": "Yeeowww!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -261,8 +261,8 @@
    "off": 2924,
    "len": 60,
    "jp": "ニャ・ニャ・ニャ～ン",
-   "en": "",
-   "status": "todo",
+   "en": "Nya-nya-nyaaan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -270,8 +270,8 @@
    "off": 2984,
    "len": 60,
    "jp": "よくもやったニャンっ",
-   "en": "",
-   "status": "todo",
+   "en": "How dare you, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -279,8 +279,8 @@
    "off": 3044,
    "len": 60,
    "jp": "わぁぁぁぁぁっ！！",
-   "en": "",
-   "status": "todo",
+   "en": "Waaaaah!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -288,8 +288,8 @@
    "off": 3104,
    "len": 60,
    "jp": "ひでぶー",
-   "en": "",
-   "status": "todo",
+   "en": "Hidebu!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -297,8 +297,8 @@
    "off": 3164,
    "len": 60,
    "jp": "やったなー、親父にも殴られた事ないのにー",
-   "en": "",
-   "status": "todo",
+   "en": "You hit me! Not even my dad ever hit me, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -306,8 +306,8 @@
    "off": 3224,
    "len": 60,
    "jp": "なにをするんじゃ！",
-   "en": "",
-   "status": "todo",
+   "en": "What're ya doin', nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -315,8 +315,8 @@
    "off": 3284,
    "len": 60,
    "jp": "バ～カヤロ！あぶねーじゃねーかっ",
-   "en": "",
-   "status": "todo",
+   "en": "You idiooot! That's dangerous, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -324,8 +324,8 @@
    "off": 3344,
    "len": 60,
    "jp": "やりやがったなー",
-   "en": "",
-   "status": "todo",
+   "en": "You did it now, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -333,8 +333,8 @@
    "off": 3404,
    "len": 60,
    "jp": "俺をだれだと思ってんだー",
-   "en": "",
-   "status": "todo",
+   "en": "Who d'you think I am, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -342,8 +342,8 @@
    "off": 3464,
    "len": 60,
    "jp": "うお～",
-   "en": "",
-   "status": "todo",
+   "en": "Whoooa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -351,8 +351,8 @@
    "off": 3524,
    "len": 60,
    "jp": "キャー",
-   "en": "",
-   "status": "todo",
+   "en": "Eeek!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -360,8 +360,8 @@
    "off": 3584,
    "len": 60,
    "jp": "キャイーン",
-   "en": "",
-   "status": "todo",
+   "en": "Yipe!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -369,8 +369,8 @@
    "off": 3644,
    "len": 60,
    "jp": "ウッキーッ",
-   "en": "",
-   "status": "todo",
+   "en": "Ukkiii!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -378,8 +378,8 @@
    "off": 3704,
    "len": 60,
    "jp": "うわーっ",
-   "en": "",
-   "status": "todo",
+   "en": "Waaah!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -387,8 +387,8 @@
    "off": 3764,
    "len": 60,
    "jp": "イッテ～",
-   "en": "",
-   "status": "todo",
+   "en": "Owwww, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -396,8 +396,8 @@
    "off": 3824,
    "len": 60,
    "jp": "ちっ、覚えてろー",
-   "en": "",
-   "status": "todo",
+   "en": "Tch, you'll pay for this, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -405,8 +405,8 @@
    "off": 3884,
    "len": 60,
    "jp": "な、何だってー",
-   "en": "",
-   "status": "todo",
+   "en": "Wh-what did you say, nyan?!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -414,8 +414,8 @@
    "off": 3944,
    "len": 60,
    "jp": "どこねらってんだよぉ！",
-   "en": "",
-   "status": "todo",
+   "en": "Where're you aiming, nyaa?!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -423,8 +423,8 @@
    "off": 4004,
    "len": 60,
    "jp": "いい根性してるじゃねーか",
-   "en": "",
-   "status": "todo",
+   "en": "You've got some guts, nyaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -432,8 +432,8 @@
    "off": 4064,
    "len": 60,
    "jp": "甘いんだよぉ！！",
-   "en": "",
-   "status": "todo",
+   "en": "Way too soft, nyaa!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -441,8 +441,8 @@
    "off": 4124,
    "len": 60,
    "jp": "ミスったニャ～ン！",
-   "en": "",
-   "status": "todo",
+   "en": "I goofed, nyaaan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -450,8 +450,8 @@
    "off": 4184,
    "len": 60,
    "jp": "べらんメ～！",
-   "en": "",
-   "status": "todo",
+   "en": "You blasted foooool!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -459,8 +459,8 @@
    "off": 4244,
    "len": 60,
    "jp": "ニャは～っ　皆のモノっ！ワシのために働け！働けっ！",
-   "en": "",
-   "status": "todo",
+   "en": "Nyahaaa, all of you! Work for me! Work!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -468,8 +468,8 @@
    "off": 4304,
    "len": 60,
    "jp": "パロワールドはこのニャン次郎様のもんじゃ！",
-   "en": "",
-   "status": "todo",
+   "en": "Paro World belongs to Nyanjiro-sama!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -477,8 +477,8 @@
    "off": 4364,
    "len": 60,
    "jp": "ワシに勝てるワケがないニャ{br}ン！",
-   "en": "",
-   "status": "todo",
+   "en": "You can't possibly beat me, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -486,8 +486,8 @@
    "off": 4424,
    "len": 60,
    "jp": "テメ～ら　よわっちいニャン！",
-   "en": "",
-   "status": "todo",
+   "en": "You lot are wimps, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -495,8 +495,8 @@
    "off": 4484,
    "len": 60,
    "jp": "俺にたてつくなんて１０万年早いってんだよ",
-   "en": "",
-   "status": "todo",
+   "en": "You're 100,000 years too early to cross me, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -504,8 +504,8 @@
    "off": 4544,
    "len": 60,
    "jp": "ふっ、手応えのない相手だったぜ",
-   "en": "",
-   "status": "todo",
+   "en": "Heh, no challenge at all, nyaa.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -513,8 +513,8 @@
    "off": 4604,
    "len": 60,
    "jp": "ウワッハッハッハッハッハー",
-   "en": "",
-   "status": "todo",
+   "en": "Wahahahahahaaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -522,8 +522,8 @@
    "off": 4664,
    "len": 60,
    "jp": "まだまだだな",
-   "en": "",
-   "status": "todo",
+   "en": "You're not there yet, nyan.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -531,8 +531,8 @@
    "off": 4724,
    "len": 60,
    "jp": "俺をとめることはできん",
-   "en": "",
-   "status": "todo",
+   "en": "You can't stop me, nyan.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -540,8 +540,8 @@
    "off": 4784,
    "len": 60,
    "jp": "とっととお家にお帰り",
-   "en": "",
-   "status": "todo",
+   "en": "Run along home now, nyan.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -549,8 +549,8 @@
    "off": 4844,
    "len": 60,
    "jp": "ヤリィー",
-   "en": "",
-   "status": "todo",
+   "en": "Yay!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -558,8 +558,8 @@
    "off": 4904,
    "len": 60,
    "jp": "修行が足りん",
-   "en": "",
-   "status": "todo",
+   "en": "Train harder, nyan.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -567,8 +567,8 @@
    "off": 4964,
    "len": 60,
    "jp": "ヨッシャー",
-   "en": "",
-   "status": "todo",
+   "en": "All right!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -576,8 +576,8 @@
    "off": 5024,
    "len": 60,
    "jp": "ビンゴー",
-   "en": "",
-   "status": "todo",
+   "en": "Bingo!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -585,8 +585,8 @@
    "off": 5084,
    "len": 60,
    "jp": "またいつでも相手してやるぜ",
-   "en": "",
-   "status": "todo",
+   "en": "I'll take you on anytime, nyan.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -594,8 +594,8 @@
    "off": 5144,
    "len": 60,
    "jp": "ニャンだとぉ～！{br}今にみてろニャン！",
-   "en": "",
-   "status": "todo",
+   "en": "Nya-what?! Just you wait, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -603,8 +603,8 @@
    "off": 5204,
    "len": 60,
    "jp": "そんなバカニャ！",
-   "en": "",
-   "status": "todo",
+   "en": "That's nyonsense!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -612,8 +612,8 @@
    "off": 5264,
    "len": 60,
    "jp": "フッ、今日のところはこのぐらいにしといてやるぜ",
-   "en": "",
-   "status": "todo",
+   "en": "Heh, I'll let you off for today, nyan.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -621,8 +621,8 @@
    "off": 5324,
    "len": 60,
    "jp": "や、やられちゃった～ん",
-   "en": "",
-   "status": "todo",
+   "en": "Th-they got meee!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -630,8 +630,8 @@
    "off": 5384,
    "len": 60,
    "jp": "やっだー、信じらんな～い",
-   "en": "",
-   "status": "todo",
+   "en": "Ew, I can't believe it, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -639,8 +639,8 @@
    "off": 5444,
    "len": 60,
    "jp": "覚えてろ、この次は勝ってみせる",
-   "en": "",
-   "status": "todo",
+   "en": "Remember this. Next time, I'll win, nyan.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -648,8 +648,8 @@
    "off": 5504,
    "len": 60,
    "jp": "さらばじゃ～",
-   "en": "",
-   "status": "todo",
+   "en": "Farewell!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -657,8 +657,8 @@
    "off": 5564,
    "len": 60,
    "jp": "くっ、{br}こんな奴に負けるなんて・・・",
-   "en": "",
-   "status": "todo",
+   "en": "Ugh, to lose to someone like this, nyan...",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -666,8 +666,8 @@
    "off": 5624,
    "len": 60,
    "jp": "こんな強い奴がまだいたとは{br}・・・ぐふっ！",
-   "en": "",
-   "status": "todo",
+   "en": "To think someone this strong... Guhh!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -675,8 +675,8 @@
    "off": 5684,
    "len": 60,
    "jp": "ウエ～ン、ママにいいつけてやるぅ",
-   "en": "",
-   "status": "todo",
+   "en": "Waaah, I'm telling my mooom, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -684,8 +684,8 @@
    "off": 5744,
    "len": 60,
    "jp": "なにぃ、全滅っ！？",
-   "en": "",
-   "status": "todo",
+   "en": "Whaaat, wiped out, nyan?!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -693,8 +693,8 @@
    "off": 5804,
    "len": 60,
    "jp": "うおおおおおおおーっ",
-   "en": "",
-   "status": "todo",
+   "en": "Uoooooooh!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -702,8 +702,8 @@
    "off": 5864,
    "len": 60,
    "jp": "アンビリーバブルー",
-   "en": "",
-   "status": "todo",
+   "en": "Unbeliiievable!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -711,8 +711,8 @@
    "off": 5924,
    "len": 60,
    "jp": "くそぉ、脱出だ！",
-   "en": "",
-   "status": "todo",
+   "en": "Dang, I'm bailing out, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -720,8 +720,8 @@
    "off": 5984,
    "len": 60,
    "jp": "あちゃぁ、俺のせーじゃねー",
-   "en": "",
-   "status": "todo",
+   "en": "Oops, not my fault, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -729,8 +729,8 @@
    "off": 6044,
    "len": 60,
    "jp": "この俺が、そんなばかな・・・",
-   "en": "",
-   "status": "todo",
+   "en": "Me? That's impossible, nyan...",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -738,8 +738,8 @@
    "off": 6104,
    "len": 60,
    "jp": "いけっ！ニャイアントロボ！",
-   "en": "",
-   "status": "todo",
+   "en": "Go! Nyaiant Robo!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -747,8 +747,8 @@
    "off": 6164,
    "len": 60,
    "jp": "このニャイアント、つっえ～{br}ニャリよ～！",
-   "en": "",
-   "status": "todo",
+   "en": "This Nyaiant is strooong, nyari!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -756,8 +756,8 @@
    "off": 6224,
    "len": 60,
    "jp": "科学の力だっ！{br}戦え、ニャイアントロボ！",
-   "en": "",
-   "status": "todo",
+   "en": "The power of science! Fight, Nyaiant Robo!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -765,8 +765,8 @@
    "off": 6284,
    "len": 60,
    "jp": "いっけ～！{br}ニャイクローミサイル！！",
-   "en": "",
-   "status": "todo",
+   "en": "Gooo! Nyaicro Missile!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -774,8 +774,8 @@
    "off": 6344,
    "len": 60,
    "jp": "ニャイアントアターック！！",
-   "en": "",
-   "status": "todo",
+   "en": "Nyaiant Attaaack!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -783,8 +783,8 @@
    "off": 6404,
    "len": 60,
    "jp": "必殺！{br}ニャイクロウパーンチ！！",
-   "en": "",
-   "status": "todo",
+   "en": "Special move! Nyaicro Puuunch!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -792,8 +792,8 @@
    "off": 6464,
    "len": 60,
    "jp": "ぶちかませっ！{br}ニャイクロウパ～ンチっ！",
-   "en": "",
-   "status": "todo",
+   "en": "Let 'em have it! Nyaicro Puuunch!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -801,8 +801,8 @@
    "off": 6524,
    "len": 60,
    "jp": "いっくニャ～！{br}ニャイアントア～イ！！",
-   "en": "",
-   "status": "todo",
+   "en": "Here I go, nyaaa! Nyaiant Eeeye!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -810,8 +810,8 @@
    "off": 6584,
    "len": 60,
    "jp": "ニャハっと１発！{br}ニャイアントアイ！",
-   "en": "",
-   "status": "todo",
+   "en": "Nyaha, one shot! Nyaiant Eye!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -819,8 +819,8 @@
    "off": 6644,
    "len": 60,
    "jp": "乱世のυ雄（かんゆう）とは、ワシのことニャン！",
-   "en": "",
-   "status": "todo",
+   "en": "The wily hero of troubled times is me, nyan!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -828,8 +828,8 @@
    "off": 6704,
    "len": 60,
    "jp": "ワシに刃向かうとは、おろか{br}ニャ～！",
-   "en": "",
-   "status": "todo",
+   "en": "Defy me? How foolish, nyaaa!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -837,8 +837,8 @@
    "off": 6764,
    "len": 60,
    "jp": "妻に合わせる顔がニャイ・・・",
-   "en": "",
-   "status": "todo",
+   "en": "I've got nyo face to show my wife...",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -846,8 +846,8 @@
    "off": 6824,
    "len": 60,
    "jp": "ニャンだって～！？",
-   "en": "",
-   "status": "todo",
+   "en": "Nya-whaaat?!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -855,8 +855,8 @@
    "off": 6884,
    "len": 60,
    "jp": "チェーンジ！{br}ニャイアントロボ！！",
-   "en": "",
-   "status": "todo",
+   "en": "Chaaange! Nyaiant Robo!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -864,8 +864,8 @@
    "off": 6944,
    "len": 60,
    "jp": "チェーンジ！{br}ニャンダーバード！！",
-   "en": "",
-   "status": "todo",
+   "en": "Chaaange! Nyanderbird!!",
+   "status": "done",
    "kind": "text"
   }
  ]

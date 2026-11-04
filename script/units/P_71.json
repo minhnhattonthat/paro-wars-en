@@ -9,8 +9,8 @@
    "off": 34816,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 34848,
    "len": 32,
    "jp": "攻撃力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 34880,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 34912,
    "len": 52,
    "jp": "「ドザえもん」である。ドザエモンでも、ドザエもんで",
-   "en": "",
-   "status": "todo",
+   "en": "It's \"Doza-emon.\" Not \"Dozaemon\" or \"Dozae-mon.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 34964,
    "len": 52,
    "jp": "もない。この辺を間違えると、ファンの厳しいチェック",
-   "en": "",
-   "status": "todo",
+   "en": "Get this wrong and the fans will check you hard,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 35016,
    "len": 52,
    "jp": "が入るので注意しよう。空母としては異常に安いが、安",
-   "en": "",
-   "status": "todo",
+   "en": "so be careful. Abnormally cheap for a carrier, and",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 35068,
    "len": 52,
    "jp": "いなりの性能しかない。",
-   "en": "",
-   "status": "todo",
+   "en": "only as good as the price.",
+   "status": "done",
    "kind": "text"
   },
   {

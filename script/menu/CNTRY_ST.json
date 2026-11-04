@@ -69,8 +69,8 @@
    "off": 1336,
    "len": 52,
    "jp": "国情報　　　　　　　　　　　　　　　　　　：戻る",
-   "en": "",
-   "status": "todo",
+   "en": "Nation Info{x:252}: Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b530"
@@ -81,8 +81,8 @@
    "off": 1452,
    "len": 8,
    "jp": "製油所",
-   "en": "",
-   "status": "todo",
+   "en": "Refin.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b5a4"
@@ -93,8 +93,8 @@
    "off": 1460,
    "len": 8,
    "jp": "工場",
-   "en": "",
-   "status": "todo",
+   "en": "Fact.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b5a0"
@@ -105,8 +105,8 @@
    "off": 1468,
    "len": 4,
    "jp": "港",
-   "en": "",
-   "status": "todo",
+   "en": "Pt",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b59c"
@@ -117,8 +117,8 @@
    "off": 1472,
    "len": 8,
    "jp": "空港",
-   "en": "",
-   "status": "todo",
+   "en": "Airpt",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b598"
@@ -129,8 +129,8 @@
    "off": 1480,
    "len": 8,
    "jp": "都市",
-   "en": "",
-   "status": "todo",
+   "en": "City",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b594"
@@ -141,8 +141,8 @@
    "off": 1488,
    "len": 8,
    "jp": "部隊数",
-   "en": "",
-   "status": "todo",
+   "en": "Units",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b590"
@@ -153,8 +153,8 @@
    "off": 1496,
    "len": 8,
    "jp": "科学力",
-   "en": "",
-   "status": "todo",
+   "en": "Science",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b58c"
@@ -165,8 +165,8 @@
    "off": 1504,
    "len": 8,
    "jp": "燃料",
-   "en": "",
-   "status": "todo",
+   "en": "Fuel",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b588"
@@ -177,8 +177,8 @@
    "off": 1512,
    "len": 8,
    "jp": "軍事費",
-   "en": "",
-   "status": "todo",
+   "en": "Budget",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b584"
@@ -189,8 +189,8 @@
    "off": 1520,
    "len": 8,
    "jp": "指揮",
-   "en": "",
-   "status": "todo",
+   "en": "Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b580"
@@ -201,8 +201,8 @@
    "off": 1528,
    "len": 8,
    "jp": "国名",
-   "en": "",
-   "status": "todo",
+   "en": "Nat.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b578"
@@ -753,8 +753,8 @@
    "off": 2396,
    "len": 12,
    "jp": "ニャー帝国",
-   "en": "",
-   "status": "todo",
+   "en": "Nya Empire",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b950"
@@ -777,8 +777,8 @@
    "off": 2412,
    "len": 12,
    "jp": "バウバウ国",
-   "en": "",
-   "status": "todo",
+   "en": "Bow-Wow",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b948"
@@ -789,8 +789,8 @@
    "off": 2424,
    "len": 12,
    "jp": "獣民共和国",
-   "en": "",
-   "status": "todo",
+   "en": "Republic",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b944"
@@ -801,8 +801,8 @@
    "off": 2436,
    "len": 8,
    "jp": "パンダ",
-   "en": "",
-   "status": "todo",
+   "en": "Panda",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b940"
@@ -813,8 +813,8 @@
    "off": 2444,
    "len": 12,
    "jp": "諸島首長国",
-   "en": "",
-   "status": "todo",
+   "en": "Emirate",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b93c"
@@ -825,8 +825,8 @@
    "off": 2456,
    "len": 8,
    "jp": "モアイ",
-   "en": "",
-   "status": "todo",
+   "en": "Moai",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b938"
@@ -837,8 +837,8 @@
    "off": 2464,
    "len": 12,
    "jp": "　＆あいつ",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}& Aitsu",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b934"
@@ -849,8 +849,8 @@
    "off": 2476,
    "len": 8,
    "jp": "こいつ",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b930"
@@ -861,8 +861,8 @@
    "off": 2484,
    "len": 12,
    "jp": "連邦合衆国",
-   "en": "",
-   "status": "todo",
+   "en": "Fed. States",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b92c"
@@ -873,8 +873,8 @@
    "off": 2496,
    "len": 12,
    "jp": "ラブリー",
-   "en": "",
-   "status": "todo",
+   "en": "Lovely",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b928"
@@ -885,8 +885,8 @@
    "off": 2508,
    "len": 12,
    "jp": "　　ランド",
-   "en": "",
-   "status": "todo",
+   "en": "{x:24}Land",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b924"
@@ -897,8 +897,8 @@
    "off": 2520,
    "len": 12,
    "jp": "アカシヤ",
-   "en": "",
-   "status": "todo",
+   "en": "Akashiya",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b920"
@@ -909,8 +909,8 @@
    "off": 2532,
    "len": 12,
    "jp": "　　　帝国",
-   "en": "",
-   "status": "todo",
+   "en": "{x:26}Empire",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b91c"
@@ -921,8 +921,8 @@
    "off": 2544,
    "len": 12,
    "jp": "ミカエル",
-   "en": "",
-   "status": "todo",
+   "en": "Michael",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b918"
@@ -933,8 +933,8 @@
    "off": 2556,
    "len": 12,
    "jp": "　　　王国",
-   "en": "",
-   "status": "todo",
+   "en": "{x:20}Kingdom",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b914"
@@ -945,8 +945,8 @@
    "off": 2568,
    "len": 12,
    "jp": "ペンタロウ",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro",
+   "status": "done",
    "kind": "text",
    "refs": [
     "CNTRY_ST:w8014b910"

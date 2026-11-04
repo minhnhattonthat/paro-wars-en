@@ -9,8 +9,8 @@
    "off": 34816,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 34848,
    "len": 32,
    "jp": "攻撃力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 34880,
    "len": 32,
    "jp": "守備力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 34912,
    "len": 52,
    "jp": "　明るい名前にふさわしい、から草もようのボディーが",
-   "en": "",
-   "status": "todo",
+   "en": "Its arabesque body, fit for its cheerful name, is",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 34964,
    "len": 52,
    "jp": "かなりハイセンスで、ひとめをひかずにはいられない。",
-   "en": "",
-   "status": "todo",
+   "en": "high fashion that turns every head. Akashiya's",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 35016,
    "len": 52,
    "jp": "アカシヤ国配備のタコ型軟体極上ロボット。",
-   "en": "",
-   "status": "todo",
+   "en": "octopus-type Deluxe Robo.",
+   "status": "done",
    "kind": "text"
   },
   {

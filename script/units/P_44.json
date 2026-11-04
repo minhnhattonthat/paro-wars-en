@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　１（占領できます）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 1 (can capture)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　１",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 1",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "トラックの上をいく超軟弱車両だが、スピードが速い。",
-   "en": "",
-   "status": "todo",
+   "en": "An ultra-weak vehicle even beneath the truck, but",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "敵の射程に入ったら死んだものとして、あきらめよう。",
-   "en": "",
-   "status": "todo",
+   "en": "fast. Once in enemy range, count it dead.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "トラック同様、占領か他の部隊を守るため、敵の進行の",
-   "en": "",
-   "status": "todo",
+   "en": "Like the truck: capture, guard others, block enemy",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "じゃまをするのと、スピードを生かした偵察活動に使い",
-   "en": "",
-   "status": "todo",
+   "en": "advances, or use its speed to scout.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "道が見出せそうだ。",
-   "en": "",
-   "status": "todo",
+   "en": " ",
+   "status": "done",
    "kind": "text"
   },
   {

@@ -9,8 +9,8 @@
    "off": 2204,
    "len": 12,
    "jp": "移動範囲",
-   "en": "",
-   "status": "todo",
+   "en": "Move",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:80030878"
@@ -21,8 +21,8 @@
    "off": 2216,
    "len": 8,
    "jp": "射程：",
-   "en": "",
-   "status": "todo",
+   "en": "Range:",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:800309d0"
@@ -33,8 +33,8 @@
    "off": 2224,
    "len": 16,
    "jp": "が、ひろえない",
-   "en": "",
-   "status": "todo",
+   "en": ", can't pick up",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a2d3c"
@@ -45,8 +45,8 @@
    "off": 2240,
    "len": 16,
    "jp": "全回復した！",
-   "en": "",
-   "status": "todo",
+   "en": " fully healed!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a2d38"
@@ -57,8 +57,8 @@
    "off": 2256,
    "len": 12,
    "jp": "見つけた！",
-   "en": "",
-   "status": "todo",
+   "en": " found it!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a2d34"
@@ -69,8 +69,8 @@
    "off": 2268,
    "len": 12,
    "jp": "アップ！！",
-   "en": "",
-   "status": "todo",
+   "en": " up!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a2d30"
@@ -81,8 +81,8 @@
    "off": 2280,
    "len": 18,
    "jp": "を見つけた！！",
-   "en": "",
-   "status": "todo",
+   "en": " found it!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a2d2c"
@@ -93,8 +93,8 @@
    "off": 2512,
    "len": 4,
    "jp": "防",
-   "en": "",
-   "status": "todo",
+   "en": "Df",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:80043f98"
@@ -105,8 +105,8 @@
    "off": 2516,
    "len": 4,
    "jp": "攻",
-   "en": "",
-   "status": "todo",
+   "en": "At",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:80043fc4"
@@ -117,8 +117,8 @@
    "off": 2520,
    "len": 8,
    "jp": "高さ",
-   "en": "",
-   "status": "todo",
+   "en": "Hgt",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:80043ffc"
@@ -129,8 +129,8 @@
    "off": 2528,
    "len": 16,
    "jp": "　作戦行動中！",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}On a mission!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:80046878"
@@ -154,8 +154,8 @@
    "off": 2548,
    "len": 16,
    "jp": "　墜落で～す。",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Crash-laaanding!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a3460"
@@ -166,8 +166,8 @@
    "off": 2564,
    "len": 16,
    "jp": "燃料切れのため",
-   "en": "",
-   "status": "todo",
+   "en": "Out of fuel, so",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a3458"
@@ -178,8 +178,8 @@
    "off": 2580,
    "len": 20,
    "jp": "　ＣＯＭ　担当国",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}COM Nation",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:80047730"
@@ -190,8 +190,8 @@
    "off": 2600,
    "len": 20,
    "jp": "プレイヤー　担当国",
-   "en": "",
-   "status": "todo",
+   "en": "Player Nation",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:80047740"
@@ -215,8 +215,8 @@
    "off": 2624,
    "len": 20,
    "jp": "　戦闘発生！！！　",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Battle breaks out!!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8004c380"
@@ -227,8 +227,8 @@
    "off": 2644,
    "len": 16,
    "jp": "本当っすか！？",
-   "en": "",
-   "status": "todo",
+   "en": "For real, man!?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8004f69c"
@@ -239,8 +239,8 @@
    "off": 2660,
    "len": 16,
    "jp": "エ～ッまじ！？",
-   "en": "",
-   "status": "todo",
+   "en": "Whaaat, really!?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8004f6b4"
@@ -251,8 +251,8 @@
    "off": 2676,
    "len": 12,
    "jp": "（占領）",
-   "en": "",
-   "status": "todo",
+   "en": "(Capture)",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8004fc3c"
@@ -275,8 +275,8 @@
    "off": 586756,
    "len": 26,
    "jp": "Ｆ－１４トムキャッツ",
-   "en": "",
-   "status": "todo",
+   "en": "F-14 Tomcats",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:80024ea4",
@@ -336,8 +336,8 @@
    "off": 586826,
    "len": 26,
    "jp": "紙ヒコーキ",
-   "en": "",
-   "status": "todo",
+   "en": "Paper Plane",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -346,8 +346,8 @@
    "off": 586896,
    "len": 27,
    "jp": "イケイケセイバー",
-   "en": "",
-   "status": "todo",
+   "en": "Go-Go Saber",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -356,8 +356,8 @@
    "off": 586966,
    "len": 26,
    "jp": "イーグルサブロウシロウ",
-   "en": "",
-   "status": "todo",
+   "en": "Eagle Saburo-Shiro",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -366,8 +366,8 @@
    "off": 587036,
    "len": 26,
    "jp": "ギャラクティカファントム",
-   "en": "",
-   "status": "todo",
+   "en": "Galactica Phantom",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -376,8 +376,8 @@
    "off": 587106,
    "len": 26,
    "jp": "ファンタジーファルコン",
-   "en": "",
-   "status": "todo",
+   "en": "Fantasy Falcon",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -386,8 +386,8 @@
    "off": 587176,
    "len": 26,
    "jp": "ボンジュールミラージュ",
-   "en": "",
-   "status": "todo",
+   "en": "Bonjour Mirage",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -396,8 +396,8 @@
    "off": 587246,
    "len": 27,
    "jp": "Ｍｉｇ－８００ＤＸ！？",
-   "en": "",
-   "status": "todo",
+   "en": "Mig-800 DX!?",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -406,8 +406,8 @@
    "off": 587316,
    "len": 26,
    "jp": "ぷりぷりクフィル",
-   "en": "",
-   "status": "todo",
+   "en": "Bouncy Kfir",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -416,8 +416,8 @@
    "off": 587386,
    "len": 27,
    "jp": "Ａ４ウルトラポーク５５号",
-   "en": "",
-   "status": "todo",
+   "en": "A-4 Ultra Pork No. 55",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -426,8 +426,8 @@
    "off": 587456,
    "len": 26,
    "jp": "Ａ－７コロシア",
-   "en": "",
-   "status": "todo",
+   "en": "A-7 Killsair",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -456,8 +456,8 @@
    "off": 587666,
    "len": 27,
    "jp": "ビシバシＦ１",
-   "en": "",
-   "status": "todo",
+   "en": "Bishi-Bashi F1",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -466,8 +466,8 @@
    "off": 587736,
    "len": 26,
    "jp": "Ｆ－１５ラッキーイーグル",
-   "en": "",
-   "status": "todo",
+   "en": "F-15 Lucky Eagle",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PROD_OV:8014be08",
@@ -487,8 +487,8 @@
    "off": 587806,
    "len": 27,
    "jp": "Ｐｕ－２４ヘンサー",
-   "en": "",
-   "status": "todo",
+   "en": "Pu-24 Hencer",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -497,8 +497,8 @@
    "off": 587876,
    "len": 26,
    "jp": "Ｆ－１１７スケルス",
-   "en": "",
-   "status": "todo",
+   "en": "F-117 Stealthru",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -507,8 +507,8 @@
    "off": 587946,
    "len": 27,
    "jp": "Ｐ－５２ギャランドゥー",
-   "en": "",
-   "status": "todo",
+   "en": "P-52 Gallandoo",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -517,8 +517,8 @@
    "off": 588016,
    "len": 27,
    "jp": "Ｐｕ－１６アジャ爆",
-   "en": "",
-   "status": "todo",
+   "en": "Pu-16 Aja Bomber",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -527,8 +527,8 @@
    "off": 588086,
    "len": 26,
    "jp": "ＡＨ－１ヒューイコプター",
-   "en": "",
-   "status": "todo",
+   "en": "AH-1 Huey Copter",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -537,8 +537,8 @@
    "off": 588156,
    "len": 26,
    "jp": "ＡＨ６４プッチンパッチン",
-   "en": "",
-   "status": "todo",
+   "en": "AH64 Putchin-Patchin",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -547,8 +547,8 @@
    "off": 588226,
    "len": 26,
    "jp": "Ｍｉ２８ハーボッタクリ",
-   "en": "",
-   "status": "todo",
+   "en": "Mi28 Hav-A-Ripoff",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -557,8 +557,8 @@
    "off": 588296,
    "len": 27,
    "jp": "ＵＨ－１イコロイ",
-   "en": "",
-   "status": "todo",
+   "en": "UH-1 Iquorois",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -567,8 +567,8 @@
    "off": 588366,
    "len": 27,
    "jp": "Ｍｉ８ヒップアップ",
-   "en": "",
-   "status": "todo",
+   "en": "Mi8 Hip-Up",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -577,8 +577,8 @@
    "off": 588436,
    "len": 26,
    "jp": "Ｍｉ１７ヒップアップＺ",
-   "en": "",
-   "status": "todo",
+   "en": "Mi17 Hip-Up Z",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -587,8 +587,8 @@
    "off": 588506,
    "len": 27,
    "jp": "ＳＭ４ヨッシャーハネマン",
-   "en": "",
-   "status": "todo",
+   "en": "SM4 Jackpot Sherman",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -597,8 +597,8 @@
    "off": 588576,
    "len": 27,
    "jp": "ＳＭ２６バッシング",
-   "en": "",
-   "status": "todo",
+   "en": "SM26 Bashing",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -607,8 +607,8 @@
    "off": 588646,
    "len": 27,
    "jp": "Ｔバック３４／８５",
-   "en": "",
-   "status": "todo",
+   "en": "T-Back 34/85",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -617,8 +617,8 @@
    "off": 588716,
    "len": 26,
    "jp": "レオナルド２",
-   "en": "",
-   "status": "todo",
+   "en": "Leonardo 2",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -627,8 +627,8 @@
    "off": 588786,
    "len": 26,
    "jp": "ガバガバＭｋ３",
-   "en": "",
-   "status": "todo",
+   "en": "Baggy Mk3",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -657,8 +657,8 @@
    "off": 588996,
    "len": 27,
    "jp": "Ｔバック－５５",
-   "en": "",
-   "status": "todo",
+   "en": "T-Back-55",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -667,8 +667,8 @@
    "off": 589066,
    "len": 26,
    "jp": "Ｔバック－８０",
-   "en": "",
-   "status": "todo",
+   "en": "T-Back-80",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -697,8 +697,8 @@
    "off": 589276,
    "len": 26,
    "jp": "ニャンニャン式軽戦車",
-   "en": "",
-   "status": "todo",
+   "en": "Nyan-Nyan Light Tank",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -707,8 +707,8 @@
    "off": 589346,
    "len": 26,
    "jp": "ＳＭ２ブラットジバクレイ",
-   "en": "",
-   "status": "todo",
+   "en": "SM2 Brad Kaboom-Ray",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -727,8 +727,8 @@
    "off": 589486,
    "len": 26,
    "jp": "ニャンニャンＮ１",
-   "en": "",
-   "status": "todo",
+   "en": "Nyan-Nyan N1",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -747,8 +747,8 @@
    "off": 589626,
    "len": 26,
    "jp": "ゲバゲバ",
-   "en": "",
-   "status": "todo",
+   "en": "GebaGeba",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -777,8 +777,8 @@
    "off": 589836,
    "len": 27,
    "jp": "トラック野郎",
-   "en": "",
-   "status": "todo",
+   "en": "Truck Rascal",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -787,8 +787,8 @@
    "off": 589906,
    "len": 27,
    "jp": "ジープ隊",
-   "en": "",
-   "status": "todo",
+   "en": "Jeep Unit",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -797,8 +797,8 @@
    "off": 589976,
    "len": 27,
    "jp": "ホキュウシャ",
-   "en": "",
-   "status": "todo",
+   "en": "Supply Truck",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -807,8 +807,8 @@
    "off": 590046,
    "len": 26,
    "jp": "パローランド",
-   "en": "",
-   "status": "todo",
+   "en": "Paroland",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -817,8 +817,8 @@
    "off": 590116,
    "len": 26,
    "jp": "ＳＭ－９ガスキン",
-   "en": "",
-   "status": "todo",
+   "en": "SM-9 Gaskin",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -827,8 +827,8 @@
    "off": 590186,
    "len": 26,
    "jp": "ポーク",
-   "en": "",
-   "status": "todo",
+   "en": "Pork",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -837,8 +837,8 @@
    "off": 590256,
    "len": 26,
    "jp": "ＳＭ－４ガネフル",
-   "en": "",
-   "status": "todo",
+   "en": "SM-4 Ganeful",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -847,8 +847,8 @@
    "off": 590326,
    "len": 26,
    "jp": "ＭＳ１０９イクワヨ",
-   "en": "",
-   "status": "todo",
+   "en": "MS109 I'm Comin'",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -857,8 +857,8 @@
    "off": 590396,
    "len": 26,
    "jp": "ＭＳ１１０イイワネー",
-   "en": "",
-   "status": "todo",
+   "en": "MS110 Feels Good",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -897,8 +897,8 @@
    "off": 590676,
    "len": 26,
    "jp": "ＡＤＥ・ランサー",
-   "en": "",
-   "status": "todo",
+   "en": "ADE Lancer",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -907,8 +907,8 @@
    "off": 590746,
    "len": 26,
    "jp": "スカットイッパツ",
-   "en": "",
-   "status": "todo",
+   "en": "Scud One-Shot",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -917,8 +917,8 @@
    "off": 590816,
    "len": 26,
    "jp": "Ｉ／Ｏ　Ｗａ！",
-   "en": "",
-   "status": "todo",
+   "en": "I/O Wa!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -927,8 +927,8 @@
    "off": 590886,
    "len": 26,
    "jp": "レミングヤード",
-   "en": "",
-   "status": "todo",
+   "en": "Lemming Yard",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -937,8 +937,8 @@
    "off": 590956,
    "len": 26,
    "jp": "ムンムンクレスタ",
-   "en": "",
-   "status": "todo",
+   "en": "Mun-Mun Cresta",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -947,8 +947,8 @@
    "off": 591026,
    "len": 26,
    "jp": "ヴァーヴァージュニア",
-   "en": "",
-   "status": "todo",
+   "en": "Va-Va Junior",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -957,8 +957,8 @@
    "off": 591096,
    "len": 27,
    "jp": "樫の木ノックス",
-   "en": "",
-   "status": "todo",
+   "en": "Oak Knox",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -967,8 +967,8 @@
    "off": 591166,
    "len": 26,
    "jp": "フォレスタルキング",
-   "en": "",
-   "status": "todo",
+   "en": "Forrestal King",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -977,8 +977,8 @@
    "off": 591236,
    "len": 26,
    "jp": "ビンビンダブル",
-   "en": "",
-   "status": "todo",
+   "en": "Vin-Vin Double",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -987,8 +987,8 @@
    "off": 591306,
    "len": 26,
    "jp": "キレルンバ！",
-   "en": "",
-   "status": "todo",
+   "en": "Kire-Rumba!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -997,8 +997,8 @@
    "off": 591376,
    "len": 27,
    "jp": "ゆーそー刑事ヤキウドン",
-   "en": "",
-   "status": "todo",
+   "en": "Transport Cop Yaki Udon",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1007,8 +1007,8 @@
    "off": 591446,
    "len": 26,
    "jp": "スターシップ",
-   "en": "",
-   "status": "todo",
+   "en": "Starship",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1017,8 +1017,8 @@
    "off": 591516,
    "len": 26,
    "jp": "ビクトリーＶターザン",
-   "en": "",
-   "status": "todo",
+   "en": "Victory V Tarzan",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1027,8 +1027,8 @@
    "off": 591586,
    "len": 27,
    "jp": "うすしおＦＣ",
-   "en": "",
-   "status": "todo",
+   "en": "Usushio FC",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1037,8 +1037,8 @@
    "off": 591656,
    "len": 27,
    "jp": "猫潜水艦ニャニャーント",
-   "en": "",
-   "status": "todo",
+   "en": "Cat Sub Nyanyaant",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1047,8 +1047,8 @@
    "off": 591726,
    "len": 27,
    "jp": "猫空母ドザえもん",
-   "en": "",
-   "status": "todo",
+   "en": "Catrier Doza-emon",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1057,8 +1057,8 @@
    "off": 591796,
    "len": 27,
    "jp": "猫戦艦ウチガホンケヤ",
-   "en": "",
-   "status": "todo",
+   "en": "Cat Battleship Original",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1067,8 +1067,8 @@
    "off": 591866,
    "len": 27,
    "jp": "猫駆逐艦あまつさえ",
-   "en": "",
-   "status": "todo",
+   "en": "Cat Destroyer Also",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1077,8 +1077,8 @@
    "off": 591936,
    "len": 26,
    "jp": "ペンタロウＸ",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro X",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1087,8 +1087,8 @@
    "off": 592006,
    "len": 26,
    "jp": "ブタシオｍｋ２",
-   "en": "",
-   "status": "todo",
+   "en": "Salt Pork mk2",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1097,8 +1097,8 @@
    "off": 592076,
    "len": 26,
    "jp": "メローラ",
-   "en": "",
-   "status": "todo",
+   "en": "Melora",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1107,8 +1107,8 @@
    "off": 592146,
    "len": 26,
    "jp": "グレート・ニャムーン",
-   "en": "",
-   "status": "todo",
+   "en": "Great Nyamoon",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1117,8 +1117,8 @@
    "off": 592216,
    "len": 26,
    "jp": "バニーちゃん",
-   "en": "",
-   "status": "todo",
+   "en": "Bunny-chan",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1127,8 +1127,8 @@
    "off": 592286,
    "len": 26,
    "jp": "ビックサンダーモアイ",
-   "en": "",
-   "status": "todo",
+   "en": "Big Thunder Moai",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1137,8 +1137,8 @@
    "off": 592356,
    "len": 26,
    "jp": "コイツジャイアント",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu Giant",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1147,8 +1147,8 @@
    "off": 592426,
    "len": 26,
    "jp": "ラッキー君",
-   "en": "",
-   "status": "todo",
+   "en": "Lucky-kun",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1157,8 +1157,8 @@
    "off": 592496,
    "len": 26,
    "jp": "ヤッターバウ",
-   "en": "",
-   "status": "todo",
+   "en": "Yatter-Bow",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1167,8 +1167,8 @@
    "off": 592566,
    "len": 26,
    "jp": "富嶽ビックバイパー",
-   "en": "",
-   "status": "todo",
+   "en": "Fugaku Vic Viper",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1177,8 +1177,8 @@
    "off": 592636,
    "len": 26,
    "jp": "フォートレスツインビー",
-   "en": "",
-   "status": "todo",
+   "en": "Fortress TwinBee",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1187,8 +1187,8 @@
    "off": 592720,
    "len": 14,
    "jp": "要撃機",
-   "en": "",
-   "status": "todo",
+   "en": "Interc.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8004ae7c",
@@ -1210,8 +1210,8 @@
    "off": 592734,
    "len": 14,
    "jp": "戦闘機",
-   "en": "",
-   "status": "todo",
+   "en": "Fighter",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1220,8 +1220,8 @@
    "off": 592748,
    "len": 14,
    "jp": "攻撃機",
-   "en": "",
-   "status": "todo",
+   "en": "Attack",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1230,8 +1230,8 @@
    "off": 592762,
    "len": 14,
    "jp": "戦闘攻撃機",
-   "en": "",
-   "status": "todo",
+   "en": "Fighter-Att.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1240,8 +1240,8 @@
    "off": 592776,
    "len": 14,
    "jp": "スケルス",
-   "en": "",
-   "status": "todo",
+   "en": "Stealthru",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1250,8 +1250,8 @@
    "off": 592790,
    "len": 14,
    "jp": "輸送爆撃機",
-   "en": "",
-   "status": "todo",
+   "en": "Tr. Bomber",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1260,8 +1260,8 @@
    "off": 592804,
    "len": 14,
    "jp": "攻撃ヘリ",
-   "en": "",
-   "status": "todo",
+   "en": "Atk Heli",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1270,8 +1270,8 @@
    "off": 592818,
    "len": 14,
    "jp": "空中歩兵",
-   "en": "",
-   "status": "todo",
+   "en": "Air Inf.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1280,8 +1280,8 @@
    "off": 592832,
    "len": 14,
    "jp": "主力戦車",
-   "en": "",
-   "status": "todo",
+   "en": "MainTank",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1290,8 +1290,8 @@
    "off": 592846,
    "len": 14,
    "jp": "軽戦車",
-   "en": "",
-   "status": "todo",
+   "en": "LtTank",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1300,8 +1300,8 @@
    "off": 592860,
    "len": 14,
    "jp": "歩兵戦車",
-   "en": "",
-   "status": "todo",
+   "en": "Inf. Tank",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1310,8 +1310,8 @@
    "off": 592874,
    "len": 14,
    "jp": "自走対空砲",
-   "en": "",
-   "status": "todo",
+   "en": "SP AA Gun",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1320,8 +1320,8 @@
    "off": 592888,
    "len": 14,
    "jp": "機械化歩兵",
-   "en": "",
-   "status": "todo",
+   "en": "Mech Inf.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1330,8 +1330,8 @@
    "off": 592902,
    "len": 14,
    "jp": "ジープ",
-   "en": "",
-   "status": "todo",
+   "en": "Jeep",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1340,8 +1340,8 @@
    "off": 592916,
    "len": 14,
    "jp": "補給車",
-   "en": "",
-   "status": "todo",
+   "en": "Supply",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1350,8 +1350,8 @@
    "off": 592930,
    "len": 14,
    "jp": "対空ミサイル",
-   "en": "",
-   "status": "todo",
+   "en": "AA Missile",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1360,8 +1360,8 @@
    "off": 592944,
    "len": 14,
    "jp": "対空ミサイル",
-   "en": "",
-   "status": "todo",
+   "en": "AA Missile",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1370,8 +1370,8 @@
    "off": 592958,
    "len": 14,
    "jp": "自走砲",
-   "en": "",
-   "status": "todo",
+   "en": "SP Gun",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1380,8 +1380,8 @@
    "off": 592972,
    "len": 14,
    "jp": "自走ロケット",
-   "en": "",
-   "status": "todo",
+   "en": "SP Rocket",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1390,8 +1390,8 @@
    "off": 592986,
    "len": 14,
    "jp": "自走ロケット",
-   "en": "",
-   "status": "todo",
+   "en": "SP Rocket",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1400,8 +1400,8 @@
    "off": 593000,
    "len": 14,
    "jp": "戦　艦",
-   "en": "",
-   "status": "todo",
+   "en": "B-ship",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1410,8 +1410,8 @@
    "off": 593014,
    "len": 14,
    "jp": "駆逐艦",
-   "en": "",
-   "status": "todo",
+   "en": "Destr.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1420,8 +1420,8 @@
    "off": 593028,
    "len": 14,
    "jp": "空　母",
-   "en": "",
-   "status": "todo",
+   "en": "Carrier",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1430,8 +1430,8 @@
    "off": 593042,
    "len": 14,
    "jp": "輸送艦",
-   "en": "",
-   "status": "todo",
+   "en": "Transp.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1440,8 +1440,8 @@
    "off": 593056,
    "len": 14,
    "jp": "潜水艦",
-   "en": "",
-   "status": "todo",
+   "en": "Sub",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1450,8 +1450,8 @@
    "off": 593070,
    "len": 14,
    "jp": "極上ロボ",
-   "en": "",
-   "status": "todo",
+   "en": "DX Robo",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1460,8 +1460,8 @@
    "off": 593084,
    "len": 14,
    "jp": "極上ロボ",
-   "en": "",
-   "status": "todo",
+   "en": "DX Robo",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1470,8 +1470,8 @@
    "off": 593098,
    "len": 14,
    "jp": "極上ロボ",
-   "en": "",
-   "status": "todo",
+   "en": "DX Robo",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1480,8 +1480,8 @@
    "off": 593112,
    "len": 14,
    "jp": "極上ロボ",
-   "en": "",
-   "status": "todo",
+   "en": "DX Robo",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1490,8 +1490,8 @@
    "off": 593126,
    "len": 14,
    "jp": "極上ロボ",
-   "en": "",
-   "status": "todo",
+   "en": "DX Robo",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1500,8 +1500,8 @@
    "off": 593140,
    "len": 14,
    "jp": "極上ロボ",
-   "en": "",
-   "status": "todo",
+   "en": "DX Robo",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1510,8 +1510,8 @@
    "off": 593154,
    "len": 14,
    "jp": "極上ロボ",
-   "en": "",
-   "status": "todo",
+   "en": "DX Robo",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1520,8 +1520,8 @@
    "off": 593168,
    "len": 14,
    "jp": "猫型決戦兵器",
-   "en": "",
-   "status": "todo",
+   "en": "Cat Weapon",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1530,8 +1530,8 @@
    "off": 593182,
    "len": 14,
    "jp": "極上ロボ",
-   "en": "",
-   "status": "todo",
+   "en": "DX Robo",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1540,8 +1540,8 @@
    "off": 593196,
    "len": 14,
    "jp": "秘密兵器",
-   "en": "",
-   "status": "todo",
+   "en": "Secret",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1550,8 +1550,8 @@
    "off": 593210,
    "len": 14,
    "jp": "秘密兵器",
-   "en": "",
-   "status": "todo",
+   "en": "Secret",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1560,8 +1560,8 @@
    "off": 593224,
    "len": 16,
    "jp": "アイテム",
-   "en": "",
-   "status": "todo",
+   "en": "Item",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1570,8 +1570,8 @@
    "off": 593240,
    "len": 18,
    "jp": "ヒップアップ",
-   "en": "",
-   "status": "todo",
+   "en": "Hip-Up",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8004fbc0"
@@ -1582,8 +1582,8 @@
    "off": 593258,
    "len": 18,
    "jp": "ヒップアップＺ",
-   "en": "",
-   "status": "todo",
+   "en": "Hip-Up Z",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8004fbe0"
@@ -1594,8 +1594,8 @@
    "off": 593312,
    "len": 17,
    "jp": "機銃",
-   "en": "",
-   "status": "todo",
+   "en": "MG",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8001bae8",
@@ -1629,8 +1629,8 @@
    "off": 593340,
    "len": 16,
    "jp": "２０バルカン",
-   "en": "",
-   "status": "todo",
+   "en": "20 Vulcan",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1639,8 +1639,8 @@
    "off": 593368,
    "len": 16,
    "jp": "３０バルカン",
-   "en": "",
-   "status": "todo",
+   "en": "30 Vulcan",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1649,8 +1649,8 @@
    "off": 593396,
    "len": 17,
    "jp": "５００爆弾",
-   "en": "",
-   "status": "todo",
+   "en": "500 Bomb",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1659,8 +1659,8 @@
    "off": 593424,
    "len": 17,
    "jp": "１０００爆弾",
-   "en": "",
-   "status": "todo",
+   "en": "1000 Bomb",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1669,8 +1669,8 @@
    "off": 593452,
    "len": 17,
    "jp": "誘導爆弾",
-   "en": "",
-   "status": "todo",
+   "en": "Guided",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1679,8 +1679,8 @@
    "off": 593480,
    "len": 16,
    "jp": "スパロー",
-   "en": "",
-   "status": "todo",
+   "en": "Sparrow",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1689,8 +1689,8 @@
    "off": 593508,
    "len": 16,
    "jp": "Ｓワインダー",
-   "en": "",
-   "status": "todo",
+   "en": "S-Winder",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1699,8 +1699,8 @@
    "off": 593536,
    "len": 16,
    "jp": "フェニックス",
-   "en": "",
-   "status": "todo",
+   "en": "Phoenix",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1709,8 +1709,8 @@
    "off": 593564,
    "len": 17,
    "jp": "ヘルファイヤー",
-   "en": "",
-   "status": "todo",
+   "en": "Hellfire",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1719,8 +1719,8 @@
    "off": 593592,
    "len": 17,
    "jp": "２５ライフル",
-   "en": "",
-   "status": "todo",
+   "en": "25 Rifle",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1729,8 +1729,8 @@
    "off": 593620,
    "len": 17,
    "jp": "７６ライフル",
-   "en": "",
-   "status": "todo",
+   "en": "76 Rifle",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1739,8 +1739,8 @@
    "off": 593648,
    "len": 17,
    "jp": "８５ライフル",
-   "en": "",
-   "status": "todo",
+   "en": "85 Rifle",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1749,8 +1749,8 @@
    "off": 593676,
    "len": 17,
    "jp": "９０ライフル",
-   "en": "",
-   "status": "todo",
+   "en": "90 Rifle",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1759,8 +1759,8 @@
    "off": 593704,
    "len": 17,
    "jp": "１００ライフル",
-   "en": "",
-   "status": "todo",
+   "en": "100 Rifle",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1769,8 +1769,8 @@
    "off": 593732,
    "len": 17,
    "jp": "１０５ライフル",
-   "en": "",
-   "status": "todo",
+   "en": "105 Rifle",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1779,8 +1779,8 @@
    "off": 593760,
    "len": 17,
    "jp": "１２５ライフル",
-   "en": "",
-   "status": "todo",
+   "en": "125 Rifle",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1789,8 +1789,8 @@
    "off": 593788,
    "len": 17,
    "jp": "スワッター",
-   "en": "",
-   "status": "todo",
+   "en": "Swatter",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1809,8 +1809,8 @@
    "off": 593844,
    "len": 16,
    "jp": "３５ｍｍ対空",
-   "en": "",
-   "status": "todo",
+   "en": "35mm AA",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1819,8 +1819,8 @@
    "off": 593872,
    "len": 16,
    "jp": "４０ｍｍ対空",
-   "en": "",
-   "status": "todo",
+   "en": "40mm AA",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1829,8 +1829,8 @@
    "off": 593900,
    "len": 16,
    "jp": "５７ｍｍ対空",
-   "en": "",
-   "status": "todo",
+   "en": "57mm AA",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1839,8 +1839,8 @@
    "off": 593928,
    "len": 16,
    "jp": "パローランド",
-   "en": "",
-   "status": "todo",
+   "en": "Paroland",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1849,8 +1849,8 @@
    "off": 593956,
    "len": 16,
    "jp": "ガスキン",
-   "en": "",
-   "status": "todo",
+   "en": "Gaskin",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1859,8 +1859,8 @@
    "off": 593984,
    "len": 16,
    "jp": "ポーク",
-   "en": "",
-   "status": "todo",
+   "en": "Pork",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1869,8 +1869,8 @@
    "off": 594012,
    "len": 16,
    "jp": "ガネフル",
-   "en": "",
-   "status": "todo",
+   "en": "Ganeful",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1879,8 +1879,8 @@
    "off": 594040,
    "len": 17,
    "jp": "１５５リュウ弾",
-   "en": "",
-   "status": "todo",
+   "en": "155 HE Shell",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1889,8 +1889,8 @@
    "off": 594068,
    "len": 17,
    "jp": "２２７ロケット",
-   "en": "",
-   "status": "todo",
+   "en": "227 Rocket",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1899,8 +1899,8 @@
    "off": 594096,
    "len": 17,
    "jp": "３００ロケット",
-   "en": "",
-   "status": "todo",
+   "en": "300 Rocket",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1909,8 +1909,8 @@
    "off": 594124,
    "len": 17,
    "jp": "ランサー",
-   "en": "",
-   "status": "todo",
+   "en": "Lancer",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1919,8 +1919,8 @@
    "off": 594152,
    "len": 17,
    "jp": "スカット",
-   "en": "",
-   "status": "todo",
+   "en": "Scud",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1929,8 +1929,8 @@
    "off": 594180,
    "len": 18,
    "jp": "トマホーク",
-   "en": "",
-   "status": "todo",
+   "en": "Tomahawk",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1939,8 +1939,8 @@
    "off": 594208,
    "len": 18,
    "jp": "ハープーン",
-   "en": "",
-   "status": "todo",
+   "en": "Harpoon",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1949,8 +1949,8 @@
    "off": 594236,
    "len": 16,
    "jp": "６０ｍｍ砲",
-   "en": "",
-   "status": "todo",
+   "en": "60mm Gun",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1959,8 +1959,8 @@
    "off": 594264,
    "len": 16,
    "jp": "１３０ｍｍ砲",
-   "en": "",
-   "status": "todo",
+   "en": "130mm Gun",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1979,8 +1979,8 @@
    "off": 594320,
    "len": 16,
    "jp": "ファランクス",
-   "en": "",
-   "status": "todo",
+   "en": "Phalanx",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -1989,8 +1989,8 @@
    "off": 594348,
    "len": 18,
    "jp": "Ｐフィッシュ",
-   "en": "",
-   "status": "todo",
+   "en": "P-Fish",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2009,8 +2009,8 @@
    "off": 594404,
    "len": 16,
    "jp": "ミニペンギン",
-   "en": "",
-   "status": "todo",
+   "en": "Mini-Penguin",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2019,8 +2019,8 @@
    "off": 594432,
    "len": 16,
    "jp": "かみつき",
-   "en": "",
-   "status": "todo",
+   "en": "Bite",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2029,8 +2029,8 @@
    "off": 594460,
    "len": 16,
    "jp": "スッピンピン",
-   "en": "",
-   "status": "todo",
+   "en": "Bare Spin",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2039,8 +2039,8 @@
    "off": 594488,
    "len": 17,
    "jp": "パンチ",
-   "en": "",
-   "status": "todo",
+   "en": "Punch",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2049,8 +2049,8 @@
    "off": 594516,
    "len": 16,
    "jp": "ミサイル",
-   "en": "",
-   "status": "todo",
+   "en": "Missile",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2059,8 +2059,8 @@
    "off": 594544,
    "len": 16,
    "jp": "アイビーム",
-   "en": "",
-   "status": "todo",
+   "en": "Eye Beam",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2069,8 +2069,8 @@
    "off": 594572,
    "len": 17,
    "jp": "フミツブシ",
-   "en": "",
-   "status": "todo",
+   "en": "Stomp",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2079,8 +2079,8 @@
    "off": 594600,
    "len": 16,
    "jp": "フラッシュ",
-   "en": "",
-   "status": "todo",
+   "en": "Flash",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2089,8 +2089,8 @@
    "off": 594628,
    "len": 16,
    "jp": "ヨシオ",
-   "en": "",
-   "status": "todo",
+   "en": "Yoshio",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2099,8 +2099,8 @@
    "off": 594656,
    "len": 16,
    "jp": "エイモス",
-   "en": "",
-   "status": "todo",
+   "en": "Amos",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2109,8 +2109,8 @@
    "off": 594684,
    "len": 16,
    "jp": "アペックス",
-   "en": "",
-   "status": "todo",
+   "en": "Apex",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2119,8 +2119,8 @@
    "off": 594712,
    "len": 16,
    "jp": "アフィッド",
-   "en": "",
-   "status": "todo",
+   "en": "Aphid",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2129,8 +2129,8 @@
    "off": 594740,
    "len": 17,
    "jp": "ヤリミサイル",
-   "en": "",
-   "status": "todo",
+   "en": "Spear Missile",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2139,8 +2139,8 @@
    "off": 594768,
    "len": 17,
    "jp": "イカズチ",
-   "en": "",
-   "status": "todo",
+   "en": "Thunder",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2149,8 +2149,8 @@
    "off": 594796,
    "len": 17,
    "jp": "タケノコ",
-   "en": "",
-   "status": "todo",
+   "en": "Bamboo",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2159,8 +2159,8 @@
    "off": 594824,
    "len": 17,
    "jp": "２０３リュウ弾",
-   "en": "",
-   "status": "todo",
+   "en": "203 HE Shell",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2169,8 +2169,8 @@
    "off": 594852,
    "len": 17,
    "jp": "スパイラル",
-   "en": "",
-   "status": "todo",
+   "en": "Spiral",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2189,8 +2189,8 @@
    "off": 594908,
    "len": 28,
    "jp": "ないない１６",
-   "en": "",
-   "status": "todo",
+   "en": "Nai-Nai 16",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2199,8 +2199,8 @@
    "off": 594936,
    "len": 16,
    "jp": "かつぶしボンパ",
-   "en": "",
-   "status": "todo",
+   "en": "Bonito Bomber",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2209,8 +2209,8 @@
    "off": 594964,
    "len": 16,
    "jp": "ラッキー",
-   "en": "",
-   "status": "todo",
+   "en": "Lucky",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2219,8 +2219,8 @@
    "off": 594992,
    "len": 16,
    "jp": "超ラッキー",
-   "en": "",
-   "status": "todo",
+   "en": "Ultra Lucky",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2229,8 +2229,8 @@
    "off": 595020,
    "len": 16,
    "jp": "！？・・・",
-   "en": "",
-   "status": "todo",
+   "en": "!?...",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2239,8 +2239,8 @@
    "off": 595048,
    "len": 16,
    "jp": "バード",
-   "en": "",
-   "status": "todo",
+   "en": "Bird",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2249,8 +2249,8 @@
    "off": 595076,
    "len": 26,
    "jp": "まもり",
-   "en": "",
-   "status": "todo",
+   "en": "Guard",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2259,8 +2259,8 @@
    "off": 595812,
    "len": 10,
    "jp": "国　王",
-   "en": "",
-   "status": "todo",
+   "en": "King",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8004cc30",
@@ -2277,8 +2277,8 @@
    "off": 595822,
    "len": 10,
    "jp": "帝　王",
-   "en": "",
-   "status": "todo",
+   "en": "Emper.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2287,8 +2287,8 @@
    "off": 595832,
    "len": 10,
    "jp": "総　統",
-   "en": "",
-   "status": "todo",
+   "en": "Fuhrer",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2297,8 +2297,8 @@
    "off": 595842,
    "len": 10,
    "jp": "大統領",
-   "en": "",
-   "status": "todo",
+   "en": "Pres.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2307,8 +2307,8 @@
    "off": 595852,
    "len": 10,
    "jp": "書記長",
-   "en": "",
-   "status": "todo",
+   "en": "GenSec",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2317,8 +2317,8 @@
    "off": 595862,
    "len": 10,
    "jp": "首　長",
-   "en": "",
-   "status": "todo",
+   "en": "Emir",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2327,8 +2327,8 @@
    "off": 595872,
    "len": 10,
    "jp": "党　首",
-   "en": "",
-   "status": "todo",
+   "en": "Leader",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2337,8 +2337,8 @@
    "off": 595882,
    "len": 10,
    "jp": "総　理",
-   "en": "",
-   "status": "todo",
+   "en": "PM",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2347,8 +2347,8 @@
    "off": 595892,
    "len": 10,
    "jp": "大帝王",
-   "en": "",
-   "status": "todo",
+   "en": "Gr.Emp.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2357,8 +2357,8 @@
    "off": 595902,
    "len": 10,
    "jp": "国防長官",
-   "en": "",
-   "status": "todo",
+   "en": "Def.Sec.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2367,8 +2367,8 @@
    "off": 595912,
    "len": 10,
    "jp": "大　将",
-   "en": "",
-   "status": "todo",
+   "en": "Gen.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2377,8 +2377,8 @@
    "off": 595922,
    "len": 10,
    "jp": "中　将",
-   "en": "",
-   "status": "todo",
+   "en": "Lt.Gen.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2387,8 +2387,8 @@
    "off": 595932,
    "len": 10,
    "jp": "少　将",
-   "en": "",
-   "status": "todo",
+   "en": "Mj.Gen.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2397,8 +2397,8 @@
    "off": 595942,
    "len": 10,
    "jp": "大　佐",
-   "en": "",
-   "status": "todo",
+   "en": "Colonel",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2407,8 +2407,8 @@
    "off": 595952,
    "len": 10,
    "jp": "中　佐",
-   "en": "",
-   "status": "todo",
+   "en": "Lt.Col.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2417,8 +2417,8 @@
    "off": 595962,
    "len": 10,
    "jp": "少　佐",
-   "en": "",
-   "status": "todo",
+   "en": "Major",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2427,8 +2427,8 @@
    "off": 595972,
    "len": 10,
    "jp": "大　尉",
-   "en": "",
-   "status": "todo",
+   "en": "Capt.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2437,8 +2437,8 @@
    "off": 595982,
    "len": 10,
    "jp": "中　尉",
-   "en": "",
-   "status": "todo",
+   "en": "1st Lt.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2447,8 +2447,8 @@
    "off": 595992,
    "len": 12,
    "jp": "少　尉",
-   "en": "",
-   "status": "todo",
+   "en": "2nd Lt.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2457,8 +2457,8 @@
    "off": 596004,
    "len": 8,
    "jp": "保守型",
-   "en": "",
-   "status": "todo",
+   "en": "Steady",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8004cc58",
@@ -2471,8 +2471,8 @@
    "off": 596012,
    "len": 8,
    "jp": "慎重型",
-   "en": "",
-   "status": "todo",
+   "en": "Wary",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2481,8 +2481,8 @@
    "off": 596020,
    "len": 8,
    "jp": "積極型",
-   "en": "",
-   "status": "todo",
+   "en": "Bold",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2491,8 +2491,8 @@
    "off": 596028,
    "len": 8,
    "jp": "攻撃型",
-   "en": "",
-   "status": "todo",
+   "en": "Attack",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2501,8 +2501,8 @@
    "off": 596036,
    "len": 10,
    "jp": "製油所",
-   "en": "",
-   "status": "todo",
+   "en": "Refin.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8007f98c",
@@ -2514,8 +2514,8 @@
    "off": 596046,
    "len": 10,
    "jp": "工場",
-   "en": "",
-   "status": "todo",
+   "en": "Fact.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a10d0"
@@ -2526,8 +2526,8 @@
    "off": 596056,
    "len": 10,
    "jp": "ネコの町",
-   "en": "",
-   "status": "todo",
+   "en": "Cat Town",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a10d4"
@@ -2538,8 +2538,8 @@
    "off": 596066,
    "len": 10,
    "jp": "基地",
-   "en": "",
-   "status": "todo",
+   "en": "Base",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a10d8"
@@ -2550,8 +2550,8 @@
    "off": 596076,
    "len": 10,
    "jp": "都市",
-   "en": "",
-   "status": "todo",
+   "en": "City",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a10dc"
@@ -2562,8 +2562,8 @@
    "off": 596086,
    "len": 10,
    "jp": "空港",
-   "en": "",
-   "status": "todo",
+   "en": "Airpt",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a10e0"
@@ -2574,8 +2574,8 @@
    "off": 596096,
    "len": 10,
    "jp": "ネコの港",
-   "en": "",
-   "status": "todo",
+   "en": "Cat Port",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a10e4"
@@ -2586,8 +2586,8 @@
    "off": 596106,
    "len": 10,
    "jp": "港",
-   "en": "",
-   "status": "todo",
+   "en": "Pt",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a10e8"
@@ -2598,8 +2598,8 @@
    "off": 596116,
    "len": 10,
    "jp": "森林",
-   "en": "",
-   "status": "todo",
+   "en": "Frst",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a10ec",
@@ -2614,8 +2614,8 @@
    "off": 596126,
    "len": 10,
    "jp": "ヤシの木",
-   "en": "",
-   "status": "todo",
+   "en": "Palms",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a1100"
@@ -2626,8 +2626,8 @@
    "off": 596136,
    "len": 10,
    "jp": "竹やぶ",
-   "en": "",
-   "status": "todo",
+   "en": "Bamb.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a1104"
@@ -2638,8 +2638,8 @@
    "off": 596146,
    "len": 10,
    "jp": "破壊基地",
-   "en": "",
-   "status": "todo",
+   "en": "Ruins",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a1108"
@@ -2663,8 +2663,8 @@
    "off": 596274,
    "len": 6,
    "jp": "橋",
-   "en": "",
-   "status": "todo",
+   "en": "Br",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a1158"
@@ -2675,8 +2675,8 @@
    "off": 596280,
    "len": 6,
    "jp": "道路",
-   "en": "",
-   "status": "todo",
+   "en": "Road",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a115c",
@@ -2691,8 +2691,8 @@
    "off": 596286,
    "len": 6,
    "jp": "川",
-   "en": "",
-   "status": "todo",
+   "en": "Rv",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a1160",
@@ -2705,8 +2705,8 @@
    "off": 596348,
    "len": 6,
    "jp": "山（",
-   "en": "",
-   "status": "todo",
+   "en": "Mt(",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a1198",
@@ -2731,8 +2731,8 @@
    "off": 596384,
    "len": 12,
    "jp": "海",
-   "en": "",
-   "status": "todo",
+   "en": "Se",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8007f844",
@@ -2744,8 +2744,8 @@
    "off": 596396,
    "len": 12,
    "jp": "海岸",
-   "en": "",
-   "status": "todo",
+   "en": "Cst.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a1290"
@@ -2756,8 +2756,8 @@
    "off": 596408,
    "len": 12,
    "jp": "岩場",
-   "en": "",
-   "status": "todo",
+   "en": "Rock",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a12a0",
@@ -2769,8 +2769,8 @@
    "off": 596420,
    "len": 12,
    "jp": "砂浜",
-   "en": "",
-   "status": "todo",
+   "en": "Bch.",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2779,8 +2779,8 @@
    "off": 596432,
    "len": 12,
    "jp": "草地",
-   "en": "",
-   "status": "todo",
+   "en": "Turf",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a1294",
@@ -2796,8 +2796,8 @@
    "off": 596444,
    "len": 12,
    "jp": "森林",
-   "en": "",
-   "status": "todo",
+   "en": "Frst",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a12ac",
@@ -2810,8 +2810,8 @@
    "off": 596456,
    "len": 12,
    "jp": "土面",
-   "en": "",
-   "status": "todo",
+   "en": "Dirt",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a1298",
@@ -2824,8 +2824,8 @@
    "off": 596468,
    "len": 12,
    "jp": "草原",
-   "en": "",
-   "status": "todo",
+   "en": "Plain",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a12cc",
@@ -2838,8 +2838,8 @@
    "off": 596480,
    "len": 12,
    "jp": "ピラミッド",
-   "en": "",
-   "status": "todo",
+   "en": "Pyramid",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a12b8"
@@ -2850,8 +2850,8 @@
    "off": 596492,
    "len": 12,
    "jp": "川",
-   "en": "",
-   "status": "todo",
+   "en": "Rv",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a12c4",
@@ -2863,8 +2863,8 @@
    "off": 596504,
    "len": 12,
    "jp": "神殿",
-   "en": "",
-   "status": "todo",
+   "en": "Tmpl",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a12bc",
@@ -2881,8 +2881,8 @@
    "off": 596516,
    "len": 12,
    "jp": "草原",
-   "en": "",
-   "status": "todo",
+   "en": "Plain",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a1308"
@@ -2893,8 +2893,8 @@
    "off": 596528,
    "len": 12,
    "jp": "水門",
-   "en": "",
-   "status": "todo",
+   "en": "Gate",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a12b4"
@@ -2905,8 +2905,8 @@
    "off": 596540,
    "len": 12,
    "jp": "砂地",
-   "en": "",
-   "status": "todo",
+   "en": "Sand",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a129c",
@@ -2919,8 +2919,8 @@
    "off": 596552,
    "len": 12,
    "jp": "採掘塔",
-   "en": "",
-   "status": "todo",
+   "en": "Derrick",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a12c0",
@@ -2932,8 +2932,8 @@
    "off": 596564,
    "len": 12,
    "jp": "とりで",
-   "en": "",
-   "status": "todo",
+   "en": "Fort",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a12b0"
@@ -2944,8 +2944,8 @@
    "off": 596576,
    "len": 12,
    "jp": "雪原",
-   "en": "",
-   "status": "todo",
+   "en": "Snw",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a12a4",
@@ -2957,8 +2957,8 @@
    "off": 596588,
    "len": 12,
    "jp": "氷地帯",
-   "en": "",
-   "status": "todo",
+   "en": "Ice",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800a12a8",
@@ -2984,8 +2984,8 @@
    "off": 596960,
    "len": 8,
    "jp": "です",
-   "en": "",
-   "status": "todo",
+   "en": ".",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -2994,8 +2994,8 @@
    "off": 596968,
    "len": 8,
    "jp": "だね",
-   "en": "",
-   "status": "todo",
+   "en": ", eh",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3004,8 +3004,8 @@
    "off": 596976,
    "len": 8,
    "jp": "だな",
-   "en": "",
-   "status": "todo",
+   "en": " huh",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3024,8 +3024,8 @@
    "off": 596992,
    "len": 8,
    "jp": "かな",
-   "en": "",
-   "status": "todo",
+   "en": "...?",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3034,8 +3034,8 @@
    "off": 597000,
    "len": 8,
    "jp": "だよ",
-   "en": "",
-   "status": "todo",
+   "en": "!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3044,8 +3044,8 @@
    "off": 597008,
    "len": 8,
    "jp": "でポン",
-   "en": "",
-   "status": "todo",
+   "en": "-pon",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3054,8 +3054,8 @@
    "off": 597016,
    "len": 8,
    "jp": "だ！",
-   "en": "",
-   "status": "todo",
+   "en": "!!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3064,8 +3064,8 @@
    "off": 597024,
    "len": 8,
    "jp": "っす！",
-   "en": "",
-   "status": "todo",
+   "en": "sir!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3074,8 +3074,8 @@
    "off": 597032,
    "len": 8,
    "jp": "ね",
-   "en": "",
-   "status": "todo",
+   "en": "eh",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3084,8 +3084,8 @@
    "off": 597040,
    "len": 8,
    "jp": "よ",
-   "en": "",
-   "status": "todo",
+   "en": "!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3094,8 +3094,8 @@
    "off": 597048,
    "len": 8,
    "jp": "よ！",
-   "en": "",
-   "status": "todo",
+   "en": "yo!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3104,8 +3104,8 @@
    "off": 597056,
    "len": 8,
    "jp": "で～す",
-   "en": "",
-   "status": "todo",
+   "en": "yup!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3114,8 +3114,8 @@
    "off": 597064,
    "len": 8,
    "jp": "と思う",
-   "en": "",
-   "status": "todo",
+   "en": "I feel",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3124,8 +3124,8 @@
    "off": 597072,
    "len": 8,
    "jp": "でしょ",
-   "en": "",
-   "status": "todo",
+   "en": "right?",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3134,8 +3134,8 @@
    "off": 597080,
    "len": 8,
    "jp": "だろう",
-   "en": "",
-   "status": "todo",
+   "en": "I bet",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3144,8 +3144,8 @@
    "off": 597088,
    "len": 8,
    "jp": "だぜ",
-   "en": "",
-   "status": "todo",
+   "en": "see",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3154,8 +3154,8 @@
    "off": 597096,
    "len": 8,
    "jp": "だもん",
-   "en": "",
-   "status": "todo",
+   "en": "hmph",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3164,8 +3164,8 @@
    "off": 597104,
    "len": 8,
    "jp": "っぽい",
-   "en": "",
-   "status": "todo",
+   "en": "-ish",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3174,8 +3174,8 @@
    "off": 597112,
    "len": 8,
    "jp": "らしい",
-   "en": "",
-   "status": "todo",
+   "en": "I hear",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3184,8 +3184,8 @@
    "off": 597120,
    "len": 8,
    "jp": "のよう",
-   "en": "",
-   "status": "todo",
+   "en": "seems",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3194,8 +3194,8 @@
    "off": 597128,
    "len": 8,
    "jp": "なの",
-   "en": "",
-   "status": "todo",
+   "en": "dear",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3204,8 +3204,8 @@
    "off": 597136,
    "len": 8,
    "jp": "ってか",
-   "en": "",
-   "status": "todo",
+   "en": "like",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3214,8 +3214,8 @@
    "off": 597144,
    "len": 8,
    "jp": "ざます",
-   "en": "",
-   "status": "todo",
+   "en": "dahlin",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3224,8 +3224,8 @@
    "off": 597152,
    "len": 8,
    "jp": "やね",
-   "en": "",
-   "status": "todo",
+   "en": "innit",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3234,8 +3234,8 @@
    "off": 597160,
    "len": 8,
    "jp": "よ～ん",
-   "en": "",
-   "status": "todo",
+   "en": "yooo!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3244,8 +3244,8 @@
    "off": 597168,
    "len": 8,
    "jp": "じゃん",
-   "en": "",
-   "status": "todo",
+   "en": "duh",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3254,8 +3254,8 @@
    "off": 597176,
    "len": 8,
    "jp": "だろ",
-   "en": "",
-   "status": "todo",
+   "en": "huh?",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3264,8 +3264,8 @@
    "off": 597184,
    "len": 8,
    "jp": "みたい",
-   "en": "",
-   "status": "todo",
+   "en": "sorta",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3274,8 +3274,8 @@
    "off": 597192,
    "len": 8,
    "jp": "なのだ",
-   "en": "",
-   "status": "todo",
+   "en": "I say",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3284,8 +3284,8 @@
    "off": 597200,
    "len": 8,
    "jp": "～",
-   "en": "",
-   "status": "todo",
+   "en": "!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3294,8 +3294,8 @@
    "off": 597208,
    "len": 20,
    "jp": "耐えてみせます！！",
-   "en": "",
-   "status": "todo",
+   "en": "I'll endure this!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8005bfb4"
@@ -3306,8 +3306,8 @@
    "off": 597228,
    "len": 20,
    "jp": "なすすべなし",
-   "en": "",
-   "status": "todo",
+   "en": "No way out",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3316,8 +3316,8 @@
    "off": 597248,
    "len": 20,
    "jp": "手も足もでません",
-   "en": "",
-   "status": "todo",
+   "en": "Tied hand and foot",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3326,8 +3326,8 @@
    "off": 597268,
    "len": 20,
    "jp": "なにもできません",
-   "en": "",
-   "status": "todo",
+   "en": "Can't do a thing",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3336,8 +3336,8 @@
    "off": 597288,
    "len": 20,
    "jp": "ひきょうもの！！",
-   "en": "",
-   "status": "todo",
+   "en": "You coward!!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3346,8 +3346,8 @@
    "off": 597308,
    "len": 20,
    "jp": "あとでみてろよ",
-   "en": "",
-   "status": "todo",
+   "en": "Just you wait",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3356,8 +3356,8 @@
    "off": 597328,
    "len": 20,
    "jp": "反撃できません",
-   "en": "",
-   "status": "todo",
+   "en": "Can't counter",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:80021934",
@@ -3369,8 +3369,8 @@
    "off": 597348,
    "len": 20,
    "jp": "お手あげです",
-   "en": "",
-   "status": "todo",
+   "en": "I give up",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3379,8 +3379,8 @@
    "off": 597368,
    "len": 20,
    "jp": "こりゃまいった",
-   "en": "",
-   "status": "todo",
+   "en": "Well, I'm beat",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3389,8 +3389,8 @@
    "off": 597388,
    "len": 20,
    "jp": "なんてこった",
-   "en": "",
-   "status": "todo",
+   "en": "Good grief",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3399,8 +3399,8 @@
    "off": 597408,
    "len": 20,
    "jp": "もうやめて！！",
-   "en": "",
-   "status": "todo",
+   "en": "Please stop!!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3409,8 +3409,8 @@
    "off": 597428,
    "len": 20,
    "jp": "いや～ん！",
-   "en": "",
-   "status": "todo",
+   "en": "Eeeek!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3419,8 +3419,8 @@
    "off": 597448,
    "len": 20,
    "jp": "たすけて",
-   "en": "",
-   "status": "todo",
+   "en": "Help me",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3429,8 +3429,8 @@
    "off": 597468,
    "len": 20,
    "jp": "みのがして！",
-   "en": "",
-   "status": "todo",
+   "en": "Spare me!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3439,8 +3439,8 @@
    "off": 597488,
    "len": 20,
    "jp": "なんてことすんの",
-   "en": "",
-   "status": "todo",
+   "en": "How could you?!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3449,8 +3449,8 @@
    "off": 597508,
    "len": 20,
    "jp": "いじめ許さん！！",
-   "en": "",
-   "status": "todo",
+   "en": "No bullying!!",
+   "status": "done",
    "kind": "text",
    "refs": []
   },
@@ -3481,8 +3481,8 @@
    "off": 684384,
    "len": 16,
    "jp": "　で部隊選択",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Select unit",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6964"
@@ -3493,8 +3493,8 @@
    "off": 684400,
    "len": 16,
    "jp": "　機スタック",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12} stacked",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b695c"
@@ -3505,8 +3505,8 @@
    "off": 684464,
    "len": 16,
    "jp": "　で部隊選択",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Select unit",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b69b4"
@@ -3517,8 +3517,8 @@
    "off": 684480,
    "len": 16,
    "jp": "　機輸送ＯＫ",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12} transport OK",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b69ac"
@@ -3529,8 +3529,8 @@
    "off": 684576,
    "len": 16,
    "jp": "よろしくって？",
-   "en": "",
-   "status": "todo",
+   "en": "You sure, dear?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6a24"
@@ -3541,8 +3541,8 @@
    "off": 684592,
    "len": 12,
    "jp": "あります！",
-   "en": "",
-   "status": "todo",
+   "en": "are idle!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6a1c"
@@ -3553,8 +3553,8 @@
    "off": 684604,
    "len": 16,
    "jp": "未行動の部隊が",
-   "en": "",
-   "status": "todo",
+   "en": "Some units",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b69fc"
@@ -3565,8 +3565,8 @@
    "off": 684660,
    "len": 16,
    "jp": "ＣＯＭ停止中",
-   "en": "",
-   "status": "todo",
+   "en": "COM paused",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6a78"
@@ -3577,8 +3577,8 @@
    "off": 684724,
    "len": 16,
    "jp": "　：戦闘開始",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}: Start battle",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6ab8"
@@ -3589,8 +3589,8 @@
    "off": 684740,
    "len": 16,
    "jp": "戦闘発生！！",
-   "en": "",
-   "status": "todo",
+   "en": "Battle breaks out!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6ab0"
@@ -3601,8 +3601,8 @@
    "off": 684904,
    "len": 24,
    "jp": "すでにみきってる！！",
-   "en": "",
-   "status": "todo",
+   "en": "Already saw it coming!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6b74"
@@ -3613,8 +3613,8 @@
    "off": 684928,
    "len": 20,
    "jp": "もうコチコチっす",
-   "en": "",
-   "status": "todo",
+   "en": "Rock solid, sir!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6b70"
@@ -3625,8 +3625,8 @@
    "off": 684948,
    "len": 24,
    "jp": "移動目標セ～ット！！",
-   "en": "",
-   "status": "todo",
+   "en": "Destination seeet!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6b6c"
@@ -3661,8 +3661,8 @@
    "off": 685048,
    "len": 12,
    "jp": "経験値＋",
-   "en": "",
-   "status": "todo",
+   "en": "EXP +",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6be4"
@@ -3673,8 +3673,8 @@
    "off": 685220,
    "len": 16,
    "jp": "になった！！",
-   "en": "",
-   "status": "todo",
+   "en": " now!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6ca8"
@@ -3685,8 +3685,8 @@
    "off": 685300,
    "len": 16,
    "jp": "になった！！",
-   "en": "",
-   "status": "todo",
+   "en": " now!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6cf8"
@@ -3697,8 +3697,8 @@
    "off": 685364,
    "len": 12,
    "jp": "しますか？",
-   "en": "",
-   "status": "todo",
+   "en": "Do this?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6d38"
@@ -3709,8 +3709,8 @@
    "off": 685376,
    "len": 16,
    "jp": "自動で初期配置",
-   "en": "",
-   "status": "todo",
+   "en": "Auto initial setup",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6d30"
@@ -3721,8 +3721,8 @@
    "off": 685440,
    "len": 16,
    "jp": "　で切り替え",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Switch",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6d84"
@@ -3733,8 +3733,8 @@
    "off": 685464,
    "len": 16,
    "jp": "アニメ　ＯＮ",
-   "en": "",
-   "status": "todo",
+   "en": "Animation ON",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6da4"
@@ -3745,8 +3745,8 @@
    "off": 685480,
    "len": 16,
    "jp": "アニメＯＦＦ",
-   "en": "",
-   "status": "todo",
+   "en": "Animation OFF",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6da0"
@@ -3781,8 +3781,8 @@
    "off": 690044,
    "len": 12,
    "jp": "スペシャル",
-   "en": "",
-   "status": "todo",
+   "en": "Special",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f64"
@@ -3793,8 +3793,8 @@
    "off": 690056,
    "len": 8,
    "jp": "名　前",
-   "en": "",
-   "status": "todo",
+   "en": "Name",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b81e4",
@@ -3833,8 +3833,8 @@
    "off": 690068,
    "len": 32,
    "jp": "空　　　　陸　　　　海　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Air{x:60}Land{x:120}Sea",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8004cca4",
@@ -3850,8 +3850,8 @@
    "off": 690100,
    "len": 8,
    "jp": "指揮",
-   "en": "",
-   "status": "todo",
+   "en": "Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b868c",
@@ -3863,8 +3863,8 @@
    "off": 690108,
    "len": 8,
    "jp": "地位",
-   "en": "",
-   "status": "todo",
+   "en": "Rank",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b86a0",
@@ -3876,8 +3876,8 @@
    "off": 690116,
    "len": 8,
    "jp": "レベル",
-   "en": "",
-   "status": "todo",
+   "en": "Level",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b86a8",
@@ -3889,8 +3889,8 @@
    "off": 690124,
    "len": 8,
    "jp": "機　数",
-   "en": "",
-   "status": "todo",
+   "en": "Units",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b86bc",
@@ -3976,8 +3976,8 @@
    "off": 690376,
    "len": 12,
    "jp": "行動終わり",
-   "en": "",
-   "status": "todo",
+   "en": "End Turn",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b80cc"
@@ -3988,8 +3988,8 @@
    "off": 690388,
    "len": 12,
    "jp": "ニャンＴＶ",
-   "en": "",
-   "status": "todo",
+   "en": "Nyan TV",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b80c8"
@@ -4000,8 +4000,8 @@
    "off": 690400,
    "len": 12,
    "jp": "　機　能　",
-   "en": "",
-   "status": "todo",
+   "en": "Options",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b80c4"
@@ -4012,8 +4012,8 @@
    "off": 690412,
    "len": 12,
    "jp": "　サイズ　",
-   "en": "",
-   "status": "todo",
+   "en": "Size",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b80c0"
@@ -4024,8 +4024,8 @@
    "off": 690424,
    "len": 12,
    "jp": "全体マップ",
-   "en": "",
-   "status": "todo",
+   "en": "Full Map",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b80bc"
@@ -4036,8 +4036,8 @@
    "off": 690436,
    "len": 16,
    "jp": "メモリーカード",
-   "en": "",
-   "status": "todo",
+   "en": "Memory Card",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b80b8"
@@ -4048,8 +4048,8 @@
    "off": 690452,
    "len": 12,
    "jp": "　国情報　",
-   "en": "",
-   "status": "todo",
+   "en": "Nation Info",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b80b4"
@@ -4060,8 +4060,8 @@
    "off": 690464,
    "len": 12,
    "jp": "　部隊表　",
-   "en": "",
-   "status": "todo",
+   "en": "Unit List",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b80b0"
@@ -4072,8 +4072,8 @@
    "off": 690476,
    "len": 12,
    "jp": "　生　産　",
-   "en": "",
-   "status": "todo",
+   "en": "Build",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b80ac"
@@ -4084,8 +4084,8 @@
    "off": 690488,
    "len": 12,
    "jp": "　出　撃　",
-   "en": "",
-   "status": "todo",
+   "en": "Deploy",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b80a8"
@@ -4096,8 +4096,8 @@
    "off": 690532,
    "len": 12,
    "jp": "　機　能　",
-   "en": "",
-   "status": "todo",
+   "en": "Options",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b816c"
@@ -4108,8 +4108,8 @@
    "off": 690544,
    "len": 12,
    "jp": "　サイズ　",
-   "en": "",
-   "status": "todo",
+   "en": "Size",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8168"
@@ -4120,8 +4120,8 @@
    "off": 690556,
    "len": 12,
    "jp": "全体マップ",
-   "en": "",
-   "status": "todo",
+   "en": "Full Map",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8164"
@@ -4132,8 +4132,8 @@
    "off": 690568,
    "len": 12,
    "jp": "　国情報　",
-   "en": "",
-   "status": "todo",
+   "en": "Nation Info",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8160"
@@ -4144,8 +4144,8 @@
    "off": 690580,
    "len": 12,
    "jp": "　部隊表　",
-   "en": "",
-   "status": "todo",
+   "en": "Unit List",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b815c"
@@ -4156,8 +4156,8 @@
    "off": 690612,
    "len": 12,
    "jp": "　小さめ　",
-   "en": "",
-   "status": "todo",
+   "en": "Smaller",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b81bc"
@@ -4168,8 +4168,8 @@
    "off": 690624,
    "len": 12,
    "jp": "　大きめ　",
-   "en": "",
-   "status": "todo",
+   "en": "Bigger",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b81b8"
@@ -4180,8 +4180,8 @@
    "off": 690752,
    "len": 44,
    "jp": "機　数　　　？／　　　{br}移動力　　　　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Units{x:72}?{x:84}/{br}Move",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b824c"
@@ -4192,8 +4192,8 @@
    "off": 690796,
    "len": 44,
    "jp": "機　数　　　　／　　　{br}移動力　　　　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Units{x:84}/{br}Move",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8248"
@@ -4216,8 +4216,8 @@
    "off": 690932,
    "len": 52,
    "jp": "ユニット情報１　　　　　　　：次ページ　　：戻る",
-   "en": "",
-   "status": "todo",
+   "en": "Unit Info 1{x:168}: Next page{x:252}: Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b82fc"
@@ -4228,8 +4228,8 @@
    "off": 690996,
    "len": 12,
    "jp": "なしよ！！",
-   "en": "",
-   "status": "todo",
+   "en": "None!!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b833c"
@@ -4240,8 +4240,8 @@
    "off": 691008,
    "len": 12,
    "jp": "座標，座標",
-   "en": "",
-   "status": "todo",
+   "en": "X, Y",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8338"
@@ -4252,8 +4252,8 @@
    "off": 691068,
    "len": 32,
    "jp": "○：次ページ　　　　×：戻る",
-   "en": "",
-   "status": "todo",
+   "en": "O: Next page{x:120}X: Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8384"
@@ -4264,8 +4264,8 @@
    "off": 691312,
    "len": 16,
    "jp": "　　　ウッキー",
-   "en": "",
-   "status": "todo",
+   "en": "{x:36} Ukki",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8470"
@@ -4276,8 +4276,8 @@
    "off": 691580,
    "len": 16,
    "jp": "×：前ページ",
-   "en": "",
-   "status": "todo",
+   "en": "X: Previous",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8584"
@@ -4288,8 +4288,8 @@
    "off": 691616,
    "len": 32,
    "jp": "空　　　　陸　　　　海　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Air{x:60}Land{x:120}Sea",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b85a8"
@@ -4324,8 +4324,8 @@
    "off": 691716,
    "len": 52,
    "jp": "攻撃武器選択　　　　　　　：決定　　：キャンセル",
-   "en": "",
-   "status": "todo",
+   "en": "Select weapon{x:156}: Confirm{x:216}: Cancel",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b860c"
@@ -4336,8 +4336,8 @@
    "off": 691784,
    "len": 28,
    "jp": "○：決定　　×：キャンセル",
-   "en": "",
-   "status": "todo",
+   "en": "O: Confirm{x:72}X: Cancel",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8650"
@@ -4372,8 +4372,8 @@
    "off": 692068,
    "len": 20,
    "jp": "戦闘アニメの設定",
-   "en": "",
-   "status": "todo",
+   "en": "Battle Animation",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b876c"
@@ -4384,8 +4384,8 @@
    "off": 692108,
    "len": 12,
    "jp": "かんたん",
-   "en": "",
-   "status": "todo",
+   "en": "Easy",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8794"
@@ -4396,8 +4396,8 @@
    "off": 692120,
    "len": 12,
    "jp": "ノーマル",
-   "en": "",
-   "status": "todo",
+   "en": "Normal",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8790"
@@ -4408,8 +4408,8 @@
    "off": 692208,
    "len": 52,
    "jp": "指揮官選択　　　次ページ　　決定　　兵器表　　戻る",
-   "en": "",
-   "status": "todo",
+   "en": "Pick Commander{x:96}Next page{x:168}Confirm{x:216}Weapons{x:276}Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b87f8"
@@ -4420,8 +4420,8 @@
    "off": 692308,
    "len": 12,
    "jp": "根性　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Guts",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8858"
@@ -4432,8 +4432,8 @@
    "off": 692320,
    "len": 12,
    "jp": "海指　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Sea Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8854"
@@ -4444,8 +4444,8 @@
    "off": 692332,
    "len": 12,
    "jp": "陸指　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Land Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8850"
@@ -4456,8 +4456,8 @@
    "off": 692344,
    "len": 12,
    "jp": "空指　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Air Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b884c"
@@ -4468,8 +4468,8 @@
    "off": 692356,
    "len": 12,
    "jp": "直感　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Instinct",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8848"
@@ -4480,8 +4480,8 @@
    "off": 692368,
    "len": 12,
    "jp": "命中　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Accuracy",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8844"
@@ -4492,8 +4492,8 @@
    "off": 692380,
    "len": 12,
    "jp": "経験　　　",
-   "en": "",
-   "status": "todo",
+   "en": "EXP",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8840"
@@ -4516,8 +4516,8 @@
    "off": 692484,
    "len": 12,
    "jp": "根性　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Guts",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8908"
@@ -4528,8 +4528,8 @@
    "off": 692496,
    "len": 12,
    "jp": "海指　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Sea Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8904"
@@ -4540,8 +4540,8 @@
    "off": 692508,
    "len": 12,
    "jp": "陸指　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Land Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8900"
@@ -4552,8 +4552,8 @@
    "off": 692520,
    "len": 12,
    "jp": "空指　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Air Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b88fc"
@@ -4564,8 +4564,8 @@
    "off": 692532,
    "len": 12,
    "jp": "直感　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Instinct",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b88f8"
@@ -4576,8 +4576,8 @@
    "off": 692544,
    "len": 12,
    "jp": "命中　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Accuracy",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b88f4"
@@ -4588,8 +4588,8 @@
    "off": 692556,
    "len": 12,
    "jp": "経験　　　",
-   "en": "",
-   "status": "todo",
+   "en": "EXP",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b88f0"
@@ -4612,8 +4612,8 @@
    "off": 692660,
    "len": 12,
    "jp": "根性　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Guts",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b89b8"
@@ -4624,8 +4624,8 @@
    "off": 692672,
    "len": 12,
    "jp": "海指　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Sea Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b89b4"
@@ -4636,8 +4636,8 @@
    "off": 692684,
    "len": 12,
    "jp": "陸指　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Land Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b89b0"
@@ -4648,8 +4648,8 @@
    "off": 692696,
    "len": 12,
    "jp": "空指　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Air Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b89ac"
@@ -4660,8 +4660,8 @@
    "off": 692708,
    "len": 12,
    "jp": "直感　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Instinct",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b89a8"
@@ -4672,8 +4672,8 @@
    "off": 692720,
    "len": 12,
    "jp": "命中　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Accuracy",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b89a4"
@@ -4684,8 +4684,8 @@
    "off": 692732,
    "len": 12,
    "jp": "経験　　　",
-   "en": "",
-   "status": "todo",
+   "en": "EXP",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b89a0"
@@ -4708,8 +4708,8 @@
    "off": 692836,
    "len": 12,
    "jp": "根性　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Guts",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8a68"
@@ -4720,8 +4720,8 @@
    "off": 692848,
    "len": 12,
    "jp": "海指　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Sea Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8a64"
@@ -4732,8 +4732,8 @@
    "off": 692860,
    "len": 12,
    "jp": "陸指　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Land Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8a60"
@@ -4744,8 +4744,8 @@
    "off": 692872,
    "len": 12,
    "jp": "空指　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Air Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8a5c"
@@ -4756,8 +4756,8 @@
    "off": 692884,
    "len": 12,
    "jp": "直感　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Instinct",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8a58"
@@ -4768,8 +4768,8 @@
    "off": 692896,
    "len": 12,
    "jp": "命中　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Accuracy",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8a54"
@@ -4780,8 +4780,8 @@
    "off": 692908,
    "len": 12,
    "jp": "経験　　　",
-   "en": "",
-   "status": "todo",
+   "en": "EXP",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8a50"
@@ -4804,8 +4804,8 @@
    "off": 692980,
    "len": 12,
    "jp": "兵器選択",
-   "en": "",
-   "status": "todo",
+   "en": "Weapons",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8af8"
@@ -4816,8 +4816,8 @@
    "off": 692992,
    "len": 40,
    "jp": "　　：次ページ　　　：決定　　：情報",
-   "en": "",
-   "status": "todo",
+   "en": "{x:24}: Next page{x:120}: Confirm{x:180}: Info",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCEX_OV:8014b72c",
@@ -4829,8 +4829,8 @@
    "off": 693032,
    "len": 40,
    "jp": "　　：編成数変更　　：決定　　：中止",
-   "en": "",
-   "status": "todo",
+   "en": "{x:24}: Formation{x:120}: Confirm{x:180}: Stop",
+   "status": "done",
    "kind": "text",
    "refs": [
     "LOCEX_OV:8014ca94"
@@ -4841,8 +4841,8 @@
    "off": 693284,
    "len": 12,
    "jp": "兵器情報",
-   "en": "",
-   "status": "todo",
+   "en": "Weapon",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8e84"
@@ -4853,8 +4853,8 @@
    "off": 693432,
    "len": 24,
    "jp": "バトルアニメ　　ＯＮ",
-   "en": "",
-   "status": "todo",
+   "en": "Battle Animation{x:96}ON",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8cc4"
@@ -4865,8 +4865,8 @@
    "off": 693456,
    "len": 24,
    "jp": "バトルアニメ　ＯＦＦ",
-   "en": "",
-   "status": "todo",
+   "en": "Battle Animation{x:96}OFF",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8cc0"
@@ -4877,8 +4877,8 @@
    "off": 693488,
    "len": 24,
    "jp": "反撃行動　　　えらぶ",
-   "en": "",
-   "status": "todo",
+   "en": "Counter{x:84}Choose",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8cfc"
@@ -4889,8 +4889,8 @@
    "off": 693512,
    "len": 24,
    "jp": "反撃行動　　　　自動",
-   "en": "",
-   "status": "todo",
+   "en": "Counter{x:96}Auto",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8cf8"
@@ -4901,8 +4901,8 @@
    "off": 693552,
    "len": 32,
    "jp": "テレポーテーション　あと　回",
-   "en": "",
-   "status": "todo",
+   "en": "Teleportation{x:120}Left",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8d3c"
@@ -4913,8 +4913,8 @@
    "off": 693584,
    "len": 32,
    "jp": "みきった～っ！！　　あと　回",
-   "en": "",
-   "status": "todo",
+   "en": "Saw it coming!!{x:120}Left",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8d38"
@@ -4925,8 +4925,8 @@
    "off": 693616,
    "len": 32,
    "jp": "鉄壁の守り　　　　　あと　回",
-   "en": "",
-   "status": "todo",
+   "en": "Iron Wall{x:120}Left",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8d34"
@@ -4937,8 +4937,8 @@
    "off": 693648,
    "len": 28,
    "jp": "アイテム使っちゃいま～す",
-   "en": "",
-   "status": "todo",
+   "en": "Using an iteeem!",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8d30"
@@ -4949,8 +4949,8 @@
    "off": 693800,
    "len": 12,
    "jp": "配置ＯＫ",
-   "en": "",
-   "status": "todo",
+   "en": "Place OK",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8e34"
@@ -4961,8 +4961,8 @@
    "off": 693812,
    "len": 12,
    "jp": "配置ＮＧ",
-   "en": "",
-   "status": "todo",
+   "en": "Blocked",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8e30"
@@ -4973,8 +4973,8 @@
    "off": 693836,
    "len": 12,
    "jp": "　機輸送中",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12} aboard",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8e58"
@@ -4985,8 +4985,8 @@
    "off": 693848,
    "len": 12,
    "jp": "あと　機",
-   "en": "",
-   "status": "todo",
+   "en": "Left",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8e54"
@@ -4997,8 +4997,8 @@
    "off": 693860,
    "len": 12,
    "jp": "輸送募集中",
-   "en": "",
-   "status": "todo",
+   "en": "Need a lift",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8e50"
@@ -5009,8 +5009,8 @@
    "off": 693884,
    "len": 16,
    "jp": "反撃できません",
-   "en": "",
-   "status": "todo",
+   "en": "Can't counter",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:8004d598"
@@ -5021,8 +5021,8 @@
    "off": 693928,
    "len": 12,
    "jp": "武器えらぶ",
-   "en": "",
-   "status": "todo",
+   "en": "Pick weapon",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8eac"
@@ -5033,8 +5033,8 @@
    "off": 693940,
    "len": 12,
    "jp": "これでいい",
-   "en": "",
-   "status": "todo",
+   "en": "That's fine",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8ea8"
@@ -5045,8 +5045,8 @@
    "off": 693972,
    "len": 16,
    "jp": "占領しながら",
-   "en": "",
-   "status": "todo",
+   "en": "Capture too",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8edc"
@@ -5057,8 +5057,8 @@
    "off": 693988,
    "len": 12,
    "jp": "占領しない",
-   "en": "",
-   "status": "todo",
+   "en": "No capture",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8ed8"
@@ -5069,8 +5069,8 @@
    "off": 694024,
    "len": 12,
    "jp": "攻撃する",
-   "en": "",
-   "status": "todo",
+   "en": "Attack",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8f10"
@@ -5081,8 +5081,8 @@
    "off": 694036,
    "len": 16,
    "jp": "攻撃するかも",
-   "en": "",
-   "status": "todo",
+   "en": "Maybe attack",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8f0c"
@@ -5093,8 +5093,8 @@
    "off": 694052,
    "len": 12,
    "jp": "攻撃しない",
-   "en": "",
-   "status": "todo",
+   "en": "No attack",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8f08"
@@ -5105,8 +5105,8 @@
    "off": 694156,
    "len": 20,
    "jp": "最終形態になった",
-   "en": "",
-   "status": "todo",
+   "en": " hit final form",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8f98"
@@ -5117,8 +5117,8 @@
    "off": 694176,
    "len": 16,
    "jp": "は怪しくなった",
-   "en": "",
-   "status": "todo",
+   "en": " turned shady",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8f94"
@@ -5129,8 +5129,8 @@
    "off": 694192,
    "len": 28,
    "jp": "はスーパーサイヤ人になった",
-   "en": "",
-   "status": "todo",
+   "en": " went Super Saiyan",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8f90"
@@ -5141,8 +5141,8 @@
    "off": 694220,
    "len": 12,
    "jp": "は変身した",
-   "en": "",
-   "status": "todo",
+   "en": " morphed",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8f8c"
@@ -5153,8 +5153,8 @@
    "off": 694232,
    "len": 16,
    "jp": "は顔が変わった",
-   "en": "",
-   "status": "todo",
+   "en": " changed face",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8f88"
@@ -5165,8 +5165,8 @@
    "off": 694248,
    "len": 12,
    "jp": "は成長した",
-   "en": "",
-   "status": "todo",
+   "en": " grew up",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8f84"
@@ -5177,8 +5177,8 @@
    "off": 694260,
    "len": 12,
    "jp": "になった",
-   "en": "",
-   "status": "todo",
+   "en": " now",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8f80"
@@ -5189,8 +5189,8 @@
    "off": 694396,
    "len": 16,
    "jp": "ビックバイパー",
-   "en": "",
-   "status": "todo",
+   "en": "Vic Viper",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9088"
@@ -5201,8 +5201,8 @@
    "off": 694412,
    "len": 12,
    "jp": "ツインビー",
-   "en": "",
-   "status": "todo",
+   "en": "TwinBee",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9084"
@@ -5213,8 +5213,8 @@
    "off": 694424,
    "len": 20,
    "jp": "１００００ウッキー",
-   "en": "",
-   "status": "todo",
+   "en": "10000 Ukki",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9080"
@@ -5225,8 +5225,8 @@
    "off": 694444,
    "len": 20,
    "jp": "５０００ウッキー",
-   "en": "",
-   "status": "todo",
+   "en": "5000 Ukki",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b907c"
@@ -5237,8 +5237,8 @@
    "off": 694464,
    "len": 20,
    "jp": "３０００ウッキー",
-   "en": "",
-   "status": "todo",
+   "en": "3000 Ukki",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9078"
@@ -5249,8 +5249,8 @@
    "off": 694484,
    "len": 12,
    "jp": "ユニットが",
-   "en": "",
-   "status": "todo",
+   "en": "Units",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9070"
@@ -5261,8 +5261,8 @@
    "off": 694496,
    "len": 20,
    "jp": "１０００ウッキー",
-   "en": "",
-   "status": "todo",
+   "en": "1000 Ukki",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b906c"
@@ -5273,8 +5273,8 @@
    "off": 694516,
    "len": 16,
    "jp": "５００ウッキー",
-   "en": "",
-   "status": "todo",
+   "en": "500 Ukki",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9068"
@@ -5285,8 +5285,8 @@
    "off": 694532,
    "len": 16,
    "jp": "海の指揮能力",
-   "en": "",
-   "status": "todo",
+   "en": "Sea command",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9064"
@@ -5297,8 +5297,8 @@
    "off": 694548,
    "len": 16,
    "jp": "陸の指揮能力",
-   "en": "",
-   "status": "todo",
+   "en": "Land Cmd",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9060"
@@ -5309,8 +5309,8 @@
    "off": 694564,
    "len": 16,
    "jp": "空の指揮能力",
-   "en": "",
-   "status": "todo",
+   "en": "Air command",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b905c"
@@ -5321,8 +5321,8 @@
    "off": 694580,
    "len": 20,
    "jp": "コークスクリュー",
-   "en": "",
-   "status": "todo",
+   "en": "Corkscrew",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9048"
@@ -5345,8 +5345,8 @@
    "off": 694612,
    "len": 20,
    "jp": "ターボスクリュー",
-   "en": "",
-   "status": "todo",
+   "en": "Turbo Screw",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9040"
@@ -5357,8 +5357,8 @@
    "off": 694632,
    "len": 12,
    "jp": "オーラボム",
-   "en": "",
-   "status": "todo",
+   "en": "Aura Bomb",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b903c"
@@ -5369,8 +5369,8 @@
    "off": 694644,
    "len": 20,
    "jp": "レインボーショット",
-   "en": "",
-   "status": "todo",
+   "en": "Rainbow Shot",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9038"
@@ -5381,8 +5381,8 @@
    "off": 694664,
    "len": 12,
    "jp": "ど根性玉",
-   "en": "",
-   "status": "todo",
+   "en": "Guts Ball",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9034"
@@ -5393,8 +5393,8 @@
    "off": 694676,
    "len": 16,
    "jp": "ターボエンジン",
-   "en": "",
-   "status": "todo",
+   "en": "Turbo Engine",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9030"
@@ -5405,8 +5405,8 @@
    "off": 694692,
    "len": 16,
    "jp": "ワイドバズーカ",
-   "en": "",
-   "status": "todo",
+   "en": "Wide Bazooka",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b902c"
@@ -5417,8 +5417,8 @@
    "off": 694708,
    "len": 12,
    "jp": "トップガン",
-   "en": "",
-   "status": "todo",
+   "en": "Top Gun",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9024"
@@ -5429,8 +5429,8 @@
    "off": 694720,
    "len": 16,
    "jp": "ゴッドサービス",
-   "en": "",
-   "status": "todo",
+   "en": "God Service",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9020"
@@ -5441,8 +5441,8 @@
    "off": 694736,
    "len": 12,
    "jp": "エレキラー",
-   "en": "",
-   "status": "todo",
+   "en": "Elekiller",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b901c"
@@ -5453,8 +5453,8 @@
    "off": 694748,
    "len": 20,
    "jp": "ファイヤーストーム",
-   "en": "",
-   "status": "todo",
+   "en": "Firestorm",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9018"
@@ -5465,8 +5465,8 @@
    "off": 694768,
    "len": 20,
    "jp": "フェニックスＤＸ",
-   "en": "",
-   "status": "todo",
+   "en": "Phoenix DX",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9014"
@@ -5477,8 +5477,8 @@
    "off": 694788,
    "len": 16,
    "jp": "ターボジェット",
-   "en": "",
-   "status": "todo",
+   "en": "Turbo Jet",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9010"
@@ -5585,8 +5585,8 @@
    "off": 733076,
    "len": 4,
    "jp": "は",
-   "en": "",
-   "status": "todo",
+   "en": ":",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6c98"
@@ -5597,8 +5597,8 @@
    "off": 733080,
    "len": 4,
    "jp": "は",
-   "en": "",
-   "status": "todo",
+   "en": ":",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b6ce8"
@@ -5609,8 +5609,8 @@
    "off": 733084,
    "len": 8,
    "jp": "補　充",
-   "en": "",
-   "status": "todo",
+   "en": "Refill",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f88"
@@ -5621,8 +5621,8 @@
    "off": 733092,
    "len": 8,
    "jp": "押　す",
-   "en": "",
-   "status": "todo",
+   "en": "Push",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f84"
@@ -5633,8 +5633,8 @@
    "off": 733100,
    "len": 8,
    "jp": "乗　る",
-   "en": "",
-   "status": "todo",
+   "en": "Board",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f80"
@@ -5645,8 +5645,8 @@
    "off": 733108,
    "len": 8,
    "jp": "範　囲",
-   "en": "",
-   "status": "todo",
+   "en": "Range",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f7c"
@@ -5657,8 +5657,8 @@
    "off": 733116,
    "len": 8,
    "jp": "発　進",
-   "en": "",
-   "status": "todo",
+   "en": "Launch",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f78"
@@ -5669,8 +5669,8 @@
    "off": 733124,
    "len": 8,
    "jp": "待　機",
-   "en": "",
-   "status": "todo",
+   "en": "Wait",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f74"
@@ -5681,8 +5681,8 @@
    "off": 733132,
    "len": 8,
    "jp": "修　復",
-   "en": "",
-   "status": "todo",
+   "en": "Repair",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f70"
@@ -5693,8 +5693,8 @@
    "off": 733140,
    "len": 8,
    "jp": "情　報",
-   "en": "",
-   "status": "todo",
+   "en": "Info",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f6c"
@@ -5705,8 +5705,8 @@
    "off": 733148,
    "len": 8,
    "jp": "お　店",
-   "en": "",
-   "status": "todo",
+   "en": "Shop",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f68"
@@ -5717,8 +5717,8 @@
    "off": 733156,
    "len": 8,
    "jp": "機　能",
-   "en": "",
-   "status": "todo",
+   "en": "Options",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f60"
@@ -5729,8 +5729,8 @@
    "off": 733164,
    "len": 8,
    "jp": "交　換",
-   "en": "",
-   "status": "todo",
+   "en": "Swap",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f5c"
@@ -5741,8 +5741,8 @@
    "off": 733172,
    "len": 8,
    "jp": "合　流",
-   "en": "",
-   "status": "todo",
+   "en": "Merge",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f58"
@@ -5753,8 +5753,8 @@
    "off": 733180,
    "len": 8,
    "jp": "補　給",
-   "en": "",
-   "status": "todo",
+   "en": "Supply",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f54"
@@ -5765,8 +5765,8 @@
    "off": 733188,
    "len": 8,
    "jp": "作　戦",
-   "en": "",
-   "status": "todo",
+   "en": "Plan",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f50"
@@ -5777,8 +5777,8 @@
    "off": 733196,
    "len": 8,
    "jp": "一　斉",
-   "en": "",
-   "status": "todo",
+   "en": "All-out",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f4c"
@@ -5789,8 +5789,8 @@
    "off": 733204,
    "len": 8,
    "jp": "攻　撃",
-   "en": "",
-   "status": "todo",
+   "en": "Attack",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f48"
@@ -5801,8 +5801,8 @@
    "off": 733212,
    "len": 8,
    "jp": "移　動",
-   "en": "",
-   "status": "todo",
+   "en": "Move",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b7f44"
@@ -5861,8 +5861,8 @@
    "off": 733252,
    "len": 8,
    "jp": "タイプ",
-   "en": "",
-   "status": "todo",
+   "en": "Type",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8204"
@@ -5873,8 +5873,8 @@
    "off": 733260,
    "len": 8,
    "jp": "地　位",
-   "en": "",
-   "status": "todo",
+   "en": "Rank",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b81fc"
@@ -5909,8 +5909,8 @@
    "off": 733284,
    "len": 8,
    "jp": "経験",
-   "en": "",
-   "status": "todo",
+   "en": "EXP",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8220"
@@ -5933,8 +5933,8 @@
    "off": 733300,
    "len": 8,
    "jp": "レベル",
-   "en": "",
-   "status": "todo",
+   "en": "Level",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8218"
@@ -5945,8 +5945,8 @@
    "off": 733308,
    "len": 8,
    "jp": "燃料",
-   "en": "",
-   "status": "todo",
+   "en": "Fuel",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b82cc"
@@ -5957,8 +5957,8 @@
    "off": 733316,
    "len": 8,
    "jp": "防御",
-   "en": "",
-   "status": "todo",
+   "en": "Def",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b82c4"
@@ -5969,8 +5969,8 @@
    "off": 733324,
    "len": 4,
    "jp": "山",
-   "en": "",
-   "status": "todo",
+   "en": "Pk",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8340"
@@ -5981,8 +5981,8 @@
    "off": 733328,
    "len": 8,
    "jp": "目　標",
-   "en": "",
-   "status": "todo",
+   "en": "Target",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8368"
@@ -6005,8 +6005,8 @@
    "off": 733344,
    "len": 8,
    "jp": "根性",
-   "en": "",
-   "status": "todo",
+   "en": "Guts",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b83f4"
@@ -6029,8 +6029,8 @@
    "off": 733360,
    "len": 8,
    "jp": "直感",
-   "en": "",
-   "status": "todo",
+   "en": "Inst",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b83ec"
@@ -6053,8 +6053,8 @@
    "off": 733376,
    "len": 8,
    "jp": "命中",
-   "en": "",
-   "status": "todo",
+   "en": "Acc",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b83e4"
@@ -6077,8 +6077,8 @@
    "off": 733392,
    "len": 8,
    "jp": "海指",
-   "en": "",
-   "status": "todo",
+   "en": "Sea",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b83dc"
@@ -6101,8 +6101,8 @@
    "off": 733408,
    "len": 8,
    "jp": "陸指",
-   "en": "",
-   "status": "todo",
+   "en": "Land",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b83d4"
@@ -6125,8 +6125,8 @@
    "off": 733424,
    "len": 8,
    "jp": "空指",
-   "en": "",
-   "status": "todo",
+   "en": "Air",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b83cc"
@@ -6149,8 +6149,8 @@
    "off": 733440,
    "len": 8,
    "jp": "根性",
-   "en": "",
-   "status": "todo",
+   "en": "Guts",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8448"
@@ -6173,8 +6173,8 @@
    "off": 733456,
    "len": 8,
    "jp": "直感",
-   "en": "",
-   "status": "todo",
+   "en": "Inst",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8440"
@@ -6197,8 +6197,8 @@
    "off": 733472,
    "len": 8,
    "jp": "命中",
-   "en": "",
-   "status": "todo",
+   "en": "Acc",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8438"
@@ -6221,8 +6221,8 @@
    "off": 733488,
    "len": 8,
    "jp": "海指",
-   "en": "",
-   "status": "todo",
+   "en": "Sea",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8430"
@@ -6245,8 +6245,8 @@
    "off": 733504,
    "len": 8,
    "jp": "陸指",
-   "en": "",
-   "status": "todo",
+   "en": "Land",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8428"
@@ -6269,8 +6269,8 @@
    "off": 733520,
    "len": 8,
    "jp": "空指",
-   "en": "",
-   "status": "todo",
+   "en": "Air",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8420"
@@ -6293,8 +6293,8 @@
    "off": 733536,
    "len": 8,
    "jp": "科学力",
-   "en": "",
-   "status": "todo",
+   "en": "Science",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8474"
@@ -6305,8 +6305,8 @@
    "off": 733544,
    "len": 8,
    "jp": "お金",
-   "en": "",
-   "status": "todo",
+   "en": "Cash",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b846c"
@@ -6317,8 +6317,8 @@
    "off": 733552,
    "len": 8,
    "jp": "防御",
-   "en": "",
-   "status": "todo",
+   "en": "Def",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8498"
@@ -6329,8 +6329,8 @@
    "off": 733560,
    "len": 8,
    "jp": "武　器",
-   "en": "",
-   "status": "todo",
+   "en": "Arms",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b84ac"
@@ -6341,8 +6341,8 @@
    "off": 733568,
    "len": 4,
    "jp": "残",
-   "en": "",
-   "status": "todo",
+   "en": "Sh",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b84d4"
@@ -6353,8 +6353,8 @@
    "off": 733572,
    "len": 4,
    "jp": "距",
-   "en": "",
-   "status": "todo",
+   "en": "Rg",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b84d0"
@@ -6365,8 +6365,8 @@
    "off": 733576,
    "len": 4,
    "jp": "極",
-   "en": "",
-   "status": "todo",
+   "en": "DX",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b84cc"
@@ -6377,8 +6377,8 @@
    "off": 733580,
    "len": 4,
    "jp": "潜",
-   "en": "",
-   "status": "todo",
+   "en": "Sb",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b84c8"
@@ -6389,8 +6389,8 @@
    "off": 733584,
    "len": 4,
    "jp": "海",
-   "en": "",
-   "status": "todo",
+   "en": "Se",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b84c4"
@@ -6401,8 +6401,8 @@
    "off": 733588,
    "len": 4,
    "jp": "陸",
-   "en": "",
-   "status": "todo",
+   "en": "Ld",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b84c0"
@@ -6413,8 +6413,8 @@
    "off": 733592,
    "len": 4,
    "jp": "空",
-   "en": "",
-   "status": "todo",
+   "en": "Ar",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b84bc"
@@ -6761,8 +6761,8 @@
    "off": 733820,
    "len": 8,
    "jp": "発見",
-   "en": "",
-   "status": "todo",
+   "en": "Spot",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b85a4"
@@ -6773,8 +6773,8 @@
    "off": 733828,
    "len": 8,
    "jp": "機　数",
-   "en": "",
-   "status": "todo",
+   "en": "Units",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b85e0"
@@ -6785,8 +6785,8 @@
    "off": 733836,
    "len": 8,
    "jp": "命中率",
-   "en": "",
-   "status": "todo",
+   "en": "Accur.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b85d8"
@@ -6797,8 +6797,8 @@
    "off": 733844,
    "len": 8,
    "jp": "命中率",
-   "en": "",
-   "status": "todo",
+   "en": "Accur.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b86c4"
@@ -6809,8 +6809,8 @@
    "off": 733852,
    "len": 8,
    "jp": "命中率",
-   "en": "",
-   "status": "todo",
+   "en": "Accur.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b873c"
@@ -6893,8 +6893,8 @@
    "off": 733908,
    "len": 8,
    "jp": "種別",
-   "en": "",
-   "status": "todo",
+   "en": "Type",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8b70"
@@ -6905,8 +6905,8 @@
    "off": 733916,
    "len": 8,
    "jp": "兵器名",
-   "en": "",
-   "status": "todo",
+   "en": "Name",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8b6c"
@@ -6929,8 +6929,8 @@
    "off": 733932,
    "len": 8,
    "jp": "編成数",
-   "en": "",
-   "status": "todo",
+   "en": "Form",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8c10"
@@ -6965,8 +6965,8 @@
    "off": 733952,
    "len": 8,
    "jp": "保有数",
-   "en": "",
-   "status": "todo",
+   "en": "Owned",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8c20"
@@ -7171,8 +7171,8 @@
    "off": 734040,
    "len": 8,
    "jp": "編成数",
-   "en": "",
-   "status": "todo",
+   "en": "Form",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8cb8"
@@ -7183,8 +7183,8 @@
    "off": 734048,
    "len": 8,
    "jp": "兵器名",
-   "en": "",
-   "status": "todo",
+   "en": "Name",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8cb4"
@@ -7207,8 +7207,8 @@
    "off": 734064,
    "len": 8,
    "jp": "ハイ",
-   "en": "",
-   "status": "todo",
+   "en": "Yes",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8e18"
@@ -7219,8 +7219,8 @@
    "off": 734072,
    "len": 8,
    "jp": "イイエ",
-   "en": "",
-   "status": "todo",
+   "en": "No",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8e14"
@@ -7231,8 +7231,8 @@
    "off": 734080,
    "len": 8,
    "jp": "まもり",
-   "en": "",
-   "status": "todo",
+   "en": "Guard",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8eb0"
@@ -7243,8 +7243,8 @@
    "off": 734088,
    "len": 4,
    "jp": "は",
-   "en": "",
-   "status": "todo",
+   "en": ":",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b8f7c"
@@ -7255,8 +7255,8 @@
    "off": 734092,
    "len": 8,
    "jp": "レベル",
-   "en": "",
-   "status": "todo",
+   "en": "Level",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9074"
@@ -7267,8 +7267,8 @@
    "off": 734100,
    "len": 8,
    "jp": "根性",
-   "en": "",
-   "status": "todo",
+   "en": "Guts",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9058"
@@ -7279,8 +7279,8 @@
    "off": 734108,
    "len": 8,
    "jp": "直感",
-   "en": "",
-   "status": "todo",
+   "en": "Inst",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9054"
@@ -7291,8 +7291,8 @@
    "off": 734116,
    "len": 8,
    "jp": "命中率",
-   "en": "",
-   "status": "todo",
+   "en": "Accur.",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9050"
@@ -7303,8 +7303,8 @@
    "off": 734124,
    "len": 8,
    "jp": "バリア",
-   "en": "",
-   "status": "todo",
+   "en": "Barrier",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b904c"
@@ -7315,8 +7315,8 @@
    "off": 734132,
    "len": 4,
    "jp": "地雷",
-   "en": "",
-   "status": "todo",
+   "en": "Mine",
+   "status": "done",
    "kind": "text",
    "refs": [
     "PAW:w800b9028"

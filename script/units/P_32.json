@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　４（空に攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 4 (no air attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "他のＴバックと変わらん気がするが、それは気のせいで",
-   "en": "",
-   "status": "todo",
+   "en": "Seems like any other T-Back, but that's just your",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "被弾時にエネルギーをそれさせるリアクティブアーマー",
-   "en": "",
-   "status": "todo",
+   "en": "imagination: it wears reactive armor that deflects",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "をまといエンジンもＳＭ－１と同じ天然ガスタービンエ",
-   "en": "",
-   "status": "todo",
+   "en": "hits, and has the same natural gas turbine engine",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "ンジン搭載なのだ！！",
-   "en": "",
-   "status": "todo",
+   "en": "as the SM-1!!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "レオナルド２、ＳＭ－１にはかないませんが、みかけに",
-   "en": "",
-   "status": "todo",
+   "en": "It can't beat the Leonardo 2 or SM-1, but it's",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "よらずかなり強い戦車です。機動力も合格点でしょう。",
-   "en": "",
-   "status": "todo",
+   "en": "much stronger than it looks. Mobility passes too.",
+   "status": "done",
    "kind": "text"
   },
   {

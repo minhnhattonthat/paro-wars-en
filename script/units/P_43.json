@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　１（占領できます）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 1 (can capture)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　２",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "歩兵を移動させるアッシー君として大活躍。普通のその",
-   "en": "",
-   "status": "todo",
+   "en": "Excels as a chauffeur for infantry. It's just a",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "へんのトラックを軍用にそれらしく塗装し直しただけな",
-   "en": "",
-   "status": "todo",
+   "en": "plain old truck repainted to look military, so",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "ので、軟弱である。",
-   "en": "",
-   "status": "todo",
+   "en": "it's weak.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "占領ができるだけで、攻撃面ではなにもできません。安",
-   "en": "",
-   "status": "todo",
+   "en": "All it can do is capture; it can't attack. It's",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "いので間接攻撃部隊をまもる壁役として活躍できるかも",
-   "en": "",
-   "status": "todo",
+   "en": "cheap, so it may work well as a wall protecting",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "しれません。",
-   "en": "",
-   "status": "todo",
+   "en": "ranged units.",
+   "status": "done",
    "kind": "text"
   },
   {

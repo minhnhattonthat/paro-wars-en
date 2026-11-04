@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "コイツ：「το、τοβνιγ！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu: \"το, τοβνιγ!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "訳：ニャ、ニャン次郎！！",
-   "en": "",
-   "status": "todo",
+   "en": "Translation: \"N-Nyanjiro!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "コイツ：「κβτσμβογλβσερδζ、ξκπ、　　　　　ξλμτροερινιμαβα？」",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu: \"κβτσμβογλβσερδζ, ξκπ, ξλμτροερινιμαβα?\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "訳：みんなに信用されていたお前が、どこで、どうして　　道を踏みはずしたんだ？",
-   "en": "",
-   "status": "todo",
+   "en": "Translation: \"Everyone trusted you! Where, and why, did you go wrong?\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "ニャン次郎：「も、もう一度あのころに戻りたかったん　　　　　　　ニャ～。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"I-I just wanted to go back to those days, nyaaa.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "ニャン次郎：「オレ様は、元々は１万２千年前に沈没し　　　　　　　た、ニャー帝国の帝王だったんニャ～」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"I was once the Emperor of the Nya Empire, which sank 12,000 years ago, nyaaa.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "ニャン次郎：「それが、あの大災害で氷漬けにされて　　　　　　　　・・・・・・・・・・・・・・・・・」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"But in that great disaster, I was frozen in ice...\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "ニャン次郎：「気がついた時ニャー、今のこの時代だっ　　　　　　　たんニャ・・・。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"When I came to, it was this present age, nya...\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "ニャン次郎：「一度はオレ様もあきらめたニャン。そし　　　　　　　て、この時代で一生懸命生きていこうと　　　　　　　思ったニャン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"I gave up once, nyan. I decided to live as best I could in this age, nyan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "ニャン次郎：「でも、この世界で行商猫をやっているう　　　　　　　ちに、だんだんある事実を知るようにな　　　　　　　ったニャン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"But as I went about peddling in this world, little by little I learned a certain fact, nyan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1650,
    "len": 150,
    "jp": "ニャン次郎：「オレ様は、帝王ニャー・ムーとして生き　　　　　　　ていた時、常日頃から大切にしていたも　　　　　　　のがあったニャン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"When I lived as Emperor Nya-Mu, there were things I held dear every single day, nyan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 1800,
    "len": 150,
    "jp": "ニャン次郎：「俺様にとって毎日のぜいたくと言えば、　　　　　　　大好きなネコ缶をお腹一杯食べた後に」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"My daily luxury was to stuff my belly with my favorite cat food,\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 1950,
    "len": 150,
    "jp": "ニャン次郎：「爪の手入れをしてもらって、後は遊びつ　　　　　　　かれてぐっすり眠ること・・・。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"have my claws groomed, then play until I was tired and sleep soundly...\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 2100,
    "len": 150,
    "jp": "ニャン次郎：「その生活に欠かせニャいお食事＆お遊び　　　　　　　セットがこれニャンだニャン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"And this is the meal-and-playtime set that life couldn't do without, nyan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -144,8 +144,8 @@
    "off": 2250,
    "len": 150,
    "jp": "　　　　　　　　ネコ缶容器（聖盃）　　　　　　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Cat food bowl (Holy Grail)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -153,8 +153,8 @@
    "off": 2400,
    "len": 150,
    "jp": "　　　　　　　　カンキリ（神の牙）　　　　　　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Can opener (Divine Fang)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -162,8 +162,8 @@
    "off": 2550,
    "len": 150,
    "jp": "　　　ニャン次郎のナイフ（フェアリーソード）　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro's knife (Fairy Sword)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -171,8 +171,8 @@
    "off": 2700,
    "len": 150,
    "jp": "　　　ニャン次郎のスプーン（ピッコロミラー）　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro's spoon (Piccolo Mirror)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -180,8 +180,8 @@
    "off": 2850,
    "len": 150,
    "jp": "　　　ニャン次郎のフォーク（コルトランサー）　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro's fork (Colt Lancer)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -189,8 +189,8 @@
    "off": 3000,
    "len": 150,
    "jp": "　　　　　　　つめ砥ぎ石（神の箱）　　　　　　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Claw-sharpening stone (Divine Box)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -198,8 +198,8 @@
    "off": 3150,
    "len": 150,
    "jp": "　　　　　またたび（不老不死の入った壷）　　　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Catnip (Urn of Immortality)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -207,8 +207,8 @@
    "off": 3300,
    "len": 150,
    "jp": "　　　　　　じゃれるための玉（神の珠）　　　　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Ball to play with (Divine Orb)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -216,8 +216,8 @@
    "off": 3450,
    "len": 150,
    "jp": "ニャン次郎：「オレ様が愛用していたこれらの品々もオ　　　　　　　レ様と同じ火山の噴火によって・・・」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"These things I loved, in the same volcanic eruption that got me...\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -225,8 +225,8 @@
    "off": 3600,
    "len": 150,
    "jp": "ニャン次郎：「世界中に散らばっていってしまったニャ　　　　　　　ン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"...got scattered all over the world, nyan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -234,8 +234,8 @@
    "off": 3750,
    "len": 150,
    "jp": "ニャン次郎：「そして、いつしか王を象徴する宝として　　　　　　　伝えられていったニャン・・・。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"And in time they came to be handed down as treasures symbolizing kings, nyan...\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -243,8 +243,8 @@
    "off": 3900,
    "len": 150,
    "jp": "ニャン次郎：「オレ様がこの事を知った時、もう、いて　　　　　　　も立ってもいられなくなったニャン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"When I learned this, I couldn't sit still any longer, nyan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -252,8 +252,8 @@
    "off": 4050,
    "len": 150,
    "jp": "ニャン次郎：「それでオレ様は欲望の虜とニャって世界　　　　　　　を扇動し、自分のアイテムを取り戻す計　　　　　　　画を立てたのニャン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"So, a slave to desire, I stirred up the world and plotted to get my things back, nyan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -261,8 +261,8 @@
    "off": 4200,
    "len": 150,
    "jp": "コイツ：「εβα、ξβηκτνμαγ、πτκξβσ　　　　　τμζνοσζσα。」",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu: \"εβα, ξβηκτνμαγ, πτκξβστμζνοσζσα.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -270,8 +270,8 @@
    "off": 4350,
    "len": 150,
    "jp": "訳：なんだ、そんなことだったら、一言いってくれたら　　よかったのに。",
-   "en": "",
-   "status": "todo",
+   "en": "Translation: \"Oh, is that all? You could have just said so.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -279,8 +279,8 @@
    "off": 4500,
    "len": 150,
    "jp": "みんな：「そうだ、そうだ。」",
-   "en": "",
-   "status": "todo",
+   "en": "Everyone: \"That's right, that's right.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -288,8 +288,8 @@
    "off": 4650,
    "len": 150,
    "jp": "ニャン次郎：「ええっ！？」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"Whaaat!?\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -297,8 +297,8 @@
    "off": 4800,
    "len": 150,
    "jp": "コイツ：「μστοδζπηκζιαβα・・・。」",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu: \"μστοδζπηκζιαβα...\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -306,8 +306,8 @@
    "off": 4950,
    "len": 150,
    "jp": "訳：実は前から気になっていたんだ・・・。",
-   "en": "",
-   "status": "todo",
+   "en": "Translation: \"Actually, it's bugged me for a while...\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -315,8 +315,8 @@
    "off": 5100,
    "len": 150,
    "jp": "コイツ：「ξαδιβκοξζαθτρσπβαγ。」",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu: \"ξαδιβκοξζαθτρσπβαγ.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -324,8 +324,8 @@
    "off": 5250,
    "len": 150,
    "jp": "訳：何でこんなもんが国宝なんだろうって。",
-   "en": "",
-   "status": "todo",
+   "en": "Translation: \"Why on earth are these things national treasures?\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -333,8 +333,8 @@
    "off": 5400,
    "len": 150,
    "jp": "コイツ：「βο、εηξμαζτ、ιβοπμδεμγ　　　　　ξκβαιτσ。」",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu: \"βο, εηξμαζτ, ιβοπμδεμγ ξκβαιτσ.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -342,8 +342,8 @@
    "off": 5550,
    "len": 150,
    "jp": "訳：一応、お決まりだから、継承し続けてきたみたいだ　　けど。",
-   "en": "",
-   "status": "todo",
+   "en": "Translation: \"We just kept handing them down because it's tradition, it seems.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -351,8 +351,8 @@
    "off": 5700,
    "len": 150,
    "jp": "ニャン次郎：「そ、それニャー、オレ様の気持ちわかっ　　　　　　　てくれるニャか？」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"Th-then you understand how I feel, nya?\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -360,8 +360,8 @@
    "off": 5850,
    "len": 150,
    "jp": "ニャン次郎：「これ、もらっても迷惑じゃニャイんニャ　　　　　　　な？」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"You won't mind if I take these, nya?\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -369,8 +369,8 @@
    "off": 6000,
    "len": 150,
    "jp": "コイツ：「ρκλβαξ。」",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu: \"ρκλβαξ.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -378,8 +378,8 @@
    "off": 6150,
    "len": 150,
    "jp": "訳：もちろんだよ。",
-   "en": "",
-   "status": "todo",
+   "en": "Translation: \"Of course.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -387,8 +387,8 @@
    "off": 6300,
    "len": 150,
    "jp": "　εογτκκνγρα、ξαογρζπισλα。",
-   "en": "",
-   "status": "todo",
+   "en": "εογτκκνγρα, ξαογρζπισλα.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -396,8 +396,8 @@
    "off": 6450,
    "len": 150,
    "jp": "訳：思えばここ数年、戦争ばかりやっていたなあ～。",
-   "en": "",
-   "status": "todo",
+   "en": "Translation: Come to think of it, these last few years have been nothing but war.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -405,8 +405,8 @@
    "off": 6600,
    "len": 150,
    "jp": "　τσ、κρζοξτοβνιγε、μπσβ、ηζκιβμεξριμσγβδζεσμνξαλ。",
-   "en": "",
-   "status": "todo",
+   "en": "τσ, κρζοξτοβνιγε, μπσβ, ηζκιβμεξριμσγβδζεσμνξαλ.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -414,8 +414,8 @@
    "off": 6750,
    "len": 150,
    "jp": "訳：でも、これからはニャン次郎とも、もちろん、ほか　　のみんなとも仲良くやっていけそうだ。",
-   "en": "",
-   "status": "todo",
+   "en": "Translation: But from now on, it looks like we can get along with Nyanjiro and, of course, everyone else.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -423,8 +423,8 @@
    "off": 6900,
    "len": 150,
    "jp": "　τοβνιγνδσμαβξυδμζ、νσιζμπκμξβζμτσμια。",
-   "en": "",
-   "status": "todo",
+   "en": "τοβνιγνδσμαβξυδμζ, νσιζμπκμξβζμτσμια.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -432,8 +432,8 @@
    "off": 7050,
    "len": 150,
    "jp": "訳：ニャン次郎は８つのアイテムが戻って、また昔通り　　の生活ができて喜んでいる。",
-   "en": "",
-   "status": "todo",
+   "en": "Translation: Nyanjiro got his 8 items back and is happy to live as he used to.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -441,8 +441,8 @@
    "off": 7200,
    "len": 150,
    "jp": "　ηθοξλσιβα、αβλζπσβγκζαμξζβειθβξνζλαριγ、ακλζφαηξνμοαζημκζφ。μζετισλ。",
-   "en": "",
-   "status": "todo",
+   "en": "ηθοξλσιβα, αβλζπσβγκζαμ{br}ξζβειθβξνζλαριγ, ακλζφαη{br}ξνμοαζημκζφ. μζετισλ.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -450,8 +450,8 @@
    "off": 7350,
    "len": 150,
    "jp": "訳：話によると、あいつが持っている猫缶は、現代科学　　では開缶不可能で、あいつの缶切り（神の牙）でし　　か開けられないらしい。本当に良かった。",
-   "en": "",
-   "status": "todo",
+   "en": "Translation: I hear his cat food can't be opened by modern science, only with his can opener (Divine Fang). What a relief.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -459,8 +459,8 @@
    "off": 7500,
    "len": 150,
    "jp": "　τσ、τοβνιγ、αβζπξνβσγηθιρδτζιμβενδ。",
-   "en": "",
-   "status": "todo",
+   "en": "τσ, τοβνιγ, αβζπξνβσγηθιρδτζιμβενδ.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -468,8 +468,8 @@
    "off": 7650,
    "len": 150,
    "jp": "訳：でもニャン次郎のやつ、相変わらず、インチキ商売　　は続けているみたいだ。",
-   "en": "",
-   "status": "todo",
+   "en": "Translation: But that Nyanjiro still seems to be running his phony business.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -477,8 +477,8 @@
    "off": 7800,
    "len": 150,
    "jp": "　τσ、οασκδεοπθζββ。",
-   "en": "",
-   "status": "todo",
+   "en": "τσ, οασκδεοπθζββ.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -486,8 +486,8 @@
    "off": 7950,
    "len": 150,
    "jp": "訳：でも、そんなことはどうでもいい。",
-   "en": "",
-   "status": "todo",
+   "en": "Translation: But none of that matters.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -495,8 +495,8 @@
    "off": 8100,
    "len": 150,
    "jp": "　κτζξ、εξκισλτδν・・・。",
-   "en": "",
-   "status": "todo",
+   "en": "κτζξ, εξκισλτδν...",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -504,8 +504,8 @@
    "off": 8250,
    "len": 150,
    "jp": "訳：これから、俺たちみんなは仲良しだ・・・。",
-   "en": "",
-   "status": "todo",
+   "en": "Translation: From now on, we're all friends...",
+   "status": "done",
    "kind": "text"
   }
  ]

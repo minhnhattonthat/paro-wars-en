@@ -9,8 +9,8 @@
    "off": 4,
    "len": 16,
    "jp": "　でキャンセル",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Cancel",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SPLD_OV:w8015abd4",
@@ -26,8 +26,8 @@
    "off": 20,
    "len": 12,
    "jp": "　で発射",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Fire",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SPLD_OV:w8015abcc",
@@ -40,8 +40,8 @@
    "off": 32,
    "len": 12,
    "jp": "方向きめて",
-   "en": "",
-   "status": "todo",
+   "en": "Pick a direction",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SPLD_OV:w8015abc4"
@@ -52,8 +52,8 @@
    "off": 44,
    "len": 20,
    "jp": "攻撃目標を選んで",
-   "en": "",
-   "status": "todo",
+   "en": "Choose a target",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SPLD_OV:w8015abfc"
@@ -64,8 +64,8 @@
    "off": 64,
    "len": 16,
    "jp": "やりますか？",
-   "en": "",
-   "status": "todo",
+   "en": "Do it?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SPLD_OV:w8015ac34"
@@ -76,8 +76,8 @@
    "off": 80,
    "len": 12,
    "jp": "　で決定",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Confirm",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SPLD_OV:w8015ac74"
@@ -88,8 +88,8 @@
    "off": 92,
    "len": 20,
    "jp": "どこに打ち込む？",
-   "en": "",
-   "status": "todo",
+   "en": "Fire where?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SPLD_OV:w8015ac6c"
@@ -100,8 +100,8 @@
    "off": 112,
    "len": 12,
    "jp": "　で使用",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Use",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SPLD_OV:w8015acac"
@@ -112,8 +112,8 @@
    "off": 124,
    "len": 16,
    "jp": "使いますか？",
-   "en": "",
-   "status": "todo",
+   "en": "Use it?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SPLD_OV:w8015aca4"
@@ -124,8 +124,8 @@
    "off": 140,
    "len": 12,
    "jp": "　で配置",
-   "en": "",
-   "status": "todo",
+   "en": "{x:12}Place",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SPLD_OV:w8015ace4"
@@ -136,8 +136,8 @@
    "off": 152,
    "len": 16,
    "jp": "どこに置く？",
-   "en": "",
-   "status": "todo",
+   "en": "Place where?",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SPLD_OV:w8015acdc"
@@ -148,8 +148,8 @@
    "off": 168,
    "len": 50,
    "jp": "アイテム一覧　　　　　　　　　　　　　　　：戻る",
-   "en": "",
-   "status": "todo",
+   "en": "Item List{x:252}: Back",
+   "status": "done",
    "kind": "text",
    "refs": [
     "SPLD_OV:w8015acf8"

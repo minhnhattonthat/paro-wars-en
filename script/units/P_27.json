@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　５（空に攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 5 (no air attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "世界最高峰、最強、最悪の地上兵器。重い新型複合装甲",
-   "en": "",
-   "status": "todo",
+   "en": "The world's highest, strongest, baddest ground",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "を採用したにも関わらず、最高時速７２ｋｍ、航続距離",
-   "en": "",
-   "status": "todo",
+   "en": "weapon. Despite heavy new composite armor, it",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "５５０ｋｍの機動力を誇る。",
-   "en": "",
-   "status": "todo",
+   "en": "boasts 72 km/h top speed and a 550 km range.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "　とにかく地上の兵器では一番強いはずなので、あとは",
-   "en": "",
-   "status": "todo",
+   "en": "It ought to be the strongest ground weapon anyway,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "まかせます。　間接攻撃と空からの攻撃に注意すれば、",
-   "en": "",
-   "status": "todo",
+   "en": "so the rest is up to you. Watch for ranged and air",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "ノープロブレムでしょう！？",
-   "en": "",
-   "status": "todo",
+   "en": "attacks, and it's no problem, right!?",
+   "status": "done",
    "kind": "text"
   },
   {

@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３（空に攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3 (no air attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　２",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "山岳地帯での戦闘や偵察行動に使用する目的で作られた",
-   "en": "",
-   "status": "todo",
+   "en": "An ultra-light, low-cost tank for mountain fights",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "超軽量、低価格戦車。どこか未知の文明を感じさせるデ",
-   "en": "",
-   "status": "todo",
+   "en": "and scouting. Proud of its nimbleness and a design",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "ザインと、すばしっこさが自慢。",
-   "en": "",
-   "status": "todo",
+   "en": "that hints at some unknown civilization.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "安くて、すぐ買えます。でも攻撃されたらもろいです。",
-   "en": "",
-   "status": "todo",
+   "en": "Cheap and quick to buy, but fragile under attack,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "そのつもりで心して使ってやって下さい。攻撃力はあり",
-   "en": "",
-   "status": "todo",
+   "en": "so use it knowing that. It has attack, so ideally",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "ますので、反撃を受けないような敵への弱い者いじめに",
-   "en": "",
-   "status": "todo",
+   "en": "it bullies the weak where it won't be hit back.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "使えればベストかな。スピードもいいよ。",
-   "en": "",
-   "status": "todo",
+   "en": "Good speed too.",
+   "status": "done",
    "kind": "text"
   }
  ]

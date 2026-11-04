@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　４",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 4",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　４",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 4",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "かつてのグラディウス戦役中に建造され、保管されてい",
-   "en": "",
-   "status": "todo",
+   "en": "A retired ship from the old Gradius War, back on",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "た退役艦が自主トレーニングの末現役復帰したものであ",
-   "en": "",
-   "status": "todo",
+   "en": "active duty after working out alone. Old, but",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "る。年寄りではあるが武装や耐久度はあなどれない。",
-   "en": "",
-   "status": "todo",
+   "en": "don't underestimate its guns or toughness.",
+   "status": "done",
    "kind": "text"
   },
   {

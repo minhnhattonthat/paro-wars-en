@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　モアイ国の侵略行為を、なんとかしのいだバウバウ　国であったが、戦勝の喜びもつかの間、新たな事件に　巻き込まれることになるのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "Bow-Wow somehow fended off Moai's invasion, but the joy of victory was short-lived. A new affair was about to drag it in.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "　バウバウ国は、第２次パロワールド大戦の敗戦で、　自国の一部分を戦勝国に占領されてしまったが、戦後　５０年の間に、そのほとんどが返還されていた。",
-   "en": "",
-   "status": "todo",
+   "en": "Bow-Wow lost Paro World War II and had land occupied by the victors. In the 50 years since, nearly all of it had been handed back.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "　ところが、唯一返還されていない地域があった。",
-   "en": "",
-   "status": "todo",
+   "en": "But one region was never returned.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "　それが、バウバウ国の北方に位置する、２月７日島　である。",
-   "en": "",
-   "status": "todo",
+   "en": "That was February 7th Island, north of Bow-Wow.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "　２月７日島は、こいつ＆あいつ連邦共和国の占領下　にあり、何度か交渉を行うものの、言葉が通じないせ　いか、いつも双方もの分かれに終わっていた。",
-   "en": "",
-   "status": "todo",
+   "en": "February 7th Island was held by Koitsu & Aitsu. Talks came and went, but maybe due to the language barrier, they always fell apart.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "　そんなこんなのある日、バウバウ国に、謎の行商猫　ジョン・ニャン次郎が訪れた。　　　　　　　　　　　　",
-   "en": "",
-   "status": "todo",
+   "en": "Then one day, the mysterious peddler cat John Nyanjiro came to Bow-Wow.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "　ジョン・ニャン次郎がバウバウ国に訪れる際には、　いつも総理のポチ之嵐に耳よりな情報を提供していた　が、今回の情報というのは・・・",
-   "en": "",
-   "status": "todo",
+   "en": "Whenever John Nyanjiro came to Bow-Wow, he brought juicy tips for Prime Minister Pochi-no-Arashi. And this time's tip was...",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "ニャン次郎：「こいつ＆あいつ国は、２月７日島に　　　　　　　　　一大リゾート地を作るらしいニャン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"Looks like Koitsu & Aitsu will build a giant resort on February 7th Island, nyan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1650,
    "len": 150,
    "jp": "ニャン次郎：「本土に比べると、あそこは気候が　　　　　　　　　　いいからニャ～ン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"The climate's nicer there than on their mainland, nyaaan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 1800,
    "len": 150,
    "jp": "ニャン次郎：「もともとあの島が、バウバウ国の領土　　　　　　　　だってことは、すっかり忘れてるみた　　　　　　　　いだニャン。」",
-   "en": "",
-   "status": "todo",
+   "en": "Nyanjiro: \"They seem to have clean forgotten that the island was Bow-Wow territory to begin with, nyan.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 1950,
    "len": 150,
    "jp": "ポチ之嵐：「口で言ってわかんねーなら、　　　　　　　　　　　　体で思い出させてやるワン！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Pochi-no-Arashi: \"If words won't get through to them, I'll beat the memory back into them, woof!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 2100,
    "len": 150,
    "jp": "　と、いうわけで２月７日島に、バウバウ国自営隊は　突撃、奇襲をしかけたのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "And so Bow-Wow's Self-Employed Defense Force charged February 7th Island in a surprise attack.",
+   "status": "done",
    "kind": "text"
   }
  ]

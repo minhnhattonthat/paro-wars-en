@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　４（地上攻撃力は弱い）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 4 (weak vs ground)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　４",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 4",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "アカシヤランド共和国を代表する、小型軽量戦闘機。",
-   "en": "",
-   "status": "todo",
+   "en": "Akashiya Land's signature small, light fighter.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "　対航空機に対する攻撃力はよい方です。守備力の方も",
-   "en": "",
-   "status": "todo",
+   "en": "Its attack vs aircraft is on the good side. Its",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "まあまあです。",
-   "en": "",
-   "status": "todo",
+   "en": "defense is so-so, too.",
+   "status": "done",
    "kind": "text"
   },
   {

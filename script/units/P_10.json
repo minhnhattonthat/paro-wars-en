@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　４",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 4",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "地上部隊支援を目的に開発された機体で、大量の攻撃兵",
-   "en": "",
-   "status": "todo",
+   "en": "Built to support ground troops, with straight",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "器を搭載するためジェット機らしからぬ直線の主翼を使",
-   "en": "",
-   "status": "todo",
+   "en": "wings unlike a jet's, to carry loads of weapons.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "っている。操縦席まわりのぶ厚い装甲板によって生存性",
-   "en": "",
-   "status": "todo",
+   "en": "Thick armor around the cockpit boosts survival.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "を高めている。",
-   "en": "",
-   "status": "todo",
+   "en": " ",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "強力な地上攻撃力をもち、さらに接近戦ならば航空機に",
-   "en": "",
-   "status": "todo",
+   "en": "Strong vs ground, and up close it can stand up to",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "も対抗しうる武装を整えており、かなり使える航空兵器",
-   "en": "",
-   "status": "todo",
+   "en": "aircraft too: a very usable air weapon. All that",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "です。装備が多い分スピードはないです。",
-   "en": "",
-   "status": "todo",
+   "en": "gear means it isn't fast.",
+   "status": "done",
    "kind": "text"
   }
  ]

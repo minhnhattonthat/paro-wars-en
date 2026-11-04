@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　４",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 4",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　２",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "低空近距離用のかなり攻撃力の高い対空砲を装備してお",
-   "en": "",
-   "status": "todo",
+   "en": "A very strong low-altitude, short-range anti-air",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "り、高額照準機と、測遠レーダーが連動して未来位置を",
-   "en": "",
-   "status": "todo",
+   "en": "gun. A pricey sight and rangefinding radar predict",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "予測する大リーグボール１号式攻撃で高い命中率をほこ",
-   "en": "",
-   "status": "todo",
+   "en": "the target's future position, \"Major League Ball",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "る。",
-   "en": "",
-   "status": "todo",
+   "en": "No. 1\" style, for high accuracy.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "攻撃力は高く命中率も高いのでそれなりの戦果は期待出",
-   "en": "",
-   "status": "todo",
+   "en": "Strong attack and high accuracy promise results,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "来るが、装甲は不十分なので、確実にしとめられるケー",
-   "en": "",
-   "status": "todo",
+   "en": "but armor is thin, so attack when you're sure of",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "スで攻撃を仕掛けたいところだ。",
-   "en": "",
-   "status": "todo",
+   "en": "the kill.",
+   "status": "done",
    "kind": "text"
   }
  ]

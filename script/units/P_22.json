@@ -9,8 +9,8 @@
    "off": 34816,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 34848,
    "len": 32,
    "jp": "攻撃力　２（占領できます）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 2 (can capture)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 34880,
    "len": 32,
    "jp": "守備力　１",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 1",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 34912,
    "len": 52,
    "jp": "こいつ＆あいつ国で最も多く生産された双尻ヘリコプタ",
-   "en": "",
-   "status": "todo",
+   "en": "Koitsu & Aitsu's most-produced twin-butted",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 34964,
    "len": 52,
    "jp": "ー。ひと昔前まではデザイン的に流行の最先端をいって",
-   "en": "",
-   "status": "todo",
+   "en": "helicopter. Once the height of design fashion, but",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 35016,
    "len": 52,
    "jp": "いたが、時代の流れとともにシェイプアップと、さらな",
-   "en": "",
-   "status": "todo",
+   "en": "over time whispers called for shaping up and more",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 35068,
    "len": 52,
    "jp": "るヒップアップの声がささやかれだし、Ｍｉ１７ヒップ",
-   "en": "",
-   "status": "todo",
+   "en": "hip-up, which led to the Mi17 Hip-Up Z. A bit old,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 35120,
    "len": 52,
    "jp": "アップＺの開発につながる。やや旧式だが安さがとりえ",
-   "en": "",
-   "status": "todo",
+   "en": "but cheap.",
+   "status": "done",
    "kind": "text"
   },
   {

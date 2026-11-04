@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　激戦の末、２月７日島からバウバウ軍を追い出した　のであるが、アカシヤランドとしては、せっかくの開　発中の土地を荒らされ、腹の虫がおさまらない。",
-   "en": "",
-   "status": "todo",
+   "en": "After a fierce fight they drove the Bow-Wow army from February 7th Island, but Akashiya Land was still fuming over its wrecked building site.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "　２月７日島は、まだコイツ＆アイツ機構側の統治下　にあるのであるから、このような行為はゆるされない。　これがクセになってはいけない、ということで、",
-   "en": "",
-   "status": "todo",
+   "en": "February 7th Island was still under the Koitsu & Aitsu Pact's rule. Such behavior was unforgivable, and must not become a habit. And so...",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "戦争のバックアップをしていたであろうと思われる、　バウバウ国と三国同盟を結んでいるペン太郎王国、ラ　ブリー国ともども経済制裁にふみきることになった。",
-   "en": "",
-   "status": "todo",
+   "en": "...they imposed economic sanctions on Bow-Wow and its Triple Alliance partners, Pentaro Kingdom and Lovely, the likely backers of the war.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "タコスケ：「ペンタ連合のやつら、このままほっとけ　　　　　　　へんなぁ。クセになったらあかんさかい、　　　　　　やつらへの原油輸出をヤメへんか？」",
-   "en": "",
-   "status": "todo",
+   "en": "Takosuke: \"Can't let them Penta Alliance guys be. Can't let it become a habit, y'hear. How's about we quit exportin' 'em oil?\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "アンナパブロワ：「おもしろいアルね！　　　　　　　　　　　　　　　　もうペンタ連合側には何も　　　　　　　　　　　　　渡さないアル！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Anna Pavlova: \"How amusing, aru! No more anything for the Penta Alliance, aru!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "　かくして、コイツ＆アイツ機構からペンタ連合側へ　の物資の輸出は、停止されたのである。",
-   "en": "",
-   "status": "todo",
+   "en": "And so the Koitsu & Aitsu Pact halted all goods exports to the Penta Alliance.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "アンナパブロワ：「今後一切、おまえらには　　　　　　　　　　　　　　何も売らないアル！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Anna Pavlova: \"From now on, we sell you people nothing at all, aru!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "ひかる、ペンタロウ、ポチ之嵐：　　　　　　　　　　　　　　　　　「え～っ！　な、なんだってぇ～！！」　",
-   "en": "",
-   "status": "todo",
+   "en": "Hikaru, Pentaro, Pochi-no-Arashi: \"Whaaat?! Wh-what did you saaay?!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "　ペンタ連合側としては、重要なエネルギーの輸入元　であったパンダ国から、原油が入ってこなくなったか　らたまらない。",
-   "en": "",
-   "status": "todo",
+   "en": "For the Penta Alliance this was unbearable: Panda had been a vital source of energy, and now no oil was coming in.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1650,
    "len": 150,
    "jp": "　特に、西の大国ラブリー連邦合衆国としては、聞き　ずてならない事態である。",
-   "en": "",
-   "status": "todo",
+   "en": "It especially alarmed the great western power, the Lovely Federal States.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 1800,
    "len": 150,
    "jp": "　「あいつらの好きにはさせないわ！」とばかりに、　パンダ国の原油産出地方である、フランシス＝ペドロ　島侵攻を開始した。",
-   "en": "",
-   "status": "todo",
+   "en": "With a cry of \"We won't let those two have their way!\", Lovely invaded Francis-Pedro Island, Panda's oil region.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 1950,
    "len": 150,
    "jp": "　突然のラブリー国の宣戦布告に驚いたのはパンダ国　である。不意をつかれたパンダ国は、アカシヤランド　に責任を追求した。",
-   "en": "",
-   "status": "todo",
+   "en": "Lovely's sudden declaration of war stunned Panda. Caught off guard, Panda blamed Akashiya Land.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 2100,
    "len": 150,
    "jp": "アンナパブロワ：「ちょっとちょっと、ひどいアル！　　　　　　　　　　もとはといえば、アタシのせいじ　　　　　　　　　　ゃないアル。」",
-   "en": "",
-   "status": "todo",
+   "en": "Anna Pavlova: \"Hold on, hold on, this is terrible, aru! This was never my fault to begin with, aru.\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -144,8 +144,8 @@
    "off": 2250,
    "len": 150,
    "jp": "アンナパブロワ：「タコスケ！　　　　　　　　　　　　　　　　　　　　どうしてくれるアル！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Anna Pavlova: \"Takosuke! What are you going to do about it, aru!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -153,8 +153,8 @@
    "off": 2400,
    "len": 150,
    "jp": "タコスケ：「エエエエエエ～ッ！！　　　　　　　　　　　　　　　ど、どないしょ～！！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Takosuke: \"Whaaaaaat!! Wh-what do I do, y'hear!!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -162,8 +162,8 @@
    "off": 2550,
    "len": 150,
    "jp": "　かくして、アカシヤ軍は、自分でまいた種に責任を　もつべく、フランシス＝ペドロ島に軍隊を派遣した。",
-   "en": "",
-   "status": "todo",
+   "en": "And so, to reap what it had sown, the Akashiya army sent forces to Francis-Pedro Island.",
+   "status": "done",
    "kind": "text"
   }
  ]

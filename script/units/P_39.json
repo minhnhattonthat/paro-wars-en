@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３（陸への攻撃は激弱）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3 (awful vs ground)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　２",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "　対低空攻撃機用に開発された。ＳＭ－４１軽戦車の",
-   "en": "",
-   "status": "todo",
+   "en": "Built against low-flying attack planes, on the",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "車体をベースに、信頼性の高い対空機関砲を装備して",
-   "en": "",
-   "status": "todo",
+   "en": "hull of the SM-41 light tank, with a trusty",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "いる。",
-   "en": "",
-   "status": "todo",
+   "en": "anti-air autocannon.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "とにかく対空系地上兵器は陸上兵器の攻撃を受けないよ",
-   "en": "",
-   "status": "todo",
+   "en": "Anti-air ground weapons must avoid attacks from",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "う注意しましょう。攻撃を受けたら被害はシャレになり",
-   "en": "",
-   "status": "todo",
+   "en": "land weapons: damage is no joke. Direct anti-air",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "ません。対空直接攻撃は強力ですが、とにかく攻撃を受",
-   "en": "",
-   "status": "todo",
+   "en": "attacks are strong, but plan your fights so they",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "けるのは避けるような戦い方をよく考えましょう。",
-   "en": "",
-   "status": "todo",
+   "en": "never get hit.",
+   "status": "done",
    "kind": "text"
   },
   {

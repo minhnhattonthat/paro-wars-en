@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　首尾よく油田基地フランシス＝ペドロ島を奪い取っ　たバウバウ軍であったが、",
-   "en": "",
-   "status": "todo",
+   "en": "The Bow-Wow army neatly seized the oil base on Francis-Pedro Island, but",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "　すぐ目の前には、敵本国であるパンダ国がひかえており、このままではフランシス＝ペドロ島も、いつ奪い返されてもおかしくない状況に置かれることになる。",
-   "en": "",
-   "status": "todo",
+   "en": "the enemy homeland of Panda lay right ahead. At this rate, Francis-Pedro Island might be taken back at any moment.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "　ここで一気に本国をつぶすために、勢いにのったバ　ウバウ国は、パンダ国本土へと攻め上がるのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "To crush the homeland in one go, a fired-up Bow-Wow marched on the Panda mainland.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "　一方のパンダ国であるが、先の戦争でのダメージは　かなり大きかった。",
-   "en": "",
-   "status": "todo",
+   "en": "Panda, meanwhile, had taken heavy damage in the last war.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "　国内は森林、岩山などの自然の要塞に守られた、難　攻不落の地として名をとどろかせていたが、今の状態　では心もとない。",
-   "en": "",
-   "status": "todo",
+   "en": "The country was famed as impregnable, guarded by natural fortresses of forest and crag, but in its present state it felt far from safe.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "　やむなく隣国のミカエル帝国に、救援を要請するこ　とにした。",
-   "en": "",
-   "status": "todo",
+   "en": "With no other choice, it decided to ask neighboring Michael Empire for help.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "　パンダ国最高主席アンナパブロワは、さっそく、ミ　カエル帝国帝王ミカエル・アブゥ４世のもとへと、要　請におもむく。",
-   "en": "",
-   "status": "todo",
+   "en": "Panda's Supreme Chairman Anna Pavlova went at once to plead with Michael Abu IV, Emperor of the Michael Empire.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "アンナパブロワ：「バウバウ国が攻めてくるアルよ。　　　　　　　　　　助けてくれないアルか？？」",
-   "en": "",
-   "status": "todo",
+   "en": "Anna Pavlova: \"Bow-Wow is coming to attack, aru. Will you not help us, aru??\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "ミカエル：「Ｏ．Ｋ！」",
-   "en": "",
-   "status": "todo",
+   "en": "Michael: \"O.K.!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "　ミカエル帝国の救援を受け、戦闘態勢を整えたパン　ダ国は、てぐすね引いてバウバウ国の侵攻を待ち受け　るのであった。",
-   "en": "",
-   "status": "todo",
+   "en": "With the Michael Empire's aid, Panda readied for battle and lay in wait for the Bow-Wow invasion.",
+   "status": "done",
    "kind": "text"
   }
  ]

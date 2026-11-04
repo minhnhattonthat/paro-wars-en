@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　３",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 3",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "１９６９年の原型初飛行から現在にいたるまで生産され",
-   "en": "",
-   "status": "todo",
+   "en": "A long-lived attack plane, in production since its",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "続けている息の長い攻撃機。これほど重宝されていたの",
-   "en": "",
-   "status": "todo",
+   "en": "first flight in 1969. It's so prized because it's",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "は機体が小型の割りに兵器搭載能力が大きく竹ヤリから",
-   "en": "",
-   "status": "todo",
+   "en": "small yet carries a lot, with weapons from bamboo",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "核兵器まで多彩な兵器装備が可能だったからに違いない",
-   "en": "",
-   "status": "todo",
+   "en": "spears to nukes. Its agility is proven by its use",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "運動性にもすぐれ、科学警備隊ピンクエンジェルス曲芸",
-   "en": "",
-   "status": "todo",
+   "en": "as the plane of the Science Patrol's Pink Angels",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "チームの使用機となったことが、これを証明している。",
-   "en": "",
-   "status": "todo",
+   "en": "stunt team.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "　攻撃機は対空戦よりも対地戦に適しています。スピー",
-   "en": "",
-   "status": "todo",
+   "en": "Attack planes suit ground targets more than air.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "ドはあまりありません。",
-   "en": "",
-   "status": "todo",
+   "en": "It's not very fast.",
+   "status": "done",
    "kind": "text"
   }
  ]

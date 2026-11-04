@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　フランシス＝ペドロ島の戦いでラブリー国が敗戦、　という一報を受けたペン太郎王国は、ついにパンダ国　に対し、得意の電撃戦で攻め込む決意を固めた。",
-   "en": "",
-   "status": "todo",
+   "en": "Word of Lovely's defeat at Francis-Pedro Island reached Pentaro Kingdom, which at last resolved to invade Panda with its famous blitzkrieg.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "こうなったら",
-   "en": "",
-   "status": "todo",
+   "en": "It's come to this:",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "本土突撃だ～",
-   "en": "",
-   "status": "todo",
+   "en": "storm their homeland!",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "　ペンタ連合側の動きを警戒していたこいつ＆あいつ　軍も、ペンタ軍のこの突撃作戦にいち早く気づいて、　迎撃部隊を派遣した。",
-   "en": "",
-   "status": "todo",
+   "en": "The Koitsu & Aitsu army, wary of the Penta Alliance, quickly spotted this charge and sent a force to intercept it.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "　そして両軍は、両国の国境近くのプリンス王国で激　突することになる。",
-   "en": "",
-   "status": "todo",
+   "en": "The two armies were set to collide in Prince Kingdom, near their shared border.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "　ペン太郎王国の北東に位置するプリンス王国。　　　　小さな国であるが、金、銀などの貴重な鉱物資源が　豊富で、ペン太郎王国とは長年姉妹国関係にあった。",
-   "en": "",
-   "status": "todo",
+   "en": "Prince Kingdom lies northeast of Pentaro Kingdom. Small but rich in gold, silver and other precious minerals, it was a longtime sister nation.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "　ペン太郎王国にとって現在の繁栄は、このプリンス　王国の豊かな資源によるものだ、といっても過言では　ないほどの重要な拠点である。",
-   "en": "",
-   "status": "todo",
+   "en": "It's no exaggeration to say Pentaro Kingdom owes its prosperity to Prince Kingdom's rich resources. It's that vital a stronghold.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "　こいつ＆あいつ国にとって、この地を我がものにす　ることは、ペン太郎王国に大打撃を与えるだけでなく、自国にお宝が手に入る、願ってもない機会である。",
-   "en": "",
-   "status": "todo",
+   "en": "For Koitsu & Aitsu, taking this land would deal Pentaro Kingdom a huge blow and fill its own coffers: a golden chance.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "　ペン太郎王国としても、パンダ国からの原油輸入ス　トップに続き、経済を支えるプリンス王国を奪われた　とあっては、もはや国の存亡の危機である。",
-   "en": "",
-   "status": "todo",
+   "en": "For Pentaro Kingdom, with Panda's oil already cut off, losing Prince Kingdom's economic support would threaten the nation's very survival.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "　ここに、両雄必死の戦いが始まろうとしていた。",
-   "en": "",
-   "status": "todo",
+   "en": "Here, the two rivals' desperate battle was about to begin.",
+   "status": "done",
    "kind": "text"
   }
  ]

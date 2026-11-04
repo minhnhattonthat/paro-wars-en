@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　４",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 4",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　２",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "ＢＲＳＭ２の砲塔の代わりに全周旋回式のミサイルラン",
-   "en": "",
-   "status": "todo",
+   "en": "A BRSM2 with its turret replaced by an all-round",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "チャーを搭載した車両。",
-   "en": "",
-   "status": "todo",
+   "en": "rotating missile launcher.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "ほぼ満足のいく攻撃力ですが、コイツ・アイツ機構側の",
-   "en": "",
-   "status": "todo",
+   "en": "Almost satisfying attack, but the Koitsu & Aitsu",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "対空兵器は命中率がやや低めな傾向があるので、陸指が",
-   "en": "",
-   "status": "todo",
+   "en": "Pact's anti-air tends to be inaccurate, so give it",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "高い指揮官に指揮をまかせるよう心がけましょう。",
-   "en": "",
-   "status": "todo",
+   "en": "a commander with high Land command.",
+   "status": "done",
    "kind": "text"
   },
   {

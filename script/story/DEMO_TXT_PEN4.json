@@ -18,8 +18,8 @@
    "off": 150,
    "len": 150,
    "jp": "　南方戦線を制し、エネルギー危機も回避して平和な　日々が訪れたペン太郎王国にある日、同盟国のラブリー国とバウバウ国から、思わぬ連絡が飛び込んできた。",
-   "en": "",
-   "status": "todo",
+   "en": "The southern front won and the energy crisis averted, peace came to Pentaro Kingdom. Then shocking news came from allies Lovely and Bow-Wow.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 300,
    "len": 150,
    "jp": "兵士Ａ：「国王！！ラブリー国ごうか客船『パロニャ　　　　　　ン子号』がブリンブリンＨ島沖で沈没した　　　　　　という連絡が入りました！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Soldier A: \"My king!! Word has come that Lovely's luxury liner 'Paro Nyanko' sank off Bling-Bling H Island!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 450,
    "len": 150,
    "jp": "ペン太郎：「へぇ～、気の毒にね。　　　　　　　　　　　　　　　それがどうかしたの？」",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro: \"Huh, what a pity. So what about it?\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 600,
    "len": 150,
    "jp": "兵士Ａ：「そ、それがなんと！　　　　　　　　　　　　　　　　バウバウ国潜水艦による魚雷攻撃が原因ら　　　　　　しいんです！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Soldier A: \"W-well, incredibly! It seems the cause was a torpedo attack by a Bow-Wow submarine!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 750,
    "len": 150,
    "jp": "ペン太郎：「な、なんだってぇ～！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro: \"Wh-what did you saaay?!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 900,
    "len": 150,
    "jp": "　こいつ＆あいつ国から２月７日島を奪い返して以来　再度の侵攻を恐れたバウバウ国内では、厳重な警戒体　制がひかれていた。",
-   "en": "",
-   "status": "todo",
+   "en": "Ever since taking February 7th Island back from Koitsu & Aitsu, Bow-Wow had kept up a tight watch, fearing another invasion.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 1050,
    "len": 150,
    "jp": "　そんな中、「パロニャン子号」は、ほんのわずかで　あったが、本来の航路をそれて、バウバウ国の領海内　に入ってしまったのである。",
-   "en": "",
-   "status": "todo",
+   "en": "Amid all this, the \"Paro Nyanko\" strayed ever so slightly off course and entered Bow-Wow's territorial waters.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 1200,
    "len": 150,
    "jp": "　警戒警報発令に急いでかけつけた、バウバウ国警備　潜水艦「うすしおＦＣ」の再三にわたる警告にも関わ　らず、「パロニャン子号」からは全く応答がない。",
-   "en": "",
-   "status": "todo",
+   "en": "The Bow-Wow patrol sub \"Usushio FC\" rushed over at the alert and warned the \"Paro Nyanko\" again and again, but no reply came.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 1350,
    "len": 150,
    "jp": "うすしおＦＣ：「あやしい船舶！！応答するワン！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Usushio FC: \"Suspicious vessel!! Respond, woof!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 1500,
    "len": 150,
    "jp": "無線機：「ピィ～、ガ～、ビビビィ～、キャ～、　　　　　　　　ワハハハッ！！、オラオラ！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Radio: \"Peee, kshhh, bzzzt, eeek, wahahaha!!, c'mon, c'mon!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 1650,
    "len": 150,
    "jp": "　一方の「パロニャン子号」であるが、そのころ船内　では飲めや歌えやの大宴会、客船クルーを巻き込んで　の、王様ゲームで盛り上がっていたのである。",
-   "en": "",
-   "status": "todo",
+   "en": "On the \"Paro Nyanko,\" meanwhile, a huge party of drinking and singing was on, with the whole crew caught up in a wild game of King's Game.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -117,8 +117,8 @@
    "off": 1800,
    "len": 150,
    "jp": "うすしおＦＣ：「ガウ～ッ！　　　　　　　　　　　　　　　　　　　　それ以上近づくと撃つワン！」",
-   "en": "",
-   "status": "todo",
+   "en": "Usushio FC: \"Grrrr! Come any closer and we shoot, woof!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -126,8 +126,8 @@
    "off": 1950,
    "len": 150,
    "jp": "うすしおＦＣ：「ウワワン！　　　　　　　　　　　　　　　　　　　　もうかんべんならないワン！」",
-   "en": "",
-   "status": "todo",
+   "en": "Usushio FC: \"Bow-wow-wow! That does it, woof!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -135,8 +135,8 @@
    "off": 2100,
    "len": 150,
    "jp": "　たび重なる警告無視にしびれをきらし、　　　　　　ついに「うすしおＦＣ」の魚雷が火を吹いた。",
-   "en": "",
-   "status": "todo",
+   "en": "Out of patience with the ignored warnings, the \"Usushio FC\" at last let its torpedoes fly.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -144,8 +144,8 @@
    "off": 2250,
    "len": 150,
    "jp": "パロニャン子号：「イヤ～ン、何よこれ～、　　　　　　　　　　　　　　助けて～！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Paro Nyanko: \"Eeek, what is this, somebody help!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -153,8 +153,8 @@
    "off": 2400,
    "len": 150,
    "jp": "　「パロニャン子号」のＳＯＳを受信したラブリー軍、戦闘開始を察知したバウバウ軍、双方から発進した軍　隊がブリンブリンＨ島沖で激突した。",
-   "en": "",
-   "status": "todo",
+   "en": "The Lovely army caught the \"Paro Nyanko\" SOS, the Bow-Wow army sensed battle, and the forces of both clashed off Bling-Bling H Island.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -162,8 +162,8 @@
    "off": 2550,
    "len": 150,
    "jp": "ペン太郎：「こ、これは放っておけないのね。　　　　　　　　　　すぐにブリンブリンＨ島に　　　　　　　　　　　　　向かうんだ！！」",
-   "en": "",
-   "status": "todo",
+   "en": "Pentaro: \"W-we can't let this be, okay? Head for Bling-Bling H Island at once!!\"",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -171,8 +171,8 @@
    "off": 2700,
    "len": 150,
    "jp": "　この知らせを受けたペン太郎王国は、紛争を止めに　入るため、ブリンブリンＨ島沖に軍隊を派遣するので　あった。",
-   "en": "",
-   "status": "todo",
+   "en": "At this news, Pentaro Kingdom sent its army off Bling-Bling H Island to step in and stop the conflict.",
+   "status": "done",
    "kind": "text"
   }
  ]

@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　１",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 1",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　１",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 1",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "普通のトラックに改良をほどこした、補給物資の輸送を",
-   "en": "",
-   "status": "todo",
+   "en": "A souped-up plain truck, a non-combat vehicle that",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "行う非戦闘用車両。",
-   "en": "",
-   "status": "todo",
+   "en": "carries supplies.",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -63,8 +63,8 @@
    "off": 18684,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　エネルギー「あり」のモードでは、補給車に隣接して",
-   "en": "",
-   "status": "todo",
+   "en": "In \"Energy On\" mode, stand next to a supply truck",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "補給コマンドを実行すればエネルギーと弾薬の補給がで",
-   "en": "",
-   "status": "todo",
+   "en": "and use Supply to refill energy and ammo, a very",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "きるので、とっても重要な役割を持っているのだが、エ",
-   "en": "",
-   "status": "todo",
+   "en": "important job. In \"Energy Off\" mode it's nearly",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "ネルギー「なし」のモードでは、存在価値は、ほとんど",
-   "en": "",
-   "status": "todo",
+   "en": "worthless. (Just an obstacle for enemies.)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "ないのだ。（敵の障害物としての役割だけ）",
-   "en": "",
-   "status": "todo",
+   "en": " ",
+   "status": "done",
    "kind": "text"
   }
  ]

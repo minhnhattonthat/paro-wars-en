@@ -9,8 +9,8 @@
    "off": 34816,
    "len": 32,
    "jp": "　　　◆強さ５段階評価◆",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 34848,
    "len": 32,
    "jp": "攻撃力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 34880,
    "len": 32,
    "jp": "守備力　５",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 34912,
    "len": 52,
    "jp": "　こいつをただでかくしただけの、まさに国を象徴する",
-   "en": "",
-   "status": "todo",
+   "en": "Just Koitsu made big: a Deluxe Robo truly worthy",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 34964,
    "len": 52,
    "jp": "にふさわしい極上ロボットだ。情報が固くガードされて",
-   "en": "",
-   "status": "todo",
+   "en": "of the nation's symbol. Its data is tightly",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 35016,
    "len": 52,
    "jp": "おりその能力には謎の部分が多い。",
-   "en": "",
-   "status": "todo",
+   "en": "guarded, so much about its ability is a mystery.",
+   "status": "done",
    "kind": "text"
   },
   {

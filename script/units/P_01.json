@@ -9,8 +9,8 @@
    "off": 18432,
    "len": 32,
    "jp": "　　　　強さ５段階評価",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}Strength, out of 5",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -18,8 +18,8 @@
    "off": 18464,
    "len": 32,
    "jp": "攻撃力　３（間接攻撃できない）",
-   "en": "",
-   "status": "todo",
+   "en": "Attack 3 (no ranged attack)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -27,8 +27,8 @@
    "off": 18496,
    "len": 32,
    "jp": "守備力　２",
-   "en": "",
-   "status": "todo",
+   "en": "Defense 2",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -36,8 +36,8 @@
    "off": 18528,
    "len": 52,
    "jp": "ペンタ陣営を代表する戦闘機。やや旧式だが早い、安",
-   "en": "",
-   "status": "todo",
+   "en": "The Penta camp's signature fighter. A bit old, but",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -45,8 +45,8 @@
    "off": 18580,
    "len": 52,
    "jp": "い、うまいの３拍子をかねそなえた逸品。お金がない",
-   "en": "",
-   "status": "todo",
+   "en": "fast, cheap and tasty: a real gem. Good when short",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -54,8 +54,8 @@
    "off": 18632,
    "len": 52,
    "jp": "ときにはおすすめ。（でもすぐやられちゃうかも）",
-   "en": "",
-   "status": "todo",
+   "en": "of money. (Though it may die fast.)",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -72,8 +72,8 @@
    "off": 18736,
    "len": 52,
    "jp": "　　　　　　★ワンポイントアドパイス★",
-   "en": "",
-   "status": "todo",
+   "en": "{x:60}* One-Point Advice *",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -81,8 +81,8 @@
    "off": 18788,
    "len": 52,
    "jp": "対航空機に対する間接攻撃力がないのが痛いところだ",
-   "en": "",
-   "status": "todo",
+   "en": "It hurts that it has no ranged attack vs aircraft,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -90,8 +90,8 @@
    "off": 18840,
    "len": 52,
    "jp": "が、取りあえず、直接攻撃でなら対抗はできる。大事",
-   "en": "",
-   "status": "todo",
+   "en": "but it can at least fight up close. To keep it",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -99,8 +99,8 @@
    "off": 18892,
    "len": 52,
    "jp": "にするなら、まず他の間接攻撃系兵器でダメージを与",
-   "en": "",
-   "status": "todo",
+   "en": "alive, let other ranged weapons do damage first,",
+   "status": "done",
    "kind": "text"
   },
   {
@@ -108,8 +108,8 @@
    "off": 18944,
    "len": 52,
    "jp": "たうえで、とどめを刺すという戦い方をしたい。",
-   "en": "",
-   "status": "todo",
+   "en": "then have it finish the target off.",
+   "status": "done",
    "kind": "text"
   }
  ]
