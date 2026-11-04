@@ -14,19 +14,24 @@ Images are raw pixels inside LZ files: no TIM headers except `CNTRY_ST`. Typical
 | 5 | Country plates, small, on the story map: プリンス王国, グレート=ペンタ連邦, フィンフィン諸島王国, ２月７日島, ニャー大島, グウェート公国... | tour, sweep | `DEMO/WMAP0` (two sizes, ~21 names) | place names | redraw |
 | 6 | Country pick list | sweep | `DEMO/KABE2` lower half | 8 names | redraw |
 | 7 | Mission title cards: 北方の金塊 もらったり〜や！ etc. with furigana | tour (f003000) | `MTIT/MTIT1-12` (4bpp, 12 cards, 2-3 lines) | mission titles | redraw; drop furigana |
-| 8 | Win banner かったっ!! (reading **guess**) | sweep | `BTLEND/WIN00-08` (one per country) | battle result | redraw, 9 files |
-| 9 | Lose banner まけナッ!! (reading **guess**) | sweep | `BTLEND/LOS00-07` | battle result | redraw, 8 files |
+| 8 | Win banner かちっ!! | `win` scene | `BTLEND/WIN00-08` (one per country) | battle result | redraw, 9 files |
+| 9 | Lose banner まけっ!! | `lose` scene | `BTLEND/LOS00-07` | battle result | redraw, 8 files |
 | 10 | Map HUD country name: ペン太郎王国 in bottom bar | tour (f005500) | **guess**: `CNTRY_ST` or the STAFF-like strips; `X:`, `Y:`, `TURN:` are already English | | find via VRAM dump |
-| 11 | Unit name plates beside unit art in battle intros: `09 コロシア`, `05 ボンジュールミラージュ` (some English: `00 Mig-J1`, `55 F-14`, `82 TWINBEE`) | sweep | `OP_00-23`, `OP_55`, `OP_81`, `OP_82`; similar plates in `OPF*`, `PUP_24-73` (small tag blocks, reading not checked) | one per unit, ~100 files | redraw, or text if a runtime overlay: check in-game. **Largest item** |
+| 11 | Unit name plates beside unit art: number plus name, `09 コロシア`, `05 ボンジュールミラージュ`, `60 クレスタ!`, `62 フォレスタルキング`, `71 ドザエもん` (some English: `00 Mig-J1`, `55 F-14`, `68 V.H.T.`, `82 TWINBEE`) | sweep | `OP_00-23`, `OP_55`, `OP_81`, `OP_82`, `PUP_24-73`; `OPF*` holds the same unit art with no plate on the sheets read | one per unit, ~100 files | redraw. Not on screen in `battle_anim`, so where they display is still to find. **Largest item** |
 | 12 | Credits font | sweep | `ENDING/STAFF` (4bpp kanji + kana sheet: glyphs drawn by run time from a layout, **guess**) | | rebuild as English; layout table probably in `ENDING.BIN` |
 | 13 | Title screen | tour | `ROGO` logo stays; `NEW GAME`, `CONTINUE`, copyright already English | | none |
 | 14 | Memory card screens | sweep | `MCWGRPH` shows `MEMORY CARD` in English; the text around it is strings in `MEMCARD.BIN` | | check in tour |
 | 15 | Map compass N/E/S/W, `TV` on the cat's hat, FIX.BIN digits and letters | tour, sweep | `FIX` | already Latin | none; check `FIX` kana cells in tour |
 | 16 | Banners and signs painted into story backdrops: パウンド, フォーバウンド in チェス (BACK10A), パロワールド対抗 超シング＆ダンス大会 (BACK11A), a sign in the crowd scene (BACK13A/B) | sweep | `DEMO/BACK10A`, `BACK11A`, `BACK13A`, `BACK13B`; `BACK12A/B` has small marks to check | set dressing with story jokes | redraw over art; read these at full colour first |
 | 17 | `Thank you for playing this game!` | sweep | `ENDING/ENDKABE` | already English | none |
+| 18 | Sign with a Japanese name and FC, 〜中 (reading **guess**, seems to be a fan club sign) | sheet 16 | `DEMO/PEN4_01` (others of the family not checked at full colour) | story joke | read at full colour, redraw |
+| 19 | Result lines beside the win banner's gold crate: `モアイ首長国広国の` + a line (reading **guess**) | `win` scene | **guess**: drawn as text at run time, not part of `WIN*` | | find in phase 4 |
+| 20 | Credits headings and names, shown in the kanji + kana sheet of row 12 | `credits` | row 12 | | row 12's work |
+
+Text drawn by the engine, not graphics, seen in the tour and handed to phase 4's string dump: battle speech boxes (`battle_anim`), HP plates (`battle`), shop and unit menus, options, unit info, map status, select help, end-of-mission lines.
 
 ## Coverage: what this list does and does not rest on
-- **Static sweep:** `tools/sweep.py` rendered 776 unique files on 65 sheets in `work/recon/sweep/` (index in `index.tsv`, every skipped family printed). I read 30 of the 65 sheets: 0, 1, 2, 3, 6, 7, 10, 15, 18, 19, 20, 22, 24, 25, 27, 28, 29, 31, 32, 33, 43, 44, 47, 49, 50, 54, 60, 61, 62, 63. **The other 35 are unread:** 4, 5, 8, 9, 11-14, 16, 17, 21, 23, 26, 30, 34-42, 45, 46, 48, 51-53, 55-59, 64. They are siblings of families I did read (DEMO scenario files, ENDING, NYANTV, OP/OPF, PUP, P_), so most should only add copies, but a new element can hide there: reading sheet 6 late is what found row 16. Read them in phase 2, and list every copy before redrawing a family.
+- **Static sweep:** `tools/sweep.py` rendered 776 unique files on 65 sheets in `work/recon/sweep/` (index in `index.tsv`, every skipped family printed). **All 65 are read.** The last 35 mostly added copies of known plates (rows 4, 11) and found row 18. No text in `P_*` (noise, likely compressed or code at these widths) or NYANTV (the cat's face, confirmed by the `nyantv` scene). `DEMO/MOA3_01` has a "Bom" balloon, already English. Copies must still be listed per family before a redraw.
 - **Large families, sampled only:** BK_DT 3,349 and BTL 2,115 and ATAMA 353, from `work/recon/sweep_s/`: backdrops, terrain and battle frames, no text in the sample. Not proven text-free; the marker tour in phase 5 is the check.
-- **Tour so far:** title, mode select, level select, story map, story dialogue, VS card, mission card, tactical map. Not yet seen in game: unit command menus, battle scenes, shop, NYANTV, memory card, unit info pages, win/lose, game over, ending, credits. Phase 2's debug tool must reach those, and each adds rows here if something new shows up.
+- **Tour:** every scene in `tools/debug/scenes.tsv` was viewed on its sheet except that story shots can land on a transition. Screens no scene reaches are listed in `flow.md`.
 - Sheets are greyscale without palettes at fixed widths, so low-contrast or odd-width text can hide.

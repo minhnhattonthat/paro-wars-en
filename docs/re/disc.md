@@ -8,11 +8,24 @@ Single MODE2/2352 data track, 702,250,752 bytes, 6,885 ISO files. Serial SLPM-86
 - `$gp` is 0 in the header; check for `$gp`-relative data before relying on `lui` xrefs alone (not read yet, **guess** that it is unused).
 
 ## File records
-12-byte `{u32 size, u32 lba, u32 ram}` entries. `tools/disc_tables.py` finds 201 in PAW.EXE (file 0x8B658-0x8C960) and 5 in the boot EXE; listing in
-`work/recon/file_tables.tsv`. The scan keeps only records whose LBA starts a known file and whose third word is 0x80xxxxxx, so it misses records like the boot EXE's last one. **verified**: FIX.BIN `{0xEAC0, 1212, 0x80160000}`, sizes and LBAs match the ISO directory.
+12-byte `{u32 ram, u32 size, u32 lba}` entries (**verified**: the loader's id table `tools/disc_ids.py` reads them in this order, `docs/re/flow.md`; `tools/disc_tables.py` still prints the columns one word off, as `{size, lba, ram}`, and its "ram" column belongs to the next record). It finds 201 in PAW.EXE (file 0x8B658-0x8C960) and 5 in the boot EXE; listing in
+`work/recon/file_tables.tsv`. The scan keeps only records whose LBA starts a known file and whose next word is 0x80xxxxxx, so it misses records like the boot EXE's last one. **verified**: FIX.BIN size 0xEAC0, LBA 1212, sizes and LBAs match the ISO directory.
 - Some records use a size rounded up (X_PENTA 0xEA2F vs ISO 0xEA2B). Records exist for P_*, PUP_*, MTIT, X_*, OP*, BAKU*, BATTLE*, S_*.
-- Not named by these records: BK_DT 3347, BTL 2115, ATAMA 353, DEMO 324, ENDING 118, NYANTV 124, BTLEND 17, overlays and others in DATA 216, SOUND, STR. **guess**: those
-  use computed LBAs (base + index), other table shapes, or per-scene lists such as `DEMO/SEQ_*` (their first words are RAM pointers 0x801C0140...). Find the loader in phase 2/3 before changing any file's size.
+- Not named by those 201 records, found by reading the code and scanning every small file for `{size, lba}` pairs:
+  | Family | How the LBA is made | Where | Label |
+  |---|---|---|---|
+  | BK_DT 3,349 | `0x3AC7 + 47n`, also +0x1B and +0x24 for its two siblings, written into three PAW records | PAW 0x80033380 | **verified** code read |
+  | BTL 2,115 | `0x11940 + 16n` (32 KB each), written into PAW records | PAW 0x8002A5E4, indices from 0x80013FC8 | **verified** code read |
+  | ATAMA 353 | `0x2A7B0 + 4n` (8 KB each) for 352 of them; the loader of `ATAMA.BIN` itself was not read | PAW 0x8002A5EC | **verified** code read |
+  | NYANTV 125 | `0x1FA4 + 51(n-1)`, or `(n-2)` for n >= 0x1D, so n 28 and 29 share a file (no `TV_028` on disc); n = `G+0x7F7` | PAW 0x80060B0C, record 0x8009C16C | **verified**: code, plus a poke in the `nyantv` scene |
+  | BTLEND 17 | Records in the overlay | `BEND_OV` file 0x1A8C | **verified** by scan |
+  | ENDING 118 | 165 records in the overlay | `ENDING.BIN` file 0x3AC8 | **verified** by scan |
+  | DEMO: COL, SEQ, TXT | 8 x 8 tables in the overlay (`flow.md`) | `MAP_DEMO` | **verified** |
+  | DEMO: WMAP, KABE, `*_0n` scenery | WMAP in `SELECT.BIN` file 0xA99C; `*_0n` by `SEQ_*`, whose first words are RAM pointers | `SEQ_*` | **guess** for `*_0n` |
+  | Overlays 35 | id table 0x8009C34C, plus map sub-state handlers | `flow.md` | **verified** |
+  | SOUND, STR | Not read | | unknown; these are not patched |
+  
+  Every one of these LBAs is compiled in, so the rebuild rule below covers them all. In phase 3, confirm the `*_0n` route only if one of those files must grow.
 
 ## Rebuild rule
 **File sizes and LBAs are compiled in.** Keep every file at its LBA, and within its allocated sectors (`layout.xml` records `dummy` gaps). A file that outgrows

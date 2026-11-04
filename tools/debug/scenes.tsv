@@ -1,0 +1,160 @@
+# name	kind	args...	(see tools/debug/warp.lua; steps language in its steps())
+story_pen_0	story	pen	0
+story_pen_1	story	pen	1
+story_pen_2	story	pen	2
+story_pen_3	story	pen	3
+story_pen_4	story	pen	4
+story_pen_5	story	pen	5
+story_pen_6	story	pen	6
+story_but_0	story	but	0
+story_but_1	story	but	1
+story_but_2	story	but	2
+story_but_3	story	but	3
+story_but_4	story	but	4
+story_but_5	story	but	5
+story_but_6	story	but	6
+story_tak_0	story	tak	0
+story_tak_1	story	tak	1
+story_tak_2	story	tak	2
+story_tak_3	story	tak	3
+story_tak_4	story	tak	4
+story_tak_5	story	tak	5
+story_lov_0	story	lov	0
+story_lov_1	story	lov	1
+story_lov_2	story	lov	2
+story_lov_3	story	lov	3
+story_lov_4	story	lov	4
+story_lov_5	story	lov	5
+story_lov_6	story	lov	6
+story_ait_0	story	ait	0
+story_ait_1	story	ait	1
+story_ait_2	story	ait	2
+story_ait_3	story	ait	3
+story_ait_4	story	ait	4
+story_ait_5	story	ait	5
+story_ait_6	story	ait	6
+story_moa_0	story	moa	0
+story_moa_1	story	moa	1
+story_moa_2	story	moa	2
+story_moa_3	story	moa	3
+story_moa_4	story	moa	4
+story_moa_5	story	moa	5
+story_moa_6	story	moa	6
+story_pan_0	story	pan	0
+story_pan_1	story	pan	1
+story_pan_2	story	pan	2
+story_pan_3	story	pan	3
+story_pan_4	story	pan	4
+story_pan_5	story	pan	5
+story_pan_6	story	pan	6
+story_bau_0	story	bau	0
+story_bau_1	story	bau	1
+story_bau_2	story	bau	2
+story_bau_3	story	bau	3
+story_bau_4	story	bau	4
+story_bau_5	story	bau	5
+story_bau_6	story	bau	6
+card_pen_0	card	pen	0
+card_pen_1	card	pen	1
+card_pen_2	card	pen	2
+card_pen_3	card	pen	3
+card_pen_4	card	pen	4
+card_pen_5	card	pen	5
+card_pen_6	card	pen	6
+card_but_0	card	but	0
+card_but_1	card	but	1
+card_but_2	card	but	2
+card_but_3	card	but	3
+card_but_4	card	but	4
+card_but_5	card	but	5
+card_but_6	card	but	6
+card_tak_0	card	tak	0
+card_tak_1	card	tak	1
+card_tak_2	card	tak	2
+card_tak_3	card	tak	3
+card_tak_4	card	tak	4
+card_tak_5	card	tak	5
+card_lov_0	card	lov	0
+card_lov_1	card	lov	1
+card_lov_2	card	lov	2
+card_lov_3	card	lov	3
+card_lov_4	card	lov	4
+card_lov_5	card	lov	5
+card_lov_6	card	lov	6
+card_ait_0	card	ait	0
+card_ait_1	card	ait	1
+card_ait_2	card	ait	2
+card_ait_3	card	ait	3
+card_ait_4	card	ait	4
+card_ait_5	card	ait	5
+card_ait_6	card	ait	6
+card_moa_0	card	moa	0
+card_moa_1	card	moa	1
+card_moa_2	card	moa	2
+card_moa_3	card	moa	3
+card_moa_4	card	moa	4
+card_moa_5	card	moa	5
+card_moa_6	card	moa	6
+card_pan_0	card	pan	0
+card_pan_1	card	pan	1
+card_pan_2	card	pan	2
+card_pan_3	card	pan	3
+card_pan_4	card	pan	4
+card_pan_5	card	pan	5
+card_pan_6	card	pan	6
+card_bau_0	card	bau	0
+card_bau_1	card	bau	1
+card_bau_2	card	bau	2
+card_bau_3	card	bau	3
+card_bau_4	card	bau	4
+card_bau_5	card	bau	5
+card_bau_6	card	bau	6
+map_opening	mission	pen	0	w900
+map	mission	pen	0	w900 circle w60 circle w60
+unit_cmd	mission	pen	0	w900 circle w60 circle w60 circle w60
+unit_move	mission	pen	0	w900 circle w60 circle w60 circle w60 circle w60
+unit_info	mission	pen	0	w900 circle w60 circle w60 triangle w120
+unit_tactics	mission	pen	0	w900 circle w60 circle w60 circle w60 down w20 circle w150
+unit_func	mission	pen	0	w900 circle w60 circle w60 circle w60 down w20 down w20 circle w150
+unit_special	mission	pen	0	w900 circle w60 circle w60 circle w60 down w20 down w20 down w20 circle w150
+menu_1	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 circle w300
+menu_2	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 circle w300
+menu_3	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 down w20 circle w300
+menu_4	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 down w20 down w20 circle w300
+menu_5	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 down w20 down w20 down w20 circle w300
+menu_6	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 down w20 down w20 down w20 down w20 circle w300
+menu_7	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 down w20 down w20 down w20 down w20 down w20 circle w300
+menu_8	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 down w20 down w20 down w20 down w20 down w20 down w20 circle w300
+menu_9	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 down w20 down w20 down w20 down w20 down w20 down w20 down w20 circle w300
+st_sksn	mission	pen	0	w900 circle w60 circle w60 state=4 w300
+st_spld	mission	pen	0	w900 circle w60 circle w60 state=9 w300
+st_shop	mission	pen	0	w900 circle w60 circle w60 state=10 w300
+st_locex	mission	pen	0	w900 circle w60 circle w60 state=14 w300
+st_prod	mission	pen	0	w900 circle w60 circle w60 state=15 w300
+st_butai	mission	pen	0	w900 circle w60 circle w60 state=16 w300
+st_cntryst	mission	pen	0	w900 circle w60 circle w60 state=17 w300
+st_memcard	mission	pen	0	w900 circle w60 circle w60 state=18 w300
+st_allmap	mission	pen	0	w900 circle w60 circle w60 state=19 w300
+st_options	mission	pen	0	w900 circle w60 circle w60 state=21 w300
+st_suim	mission	pen	0	w900 circle w60 circle w60 state=28 w300
+nyantv	mission	pen	0	w900 circle w60 circle w60 m0x800E096F=1 g0x7f7=1 g0x852=1 m0x800E0973=1 w300
+enemy_turn	mission	pen	0	w900 circle w60 circle w60 state=25 w600
+win	mission	pen	0	w900 circle w60 circle w60 g0x798=2 until4.10 w640
+lose	mission	pen	0	w900 circle w60 circle w60 g0x798=2 until4.9 g0x798=5 until4.10 w500
+attract	attract
+battle	attract	until-attack w240
+battle_anim	attract	until-attack w30 g0x1c=1 g0x20=0 w500
+ending_pen	ending	pen	6	36*[circle w240]
+ending_but	ending	but	6	36*[circle w240]
+ending_tak	ending	tak	5	36*[circle w240]
+ending_lov	ending	lov	6	36*[circle w240]
+ending_ait	ending	ait	6	38*[circle w240]
+ending_moa	ending	moa	6	36*[circle w240]
+ending_pan	ending	pan	6	36*[circle w240]
+ending_bau	ending	bau	6	36*[circle w240]
+credits	ending	pen	6	58*[circle w240]
+mb_level	mapbattle	
+mb_help	mapbattle	square w200
+mb_map	mapbattle	circle w150
+mb_status	mapbattle	2*[circle w150]
+mb_play	mapbattle	13*[circle w150] w300
