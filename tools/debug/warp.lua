@@ -137,6 +137,15 @@ end
 
 local KIND = {
   story = function(row) story(COUNTRY[row[3]], tonumber(row[4])) end,
+  -- storyx country chapter steps: the story pages, driven by steps instead of 10 presses.
+  storyx = function(row)
+    to_story()
+    w8(G + 0x154, COUNTRY[row[3]])
+    w8(G + 0xD02, tonumber(row[4]))
+    wait(function() return mode() == 3 and sub() == 3 end, 3000, "story pages")
+    steps(row[5])
+    steps(EXPLORE)
+  end,
   -- Circle at the title (start is what opens the menu): the boot EXE passes 1 at 0x80010000 and PAW plays an AI demo (modes 1, 4).
   attract = function(row)
     mash("circle", function() return mode() == 4 and sub() == 8 end, 54, 400, "attract demo")

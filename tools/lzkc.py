@@ -78,78 +78,90 @@ def decompress(d, strict=False):
     return bytes(out)
 
 
+def _matches(data):
+    """For each position: (long length, its window offset), (short length, its distance). The window only ever holds past output, so these don't depend on the parse."""
+    n = len(data)
+    longs, shorts = [(0, 0)] * n, [(0, 0)] * n
+    index = {}
+    for i in range(n):
+        key = data[i:i + 3]
+        best, best_dist = 0, 0
+        if len(key) == 3:
+            chain = index.setdefault(key, [])
+            for j in reversed(chain[-128:]):
+                dist = i - j
+                if dist >= WIN:  # older entries have been overwritten
+                    break
+                k = 3
+                while k < 34 and i + k < n and data[j + k] == data[i + k]:  # j + k may pass i: the game's copy reads what it just wrote
+                    k += 1
+                if k > best:
+                    best, best_dist = k, dist
+                    if k == 34:
+                        break
+            chain.append(i)
+        longs[i] = (best, (START + i - best_dist) & (WIN - 1))
+        best = dist_short = 0
+        for dist in range(1, min(15, i) + 1):
+            k = 0
+            while k < 5 and i + k < n and data[i + k - dist] == data[i + k]:
+                k += 1
+            if k > best:
+                best, dist_short = k, dist
+        shorts[i] = (best, dist_short)
+    return longs, shorts
+
+
 def compress(data):
-    """Greedy encoder over the same window. Output decodes to data; it need not equal Konami's bytes."""
-    win = bytearray(WIN)
-    pos = START
+    """Optimal parse over the window, by bits (a flag bit per op). Output decodes to data; it need not equal Konami's bytes."""
+    n = len(data)
+    longs, shorts = _matches(data)
+    cost = [1 << 60] * (n + 1)
+    cost[0] = 0
+    via = [None] * (n + 1)
+    for i in range(n):
+        c = cost[i]
+        ops = [(i + 1, c + 9, ("lit",))]
+        length, off = longs[i]
+        for k in range(3, length + 1):
+            ops.append((i + k, c + 17, ("long", k, off)))
+        length, dist = shorts[i]
+        for k in range(2, length + 1):
+            ops.append((i + k, c + 9, ("short", k, dist)))
+        for k in (10, 16, 24, 40, 71):  # a literal run pays off from 10 bytes
+            if i + k <= n:
+                ops.append((i + k, c + 9 + 8 * k, ("run", k)))
+        for j, nc, op in ops:
+            if nc < cost[j]:
+                cost[j], via[j] = nc, (i, op)
+    parse = []
+    i = n
+    while i:
+        i, op = via[i]
+        parse.append((i, op))
     out = bytearray()
     flag_at = None
     bit = 8
     flags = 0
-
-    def emit(is_token, payload):
-        nonlocal flag_at, bit, flags
+    for i, op in reversed(parse):
         if bit == 8:
             if flag_at is not None:
                 out[flag_at] = flags
             flag_at = len(out)
             out.append(0)
             bit, flags = 0, 0
-        if is_token:
+        if op[0] != "lit":
             flags |= 1 << bit
         bit += 1
-        out.extend(payload)
-
-    def push(b):
-        nonlocal pos
-        win[pos] = b
-        pos = (pos + 1) & (WIN - 1)
-
-    i, n = 0, len(data)
-    # shortcut: hash chains would compress slightly faster; files are at most ~200 KB and this is a build step.
-    index = {}
-    while i < n:
-        best_len, best_off = 0, 0
-        key = data[i:i + 3]
-        if len(key) == 3:
-            for off in index.get(key, ())[-64:]:
-                dist = (pos - off) & (WIN - 1)
-                if dist < 3:
-                    continue
-                k = 0
-                while k < 34 and i + k < n:
-                    # past dist bytes the copy reads what it has just written, as the game's loop does
-                    src = data[i + k - dist] if k >= dist else win[(off + k) & (WIN - 1)]
-                    if src != data[i + k]:
-                        break
-                    k += 1
-                if k > best_len:
-                    best_len, best_off = k, off
-        # the short form copies 2..5 bytes from up to 15 back, overlap allowed
-        short_len, short_dist = 0, 0
-        for dist in range(1, 16):
-            k = 0
-            while k < 5 and i + k < n:
-                src = data[i + k - dist] if k >= dist else win[(pos - dist + k) & (WIN - 1)]
-                if src != data[i + k]:
-                    break
-                k += 1
-            if k > short_len:
-                short_len, short_dist = k, dist
-        if best_len >= 3 and best_len >= short_len:
-            emit(True, bytes([((best_len - 3) << 2) | (best_off >> 8), best_off & 0xFF]))
-            take = best_len
-        elif short_len >= 2:
-            emit(True, bytes([0x80 | ((short_len - 2) << 4) | short_dist]))
-            take = short_len
+        if op[0] == "lit":
+            out.append(data[i])
+        elif op[0] == "long":
+            out += bytes([((op[1] - 3) << 2) | (op[2] >> 8), op[2] & 0xFF])
+        elif op[0] == "short":
+            out.append(0x80 | ((op[1] - 2) << 4) | op[2])
         else:
-            emit(False, data[i:i + 1])
-            take = 1
-        for b in data[i:i + take]:
-            if i + 2 < n:
-                index.setdefault(data[i:i + 3], []).append(pos)
-            push(b)
-            i += 1
+            out.append(0xC0 | (op[1] - 8))
+            out += data[i:i + op[1]]
     if flag_at is not None:
         out[flag_at] = flags
     return len(out).to_bytes(3, "little") + b"\0" + bytes(out)

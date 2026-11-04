@@ -1,6 +1,6 @@
 """Reach every scene of tools/debug/scenes.tsv from a cold boot; each run leaves work/qa/warp/<scene>/<scene>.png, then one contact sheet per scene family.
 
-usage: python -X utf8 tools/debug/warp_all.py [--rom CUE] [--only REGEX] [--jobs 4] [--out work/qa/warp] [--state-dir work/states]
+usage: python -X utf8 tools/debug/warp_all.py [--rom CUE] [--only REGEX] [--jobs 4] [--out work/qa/warp] [--state-dir work/states] [--script X.lua] [--shot-every N]
 Exit 0 only when every selected scene finished on its own (warp.lua logs "reached"). With --state-dir, also keeps a savestate per scene."""
 import argparse
 import concurrent.futures as cf
@@ -28,6 +28,10 @@ def run(name, a):
     os.makedirs(out)
     cmd = [sys.executable, "-X", "utf8", f"{SKILL}/scripts/emu.py", a.rom, "--out", out, "--script", os.path.join(HERE, "warp.lua"),
            "--var", f"SCENE='{name}'", "--frames", FRAMES, "--timeout", "900"]
+    for script in a.script:
+        cmd += ["--script", script]
+    if a.shot_every:
+        cmd += ["--shot-every", str(a.shot_every)]
     if a.state_dir:
         cmd += ["--state-out", os.path.join(a.state_dir, name + ".sstate")]
     p = subprocess.run(cmd, capture_output=True, text=True, encoding="utf8", errors="replace")
@@ -46,7 +50,10 @@ def main():
     ap.add_argument("--jobs", type=int, default=4)
     ap.add_argument("--out", default="work/qa/warp")
     ap.add_argument("--state-dir")
+    ap.add_argument("--script", action="append", default=[], help="extra Lua for every scene, e.g. tools/debug/boxes.lua")
+    ap.add_argument("--shot-every", type=int, default=0)
     a = ap.parse_args()
+    a.script = [os.path.abspath(s) for s in a.script]
     a.out = os.path.abspath(a.out)
     os.makedirs(a.out, exist_ok=True)
     if a.state_dir:

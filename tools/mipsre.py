@@ -2,6 +2,7 @@
 
 usage: re.py dis FILE ADDR [COUNT] [--base HEX]    disassemble (base defaults to the PS-X EXE header's load address)
        re.py xref FILE ADDR [--base HEX]           lui+addiu/ori/lw/... pairs and raw 32-bit words that reach ADDR
+       re.py calls FILE ADDR [--base HEX]          every jal/j to ADDR
        re.py bios FILE [--base HEX]                A0/B0/C0 BIOS call stubs, with the function number
 """
 import argparse
@@ -49,6 +50,14 @@ def xref(data, base, addr):
                     break
 
 
+def calls(data, base, addr):
+    """Every jal/j to addr."""
+    n = len(data) // 4
+    for i, w in enumerate(struct.unpack_from(f"<{n}I", data)):
+        if w >> 26 in (2, 3) and (w & 0x3FFFFFF) << 2 == addr & 0x0FFFFFFF:
+            print(f"{base + i * 4:08x}  {'jal' if w >> 26 == 3 else 'j'} {addr:08x}")
+
+
 def bios(data, base):
     """Stub form: addiu t2,r0,0xA0|B0|C0; jr t2; addiu t1,r0,N."""
     for m in re.finditer(rb"[\xa0\xb0\xc0]\x00\x0a\x24\x08\x00\x40\x01(.)\x00\x09\x24", data, re.S):
@@ -58,7 +67,7 @@ def bios(data, base):
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("cmd", choices=["dis", "xref", "bios"])
+    ap.add_argument("cmd", choices=["dis", "xref", "calls", "bios"])
     ap.add_argument("file")
     ap.add_argument("addr", nargs="?", type=lambda s: int(s, 16))
     ap.add_argument("count", nargs="?", type=int, default=40)
@@ -69,5 +78,7 @@ if __name__ == "__main__":
         dis(data, base, a.addr, a.count)
     elif a.cmd == "xref":
         xref(data, base, a.addr)
+    elif a.cmd == "calls":
+        calls(data, base, a.addr)
     else:
         bios(data, base)
