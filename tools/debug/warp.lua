@@ -169,6 +169,13 @@ local KIND = {
     steps(row[5])
     steps(EXPLORE)
   end,
+  -- select [steps]: the mode select, then its first item's screens.
+  select = function(row)
+    to_select()
+    frames(300)  -- the mode list ignores presses while it slides in
+    steps(row[3])
+    steps(EXPLORE)
+  end,
   -- mapbattle [steps]: second item on the mode select.
   mapbattle = function(row)
     to_select()
@@ -193,6 +200,7 @@ local row = load_scenes()[SCENE] or error("unknown scene " .. SCENE)
 local co = coroutine.create(function()
   KIND[row[2]](row)
   L.shot(SCENE .. ".png")
+  if VRAM then L.dump_ppu(SCENE); L.dump_ram(SCENE .. ".ram.bin") end  -- --var VRAM=true: tools/debug/vram.py and prims.py read them
   L.log(string.format("reached %s frame %d mode=%d sub=%d", SCENE, L.frame, mode(), sub()))
   if STATE_OUT then L.save_state(STATE_OUT) end  -- the driver only saves when --frames runs out, and we finish early
   L.finish(0)

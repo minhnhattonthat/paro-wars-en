@@ -16,6 +16,7 @@ import check_rom
 import disc
 import en_text
 import extract
+import gfx
 import limits
 import lzkc
 import reloc
@@ -165,8 +166,25 @@ def assemble(exe):
     return bytearray((tmp / "paw_out.exe").read_bytes())
 
 
+def recompress(rel, raw, lz, data):
+    """raw with its LZ stream at lz replaced by data, or raw being data when lz is None."""
+    if lz is None:
+        return data  # the same object: reloc.Pool keeps writing to PAW.EXE's
+    cache = BUILD / "tmp" / "lz" / hashlib.sha1(data).hexdigest()  # same input, same stream: this is most of a build's time
+    if cache.is_file():
+        stream = cache.read_bytes()
+    else:
+        stream = lzkc.compress(bytes(data))
+        cache.parent.mkdir(parents=True, exist_ok=True)
+        cache.write_bytes(stream)
+    old_end = lz + 4 + int.from_bytes(raw[lz:lz + 3], "little")
+    if any(raw[old_end:]) and len(stream) + lz > old_end:
+        raise ValueError(f"{rel}: data follows the stream and the stream grew by {len(stream) + lz - old_end}")
+    return raw[:lz] + stream + raw[max(old_end, lz + len(stream)):]
+
+
 def build(marker, qa, out):
-    shipped = not marker and not qa  # the text on disc should be `en`, entry for entry
+    shipped =not marker and not qa  # the text on disc should be `en`, entry for entry
     with open(ORIG, "rb") as f:
         entries = {path: (lba, n, size) for path, lba, n, size in disc.walk(f)}
 
@@ -204,16 +222,14 @@ def build(marker, qa, out):
                     touched = True
             if not touched:
                 continue
-            if lz is not None:
-                stream = lzkc.compress(bytes(data))
-                old_end = lz + 4 + int.from_bytes(raw[lz:lz + 3], "little")
-                if any(raw[old_end:]) and len(stream) + lz > old_end:
-                    raise ValueError(f"{rel}: data follows the stream and the stream grew by {len(stream) + lz - old_end}")
-                raw = raw[:lz] + stream + raw[max(old_end, lz + len(stream)):]
-            changed[rel] = raw
+            changed[rel] = recompress(rel, raw, lz, data)
         if qa:
             raise ValueError(f"--qa ids not in the script: {sorted(qa)}")
         move_strings(moves, pool, changed, read)
+        for rel in gfx.FILES:  # after the text: a graphics file may hold text entries too
+            lz = gfx.lz_at(rel)
+            raw = changed.get(rel) or bytearray(read(rel))
+            changed[rel] = recompress(rel, raw, lz, gfx.apply(rel, lzkc.decompress(raw[lz:], strict=True) if lz is not None else raw))
         placed = spill(changed, entries, read)  # before the copy, so a failed build can't leave the Japanese disc under the English name
     if placed:
         print("moved to a disc gap:", ", ".join(f"{rel} LBA {at[0]} +{at[1]}" for rel, at in placed.items()))

@@ -171,3 +171,17 @@ sksn_target	mission	pen	0	w900 circle w60 circle w60 state=4 w300 circle w200 s 
 help_final	mission	pen	6	w300 s w300 s w300 s w300 s w600 s w900 s
 enemy_long	mission	pen	0	w900 circle w60 circle w60 8*[state=25 w1500 s]
 win_bonus	mission	pen	1	w900 circle w60 circle w60 g0x798=2 until4.10 w300 s w300 s w300 s
+select_mode	select	
+select_level	select	circle w150
+select_country	select	2*[circle w150]
+select_after	select	3*[circle w150]
+select_help	select	circle w150 square w200
+plate_0	select	2*[circle w150]  circle w300 s triangle w200 s right w200 s
+plate_1	select	2*[circle w150]  right w40 circle w300 s triangle w200 s right w200 s
+plate_2	select	2*[circle w150]  right w40 right w40 circle w300 s triangle w200 s right w200 s
+plate_3	select	2*[circle w150]  right w40 right w40 right w40 circle w300 s triangle w200 s right w200 s
+plate_4	select	2*[circle w150] down w40  circle w300 s triangle w200 s right w200 s
+plate_5	select	2*[circle w150] down w40  right w40 circle w300 s triangle w200 s right w200 s
+plate_6	select	2*[circle w150] down w40  right w40 right w40 circle w300 s triangle w200 s right w200 s
+plate_7	select	2*[circle w150] down w40  right w40 right w40 right w40 circle w300 s triangle w200 s right w200 s
+plates_probe	storyx	pen	1	w60 dump 12*[circle w100 dump]
