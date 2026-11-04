@@ -1,2 +1,2 @@
 # SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
-<sha1>  rom/<file>
+8dc1ad0e6ab8d7f469efcdea8c94b849a3fdc18d  rom/Paro Wars (Japan).bin

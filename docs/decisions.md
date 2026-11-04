@@ -6,9 +6,10 @@ decision replaces one, mark the old one "replaced by D<n>" instead of deleting i
 
 | # | Date | Question | Options offered | Decision and reason |
 |---|---|---|---|---|
-| D1 | <yyyy-mm-dd> | Honorifics and name order | keep (-san), drop; JP or Western order | <...> |
-| D2 | <yyyy-mm-dd> | Romanization source for names | official art, earlier patch, Hepburn | <...> |
-| D3 | <yyyy-mm-dd> | Credits | stay Japanese, translate | <...> |
-| D4 | <yyyy-mm-dd> | Abbreviations | engine work first (default), abbreviate | <...> |
-| D5 | <yyyy-mm-dd> | Graphics text left in Japanese | none (default), list | <...> |
-| D6 | <yyyy-mm-dd> | Specs and plans | need approval, pre-approved | <...> |
+| D1 | 2026-11-05 | Honorifics and name order | keep (-san), drop; JP or Western order | Keep honorifics; Western order (given name first). Owner's standing answer for one-shot runs. |
+| D2 | 2026-11-05 | Romanization source for names | official art, earlier patch, Hepburn | Official English names where they exist, else an earlier fan patch, else Hepburn without macrons. Recon found no earlier patch (`docs/re/README.md`), so official Konami spellings, then Hepburn. |
+| D3 | 2026-11-05 | Credits | stay Japanese, translate | English. |
+| D4 | 2026-11-05 | Abbreviations | engine work first (default), abbreviate | Engine work first; skill default, not overridden. |
+| D5 | 2026-11-05 | Graphics text left in Japanese | none (default), list | Translate all of it (titles, menus, banners, cards); leave the Japanese logo only if it has no official English version. The title already carries an official "PARO WARS" subtitle, so the パロウォーズ logo art can stay. |
+| D6 | 2026-11-05 | Specs and plans | need approval, pre-approved | Pre-approved: keep going through every checkpoint without asking. |
+| D7 | 2026-11-05 | Saves or memory cards to start from | owner's, none | None provided; build the debug tool as usual. |

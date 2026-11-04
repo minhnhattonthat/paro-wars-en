@@ -1,0 +1,4 @@
+# Cold boot to the title menu, then mode select. The title ignores presses until its animation ends (about frame 2500).
+2900 -
+6 start
+400 -
