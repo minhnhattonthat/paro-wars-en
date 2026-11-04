@@ -30,6 +30,24 @@ def test_limits_selftest():
 
 
 @need
+def test_digit_writers():
+    """Every call to the code that writes digits into a string finds its cells in the English, on screens no tour reached too."""
+    sys.path.insert(0, str(ROOT / "tools/debug"))
+    import pokes
+
+    assert pokes.main() == 0
+
+
+def test_verify_stray():
+    import verify_build
+
+    assert verify_build.stray(b"abcd", b"axcd", [(1, 2)], set()) == []
+    assert verify_build.stray(b"abcd", b"axcd", [], {1}) == []
+    assert verify_build.stray(b"abcd", b"axcd", [(2, 4)], {0}) == [1]
+    assert verify_build.stray(b"abcd", b"abc", [(0, 4)], set())[0][0] == "size"
+
+
+@need
 def test_menu_windows_hold_their_japanese():
     """The dialog formula must not be tighter than what the game already shows."""
     index = menu_tables.index()

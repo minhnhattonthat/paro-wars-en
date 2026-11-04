@@ -121,7 +121,12 @@ def has_term(jp, term):
 
 def problems(group, e, en, terms):
     out = []
-    bad = sorted({c for c in en if not (0x20 <= ord(c) < 0x7F or c == "…" or c in e["jp"] and (GREEK.match(c) or "０" <= c <= "９" or c == "／") or c == "　" and e["id"] in limits.TEMPLATES)})
+    title = e["id"] in limits.SAVE_TITLE
+    if title:
+        bad = sorted({c for c in en if not ("Ａ" <= c <= "ｚ" or c in "　．：")})
+        if bad:
+            out.append(f"save title takes fullwidth only, not {bad}")
+    bad = sorted({c for c in en if not (0x20 <= ord(c) < 0x7F or c == "…" or c in e["jp"] and (GREEK.match(c) or "０" <= c <= "９" or c == "／") or c == "　" and e["id"] in limits.TEMPLATES)}) if not title else []
     if bad:
         out.append(f"bad characters {bad}")
     if not en or (not en.strip() and group != "units" and not e["id"].startswith("DEMO/KABE4") and e["id"] not in limits.TEMPLATES):  # a flowed field past the paragraph's end is a deliberate single space
@@ -130,13 +135,13 @@ def problems(group, e, en, terms):
         out.append("Greek must stay verbatim")
     for jps, ens, avoid in terms:
         if any(has_term(e["jp"], j) for j in jps):
-            if group in TERM_GROUPS and e["id"] != "X_PENTA:de0" and not any(x.lower() in en.lower() for x in ens):  # that ウッキー is a monkey screech, not the money
+            if group in TERM_GROUPS and e["id"] != "X_PENTA:de0" and not title and not any(x.lower() in en.lower() for x in ens):  # that ウッキー is a monkey screech, not the money
                 out.append(f"glossary: {jps[0]} -> {ens[0]}")
             out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]
     # A control code the renderer acts on: the gap a caller draws a button icon over must survive (docs/re/boxes.md).
     if not limits.limit(e).wrap and e["jp"].startswith("　") and not e["jp"].endswith("　") and group != "units" and e["id"] not in NO_GAP and e["id"] not in limits.TEMPLATES and not en.startswith("{x:"):  # 　機　能　 is only centring
         out.append("JP opens with a layout gap, EN has no {x:N}")
-    if en.count("{x:") and not re.fullmatch(r"(?:[^{]|\{br\}|\{x:\d+\})*", en):
+    if not re.fullmatch(r"(?:[^{}]|\{br\}|\{x:\d+\})*", en):
         out.append("malformed control code")
     for jp_form, en_form in HONORIFICS:
         if re.search(rf"(?<![{NOT_HONORIFIC}])(?<=[ァ-ヺー一-鿿]){jp_form}", e["jp"]) and e["id"] not in NO_HONORIFIC and not re.search(en_form, en):

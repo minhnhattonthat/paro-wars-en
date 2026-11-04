@@ -1,4 +1,4 @@
-"""The translation rules over the English that ships, in script/*.json: a clean clone runs this, work/tl isn't needed."""
+"""The translation rules over the English that ships, in script/*.json. Needs work/disc/tree (limits.limit reads the menu tables), not work/tl."""
 import copy
 import sys
 from pathlib import Path
@@ -42,3 +42,13 @@ def test_rules_bite():
     assert "digits the code writes" in problems("PAW:a8c70", "Ukki")
     assert "ordinal" in problems("PAW:8e8", "th!!")
     assert "bad characters" in problems(page, "カ")
+    for broken in ("a{brr}b", "a{br", "a{x12}b", "a}b", "{x:ab}c"):
+        assert "malformed" in problems(page, broken), broken
+    blanks = "　" * 4
+    assert "exactly 7" in problems("PAW:a8c70", blanks)
+    assert "halfword 0 must stay" in problems("PAW:a7170", "12 in stack")
+    assert "exactly 23" in problems("MEMCARD:bc", "Ｍａｐ")
+    assert "fullwidth only" in problems("MEMCARD:ac", "Paro Wars")
+    assert "centred column" in problems("CNTRY_ST:5ac", "Refinery")
+    assert " px, limit " in problems("PAW:b3170", "A very long label indeed")
+    assert "bytes" in problems("NSHOP_OV:84", "x" * 400) or " px, limit " in problems("NSHOP_OV:84", "x" * 400)

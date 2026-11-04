@@ -9,7 +9,7 @@
    "off": 20,
    "len": 12,
    "jp": "バウバウ",
-   "en": "Bow-Wow",
+   "en": "Ｂｏｗ．",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -21,7 +21,7 @@
    "off": 32,
    "len": 12,
    "jp": "パンダ　",
-   "en": "Panda",
+   "en": "Ｐａｎ．",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -33,7 +33,7 @@
    "off": 44,
    "len": 12,
    "jp": "モアイ　",
-   "en": "Moai",
+   "en": "Ｍｏａｉ",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -45,7 +45,7 @@
    "off": 56,
    "len": 12,
    "jp": "こいつ　",
-   "en": "Koitsu",
+   "en": "Ｋｏｉ．",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -57,7 +57,7 @@
    "off": 68,
    "len": 12,
    "jp": "ラブリー",
-   "en": "Lovely",
+   "en": "Ｌｏｖ．",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -69,7 +69,7 @@
    "off": 80,
    "len": 12,
    "jp": "アカシヤ",
-   "en": "Akashiya",
+   "en": "Ａｋａ．",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -81,7 +81,7 @@
    "off": 92,
    "len": 12,
    "jp": "ミカエル",
-   "en": "Michael",
+   "en": "Ｍｉｃ．",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -93,7 +93,7 @@
    "off": 104,
    "len": 12,
    "jp": "ペンタ　",
-   "en": "Penta",
+   "en": "Ｐｅｎ．",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -141,7 +141,7 @@
    "off": 172,
    "len": 16,
    "jp": "パロウォーズ",
-   "en": "Paro Wars",
+   "en": "Ｐ．Ｗａｒｓ",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -153,7 +153,7 @@
    "off": 188,
    "len": 48,
    "jp": "マップ　　　　　　　　　ターン　　　　：　　：",
-   "en": "Map{x:144}Turn{x:228}:{x:264}:",
+   "en": "Ｍａｐ　　　　　　　　　Ｔｕｒｎ　　　：　　：",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -165,7 +165,7 @@
    "off": 236,
    "len": 48,
    "jp": "　　　　　第　章　　　　ターン　　　　：　　：",
-   "en": "{x:56}Ch.{x:144}Turn{x:228}:{x:264}:",
+   "en": "　　　　Ｃｈ　　　　　　Ｔｕｒｎ　　　：　　：",
    "status": "done",
    "kind": "text",
    "refs": [

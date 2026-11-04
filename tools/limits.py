@@ -44,12 +44,27 @@ TEMPLATES = {
     "BUTAI_OV:259c": [1, 2],
     "BUTAI_OV:25a4": [1, 2],
     "PAW:a8ac8": [7, 8, 9, 11, 12, 13],  # fuel, ９／９９９: a tab puts the digits back past the bar, the blanks draw at 6 px
+    # Counted from the end, so the text after the digit is exactly as long as the Japanese's (tools/debug/pokes.py): ３機スタック, あと３機, （３部隊）
+    "PAW:a7170": [0],
+    "PAW:a71c0": [0],
+    "PAW:a964c": [0],
+    "PAW:a9658": [3],
+    "LOCEX_OV:361c": [3],
+    "GORYU_OV:4": [0, 1],
+    # SAVE_TITLE: 32 cells, the game's name at 0, one of these at 7 with the nation over its start, digits by the title's end.
+    "MEMCARD:bc": [3, 4, 9, 10, 11, 16, 17, 18, 20, 21],
+    "MEMCARD:ec": [0, 1, 2, 3, 6, 9, 10, 11, 16, 17, 18, 20, 21],
 }
 # The string's length in halfwords is fixed. The price writer counts its digits back from the string's end; the commander panel ends the string right
 # after its digits, so a label past them vanishes and only 4 letters fit in front (shots and RAM dumps, work/qa/p7g).
 HALFWORDS = {"PAW:a8c70": 7, "PROD_OV:24f8": 7, "PROD_OV:2604": 7, "PROD_OV:2708": 7, "PROD_OV:2814": 7, "NSHOP_OV:20": 9,
              "BUTAI_OV:2594": 3, "BUTAI_OV:259c": 3, "BUTAI_OV:25a4": 3,
+             "PAW:a7170": 6, "PAW:a71c0": 6, "PAW:a964c": 5, "PAW:a9658": 5, "LOCEX_OV:361c": 5, "GORYU_OV:4": 5,
+             "MEMCARD:ac": 6, "MEMCARD:bc": 23, "MEMCARD:ec": 23, **{f"MEMCARD:{a:x}": 4 for a in (0x14, 0x20, 0x2C, 0x38, 0x44, 0x50, 0x5C, 0x68)},
              **{i: 5 for i, want in TEMPLATES.items() if want is _stat}}
+# The save file's title on the card (MEMCARD 0x801510f0, seen in the .mcd), shown by the console's card manager and not by this game: Shift-JIS fullwidth only,
+# no tabs or letters of our font. Copied by length, so a short string's terminator would cut the title.
+SAVE_TITLE = {f"MEMCARD:{a:x}" for a in (0xAC, 0xBC, 0xEC, 0x14, 0x20, 0x2C, 0x38, 0x44, 0x50, 0x5C, 0x68)}
 # The caller centres these by halfword count, x = centre - 6 * count: at 4 or more the first letter goes under the frame. A leading {x:12} costs one
 # halfword (6 px left) and gains 12, which brings a long label back into the column (x from tools/debug/boxes.lua).
 CENTRED = re.compile(r"CNTRY_ST:5[a-f][0-9a-f]|PAW:b3(084|0c0|0f0|120|150)")

@@ -83,6 +83,14 @@ Reviewer Minors, for one pass before release. Tick each `[x]`, fixed or `waived:
 - [x] PAW:907b4, 907fa, NSHOP_OV:2ec, 300 - "Cat Battleship Original", "Cat Destroyer Also" are weak puns (fixed in phase 7, from the phase 6 review)
 - [ ] PROD_OV:2540 - "Can build"; SKSN_OV:10 "View Target"; SELECT:150 "Starting with these settings"
 
+- [ ] `BUTAI_OV:2a40` and the commander panel - "Name" touches its divider; 名前 has room
+- [ ] `PAW:a8794,a8da0` - "Land58" has no gap, Air and Sea do: the digits are at fixed cells, 4 letters fill the room; try a shorter word or waive
+- [ ] `PAW:b3180,b3184` - "Range Ammo" headers about 1 px apart
+- [ ] `PAW:a723c,a7230` - gap between the digits and "are idle!" in "Some units / 11 are idle!"; a reader may parse it as "units 11"
+- [ ] Unit bios `◆強さ５段階評価◆` - diamonds dropped in "Strength, out of 5"; check the x:60 start
+- [ ] "Koitsu & Aitsu heirloom:" - the colon reaches the edge of its label box
+- [ ] "Auto initial setup / Do this?" - stilted
+
 ## Unit bios
 - [ ] P_15 - "known as the Stealthru"
 - [ ] P_33 - "A lightweight, fast light tank"

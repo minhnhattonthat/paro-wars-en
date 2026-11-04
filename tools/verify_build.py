@@ -58,7 +58,8 @@ def file_allowed(rel, docs, refs):
     spans = [(e["off"], e["off"] + e["len"]) for doc in docs for e in doc["entries"] if e["kind"] == "text"]
     if rel == "PAW.EXE":
         spans += [(a - reloc.PAW_BASE, b - reloc.PAW_BASE) for a, b in HOOK]
-        spans.append((en_text.FONT_FILE + en_text.HIRAGANA * en_text.CELL, reloc.POOL_END))
+        spans.append((en_text.FONT_FILE + en_text.HIRAGANA * en_text.CELL, en_text.FONT_FILE + 305 * en_text.CELL))  # the cells patch_font draws; Greek and kana past it stay
+        spans.append((reloc.POOL_START, reloc.POOL_END))
     if rel in RECORD_RANGES:
         spans.append(RECORD_RANGES[rel])
     return spans, refs.get(rel, set())
@@ -81,6 +82,22 @@ def stray(old, new, spans, extra):
     return bad
 
 
+def spilled(fo, fn, entries):
+    """{rel: (lba, sectors)} of files build.spill moved to the gap, from the loader records that changed."""
+    by_lba = {lba: (p[1:], n) for p, (lba, n, size) in entries.items() if n}
+    out = {}
+    for owner in RECORD_OWNERS:
+        lba, n, size = entries["/" + owner]
+        old, new = disc.read_user(fo, lba, n)[:size], disc.read_user(fn, lba, n)[:size]
+        for at in range(4, size - 7, 4):
+            was = int.from_bytes(old[at + 4 : at + 8], "little")
+            now = int.from_bytes(new[at + 4 : at + 8], "little")
+            # A record's old size must match the file too: a size word can equal some file's LBA.
+            if was != now and was in by_lba and (int.from_bytes(old[at : at + 4], "little") + 2047) // 2048 == by_lba[was][1]:
+                out[by_lba[was][0]] = (now, (int.from_bytes(new[at : at + 4], "little") + 2047) // 2048)
+    return out
+
+
 def main(path):
     import gfx  # declared rects per graphics file
 
@@ -89,14 +106,15 @@ def main(path):
     failures = []
     with open(ORIG, "rb") as fo, open(path, "rb") as fn:
         entries = {p: (lba, n, size) for p, lba, n, size in disc.walk(fo)}
+        moved = spilled(fo, fn, entries)
         ranges = []
         changed = 0
         for p, (lba, n, size) in entries.items():
             if p == "/" or not n or p.startswith(("/SOUND", "/STR")):
                 continue
             old = disc.read_user(fo, lba, n)
-            new = disc.read_user(fn, lba, n)
             rel = p[1:]
+            new = disc.read_user(fn, *moved[rel]) if rel in moved else disc.read_user(fn, lba, n)
             if old == new:
                 continue
             if rel not in all_docs and rel not in refs and rel not in gfx.FILES and rel not in RECORD_OWNERS:
@@ -107,6 +125,8 @@ def main(path):
             docs = all_docs.get(rel, [])
             lz = docs[0]["lz"] if docs else gfx.lz_at(rel)
             if lz is not None:
+                if old[:lz] != new[:lz]:
+                    failures.append(f"{rel}: bytes before the LZ stream changed")
                 old_d, new_d = lzkc.decompress(old[lz:], strict=True), lzkc.decompress(new[lz:], strict=True)
             else:
                 old_d, new_d = old[:size], new[:size]
@@ -123,7 +143,7 @@ def main(path):
     rc = subprocess.call([sys.executable, str(ROOT / "tools/romdiff.py")] + args)
     if rc:
         sys.exit(rc)
-    print(f"verify ok: {changed} files changed, all inside their allowed ranges")
+    print(f"verify ok: {changed} files changed ({len(moved)} spilled), all inside their allowed ranges")
 
 
 if __name__ == "__main__":

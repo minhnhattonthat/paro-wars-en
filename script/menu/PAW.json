@@ -3493,7 +3493,7 @@
    "off": 684400,
    "len": 16,
    "jp": "　機スタック",
-   "en": "{x:12} stacked",
+   "en": "　 in stack",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -3517,7 +3517,7 @@
    "off": 684480,
    "len": 16,
    "jp": "　機輸送ＯＫ",
-   "en": "{x:12} transport OK",
+   "en": "　 aboard OK",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4974,7 +4974,7 @@
    "off": 693836,
    "len": 12,
    "jp": "　機輸送中",
-   "en": "{x:12} aboard",
+   "en": "　 aboard",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4986,7 +4986,7 @@
    "off": 693848,
    "len": 12,
    "jp": "あと　機",
-   "en": "Left",
+   "en": "Left:　　",
    "status": "done",
    "kind": "text",
    "refs": [
