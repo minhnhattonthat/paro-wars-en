@@ -99,15 +99,8 @@ next:
     move  a2,zero
 adv12:
     addiu s6,s6,12
-wrap:
-    lbu   v1,8(s3)
-    nop
-    beqz  v1,tail               ; byte 8 of the window: wrap column, in 12 px columns
-    sll   v0,v1,1
-    addu  v0,v0,v1
-    sll   v0,v0,2
-    sltu  v0,s6,v0
-    bnez  v0,tail
+wrap:                           ; byte 8 of the window, the wrap column, is ignored: English breaks with {br} (tools/limits.py), and a dialog's 7 columns are narrower than its box
+    b     tail
     nop
 newline:
     move  s6,zero

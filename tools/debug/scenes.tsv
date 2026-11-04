@@ -161,7 +161,7 @@ mb_play	mapbattle	13*[circle w150] w300
 story_pages	storyx	pen	0	w60 8*[circle w80 s]
 info_pages	mission	pen	0	w900 circle w60 circle w60 triangle w120 s right w120 s right w120 s right w120 s right w120 s
 prod_pages	mission	pen	0	w900 circle w60 circle w60 state=15 w300 triangle w200 s triangle w200 s cross w100 right w100 s cross w100 right w100 triangle w200 s triangle w200 s
-battle_speech	attract	until-attack w30 g0x1c=1 g0x20=0 8*[w150 s] w300 until-attack w30 g0x1c=1 g0x20=0 8*[w150 s] w300 until-attack w30 g0x1c=1 g0x20=0 8*[w150 s]
+battle_speech	attract	until-attack w30 g0x1c=1 g0x20=0 8*[w150 s]
 reinforce	mission	pen	6	w900 circle w60 circle w60 state=27 w400 s w400 s w400 s
 shop_buy	mission	pen	0	w900 circle w60 circle w60 state=10 w300 circle w200 s circle w200 s circle w200 s cross w100 s down w40 circle w200 s circle w200 s cross w100 s down w40 circle w200 s
 locex_deploy	mission	pen	0	w900 circle w60 circle w60 state=14 w300 circle w200 s circle w200 s circle w200 s circle w200 s circle w300 s triangle w200 s
@@ -171,13 +171,3 @@ sksn_target	mission	pen	0	w900 circle w60 circle w60 state=4 w300 circle w200 s 
 help_final	mission	pen	6	w300 s w300 s w300 s w300 s w600 s w900 s
 enemy_long	mission	pen	0	w900 circle w60 circle w60 8*[state=25 w1500 s]
 win_bonus	mission	pen	1	w900 circle w60 circle w60 g0x798=2 until4.10 w300 s w300 s w300 s
-try_state13	mission	pen	0	w900 circle w60 circle w60 state=13 w300 s
-try_state22	mission	pen	0	w900 circle w60 circle w60 state=22 w300 s
-try_state23	mission	pen	0	w900 circle w60 circle w60 state=23 w300 s
-try_state24	mission	pen	0	w900 circle w60 circle w60 state=24 w300 s
-try_state26	mission	pen	0	w900 circle w60 circle w60 state=26 w300 s
-try_state27	mission	pen	0	w900 circle w60 circle w60 state=27 w300 s
-try_state29	mission	pen	0	w900 circle w60 circle w60 state=29 w300 s
-try_state30	mission	pen	0	w900 circle w60 circle w60 state=30 w300 s
-try_state31	mission	pen	0	w900 circle w60 circle w60 state=31 w300 s
-try_state32	mission	pen	0	w900 circle w60 circle w60 state=32 w300 s

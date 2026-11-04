@@ -37,7 +37,6 @@ local function measure(p, count, wrap)
       if code == 0x8197 then brk() else pen = pen + 12 end
       if #head < 12 then head[#head + 1] = "?" end
     end
-    if wrap > 0 and pen >= wrap * 12 then brk() end
   end
   if pen > widest then widest = pen end
   return widest, lines, table.concat(head)

@@ -17,6 +17,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise. RAM addre
 | [compression.md](compression.md) | The LZ codec | verified (disassembly + roundtrip test) |
 | [text.md](text.md) | Encoding, control codes, text families and their formats, pointers | formats verified by the roundtrip and coverage test; print routines verified only on the story path |
 | [font.md](font.md) | The 12x12 font, glyph cache, options for English | font verified; English plan is a proposal for phase 5 |
+| [boxes.md](boxes.md) | The width gate: each box's limit and how it was measured | verified in game, unreached overlays marked |
 | [graphics.md](graphics.md) | Survey of Japanese drawn as graphics | all sweep sheets read and every warp scene toured; see its coverage notes |
 
 ## Prior work

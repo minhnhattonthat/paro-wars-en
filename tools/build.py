@@ -15,7 +15,10 @@ from pathlib import Path
 import check_rom
 import disc
 import en_text
+import extract
+import limits
 import lzkc
+import reloc
 
 ROOT = Path(__file__).resolve().parents[1]
 ORIG = ROOT / "rom" / "Paro Wars (Japan).bin"
@@ -29,9 +32,7 @@ def marker_id(n):
     return DIGITS[n // 1296] + DIGITS[n // 36 % 36] + DIGITS[n % 36]
 
 
-def capacity(entry):
-    """Bytes of text a slot holds: a NUL must follow at a halfword."""
-    return (entry["len"] - 1) & ~1
+capacity = limits.capacity
 
 
 def fill_lines(head, cap, breaks):
@@ -79,10 +80,33 @@ def script_docs():
 
 
 def splice(data, entry, text):
+    """Write text into its slot. False if it's too long for the slot but something can point elsewhere: the caller moves it."""
     enc = en_text.encode(text)
     if len(enc) > capacity(entry):
-        raise ValueError(f"{entry['id']}: {len(enc)} bytes in a slot of {entry['len']}: {text!r}")
+        if entry.get("refs"):
+            data[entry["off"]:entry["off"] + entry["len"]] = bytes(entry["len"])  # no Japanese left behind
+            return False
+        raise ValueError(f"{entry['id']}: {len(enc)} bytes in a slot of {entry['len']} with no refs: {text!r}")
     data[entry["off"]:entry["off"] + entry["len"]] = enc.ljust(entry["len"], b"\0")
+    return True
+
+
+def move_strings(moves, paw, changed, read):
+    """Moved strings into the pool, and every ref of each to its new address. moves: (entry, text, RAM address now)."""
+    pool = reloc.Pool(paw)
+    bases = {"PAW": reloc.PAW_BASE}
+    for doc in script_docs():  # best_base wants every string of the file, text or not
+        if doc["group"] == "menu" and doc["file"] != "PAW.EXE":
+            bases[doc["file"][5:-4]] = extract.best_base(read(doc["file"]), doc["entries"])
+    for entry, text, old in moves:
+        new = pool.put(en_text.encode(text))
+        for ref in entry["refs"]:
+            name, at = ref.split(":")
+            rel = "PAW.EXE" if name == "PAW" else f"DATA/{name}.BIN"
+            image = changed.setdefault(rel, bytearray(read(rel)))
+            reloc.patch_ref(image, bases[name], at, old, new, entry["id"])
+    if moves:
+        print(f"{len(moves)} strings moved, pool {pool.at - reloc.POOL_START} of {reloc.POOL_END - reloc.POOL_START} bytes")
 
 
 def assemble(exe):
@@ -109,6 +133,7 @@ def build(marker, qa, out):
         changed = {"PAW.EXE": paw}
         n = 0
         rows = []
+        moves = []
         for doc in script_docs():
             lz = doc["lz"]
             rel = doc["file"]
@@ -126,7 +151,9 @@ def build(marker, qa, out):
                 if e["id"] in qa:
                     text = qa.pop(e["id"])
                 if text:
-                    splice(data, e, text)
+                    text = limits.fit(e, text)
+                    if not splice(data, e, text):
+                        moves.append((e, text, (reloc.PAW_BASE if rel == "PAW.EXE" else extract.best_base(read(rel), doc["entries"])) + e["off"]))
                     touched = True
             if not touched:
                 continue
@@ -139,6 +166,7 @@ def build(marker, qa, out):
             changed[rel] = raw
         if qa:
             raise ValueError(f"--qa ids not in the script: {sorted(qa)}")
+        move_strings(moves, paw, changed, read)
     OUTBIN = BUILD / (out + ".bin")
     shutil.copyfile(ORIG, OUTBIN)
     with open(OUTBIN, "r+b") as f:

@@ -27,10 +27,11 @@ Options were: fixed 6 px two-letter cells built at run time; single-byte strings
 - Bytes: 0x20-0x7F letters (0x7F is `…`), 0x0A line break, 0x1F pad (nothing, no advance; `en_text.encode` adds it so strings and fullwidth codes stay on halfwords). Halfword 0x1E,n moves the pen to 2n px: `{x:N}` in the script, for fields around button icons.
 - Glyphs live in the kana cells (`en_text.cell_offset`): letter 0x20 at cell 209, so the game's own INIT loads them into the fixed slots 62-157 with their outline. **Hiragana and part of katakana are gone**, so Japanese left in a build shows as garbled English: a leftover is easy to see. Digits, Latin and Greek cells are untouched.
 - Each letter costs one quad, so the routine's pool share doubled (`sll` at 0x800676F8, 0x80067734). Peak pool use over the tour: 36,792 of 52,800 (`boxes_report.py`).
-- The wrap column still works, in units of 12 px (`pen >= wrap * 12` breaks the line): a safety net. English uses `{br}`.
+- The window's wrap column (byte 8) is **ignored**: English breaks only at `{br}`, which `tools/limits.py` `fit()` adds where a family wraps. Reason: dialog windows carry wrap 7 (84 px) in a box that shows 116 px, and it broke English mid-word (`work/qa/reloc/map_opening`).
 - Font: `fonts/en12.txt`, drawn for this project. Capitals 8 rows, x-height 6, descenders 2, most letters 5 wide, M/W 7. Mean advance 5.3 px on English text, so a 300 px line holds about 57 letters.
 
 ## Budgets that follow
 A fullwidth code is 12 px and two letters average 10.5 px, so **a byte budget and the Japanese pixel budget roughly agree**: a slot of n bytes holds about what the Japanese string's n/2 characters took on screen. Code that centres or places things by `count * 12` stays close too. Box widths: `boxes.md`.
 
-Freed: the kanji cells (cell 492 up, ~53 KB, RAM 0x800A5968+) are unused once no kanji text is left. Nothing uses them yet: this is where moved strings or more hook code would go. A kanji drawn from a reused cell would write its byte 18 there, so fill them only after `jp_left` is clean.
+## Moved strings
+The kanji cells (cell 492 up, 53,964 bytes, RAM 0x800A5968+) are free once no kanji text is left, so **any string with `refs` can outgrow its slot**: `tools/reloc.py` puts it there and repoints every word and `lui`+low pair, checking each one really resolves to the old address. Proven in game on PAW and NSHOP_OV strings (`work/qa/reloc`). A `lui` whose register feeds a second low half refuses to move and the build says so. A kanji drawn from a reused cell would write its byte 18 there, so leftover kanji shows as a wrong glyph *and* damages a moved string: `jp_left` must be clean at release.
