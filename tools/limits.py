@@ -14,6 +14,7 @@ Limit = collections.namedtuple("Limit", "px wrap bytes")
 PAGE = [296, 296, 284]  # story and ending pages: 3 lines, the page arrow sits at the end of the third (ruler, work/qa/torture)
 SHOUT = [168, 168]  # battle speech box, 14 columns of 12 px, two rows
 DIALOG_MARGIN = 12
+STUB = 6  # a wrapped paragraph's last line needs this many characters
 FAMILY_PX = {"P_*": 300, "SEL_HELP": 288, "DEMO/KABE4": 144, "UNITINFO": 144}  # one x for the whole family, so the widest Japanese line holds for all
 
 FAR_MARK = 0x1C  # first byte of a far string: asm/vwf.asm, for table fields nothing points at
@@ -158,25 +159,44 @@ def template_problems(entry, text):
     return out
 
 
-def fit(entry, text):
-    """The text with line breaks: greedy on spaces for families that wrap, untouched otherwise. An explicit {br} stays."""
-    lim = limit(entry)
-    if not lim.wrap:
-        return text
-    out, row = [], 0
+def wrapped(entry, text):
+    """Per paragraph, its lines: greedy on spaces, then words move down from the line above while the last line is a stub."""
+    px = limit(entry).px
+    paras, row = [], 0
     for para in text.split("{br}"):
-        line = ""
+        lines, line = [], ""
         for word in para.split(" "):
             trial = f"{line} {word}" if line else word
-            if line and en_text.line_width(trial) > lim.px[min(row, len(lim.px) - 1)]:
-                out.append(line)
+            if line and en_text.line_width(trial) > px[min(row, len(px) - 1)]:
+                lines.append(line)
                 row += 1
                 line = word
             else:
                 line = trial
-        out.append(line)
+        lines.append(line)
+        while len(lines) > 1 and len(lines[-1]) < STUB:
+            head, _, word = lines[-2].rpartition(" ")
+            trial = f"{word} {lines[-1]}"
+            if not head or en_text.line_width(trial) > px[min(row, len(px) - 1)]:
+                break
+            lines[-2:] = [head, trial]
+        paras.append(lines)
         row += 1
-    return "{br}".join(out)
+    return paras
+
+
+def fit(entry, text):
+    """The text with line breaks for families that wrap, untouched otherwise. An explicit {br} stays."""
+    if not limit(entry).wrap:
+        return text
+    return "{br}".join(line for lines in wrapped(entry, text) for line in lines)
+
+
+def stubs(entry, text):
+    """Last lines under STUB characters that fit() could not fix, in paragraphs it wrapped."""
+    if not limit(entry).wrap:
+        return []
+    return [lines[-1] for lines in wrapped(entry, text) if len(lines) > 1 and len(lines[-1]) < STUB]
 
 
 def check(entry, text):
@@ -205,6 +225,9 @@ def _selftest():
     assert fit(page, long).count("{br}") >= 1
     assert check(page, long) == []
     assert check(page, " ".join(["word"] * 200))
+    widow = " ".join(["word"] * 16) + " it."  # greedy: "it." alone on line 2
+    assert len(fit(page, widow).split("{br}")[-1]) >= STUB and stubs(page, widow) == []
+    assert stubs(page, "m" * 60 + " it.") == ["it."]
     label = {"id": "PAW:0", "jp": "移動", "len": 8, "refs": ["PAW:w80000000"]}
     assert limit(label).px == [24]
     assert check(label, "Mo") == []

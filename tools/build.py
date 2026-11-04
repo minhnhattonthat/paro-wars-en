@@ -166,6 +166,7 @@ def assemble(exe):
 
 
 def build(marker, qa, out):
+    shipped = not marker and not qa  # the text on disc should be `en`, entry for entry
     with open(ORIG, "rb") as f:
         entries = {path: (lba, n, size) for path, lba, n, size in disc.walk(f)}
 
@@ -220,14 +221,16 @@ def build(marker, qa, out):
     shutil.copyfile(ORIG, OUTBIN)
     with open(OUTBIN, "r+b") as f:
         files = [(placed.get(rel) or entries["/" + rel], bytes(data)) for rel, data in changed.items()]
-        disc.write_files(f, files)
-    cue = ORIG.with_suffix(".cue").read_text(encoding="ascii")
+        log = []
+        disc.write_files(f, files, log)
+    OUTBIN.with_suffix(".writes").write_text("\n".join(log) + "\n", encoding="ascii", newline="\n")
+    cue =ORIG.with_suffix(".cue").read_text(encoding="ascii")
     OUTBIN.with_suffix(".cue").write_text(cue.replace(ORIG.name, OUTBIN.name), encoding="ascii", newline="\r\n")
     if marker:
         (BUILD / "marker.tsv").write_text("\n".join(rows) + "\n", encoding="utf-8", newline="\n")
     with open(OUTBIN, "rb") as f:
         print(OUTBIN, hashlib.file_digest(f, "sha1").hexdigest(), f"{len(changed)} files patched")
-    verify_build.main(OUTBIN)
+    verify_build.main(OUTBIN, shipped)
 
 
 def main():

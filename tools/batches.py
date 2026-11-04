@@ -34,6 +34,9 @@ NOT_HONORIFIC = "オレ俺神父母皆王同"  # オレ様 is a pronoun, 神様 
 NO_GAP = {"DEMO/KABE4:10d82", "BUTAI_OV:2500"}  # the title fills the whole 24-byte field, so the indent had to go; Move: right-aligned by count, the indent only pushes it into the digit
 # 許さん is a verb; 泣くんじゃ is "don't cry"; アッシー君 is slang for a chauffeur boyfriend, translated as the joke.
 NO_HONORIFIC = {"PAW:91e04", "DEMO/TXT_AIT5:258", "DEMO/TXT_PAN5:258", "DEMO/TXT_TAK4:258", "P_43:4860"}
+# English with another {br} count than the Japanese, in a field that doesn't wrap. ITEM: the Japanese wrapped a description in a blank-indented second line; {x:N} tabs fit it on one.
+# SELECT:54: relied on the wrap column the English renderer ignores (limits.WRAPPED).
+BR_KEEP = {"ITEM:0", "ITEM:c0", "ITEM:1e0", "ITEM:300", "ITEM:3c0", "ITEM:480", "SELECT:54"}
 
 
 def docs():
@@ -143,6 +146,10 @@ def problems(group, e, en, terms):
         out.append("JP opens with a layout gap, EN has no {x:N}")
     if not re.fullmatch(r"(?:[^{}]|\{br\}|\{x:\d+\})*", en):
         out.append("malformed control code")
+    if group != "units" and not limits.limit(e).wrap and e["id"] not in BR_KEEP and e["jp"].count("{br}") != en.count("{br}"):
+        out.append(f"{en.count('{br}')} line breaks, JP has {e['jp'].count('{br}')}")
+    if not GREEK.search(en):  # Koitsu's Greek speech has no words to balance
+        out += [f"stub last line {s!r}" for s in limits.stubs(e, en)]
     for jp_form, en_form in HONORIFICS:
         if re.search(rf"(?<![{NOT_HONORIFIC}])(?<=[ァ-ヺー一-鿿]){jp_form}", e["jp"]) and e["id"] not in NO_HONORIFIC and not re.search(en_form, en):
             out.append(f"honorific {jp_form} needs {en_form}")

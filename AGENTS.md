@@ -5,7 +5,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 ## Commands (run from repo root)
 - Hook:     `git config core.hooksPath tools/hooks` (once per clone)
 - Build:    `python -X utf8 tools/build.py`        -> build/paro_wars_en.cue/.bin (checks the dump against `rom.sha1` first; patches files in place with `tools/disc.py`, mkpsxiso can't rebuild this disc: `docs/re/disc.md`)
-- Check:    `python -X utf8 tools/check.py`  (tests + lint; the pre-commit hook runs this)
+- Check:    `python -X utf8 tools/check.py`  (tests + lint; the pre-commit hook runs this). `--full` adds a whole build and `verify_build`, about 3 minutes: run it at each phase's end
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py build/paro_wars_en.cue --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python -X utf8 $SKILL/scripts/emu.py build/paro_wars_en.cue --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 60000` -> `work/qa/warp/<name>.png` (scenes: `tools/debug/scenes.tsv`, from a cold boot, so each takes about 1-6 minutes; never ask the user to play to a scene). All scenes: `python -X utf8 tools/debug/warp_all.py [--only REGEX] [--jobs 8]`. One-off RE runs with the state trace: `sh tools/debug/x.sh NAME SCENE "STEPS" [FRAMES]`. State variables: `docs/re/flow.md`
 - Release:  `python -X utf8 tools/release.py` (patch + verify; never publish without the user; written in phase 9)

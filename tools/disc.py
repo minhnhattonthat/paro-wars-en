@@ -70,17 +70,25 @@ def encode_form1(lbas, user, eof):
     return s
 
 
-def write_files(f, files):
+def write_files(f, files, log=None):
     """Write (entry, data) pairs, entry being (lba, sectors, size) from walk(), to an image opened r+b.
 
     Short data is zero-padded to the file's sectors. shortcut: a file can't grow past its sectors or change its ISO
-    size; to grow one, also rewrite its directory record and the game's compiled record (docs/re/disc.md)."""
+    size; to grow one, also rewrite its directory record and the game's compiled record (docs/re/disc.md).
+    log, a list, gets one romdiff.py --writes line per changed sector: what the image held then, so writing a sector twice fails there."""
     lbas, chunks, eofs = [], [], []
 
     def flush():
         user = np.frombuffer(b"".join(chunks), np.uint8).reshape(-1, 2048)
         for lba, row in zip(lbas, encode_form1(lbas, user, eofs)):
             f.seek(lba * SECTOR)
+            if log is not None:
+                old = np.frombuffer(f.read(SECTOR), np.uint8)
+                diff = np.flatnonzero(old != row)
+                if len(diff):
+                    a, b = int(diff[0]), int(diff[-1]) + 1
+                    log.append(f"{lba * SECTOR + a:X} {old[a:b].tobytes().hex()} {row[a:b].tobytes().hex()} LBA {lba}")
+                f.seek(lba * SECTOR)
             f.write(row.tobytes())
         lbas.clear(), chunks.clear(), eofs.clear()
 

@@ -7,6 +7,9 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import batches
 import bios
+import pytest
+
+pytestmark = pytest.mark.skipif(not (ROOT / "work/disc/tree/PAW.EXE").exists(), reason="needs work/disc/tree")
 
 
 def test_script_is_clean():
@@ -42,6 +45,8 @@ def test_rules_bite():
     assert "digits the code writes" in problems("PAW:a8c70", "Ukki")
     assert "ordinal" in problems("PAW:8e8", "th!!")
     assert "bad characters" in problems(page, "カ")
+    assert "stub last line" in problems(page, "m" * 60 + " it.")
+    assert "line breaks, JP has 1" in problems("ITEM:60", "One line", "あ{br}い")
     for broken in ("a{brr}b", "a{br", "a{x12}b", "a}b", "{x:ab}c"):
         assert "malformed" in problems(page, broken), broken
     blanks = "　" * 4
