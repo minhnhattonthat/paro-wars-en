@@ -21,6 +21,12 @@ TO PLAY
 
 CONTROLS ON THE MENUS: circle confirms, cross goes back. Start skips the intro.
 
+TRANSLATION STATUS
+  Story, endings, unit bios and nation data: translated
+  Menus, battle and map text:                translated
+  Graphics text (signs, banners, title cards, map names, staff roll): translated, except the title logo
+  Sound and voices: left as they are
+
 KNOWN ISSUES
   - The title logo keeps パロウォーズ (no English logo was ever made; the art already reads PARO WARS).
   - A few short prompts on rare screens were checked for width but never seen in play: transport selection and the landmine message.

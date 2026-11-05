@@ -117,6 +117,7 @@ unit_info	mission	pen	0	w900 circle w60 circle w60 w300 triangle w120
 unit_tactics	mission	pen	0	w900 circle w60 circle w60 w300 circle w60 down w20 circle w150
 unit_func	mission	pen	0	w900 circle w60 circle w60 w300 circle w60 down w20 down w20 circle w150
 unit_special	mission	pen	0	w900 circle w60 circle w60 w300 circle w60 down w20 down w20 down w20 circle w150
+unit_special_tank	mission	pen	0	w900 circle w60 circle w60 w300 7*[right w30] up w30 s circle w60 down w20 down w20 down w20 circle w150 s
 menu_1	mission	pen	0	w900 circle w60 circle w60 w300 down w40 circle w60 down w20 circle w300
 menu_2	mission	pen	0	w900 circle w60 circle w60 w300 down w40 circle w60 down w20 down w20 circle w300
 menu_3	mission	pen	0	w900 circle w60 circle w60 w300 down w40 circle w60 down w20 down w20 down w20 circle w300

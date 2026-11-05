@@ -113,8 +113,8 @@ _FP = (FLAG, 0, 64, 4)
 FLAG_STREAMS = [_plate(_FP, _n)[:1] + ([(_FP, [(80, 24, 32, 24)], "", _PLATE, "c", 0)] if _n == 2 else [(_FP, [(0, 24, 96, 24) if _n == 7 else (16, 24, 112, 24)], "", _PLATE, "c", 0)] if _n in _tail else []) for _n in range(8)]
 FLAG_STREAMS.append([(_FP, [(0, 0, 128, 24)], "Nya Empire", _PLATE, "c", 0)])
 # Panda's banner ends in the last 80 px of Akashiya's strip 2 (共和国 in both), so that cell has to read Republic in each.
-FLAG_STREAMS[2] = [(_FP, [(0, 0, 128, 24)], "Akashiya", _PLATE, "r", 0), (_FP, [(0, 24, 32, 24)], "Land", _PLATE, "r", 0), (_FP, [(32, 24, 80, 24)], "Republic", _PLATE, "l", 0)]
-FLAG_STREAMS[6] = [(_FP, [(0, 0, 128, 24)], "Panda Beasts'", _PLATE, "c", 0), (_FP, [(0, 24, 128, 24)], "", _PLATE, "c", 0)]  # c: its tail sprite overlaps this strip's end
+FLAG_STREAMS[2] = [(_FP, [(0, 0, 128, 24)], "Akashiya", _PLATE, "r", 0), (_FP, [(0, 24, 36, 24)], "Land", _PLATE, "r", 0), (_FP, [(36, 24, 76, 24)], "Republic", _PLATE, "r", 0)]  # r: Panda's sprite starts near x 36 and cuts anything left of it
+FLAG_STREAMS[6] = [(_FP, [(0, 0, 128, 24)], "Panda Beasts'", _PLATE, "c", 0), (_FP, [(0, 24, 128, 24)], "", _PLATE, "c", 0)]  # c: the tail sprite overlaps this strip's end
 
 # Place names on the story map (DEMO/WMAP0): 8bpp rows of 16. The game places a name so that the Japanese's field just fits the map, so English keeps to that width (past it the map's edge cuts it).
 # The game's own pixel font in the brightest grey of the Japanese's ramp: no edge, since the game shades the field. Outline fonts closed every e at this size, so long names take a short form that fits (mask refuses one that doesn't).
@@ -135,13 +135,13 @@ LABELS.append((_FIX, [(88, 0, 40, 16), (88, 48, 40, 16)], "Nyanjiro Army", _hud,
 
 # A saved game's row on the memory card screen (MCWGRPH, VRAM 928,0): nation, 第 N 章, ターン, クリア, mode.
 _SAVE = ("DATA/MCWGRPH.BIN", 0xC000, 64, 4)
-_row = Style(TEXT + "#Regular", 15)  # Bold fills the counters once the game's edge goes round it
-for _y, _h, _t in ((0, 20, "Pentaro Kingdom"), (20, 20, "Michael Empire"), (40, 20, "Akashiya Land"), (60, 20, "Lovely States"), (80, 20, "Koitsu & Aitsu"), (100, 20, "Moai Emirate"), (128, 19, "Panda Republic"), (147, 20, "Bow-Wow Nation")):
+_row = Style(SMALL)  # the game's pixel font: outline fonts close the t and e once the game's edge goes round them
+for _y, _h, _t in ((0, 20, "Pentaro Realm"), (20, 20, "Michael Empire"), (40, 20, "Akashiya Land"), (60, 20, "Lovely States"), (80, 20, "Koitsu & Aitsu"), (100, 20, "Moai Emirate"), (128, 19, "Panda Republic"), (147, 20, "Bow-Wow Nation")):
     LABELS.append((_SAVE, [(0, _y, 80, _h)], _t, _row, "c", 0))
 for _x, _y, _w, _t in ((80, 0, 32, "Clear"), (80, 20, 32, "Turn"), (80, 40, 12, "Ch"), (92, 40, 12, ""), (80, 60, 32, "Map")):
     LABELS.append((_SAVE, [(_x, _y, _w, 20)], _t, Style(SMALL, ink=3, edge="none") if _t == "Ch" else _row, "c", 0))
-LABELS.append((_SAVE, [(0, 168, 56, 16)], "Scenario", Style(TEXT + "#Regular", 14), "c", 0))
-LABELS.append((_SAVE, [(0, 184, 56, 16)], "Map Battle", Style(TEXT + "#Regular", 14), "c", 0))
+LABELS.append((_SAVE, [(0, 168, 56, 16)], "Scenario", _row, "c", 0))
+LABELS.append((_SAVE, [(0, 184, 56, 16)], "Map Battle", _row, "c", 0))
 
 # Mission title cards (DATA/MTIT): a 128x128 4bpp atlas, 8 palettes, then the card's sprites as data: count, {x, y, w, h, u, v}..., panel {x, y, w, h}.
 # Each title gets one or two lines of two 128x24 strips; the furigana go.
