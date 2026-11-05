@@ -17,6 +17,18 @@ def streams(data):
     return [lzkc.decompress(data[at:at + 4 + int.from_bytes(data[at:at + 3], "little")], strict=True) for at in OFFSETS]
 
 
+def test_every_label_fits():
+    """A pixel-font label too wide stops the build, so catch it in the pre-commit check, which doesn't build."""
+    labels = gfx_labels.LABELS + [label for stream in gfx_labels.FLAG_STREAMS for label in stream]
+    seen = {(text, id(style), sum(r[2] for r in rects), max(r[3] for r in rects)) for _, rects, text, style, *_ in labels}
+    for text, style_id, w, h in seen:
+        style = next(s for _, _, _, s, *_ in labels if id(s) == style_id)
+        lines = text.split("|")
+        for line in lines:
+            if line:
+                gfx.mask(line, style, w, h // len(lines))
+
+
 def test_flag():
     old = (ROOT / "work/disc/tree" / gfx_labels.FLAG).read_bytes()
     new = gfx.apply(gfx_labels.FLAG, old)

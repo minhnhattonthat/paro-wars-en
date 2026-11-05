@@ -136,7 +136,7 @@ LABELS.append((_FIX, [(88, 0, 40, 16), (88, 48, 40, 16)], "Nyanjiro Army", _hud,
 # A saved game's row on the memory card screen (MCWGRPH, VRAM 928,0): nation, 第 N 章, ターン, クリア, mode.
 _SAVE = ("DATA/MCWGRPH.BIN", 0xC000, 64, 4)
 _row = Style(SMALL)  # the game's pixel font: outline fonts close the t and e once the game's edge goes round them
-for _y, _h, _t in ((0, 20, "Pentaro Realm"), (20, 20, "Michael Empire"), (40, 20, "Akashiya Land"), (60, 20, "Lovely States"), (80, 20, "Koitsu & Aitsu"), (100, 20, "Moai Emirate"), (128, 19, "Panda Republic"), (147, 20, "Bow-Wow Nation")):
+for _y, _h, _t in ((0, 20, "Pentaro Realm"), (20, 20, "Michael Empire"), (40, 20, "Akashiya Land"), (60, 20, "Lovely States"), (80, 20, "Koitsu & Aitsu"), (100, 20, "Moai Emirate"), (128, 19, "Panda Republic"), (147, 20, "Bow-Wow")):
     LABELS.append((_SAVE, [(0, _y, 80, _h)], _t, _row, "c", 0))
 for _x, _y, _w, _t in ((80, 0, 32, "Clear"), (80, 20, 32, "Turn"), (80, 40, 12, "Ch"), (92, 40, 12, ""), (80, 60, 32, "Map")):
     LABELS.append((_SAVE, [(_x, _y, _w, 20)], _t, Style(SMALL, ink=3, edge="none") if _t == "Ch" else _row, "c", 0))
