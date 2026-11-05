@@ -149,7 +149,7 @@ ROW_H = 10  # the font's rows: a shadow row as in the Japanese would cost 17 lin
 
 def layout():
     """English line -> (page, u, v, w): shelves across the sheet's columns. Page 9's two columns are side by side in VRAM, so a line may run across them."""
-    widths = sorted({t: len(_rows(t)[0]) for t in set(LINES.values())}.items(), key=lambda kv: -kv[1])
+    widths = sorted({t: len(_rows(t)[0]) for t in set(LINES.values())}.items(), key=lambda kv: (-kv[1], kv[0]))  # text breaks ties: set order changes per process, and the build must be reproducible
     shelves = []  # [page, column, v, used]
     for col, page, room in ((0, 9, 255), (2, 10, 128)):  # 255: the game stores u + w in a byte, and 256 draws the strip backwards
         for r in range(128 // ROW_H):

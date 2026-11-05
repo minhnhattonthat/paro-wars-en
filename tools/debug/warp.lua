@@ -154,7 +154,7 @@ local KIND = {
   end,
   -- Circle at the title (start is what opens the menu): the boot EXE passes 1 at 0x80010000 and PAW plays an AI demo (modes 1, 4).
   attract = function(row)
-    mash("circle", function() return mode() == 4 and sub() == 8 end, tonumber(row[4]) or GAP or 54, 400, "attract demo")  -- the press's timing picks the demo: row 4, or --var GAP=N to search
+    mash("circle", function() return mode() == 4 and sub() == 8 end, GAP or tonumber(row[4]) or 54, 400, "attract demo")  -- the press's timing picks the demo: row 4, or --var GAP=N to search
     steps(row[3])
     steps(EXPLORE)
   end,
