@@ -28,6 +28,10 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - a map or scene still loading after a warp;
 - anything identical in the original's sheet.
 - Koitsu's lines are Greek letters and symbols (`glossary.md`), in English as in Japanese.
+- Abbreviations and name forms listed in `docs/tl-notes.md`: each has a measured reason.
+- `Land50`, `Land23`: the code writes the number straight after the label, as it does in the Japanese.
+- A short or one-word line in the middle of a nation plate's paragraph, where the Japanese row is short too: those rows are fixed fields.
+- Options mixing `ON` and `Off`: so does the Japanese (ＯＮ and なし).
 - A story map or banner frame half black, or the right part of the map black: the original's own.
 - The title logo パロウォーズ stays Japanese by ruling D5; the art under it reads PARO WARS.
 - Battle units carry no name plate; the "number + name" labels in `OP_*`/`PUP_*` never reach the screen.

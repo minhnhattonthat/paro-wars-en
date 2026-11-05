@@ -93,7 +93,7 @@
    "off": 1460,
    "len": 8,
    "jp": "工場",
-   "en": "{x:10}Factory",
+   "en": "{x:12}Plant",
    "status": "done",
    "kind": "text",
    "refs": [

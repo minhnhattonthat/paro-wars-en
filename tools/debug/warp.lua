@@ -124,7 +124,13 @@ local function steps(str)
       w16(G + 0x18, tonumber(tok:match("%d+")))
       w16(G + 0x1C, 0)
       w16(G + 0x20, 0)
-    elseif tok == "until-attack" then wait(function() return mode() == 4 and r16(G + 0x18) == 2 end, 58000, tok)  -- the demo's AI doesn't always attack, its dice depend on load timing: allow a second demo
+    elseif tok == "until-attack" then  -- the demo's AI doesn't always attack, its dice depend on load timing; a demo with no battle ends at the title, so start another
+      local t = 0
+      wait(function()
+        t = t + 1
+        if mode() ~= 4 and t % 60 == 0 then L.press("circle", 6) end
+        return mode() == 4 and r16(G + 0x18) == 2
+      end, 58000, tok)
     elseif tok == "dump" then L.dump_ram(string.format("d%06d.bin", L.frame))
     elseif wm then
       local m, n = tonumber(wm), tonumber(ws)
@@ -148,7 +154,7 @@ local KIND = {
   end,
   -- Circle at the title (start is what opens the menu): the boot EXE passes 1 at 0x80010000 and PAW plays an AI demo (modes 1, 4).
   attract = function(row)
-    mash("circle", function() return mode() == 4 and sub() == 8 end, 54, 400, "attract demo")
+    mash("circle", function() return mode() == 4 and sub() == 8 end, tonumber(row[4]) or GAP or 54, 400, "attract demo")  -- the press's timing picks the demo: row 4, or --var GAP=N to search
     steps(row[3])
     steps(EXPLORE)
   end,
