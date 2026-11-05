@@ -13,6 +13,7 @@ from PIL import Image, ImageDraw, ImageFont
 import credits
 import en_text
 import gfx_labels
+import lzkc
 
 ROOT = Path(__file__).resolve().parents[1]
 FONTS = ROOT / "fonts"
@@ -20,9 +21,10 @@ LZ_NONE = re.compile(r"DATA/BTLEND/|DATA/MTIT/|DATA/FIX\.BIN|DATA/MCWGRPH\.BIN|D
 
 
 def _font(name, size):
-    f = ImageFont.truetype(str(FONTS / name), size)
-    if name == gfx_labels.TEXT:
-        f.set_variation_by_name("Bold")
+    file, _, variation = name.partition("#")  # "font.ttf#Regular" picks a weight; Archivo is Bold otherwise
+    f = ImageFont.truetype(str(FONTS / file), size)
+    if file == gfx_labels.TEXT:
+        f.set_variation_by_name(variation or "Bold")
     return f
 
 
@@ -208,6 +210,7 @@ def _files():
                 entry["rects"].append((a, a + (w * bpp + 7) // 8))
     for rel, patches in gfx_labels.PATCHES.items():
         out[rel]["rects"] += [(off, off + len(b)) for off, b in patches]
+    out[gfx_labels.FLAG] = {"lz": None, "rects": [(0x20, 0x444A)]}  # the file's whole stream area
     return out
 
 
@@ -227,12 +230,29 @@ def spans(rel):
     return FILES[rel]["rects"] if rel in FILES else []
 
 
+def _flag(data):
+    """FLAG.BIN with each stream's name redrawn. The game walks the streams by their length fields, so they may change size as long as the file keeps its own."""
+    out, at = bytearray(data[:0x20]), 0x20
+    for labels in gfx_labels.FLAG_STREAMS:
+        end = at + 4 + int.from_bytes(data[at:at + 3], "little")
+        column = bytearray(lzkc.decompress(data[at:end], strict=True))
+        for page, rects, text, style, align, background in labels:
+            draw_label(column, page, rects, text, style, align, background)
+        out += lzkc.compress(bytes(column))
+        at = end
+    if len(out) > len(data):
+        raise ValueError(f"FLAG.BIN grew to {len(out)}, has {len(data)}")
+    return bytes(out) + bytes(len(data) - len(out))
+
+
 def apply(rel, data):
     """The decoded file with its labels redrawn."""
     if rel == credits.STAFF:
         return credits.sheet()
     if rel in credits.SEQ:
         return credits.patch(data)
+    if rel == gfx_labels.FLAG:
+        return _flag(data)
     data = bytearray(data)
     for page, rects, text, style, align, background in BY_FILE[rel]:
         draw_label(data, page, rects, text, style, align, background)

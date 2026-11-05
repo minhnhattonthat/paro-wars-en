@@ -21,17 +21,18 @@ BAR = Style(TEXT, 17, 0xBB, "none")
 ROW = "row"  # clear to the rect's first column, row by row: the button bar's gradient
 
 LABELS = [
-    (SELECT, [(0, 0, 32, 24)], "OK", BAR, "c", ROW),
-    (SELECT, [(32, 0, 32, 24)], "Back", BAR, "c", ROW),
-    (SELECT, [(0, 24, 48, 24)], "Help", BAR, "c", ROW),
-    (SELECT, [(48, 24, 48, 24)], "Map", BAR, "c", ROW),
+    # x 0 is a clean column of the bar: "row" keeps a rect's two end columns, and the Japanese has ink there. 15 px because Back at 17 only fits squeezed, which fuses it.
+    (SELECT, [(0, 0, 32, 24)], "OK", BAR, "c", (0, 0)),
+    (SELECT, [(32, 0, 32, 24)], "Back", Style(TEXT, 15, 0xBB, "none"), "c", (0, 0)),
+    (SELECT, [(0, 24, 48, 24)], "Help", BAR, "c", (0, 0)),
+    (SELECT, [(48, 24, 48, 24)], "Map", BAR, "c", (0, 0)),
     (SELECT, [(0, 72, 64, 24)], "Mode", TITLE, "r", 0),
     (SELECT, [(64, 72, 64, 24)], "Level", TITLE, "r", 0),
     (SELECT, [(0, 96, 128, 24)], "Character", TITLE, "r", 0),
     (SELECT, [(0, 128, 64, 24)], "Map", TITLE, "r", 0),
     (SELECT, [(0, 48, 128, 24), (96, 24, 32, 24)], "Select", TITLE, "l", 0),
-    (SELECT, [(0, 152, 128, 16)], "Change Map", PLAIN, "r", 0),
-    (SELECT, [(0, 168, 112, 16)], "Status", PLAIN, "l", 0),
+    (SELECT, [(0, 152, 128, 16)], "Change Map", Style(TEXT, 12, 0x35, 0x38, 0x39), "r", 0),  # one line on screen, so one size: at 17 only Status keeps it, having no descender
+    (SELECT, [(0, 168, 112, 16)], "Status", Style(TEXT, 12, 0x35, 0x38, 0x39), "l", 0),
     (SELECT, [(0, 184, 48, 16)], "Level", GOLD, "c", 0),
     (SELECT, [(48, 184, 80, 16)], "Energy", GOLD, "c", 0),
     (SELECT, [(0, 200, 40, 16)], "Vision", GOLD, "c", 0),
@@ -68,7 +69,8 @@ for _rel, _row in (("DATA/DEMO/KABE2.BIN", 128), ("DATA/DEMO/KABE3.BIN", 384)):
     for _i, _t in enumerate(("Nation","Color", "Alliance", "Player", "Controller", "Money", "Science", "Energy", "Cities")):
         LABELS.append((_page, [(0, _i * 14, 64, 14)], _t, _cell, "c", ROW))
     for _i, _t in enumerate(("Factories", "Refineries", "Airports", "Ports")):
-        LABELS.append((_page, [(64, _i * 14, 64, 14 + (_i == 3))], _t, _cell, "c", ROW))
+        # inside the frame, on x 66's clean rows: コンビナートの数 fills its cell, so "row" read ink for background and left dark lines
+        LABELS.append((_page, [(66, _i * 14, 60, 14 + (_i == 3))], _t, _cell, "c", (66, 0)))
     _page = (_rel, (_row - 128) * 128, 128, 8)  # their names sit at VRAM 0,384, the file's rows just before the labels' page
     for _x, _y, _t in ((0, 0, "Penta"), (56, 0, "Michael"), (0, 16, "Akashiya"), (56, 16, "Lovely"), (0, 32, "Koitsu&Aitsu"), (56, 32, "Moai"), (0, 48, "Panda"), (56, 48, "Bow-Wow")):
         LABELS.append((_page, [(_x, _y, 54, 12)], _t, _name, "c", ROW))
@@ -90,27 +92,40 @@ for _line in (Path(__file__).parent / "gfx_copies.tsv").read_text(encoding="utf-
     _rel, _top, _n = _line.split("\t")
     _columns.append((_rel, int(_top, 16), int(_n)))
 _tail = {0: "Military Data", 1: "Main Weapons", 7: "Nation Data"}
+
+
+def _plate(page, n):
+    out = [(page, _names[n][0], _names[n][1], _PLATE, "c", 0)]
+    if n == 2:
+        out.append((page, [(80, 24, 32, 24)], "", _PLATE, "c", 0))
+    if n in _tail:
+        out.append((page, [(0, 24, 96, 24) if n == 7 else (16, 24, 112, 24)], _tail[n], _PLATE, "c", 0))
+    return out
+
+
 for _rel, _top, _n in _columns:
-    _page = (_rel, _top, 64, 4)
-    LABELS.append((_page, _names[_n][0], _names[_n][1], _PLATE, "c", 0))
-    if _n == 2:
-        LABELS.append((_page, [(80, 24, 32, 24)], "", _PLATE, "c", 0))
-    if _n in _tail:
-        LABELS.append((_page, [(0, 24, 96, 24) if _n == 7 else (16, 24, 112, 24)], _tail[_n], _PLATE, "c", 0))
+    LABELS += _plate((_rel, _top, 64, 4), _n)
+
+# DATA/FLAG.BIN: palette, then nine LZ streams back to back, one 128 x 128 column each: the nation's name strips over its flag. The banner when a turn starts (gfx.py rewrites the streams).
+FLAG = "DATA/FLAG.BIN"
+FLAG_STREAMS = [_plate((FLAG, 0, 64, 4), _n) for _n in range(8)] + [[((FLAG, 0, 64, 4), [(0, 0, 128, 24)], "Nya Empire", _PLATE, "c", 0)]]
 
 # Place names on the story map (DEMO/WMAP0): 8bpp rows of 16. The game places a name so that the Japanese's field just fits the map, so English keeps to that width (past it the map's edge cuts it).
-_PLACE = Style(TEXT, 15)
-for _i, (_w, _t) in enumerate(((104, "Great Pen-Kuro Island"), (64, "Prince Kingdom"), (96, "Lovely Federal States"), (128, "Koitsu & Aitsu Fed. Rep."), (64, "Pentaro Kingdom"), (80, "Bling-Bling H Isle"),
-                               (104, "Chinkokoko-Kaan Kingdom"), (104, "Fin-Fin Range Kingdom"), (56, "Feb. 7th Isle"), (56, "Nya Continent"), (56, "Bow-Wow"), (72, "Gwait Region"), (48, "Ryuken"),
-                               (104, "Republic of Akashiya Land"), (128, "Panda Beasts' Republic"), (64, "Michael Empire"), (40, "Hawaii"), (88, "Moai Islands Emirate"), (96, "Lip Chaser Island"),
-                               (104, "Francis-Pedro Island"), (96, "John Nyanjiro's Land"))):
-    LABELS.append((("DATA/DEMO/WMAP0.BIN", 0, 128, 8), [(0, _i * 16, _w, 16)], _t, _PLACE, "l", 0))
+# One plain weight in the brightest grey of the Japanese's ramp: no edge, since the game shades the field, and no squeezing, which turned letters to bars.
+_PLACE, _PLACE10 = Style(TEXT + "#Regular", 11, 0xE1, "none"), Style(TEXT + "#Regular", 10, 0xE1, "none")
+for _i, (_w, _t, _s) in enumerate(((104, "Great Pen-Kuro Island", _PLACE), (64, "Prince Kingdom", _PLACE10), (96, "Lovely Federal States", _PLACE), (128, "Koitsu & Aitsu Fed. Rep.", _PLACE), (64, "Pentaro Kingdom", _PLACE10), (80, "Bling-Bling H Isle", _PLACE),
+                                   (104, "Chinkoko-Kaan Kingdom", _PLACE), (104, "Fin-Fin Range Kingdom", _PLACE), (56, "Feb. 7th Isle", _PLACE), (56, "Nya Continent", _PLACE10), (56, "Bow-Wow", _PLACE), (72, "Gwait Region", _PLACE), (48, "Ryuken", _PLACE),
+                                   (104, "Republic of Akashiya Land", _PLACE10), (128, "Panda Beasts' Republic", _PLACE), (64, "Michael Empire", _PLACE10), (40, "Hawaii", _PLACE), (88, "Moai Islands Emirate", _PLACE10), (96, "Lip Chaser Island", _PLACE),
+                                   (104, "Francis-Pedro Island", _PLACE), (96, "John Nyanjiro's Land", _PLACE))):
+    LABELS.append((("DATA/DEMO/WMAP0.BIN", 0, 128, 8), [(0, _i * 16, _w, 16)], _t, _s, "l", 0))
 
 # Map HUD: country names in FIX.BIN, 4bpp, 16 rows apiece.
 _FIX = ("DATA/FIX.BIN", 0xC000, 64, 4)
 _hud = Style(TEXT, 14, ink=1, edge=8)
-for _i, _t in enumerate(("Pentaro Kingdom", "Lovely States", "Koitsu & Aitsu", "Michael Empire", "Bow-Wow Nation", "Akashiya Republic", "Panda Republic", "Moai Emirate")):
-    LABELS.append((_FIX, [(0, _i * 16, 88 if _i not in (5, 6, 7) else 112, 16)], _t, _hud, "l", 0))
+# A rect is the Japanese's whole width: the game shows that many pixels (Bow-Wow's 70 cut "Nation"), and whatever isn't cleared stays on screen.
+for _i, (_t, _w) in enumerate((("Pentaro Kingdom", 88), ("Lovely States", 98), ("Koitsu & Aitsu", 111), ("Michael Empire", 88), ("Bow-Wow", 70), ("Akashiya Republic", 112), ("Panda Republic", 112), ("Moai Emirate", 112))):
+    LABELS.append((_FIX, [(0, _i * 16, _w, 16)], _t, _hud, "l", 0))
+LABELS.append((_FIX, [(88, 0, 40, 16), (88, 48, 40, 16)], "Nyanjiro Army", _hud, "l", 0))  # ニャン次郎軍, split across two rows of the atlas
 
 # A saved game's row on the memory card screen (MCWGRPH, VRAM 928,0): nation, 第 N 章, ターン, クリア, mode.
 _SAVE = ("DATA/MCWGRPH.BIN", 0xC000, 64, 4)
@@ -159,11 +174,14 @@ for _n, (_a, _b) in _cards.items():
 # Signs painted on the story backdrops: the art stays, the inks go (DEMO/TXT_AIT4 and BUT2's chess match, MOA2's contest).
 _CLOTH = Style(CHUNKY, 22, 106, 70, lead=3)
 _BUBBLE = Style(TEXT, 15)
+_TEASIGN = Style(SMALL, ink=0x1E, edge="none")
 LABELS += [
     (("DATA/DEMO/BACK10A.BIN", 0, 128, 8), [(68, 40, 60, 56), (0, 168, 124, 56)], "Pound for Pound|in Chess", _CLOTH, "c", (50, 40)),
     (("DATA/DEMO/BACK11A.BIN", 0, 128, 8), [(64, 40, 64, 56), (0, 168, 124, 56)], "Paro World|Super Sing & Dance Contest", _CLOTH, "c", (50, 40)),
-    (("DATA/DEMO/BACK13A.BIN", 0, 128, 8), [(12, 164, 40, 14)], "Tea King", Style(TEXT, 13), "c", ROW),
-    (("DATA/DEMO/PEN4_01.BIN", 0, 128, 8), [(38, 135, 84, 30)], "Lite-Salt FC|(On Patrol)", _BUBBLE, "c", 0),
+    (("DATA/DEMO/BACK13A.BIN", 0, 128, 8), [(14, 166, 36, 12)], "Teaism", _TEASIGN, "c", 1),  # 茶会主義 in its 36 px field, and the same sign when the view pans (BACK13B)
+    (("DATA/DEMO/BACK13B.BIN", 0, 128, 8), [(78, 38, 36, 12)], "Teaism", _TEASIGN, "c", 1),
+    (("DATA/DEMO/BACK3.BIN", 0, 128, 8), [(44, 284, 20, 10)], "Peace", Style(TEXT + "#Regular", 10, 2, "none"), "c", 6),  # 平和, the plaque in Bow-Wow's office
+    (("DATA/DEMO/PEN4_01.BIN", 0, 128, 8), [(38, 135, 84, 34)], "Lite-Salt FC|(On Patrol)", _BUBBLE, "c", 0),
     (("DATA/DEMO/PEN4_01.BIN", 0, 128, 8), [(18, 179, 102, 34)], "Luxury Liner|Paro Nyanko", _BUBBLE, "c", 0),
 ]
 

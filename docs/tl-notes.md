@@ -10,6 +10,8 @@ Engine work done first: VWF, moved strings, far strings for table fields (`font.
 - Commander panel `PAW:a9054` family: Air, Land, Sea (for Air/Land/Sea Cmd), Inst, Acc. The code ends the string after its digits, so only 4 letters fit (`boxes.md`). Unit info has room and uses the full labels. `PAW:b3170` Def.: weapon info, a 30 px cell between two frames. `PAW:9d0,9d4` Df, At: 12 px before a number. `BUTAI_OV:27b0` Interc: 43 px column.
 - `PROD_OV:2a5c-2a8c` and the 13 one-kanji headers (`glossary.md`): Bd, Rv, Rd, Br, Ic, Sn, Se, Cs, Rk, Sa, Dt, Fr, Gr: one column each.
 - `PAW:b3188` DX (the unit class).
+- Story map place names (`DEMO/WMAP0`; the game shows the Japanese field's width, the map cuts the rest): Feb. 7th Isle in 56 px, Koitsu & Aitsu Fed. Rep. in 128, Panda Beasts' Republic in 128. Map HUD, same reason: Bow-Wow in 70 px, Lovely States, Akashiya Republic, Panda Republic, Moai Emirate.
+- `BEND_OV:1cc8` Koitsu&Aitsu heirloom: 24 bytes, the spaced form needs 25.
 - Save file title (`limits.SAVE_TITLE`), 6 + 4 fullwidth cells by strncpy: `MEMCARD:ac` Ｐ．Ｗａｒｓ; nations Ｂｏｗ． Ｐａｎ． Ｋｏｉ． Ｌｏｖ． Ａｋａ． Ｍｉｃ． Ｐｅｎ．; `bc,ec` Ｃｈ.
 - Not seen on any toured screen, so kept short until phase 8 can measure them: `PAW:b339c,b33a4` Inst, Accur.; `b32ec,b3358` Form; `BUTAI_OV:2618-2638,2684-26a4` Inst, Acc, Sea, Air; `BUTAI_OV:2c7c-2cb8` Screw, Rainbow, Engine, Bazooka; `OPT_OV:1584-15b8` (Res.); `BEND_OV:1d10,1d24`.
 

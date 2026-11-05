@@ -111,14 +111,17 @@ def encode(text):
     return bytes(out)
 
 
+NARROW = {ord(wide): narrow for wide, narrow in zip("ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ－．：／’", "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-.:/'")}
+
+
 def line_width(text):
-    """Pixels from pen start to the furthest the line reaches (a tab can go back). Fullwidth codes count 12, fullwidth digits and blanks 6 (asm/vwf.asm)."""
+    """Pixels from pen start to the furthest the line reaches (a tab can go back). Fullwidth codes count 12, fullwidth digits and blanks 6, fullwidth Latin as its ASCII letter (asm/vwf.asm)."""
     w = widest = 0
     for i, part in enumerate(TAB_SPLIT.split(text)):  # odd parts are tab positions
         if i % 2:
             w = int(part)
             continue
-        for c in part:
+        for c in part.translate(NARROW):
             o = ELLIPSIS if c == "…" else ord(c)
             w += WIDTHS[o - FIRST] if FIRST <= o < FIRST + COUNT else 6 if c == "　" or "０" <= c <= "９" else 12
         widest = max(widest, w)
@@ -136,6 +139,7 @@ def _selftest():
     assert encode("{x:0}a")[1] >= 5  # below 5 ends a string for the game's scans
     assert line_width("ab{x:96}i") == 98
     assert line_width("{x:44}　　{x:0}a") == 56
+    assert line_width("ＳＭ－６") == line_width("SM-") + 6
     assert encode("a　") == b"a\x1f\x81\x40"
     assert len(WIDTHS) == COUNT and WIDTHS[0] == 4 and WIDTHS[ord("i") - FIRST] == 2
     c = cell_bytes(FONT[ord("|")])

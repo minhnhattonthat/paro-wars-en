@@ -7,7 +7,7 @@ Images are raw pixels inside LZ files: no TIM headers except `CNTRY_ST`. Typical
 ## Elements
 | # | Element | Source | State |
 |---|---|---|---|
-| 1 | Mode select: シナリオモード, マップバトルモード | `DEMO/KABE3` rows 0-103, 128-231 at VRAM 768,0 | redrawn, `select_mode` |
+| 1 | Mode select: シナリオモード, マップバトルモード | `DEMO/KABE0` at 0x10000 and 0x14000, VRAM 768,0 | redrawn, `select_mode` |
 | 2 | Prompts, level and settings labels | `DEMO/KABE0` page at 896,0 | redrawn, `select_*`, `mb_*` |
 | 3 | Button bar: 決定, 戻る, ヘルプ, 次, 前 | `DEMO/KABE0`, `KABE1` | redrawn |
 | 4 | Nation plates with 主力兵器 / データ | `DEMO/KABE4` (8 columns), and 137 copies in 39 scenario files (`tools/gfx_copies.tsv`, from `find_copies.py`) | redrawn, `plate_*` |
@@ -16,16 +16,18 @@ Images are raw pixels inside LZ files: no TIM headers except `CNTRY_ST`. Typical
 | 7 | Mission title cards | `MTIT/MTIT1-12`: atlas plus sprite table; the table is rewritten, the furigana are gone | redrawn, `card_*` |
 | 8 | Win banner かちっ!! | `BTLEND/WIN00-08` | redrawn, `win` |
 | 9 | Lose banner まけっ!! | `BTLEND/LOS00-07` | redrawn, `lose` |
-| 10 | Map HUD nation name | `FIX` at 0xC000 | redrawn |
+| 10 | Map HUD nation name, ニャン次郎軍 too | `FIX` at 0xC000 | redrawn; each rect is the Japanese's whole width, because the game shows that many pixels (`help_*`) |
 | 11 | "Number + name" labels beside unit art | `OP_*`, `PUP_*` | **not displayed: left alone.** The labels sit in empty atlas space beside the frames, like an artist's note. `battle_anim` has `OP_05` in VRAM at 768,256, and every quad on it samples only the frames (`prims.py`), never the label at x 56+, y 45+. `PUP_29`'s `戦車 SA-GO29` is the same kind of note. Inference from one battle plus the layout, not proven for all ~100 files |
 | 12 | Staff roll | `ENDING/STAFF` (glyph sheet), `ENDING/SEQ_*` (16 files of sprite lists): `tools/credits.py` draws each English line as one strip and points each list at them, `tests/test_credits.py` | redrawn, `credits_roll`. The game keeps u + w in a byte, so a strip ending at u 256 draws backwards |
 | 13 | Title screen | `ROGO` logo stays; the rest is already English | none |
 | 14 | Saved game's row: シナリオ, nation, 第N章, ターン:, クリア | `MCWGRPH` at 0xC000, 4bpp, VRAM 928,0 | redrawn, `st_memsave` |
 | 15 | Compass, `TV` on the cat's hat, FIX digits | `FIX` | already Latin |
-| 16 | Signs on story backdrops: chess match, sing and dance contest, Panda's 茶会王様 | `DEMO/BACK10A`, `BACK11A`, `BACK13A` | redrawn over the art, `full_ait_4`, `full_moa_2` |
+| 16 | Signs on story backdrops: chess match, sing and dance contest, Panda's 茶会主義 | `DEMO/BACK10A`, `BACK11A`, `BACK13A`, `BACK13B` | redrawn over the art, `full_ait_4`, `full_moa_2`, `full_moa_3` |
 | 17 | `Thank you for playing this game!` | `ENDING/ENDKABE` | already English |
 | 18 | Map bubbles: うすしおFC（警備中）, ごうか客船パロニャン子号 | `DEMO/PEN4_01` | redrawn, `full_pen_4` |
 | 19 | Result lines beside the win banner | engine text | English, `win` |
+| 20 | Turn banner: the nation's name when its turn starts | `FLAG` (`docs/re/compression.md`) | redrawn, `attract`, `full_tak_3` |
+| 21 | Wall plaque 平和 in Bow-Wow's office | `DEMO/BACK3` | redrawn, `full_bau_6` |
 
 ## Coverage: what this list does and does not rest on
 - **Static sweep:** `tools/sweep.py` rendered 776 unique files on 65 sheets in `work/recon/sweep/`, all read. No text in `P_*` or NYANTV. `DEMO/MOA3_01` has a "Bom" balloon, already English.

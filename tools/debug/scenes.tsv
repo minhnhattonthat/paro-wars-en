@@ -111,36 +111,36 @@ card_bau_5	card	bau	5
 card_bau_6	card	bau	6
 map_opening	mission	pen	0	w900
 map	mission	pen	0	w900 circle w60 circle w60
-unit_cmd	mission	pen	0	w900 circle w60 circle w60 circle w60
-unit_move	mission	pen	0	w900 circle w60 circle w60 circle w60 circle w60
-unit_info	mission	pen	0	w900 circle w60 circle w60 triangle w120
-unit_tactics	mission	pen	0	w900 circle w60 circle w60 circle w60 down w20 circle w150
-unit_func	mission	pen	0	w900 circle w60 circle w60 circle w60 down w20 down w20 circle w150
-unit_special	mission	pen	0	w900 circle w60 circle w60 circle w60 down w20 down w20 down w20 circle w150
-menu_1	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 circle w300
-menu_2	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 circle w300
-menu_3	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 down w20 circle w300
-menu_4	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 down w20 down w20 circle w300
-menu_5	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 down w20 down w20 down w20 circle w300
-menu_6	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 down w20 down w20 down w20 down w20 circle w300
-menu_7	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 down w20 down w20 down w20 down w20 down w20 circle w300
-menu_8	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 down w20 down w20 down w20 down w20 down w20 down w20 circle w300
-menu_9	mission	pen	0	w900 circle w60 circle w60 down w40 circle w60 down w20 down w20 down w20 down w20 down w20 down w20 down w20 down w20 down w20 circle w300
-st_sksn	mission	pen	0	w900 circle w60 circle w60 state=4 w300
-st_spld	mission	pen	0	w900 circle w60 circle w60 state=9 w300
-st_shop	mission	pen	0	w900 circle w60 circle w60 state=10 w300
-st_locex	mission	pen	0	w900 circle w60 circle w60 state=14 w300
-st_prod	mission	pen	0	w900 circle w60 circle w60 state=15 w300
-st_butai	mission	pen	0	w900 circle w60 circle w60 state=16 w300
-st_cntryst	mission	pen	0	w900 circle w60 circle w60 state=17 w300
-st_memcard	mission	pen	0	w900 circle w60 circle w60 state=18 w300
-st_allmap	mission	pen	0	w900 circle w60 circle w60 state=19 w300
-st_options	mission	pen	0	w900 circle w60 circle w60 state=21 w300
-st_suim	mission	pen	0	w900 circle w60 circle w60 state=28 w300
-nyantv	mission	pen	0	w900 circle w60 circle w60 m0x800E096F=1 g0x7f7=1 g0x852=1 m0x800E0973=1 w300
-enemy_turn	mission	pen	0	w900 circle w60 circle w60 state=25 w600
-win	mission	pen	0	w900 circle w60 circle w60 g0x798=2 until4.10 w640
-lose	mission	pen	0	w900 circle w60 circle w60 g0x798=2 until4.9 g0x798=5 until4.10 w500
+unit_cmd	mission	pen	0	w900 circle w60 circle w60 w300circle w60
+unit_move	mission	pen	0	w900 circle w60 circle w60 w300circle w60 circle w60
+unit_info	mission	pen	0	w900 circle w60 circle w60 w300triangle w120
+unit_tactics	mission	pen	0	w900 circle w60 circle w60 w300circle w60 down w20 circle w150
+unit_func	mission	pen	0	w900 circle w60 circle w60 w300circle w60 down w20 down w20 circle w150
+unit_special	mission	pen	0	w900 circle w60 circle w60 w300circle w60 down w20 down w20 down w20 circle w150
+menu_1	mission	pen	0	w900 circle w60 circle w60 w300down w40 circle w60 down w20 circle w300
+menu_2	mission	pen	0	w900 circle w60 circle w60 w300down w40 circle w60 down w20 down w20 circle w300
+menu_3	mission	pen	0	w900 circle w60 circle w60 w300down w40 circle w60 down w20 down w20 down w20 circle w300
+menu_4	mission	pen	0	w900 circle w60 circle w60 w300down w40 circle w60 down w20 down w20 down w20 down w20 circle w300
+menu_5	mission	pen	0	w900 circle w60 circle w60 w300down w40 circle w60 down w20 down w20 down w20 down w20 down w20 circle w300
+menu_6	mission	pen	0	w900 circle w60 circle w60 w300down w40 circle w60 down w20 down w20 down w20 down w20 down w20 down w20 circle w300
+menu_7	mission	pen	0	w900 circle w60 circle w60 w300down w40 circle w60 down w20 down w20 down w20 down w20 down w20 down w20 down w20 circle w300
+menu_8	mission	pen	0	w900 circle w60 circle w60 w300down w40 circle w60 down w20 down w20 down w20 down w20 down w20 down w20 down w20 down w20 circle w300
+menu_9	mission	pen	0	w900 circle w60 circle w60 w300down w40 circle w60 down w20 down w20 down w20 down w20 down w20 down w20 down w20 down w20 down w20 circle w300
+st_sksn	mission	pen	0	w900 circle w60 circle w60 w300state=4 w300
+st_spld	mission	pen	0	w900 circle w60 circle w60 w300state=9 w300
+st_shop	mission	pen	0	w900 circle w60 circle w60 w300state=10 w300
+st_locex	mission	pen	0	w900 circle w60 circle w60 w300state=14 w300
+st_prod	mission	pen	0	w900 circle w60 circle w60 w300state=15 w300
+st_butai	mission	pen	0	w900 circle w60 circle w60 w300state=16 w300
+st_cntryst	mission	pen	0	w900 circle w60 circle w60 w300state=17 w300
+st_memcard	mission	pen	0	w900 circle w60 circle w60 w300state=18 w300
+st_allmap	mission	pen	0	w900 circle w60 circle w60 w300state=19 w300
+st_options	mission	pen	0	w900 circle w60 circle w60 w300state=21 w300
+st_suim	mission	pen	0	w900 circle w60 circle w60 w300state=28 w300
+nyantv	mission	pen	0	w900 circle w60 circle w60 w300m0x800E096F=1 g0x7f7=1 g0x852=1 m0x800E0973=1 w300
+enemy_turn	mission	pen	0	w900 circle w60 circle w60 w300state=25 w600
+win	mission	pen	0	w900 circle w60 circle w60 w300g0x798=2 until4.10 w640
+lose	mission	pen	0	w900 circle w60 circle w60 w300g0x798=2 until4.9 g0x798=5 until4.10 w500
 attract	attract
 battle	attract	until-attack w240
 battle_anim	attract	until-attack w30 g0x1c=1 g0x20=0 w500
@@ -159,18 +159,18 @@ mb_map	mapbattle	circle w150
 mb_status	mapbattle	2*[circle w150]
 mb_play	mapbattle	13*[circle w150] w300
 story_pages	storyx	pen	0	w60 8*[circle w80 s]
-info_pages	mission	pen	0	w900 circle w60 circle w60 triangle w120 s right w120 s right w120 s right w120 s right w120 s
-prod_pages	mission	pen	0	w900 circle w60 circle w60 state=15 w300 triangle w200 s triangle w200 s cross w100 right w100 s cross w100 right w100 triangle w200 s triangle w200 s
+info_pages	mission	pen	0	w900 circle w60 circle w60 w300triangle w120 s right w120 s right w120 s right w120 s right w120 s
+prod_pages	mission	pen	0	w900 circle w60 circle w60 w300state=15 w300 triangle w200 s triangle w200 s cross w100 right w100 s cross w100 right w100 triangle w200 s triangle w200 s
 battle_speech	attract	until-attack w30 g0x1c=1 g0x20=0 8*[w150 s]
-reinforce	mission	pen	6	w900 circle w60 circle w60 state=27 w400 s w400 s w400 s
-shop_buy	mission	pen	0	w900 circle w60 circle w60 state=10 w300 circle w200 s circle w200 s circle w200 s cross w100 s down w40 circle w200 s circle w200 s cross w100 s down w40 circle w200 s
-locex_deploy	mission	pen	0	w900 circle w60 circle w60 state=14 w300 circle w200 s circle w200 s circle w200 s circle w200 s circle w300 s triangle w200 s
-butai_pages	mission	pen	0	w900 circle w60 circle w60 state=16 w300 circle w200 s right w100 s triangle w200 s circle w200 s cross w100 s
-cntry_pages	mission	pen	0	w900 circle w60 circle w60 state=17 w300 right w100 s right w100 s circle w100 s
-sksn_target	mission	pen	0	w900 circle w60 circle w60 state=4 w300 circle w200 s circle w200 s down w40 circle w200 s
+reinforce	mission	pen	6	w900 circle w60 circle w60 w300state=27 w400 s w400 s w400 s
+shop_buy	mission	pen	0	w900 circle w60 circle w60 w300state=10 w300 circle w200 s circle w200 s circle w200 s cross w100 s down w40 circle w200 s circle w200 s cross w100 s down w40 circle w200 s
+locex_deploy	mission	pen	0	w900 circle w60 circle w60 w300state=14 w300 circle w200 s circle w200 s circle w200 s circle w200 s circle w300 s triangle w200 s
+butai_pages	mission	pen	0	w900 circle w60 circle w60 w300state=16 w300 circle w200 s right w100 s triangle w200 s circle w200 s cross w100 s
+cntry_pages	mission	pen	0	w900 circle w60 circle w60 w300state=17 w300 right w100 s right w100 s circle w100 s
+sksn_target	mission	pen	0	w900 circle w60 circle w60 w300state=4 w300 circle w200 s circle w200 s down w40 circle w200 s
 help_final	mission	pen	6	w300 s w300 s w300 s w300 s w600 s w900 s
-enemy_long	mission	pen	0	w900 circle w60 circle w60 8*[state=25 w1500 s]
-win_bonus	mission	pen	1	w900 circle w60 circle w60 g0x798=2 until4.10 w300 s w300 s w300 s
+enemy_long	mission	pen	0	w900 circle w60 circle w60 w3008*[state=25 w1500 s]
+win_bonus	mission	pen	1	w900 circle w60 circle w60 w300g0x798=2 until4.10 w300 s w300 s w300 s
 select_mode	select	
 select_level	select	circle w150
 select_country	select	2*[circle w150]
@@ -240,7 +240,7 @@ full_tak_2	storyx	tak	2	w60 20*[circle w70 s]
 full_tak_3	storyx	tak	3	w60 28*[circle w70 s]
 full_tak_4	storyx	tak	4	w60 14*[circle w70 s]
 full_tak_5	storyx	tak	5	w60 21*[circle w70 s]
-st_memsave	mission	pen	0	w900 circle w60 circle w60 state=18 w300 circle w120 circle w300 circle w300 circle w600 s
+st_memsave	mission	pen	0	w900 circle w60 circle w60 w300state=18 w300 circle w120 circle w300 circle w300 circle w600 s
 credits_roll	ending	pen	6	58*[circle w240] 56*[w150 s]
 help_pen	mission	pen	6	w300 s 6*[circle w200 s] 6*[w300 s]
 help_but	mission	but	6	w300 s 6*[circle w200 s] w300
@@ -250,11 +250,11 @@ help_ait	mission	ait	6	w300 s 6*[circle w200 s] w300
 help_moa	mission	moa	6	w300 s 6*[circle w200 s] w300
 help_pan	mission	pan	6	w300 s 6*[circle w200 s] w300
 help_bau	mission	bau	6	w300 s 6*[circle w200 s] w300
-locs_pen	mission	pen	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
-locs_but	mission	but	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
-locs_tak	mission	tak	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
-locs_lov	mission	lov	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
-locs_ait	mission	ait	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
-locs_moa	mission	moa	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
-locs_pan	mission	pan	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
-locs_bau	mission	bau	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_pen	mission	pen	0	w900 circle w60 circle w60 w300state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_but	mission	but	0	w900 circle w60 circle w60 w300state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_tak	mission	tak	0	w900 circle w60 circle w60 w300state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_lov	mission	lov	0	w900 circle w60 circle w60 w300state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_ait	mission	ait	0	w900 circle w60 circle w60 w300state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_moa	mission	moa	0	w900 circle w60 circle w60 w300state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_pan	mission	pan	0	w900 circle w60 circle w60 w300state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_bau	mission	bau	0	w900 circle w60 circle w60 w300state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100

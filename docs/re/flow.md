@@ -68,7 +68,10 @@ Reached differently:
 - **Select-screen help** is square on the level select (`mb_help`, `SEL_HELP.BIN`).
 - **Win and lose banners** are `BTLEND/WIN*`, `LOS*`, shown by BEND_OV.
 
-**Not reached by any scene:** HELP_OV and the per-country `*HELP.BIN` (never seen at an overlay slot), and the screens of HOKYU, GORYU, ITCHG, HASN, the `SP*`/`SP_*` special effects, JIRAI, HISS, LOCS. None are on phase 2's list, but they hold text, so phase 5's marker tour must reach them or show their strings another way.
+- **Reinforcement speeches** are HELP_OV (id 0x22): 0x80024298 loads it on the map's opening when `G+1` is 0 and `G+6` is 9, the last chapter of a scenario. Allies arrive with portraits and a line each (`help_*`).
+- **Sortie shouts** are LOCS_OV (id 0xA): LOCEX steps to `G+0x1C` = 0x10 when a deployment ends, picks a commander with 0x80059FF8, and loads LOCS: portrait, name, one random line (`locs_*`). A real deploy needs owned weapons, so the scenes poke the pick (`jal` at 0x8014C664 to `li v0,1`) and step 0x10.
+
+**Not reached by any scene:** the `*HELP.BIN` files, and the screens of HOKYU, GORYU, ITCHG, HASN, the `SP*`/`SP_*` special effects, JIRAI, HISS. HOKYU, ITCHG, HASN, HISS and the `SP_*` files hold no text. GORYU (5 strings), JIRAI (2) and SPABL (3) use the standard window, whose width is `menu_tables.py`'s formula: state pokes showed the range overlay but no prompt, since they need a real transport, a mine or the item.
 
 **Warp proof:** story shots can land on a transition. What proves the chapter is the TXT file's LBA in each scene's log, read from MAP_DEMO's table. 55 scenes read 53 files, the only sharing being TXT_AIT4.
 

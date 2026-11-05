@@ -124,7 +124,7 @@ local function steps(str)
       w16(G + 0x18, tonumber(tok:match("%d+")))
       w16(G + 0x1C, 0)
       w16(G + 0x20, 0)
-    elseif tok == "until-attack" then wait(function() return mode() == 4 and r16(G + 0x18) == 2 end, 30000, tok)
+    elseif tok == "until-attack" then wait(function() return mode() == 4 and r16(G + 0x18) == 2 end, 58000, tok)  -- the demo's AI doesn't always attack, its dice depend on load timing: allow a second demo
     elseif tok == "dump" then L.dump_ram(string.format("d%06d.bin", L.frame))
     elseif wm then
       local m, n = tonumber(wm), tonumber(ws)

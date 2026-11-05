@@ -30,6 +30,29 @@ next:
     sltiu v0,v1,10
     bnez  v0,digit
     addiu a0,v1,0x30
+    addiu v0,v1,-0x11           ; fullwidth Ａ-Ｚ, ａ-ｚ and five signs too, or SM-60 and "Ill be back." draw letterspaced
+    sltiu v0,v0,26
+    bnez  v0,digit
+    nop
+    addiu v0,v1,-0x32
+    sltiu v0,v0,26
+    bnez  v0,digit
+    addiu a0,v1,0x2F
+    li    v0,0x817C
+    beq   s2,v0,digit
+    li    a0,0x2D
+    li    v0,0x8144
+    beq   s2,v0,digit
+    li    a0,0x2E
+    li    v0,0x8146
+    beq   s2,v0,digit
+    li    a0,0x3A
+    li    v0,0x815E
+    beq   s2,v0,digit
+    li    a0,0x2F
+    li    v0,0x8166
+    beq   s2,v0,digit
+    li    a0,0x27
     andi  v0,s2,0x8000
     beqz  v0,pair
     lui   t0,0x800C

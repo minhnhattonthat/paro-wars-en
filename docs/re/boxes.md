@@ -33,6 +33,6 @@ Screen 320x224. Pixels are from the window's own x. Advance: 5.3 px a letter on 
 - `tools/jp_left_files.py` after the marker build: 14 two-character hits (`ф恒`, `成博`, ...), none a string: `mipsre.py xref` finds no reference to any, and the two read as code disassemble to instructions.
 - Windows whose `ptr` is `80170xxx`/`8014b004`: stale slots holding leftover bytes (`boxes_report` lists them), no quad drawn for them on any sheet.
 
-**Not reached in game.** HELP_OV, LOCS_OV, GORYU, JIRAI, SPABL, SPLD, HOKYU, ITCHG, HASN, HISS: phase 8 should try again from a real battle, and these are listed for it in `docs/status.md`. Their limits above are safe by construction, not seen. `BAKU` was not seen either (same shout path as `X_*` by its 0x32 slots, **guess**).
+**Seen in phase 8:** HELP_OV and LOCS_OV (`help_*`, `locs_*`): the shout box has about 250 px beside the portrait and 2 lines, so 168 is safe. **Not reached in game:** GORYU, JIRAI, SPABL, HOKYU, ITCHG, HASN, HISS (`flow.md`). Their limits above are safe by construction, not seen. `BAKU` was not seen either (same shout path as `X_*` by its 0x32 slots, **guess**).
 
 **Marker tour.** Last full run on build `e0ae8b30`: 172/172 scenes reached, 737 of 4,683 entries seen, pool peak 36,792 of 52,800 (`ending_ait`), `work/qa/final`. Many entries of a family stay unseen because each scene shows a few of them; the width gate needs each *box*, not each line, and all entries of a family share it.

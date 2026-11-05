@@ -159,6 +159,11 @@ def template_problems(entry, text):
     return out
 
 
+def is_stub(lines):
+    """A last line of one word, or short, or a name split at its "&"."""
+    return len(lines[-1]) < STUB or " " not in lines[-1] or lines[-2].endswith(" &")
+
+
 def wrapped(entry, text):
     """Per paragraph, its lines: greedy on spaces, then words move down from the line above while the last line is a stub."""
     px = limit(entry).px
@@ -174,7 +179,7 @@ def wrapped(entry, text):
             else:
                 line = trial
         lines.append(line)
-        while len(lines) > 1 and len(lines[-1]) < STUB:
+        while len(lines) > 1 and is_stub(lines):
             head, _, word = lines[-2].rpartition(" ")
             trial = f"{word} {lines[-1]}"
             if not head or en_text.line_width(trial) > px[min(row, len(px) - 1)]:
@@ -196,7 +201,7 @@ def stubs(entry, text):
     """Last lines under STUB characters that fit() could not fix, in paragraphs it wrapped."""
     if not limit(entry).wrap:
         return []
-    return [lines[-1] for lines in wrapped(entry, text) if len(lines) > 1 and len(lines[-1]) < STUB]
+    return [lines[-1] for lines in wrapped(entry, text) if len(lines) > 1 and is_stub(lines)]
 
 
 def check(entry, text):
