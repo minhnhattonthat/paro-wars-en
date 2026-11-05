@@ -80,7 +80,7 @@ Reached differently:
 Scenario tables in MAP_DEMO, 8 x 8 entries of `{ram, size, lba}`: COL 0x8018D85C, SEQ 0x8018DB5C, TXT 0x8018DE5C, unknown 0x8018D55C. **TXT_AIT4 is shared:** TAK chapter 3 and PAN chapter 4 point at it, so one translation serves three stories. TAK has no chapter 6.
 
 ## Units
-Linked list from 0x80133304, stride 0x4C: +0 prev, +4 next, +8 commander, +0xC type record in the table at 0x8009EC14, +0x14 x, +0x15 y. Commander blocks at 0x800F9620, 0x400 per player, stride 0x20, +0x18 is that commander's unit. A player's forces can start empty; the first enemy turn fills the list.
+Linked list from 0x80133304, stride 0x4C: +0 prev, +4 next, +8 commander, +0xC type record in the table at 0x8009EC14, +0x14 x, +0x15 y. Commander blocks at 0x800F9620, 0x400 per player, stride 0x20, +0x18 is that commander's unit. A player's forces can start empty; the first enemy turn fills the list. Which unit starts on which square, and so the unit list's order, changes with timing on the original disc: `pen 0` with the mission press 300 frames later moves the same units around, while the press gaps tested (61, 75, 97) don't. **verified**. A patched file shifts load timing the same way, so a list that differs from the Japanese shot isn't a fault.
 
 Poking x, y moves the sprite, but **attack refuses a poked target** (weapon window stays, circle does nothing); the target check was not read. Battle is reached through the attract demo instead:
 - `battle`: the demo's own battle, drawn on the map (the demo skips the animation).

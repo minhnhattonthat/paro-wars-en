@@ -22,7 +22,7 @@ import romdiff
 
 ROOT = Path(__file__).resolve().parents[1]
 ORIG = ROOT / "rom/Paro Wars (Japan).bin"
-HOOK = [(0x800676F8, 0x800676FC), (0x80067734, 0x80067738), (0x800677A0, 0x80067CEC), (0x80068838, 0x800688CC)]  # asm/vwf.asm
+HOOK = [(0x800676F8, 0x800676FC), (0x80067734, 0x80067738), (0x800677A0, 0x80067CEC), (0x80068838, 0x800688CC), (0x8004FD78, 0x8004FD7C)]  # asm/vwf.asm
 RECORD_OWNERS = {"DATA/ENDING.BIN"}  # may gain a spilled file's new {size, lba}: build.find_records
 RECORD_RANGES = {"DATA/ENDING.BIN": (0x3AC8, 0x4F34)}
 SPILL_GAP = (65172, 65172 + 1828)  # build.SPILL_GAP; that module imports this one

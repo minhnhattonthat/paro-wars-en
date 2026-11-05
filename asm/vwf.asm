@@ -354,6 +354,10 @@ emit:
     .error "the width table must end at the routine's tail"
 .endif
 
+; Unit box: an enemy's hidden count, ？, in the ones cell. The Japanese draws it one 12 px cell on, where the template (PAW:a88) now starts with its u.
+.org 0x8004FD78
+    addiu v0,zero,6
+
 ; String prepare, 0x80068838 (window a0, text a1), rewritten tighter to add far strings: a slot holding 0x1C, pad, then a 32-bit
 ; little-endian address stands for the string at that address, so a fixed table field can hold any length (docs/re/font.md).
 FAR_MARK equ 0x1C

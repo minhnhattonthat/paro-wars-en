@@ -13,7 +13,7 @@ import en_text
 TREE = ROOT / "work/disc/tree"
 BASE = 0x80010010 - 0x800
 SPAN = (0x800677A0, 0x80067CEC)  # asm/vwf.asm replaces this
-SIZES = (0x800676F8, 0x80067734)  # and these two shifts
+SIZES = (0x800676F8, 0x80067734, 0x8004FD78)  # and these two shifts, and the unit box's ？ offset
 PREP = (0x80068838, 0x800688CC)  # and the string prepare, for far strings
 need = pytest.mark.skipif(not (TREE / "PAW.EXE").exists() or not (ROOT / "tools/armips/armips.exe").exists(), reason="needs work/disc/tree and armips")
 

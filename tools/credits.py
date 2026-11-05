@@ -145,6 +145,7 @@ def _rows(text):
 
 
 ROW_H = 10  # the font's rows: a shadow row as in the Japanese would cost 17 lines of room, and the sky is dark enough without
+STAR_NUDGE = {"Pentaro": 2, "John Nyanjiro": 2}  # a backdrop star at screen (78, 60) would land inside the n ("Pemtaro") and the h; 2 px puts it on the stem
 
 
 def layout():
@@ -197,7 +198,7 @@ def patch(d):
         for i, (y, (x, jp)) in enumerate(rows.items()):
             page, u, v, w = where[LINES[jp]]
             nxt = BASE + carriers[i + 1] if i + 1 < len(carriers) else 0
-            struct.pack_into("<hhBBBBBBHIII", d, carriers[i], x, y, u, v, w, ROW_H, page, 1, TPAGE, 1, 0, nxt)
+            struct.pack_into("<hhBBBBBBHIII", d, carriers[i], x + STAR_NUDGE.get(LINES[jp], 0), y, u, v, w, ROW_H, page, 1, TPAGE, 1, 0, nxt)
     return bytes(d)
 
 

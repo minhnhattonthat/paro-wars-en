@@ -12,6 +12,7 @@ Engine work done first: VWF, moved strings, far strings for table fields (`font.
 - `PAW:b3188` DX (the unit class).
 - Story map place names (`DEMO/WMAP0`; the game shows the Japanese field's width, the map cuts the rest; the game's font, since outline fonts closed every e at this size): Prince Realm, Pentaro, Lovely States, Koitsu & Aitsu Fed. Rep., Feb. 7 Isle, Nya Land, Akashiya Republic, Michael Emp., Moai Emirate, Nyanjiro's Land, Chinkoko-Kaan Realm, Fin-Fin Range Realm, Great Pen-Kuro Isle. Turn banner (`FLAG`): Akashiya Land Republic, Panda Beasts' Republic. Save row (`MCWGRPH`, 78 px in the game's font): Pentaro Realm, Bow-Wow. Map HUD, same reason: Bow-Wow in 70 px, Lovely States, Akashiya Republic, Panda Republic, Moai Emirate.
 - `BEND_OV:1cc8` Koitsu&Aitsu heirloom: 24 bytes, the spaced form needs 25.
+- `DEMO/BACK3` plaque 平和 reads `Pax`: the screen's edge leaves 18 px, Peace needs 20 at the smallest size that stays legible.
 - Save file title (`limits.SAVE_TITLE`), 6 + 4 fullwidth cells by strncpy: `MEMCARD:ac` Ｐ．Ｗａｒｓ; nations Ｂｏｗ． Ｐａｎ． Ｋｏｉ． Ｌｏｖ． Ａｋａ． Ｍｉｃ． Ｐｅｎ．; `bc,ec` Ｃｈ.
 - Not seen on any toured screen, so kept short until phase 8 can measure them: `PAW:b339c,b33a4` Inst, Accur.; `b32ec,b3358` Form; `BUTAI_OV:2618-2638,2684-26a4` Inst, Acc, Sea, Air; `BUTAI_OV:2c7c-2cb8` Screw, Rainbow, Engine, Bazooka; `OPT_OV:1584-15b8` (Res.); `BEND_OV:1d10,1d24`.
 

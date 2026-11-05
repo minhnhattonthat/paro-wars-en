@@ -38,6 +38,8 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - A label cut by the map's edge or covered by a sprite or text box: the Japanese label sits at the same place.
 - Battle units carry no name plate; the "number + name" labels in `OP_*`/`PUP_*` never reach the screen.
 - Screens past a story's last page (mission card, map) in a `full_*` sheet: the route's extra presses.
+- The white streak on the map the moment before the LOSE banner: the Japanese shows it too, at a timing its shot misses (compared frame by frame).
+- A different unit in a list row or on a map square than in the Japanese shot: starting positions and list order change with timing on the original disc too (`docs/re/flow.md`).
 
 ## Verdicts
 Write your verdict file once you have read every sheet, one line per id in the chunk:

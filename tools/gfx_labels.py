@@ -115,7 +115,7 @@ FLAG_STREAMS.append([(_FP, [(0, 0, 128, 24)], "Nya Empire", _PLATE, "c", 0)])
 # Panda's banner ends in the last 80 px of Akashiya's strip 2 (共和国 in both), so that cell has to read Republic in each.
 FLAG_STREAMS[2] = [(_FP, [(0, 0, 124, 24)], "Akashiya", _PLATE, "r", 0), (_FP, [(124, 0, 4, 24)], "", _PLATE, "c", 0), (_FP, [(0, 24, 36, 24)], "Land", Style(TEXT, 20, down=-2), "r", 0),  # down: no descender, so centring drops it below its neighbours' baseline
  (_FP, [(36, 24, 76, 24)], "Republic", _PLATE, "r", 0)]  # r: Panda's sprite starts near x 36 and cuts anything left of it
-FLAG_STREAMS[6] = [(_FP, [(0, 0, 112, 24)], "Panda Beasts'", _PLATE, "r", 0), (_FP, [(112, 0, 16, 24), (0, 24, 128, 24)], "", _PLATE, "c", 0)]  # 112: the tail sprite overlaps this strip's end
+FLAG_STREAMS[6] = [(_FP, [(0, 0, 117, 24)], "Panda Beasts'", Style(TEXT, 20, down=-2), "r", 0), (_FP, [(117, 0, 11, 24), (0, 24, 128, 24)], "", _PLATE, "c", 0)]  # 117: the tail sprite overlaps this strip's end; down as for Land
 
 # Place names on the story map (DEMO/WMAP0): 8bpp rows of 16. The game places a name so that the Japanese's field just fits the map, so English keeps to that width (past it the map's edge cuts it).
 # The game's own pixel font in the brightest grey of the Japanese's ramp: no edge, since the game shades the field. Outline fonts closed every e at this size, so long names take a short form that fits (mask refuses one that doesn't).
@@ -187,7 +187,7 @@ LABELS += [
     (("DATA/DEMO/BACK11A.BIN", 0, 128, 8), [(64, 40, 64, 56), (0, 168, 124, 56)], "Paro World|Super Sing & Dance|Contest", _CLOTH, "c", ("clean", 50, 64, 40, 56)),
     (("DATA/DEMO/BACK13A.BIN", 0, 128, 8), [(14, 166, 36, 12)], "Teaism", _TEASIGN, "c", 1),  # 茶会主義 in its 36 px field, and the same sign when the view pans (BACK13B)
     (("DATA/DEMO/BACK13B.BIN", 0, 128, 8), [(78, 38, 36, 12)], "Teaism", _TEASIGN, "c", 1),
-    (("DATA/DEMO/BACK3.BIN", 0, 128, 8), [(44, 284, 20, 10)], "Peace", Style(TEXT + "#Regular", 9, 2, "none"), "l", 6),  # 平和, the plaque in Bow-Wow's office; the screen's edge cuts its last 2 px
+    (("DATA/DEMO/BACK3.BIN", 0, 128, 8), [(44, 284, 20, 10)], "Pax", Style(TEXT + "#Regular", 9, 2, "none"), "c", 6),  # 平和, the plaque in Bow-Wow's office; the screen's edge cuts the field's last 2 px, and Peace is 2 px over the rest
     (("DATA/DEMO/PEN4_01.BIN", 0, 128, 8), [(38, 135, 84, 34)], "Lite-Salt FC|(On Patrol)", _BUBBLE, "c", 0),
     (("DATA/DEMO/PEN4_01.BIN", 0, 128, 8), [(18, 179, 102, 34)], "Luxury Liner|Paro Nyanko", _BUBBLE, "c", 0),
 ]
