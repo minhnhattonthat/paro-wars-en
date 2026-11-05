@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 done. v1.0 published 2026-11-06 on GitHub Releases (owner's go-ahead): `release/Paro_Wars_EN_v1.0.zip`, patched .bin CRC32 47067C04, SHA-1 0c2d33996f7c45e6f2098203c199ef916076ac03, xdelta SHA-1 d2d1fcf546d335c9ce540da81bfa732390f6e2ce. Repo made public. Phases 0 to 8 done on 2026-11-05.
+- **Phase:** 9 done. v1.0 published 2026-11-06 on GitHub Releases (owner's go-ahead): `release/Paro_Wars_EN_v1.0.zip`, patched .bin CRC32 47067C04, SHA-1 0c2d33996f7c45e6f2098203c199ef916076ac03, xdelta SHA-1 d2d1fcf546d335c9ce540da81bfa732390f6e2ce. Repo still private and its description still names the slug: the owner runs `gh repo edit` (making it public was refused by the agent's permission check). Phases 0 to 8 done on 2026-11-05.
 - **Done:**
   - 2026-11-06, owner's report: menu options off-centre. The code centres option lists by count (`boxes.md`); `limits.MENU_CENTRED` + `fit()` now centre 51 labels by their pixel width. Seen on `map_menu` (new scene), `unit_cmd`, `menu_6/7/9` (`work/qa/cen_fix`). 37 menu scenes rerun, 7 changed sheets ok (`verdicts/recheck6_000.tsv`), release rebuilt.
   - Phase 9: `tools/release.py` ran end to end: full check, smoke, Japanese-left scan, both QA gates exit 0, no open polish line, patch re-applied to the original and compared, zip holds patch and `PATCHING.txt`. The debug tool is Lua run by the emulator, so no build holds debug code.
