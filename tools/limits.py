@@ -69,6 +69,15 @@ SAVE_TITLE = {f"MEMCARD:{a:x}" for a in (0xAC, 0xBC, 0xEC, 0x14, 0x20, 0x2C, 0x3
 # The caller centres these by halfword count, x = centre - 6 * count: at 4 or more the first letter goes under the frame. A leading {x:12} costs one
 # halfword (6 px left) and gains 12, which brings a long label back into the column (x from tools/debug/boxes.lua).
 CENTRED = re.compile(r"CNTRY_ST:5[a-f][0-9a-f]|PAW:b3(084|0c0|0f0|120|150)")
+# Option lists placed the same way, x = centre - 6 * halfwords (window x on a Japanese and an English tour of the menu scenes, boxes.md).
+# English letters average 5 px, not 6, so each label sat left of the centre by its own amount; fit() adds a leading tab that puts its middle there.
+MENU_CENTRED = {
+    *(f"PAW:{a:x}" for a in (0xa88c8, 0xa88d4, 0xa88e0, 0xa88ec, 0xa88f8, 0xa8904, 0xa8914, 0xa8920, 0xa892c, 0xa8938,  # map menu
+                             0xa8964, 0xa8970, 0xa897c, 0xa8988, 0xa8994, 0xa89b4, 0xa89c0,  # its other page, Size
+                             *range(0xb2f9c, 0xb3024, 8), 0xa877c,  # unit commands
+                             0xb3370, 0xb3378, 0xa9708, 0xa9714, 0xa9724, 0xa9590)),  # Yes/No, plan's attack choice, item banner
+    "MEMCARD:120", "MEMCARD:128", "NSHOP_OV:124", "NSHOP_OV:12c", "NSHOP_OV:134", "OPT_OV:1668", "OPT_OV:1674", "SKSN_OV:4", "SKSN_OV:10", "SKSN_OV:1c",
+}
 
 # Real room from the windows' positions on the original (tools/debug/room.py) and shots of the English: id regex -> px. Wins over the Japanese's own width.
 MEASURED = [
@@ -190,10 +199,18 @@ def wrapped(entry, text):
     return paras
 
 
-def fit(entry, text):
-    """The text with line breaks for families that wrap, untouched otherwise. An explicit {br} stays."""
-    if not limit(entry).wrap:
+def centre(entry, text):
+    """A MENU_CENTRED label with the tab that centres it: the code's centre is 6 px per halfword (the tab's included) from the window's x."""
+    if entry["id"] not in MENU_CENTRED or not text or "{" in text:
         return text
+    hw = len(en_text.encode("{x:0}" + text)) // 2
+    return f"{{x:{round((6 * hw - en_text.line_width(text) / 2) / 2) * 2}}}{text}"
+
+
+def fit(entry, text):
+    """The text with line breaks for families that wrap, a centring tab for MENU_CENTRED, untouched otherwise. An explicit {br} stays."""
+    if not limit(entry).wrap:
+        return centre(entry, text)
     return "{br}".join(line for lines in wrapped(entry, text) for line in lines)
 
 
@@ -208,7 +225,7 @@ def check(entry, text):
     """Problems of an English text in its box: empty when it fits."""
     lim = limit(entry)
     problems = []
-    lines = fit(entry, text).split("{br}")
+    lines = (fit(entry, text) if lim.wrap else text).split("{br}")  # widths without the centring tab, which only moves the text inside its box
     if lim.wrap and len(lines) > len(lim.px):
         problems.append(f"{len(lines)} lines, box holds {len(lim.px)}")
     if not lim.wrap and len(lines) > len(lim.px):
@@ -237,6 +254,8 @@ def _selftest():
     assert limit(label).px == [24]
     assert check(label, "Mo") == []
     assert check(label, "Move it now") != []
+    size = {"id": "PAW:a88ec", "jp": "　サイズ　", "len": 12, "refs": ["PAW:w800b80c0"]}  # "Size": 3 halfwords with the tab, centre 18, 20 px wide
+    assert fit(size, "Size") == "{x:8}Size" and check(size, "Size") == []
 
 
 if __name__ == "__main__":

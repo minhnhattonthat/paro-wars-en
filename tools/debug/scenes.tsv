@@ -112,6 +112,7 @@ card_bau_6	card	bau	6
 map_opening	mission	pen	0	w900
 map	mission	pen	0	w900 circle w60 circle w60
 unit_cmd	mission	pen	0	w900 circle w60 circle w60 w300 circle w60
+map_menu	mission	pen	0	w900 circle w60 circle w60 w300 down w40 circle w60
 unit_move	mission	pen	0	w900 circle w60 circle w60 w300 circle w60 circle w60
 unit_info	mission	pen	0	w900 circle w60 circle w60 w300 triangle w120
 unit_tactics	mission	pen	0	w900 circle w60 circle w60 w300 circle w60 down w20 circle w150
