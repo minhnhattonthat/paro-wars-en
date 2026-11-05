@@ -5,5 +5,7 @@ per file; a font with no known licence doesn't go into a release.
 
 | File | Source (URL, version) | Licence | Redistributable in a patch | Used for | Changes made |
 |---|---|---|---|---|---|
-| <fonts/vwf_8px.png> | <drawn for this project> | <MIT, same as repo> | yes | <dialogue VWF> | <-> |
-| <fonts/Title.ttf> | <url, v1.2> | <OFL 1.1> | <yes, as rendered glyphs> | <typeset.py title cards> | <-> |
+| `fonts/en12.txt` | drawn for this project | MIT, same as repo | yes | all engine text (VWF) | - |
+| `fonts/ArchivoNarrow-VF.ttf` | github.com/Omnibus-Type/ArchivoNarrow, via Google Fonts | OFL 1.1 (`fonts/licences/ArchivoNarrow-OFL.txt`) | yes, as rendered glyphs | graphics labels (`tools/gfx.py`), Bold instance | - |
+| `fonts/LuckiestGuy-Regular.ttf` | via Google Fonts | Apache 2.0 (`fonts/licences/LuckiestGuy-LICENSE.txt`) | yes, as rendered glyphs | big banners and mode signs | - |
+| `fonts/Anton-Regular.ttf` | github.com/googlefonts/AntonFont, via Google Fonts | OFL 1.1 (`fonts/licences/Anton-OFL.txt`) | yes, as rendered glyphs | painted signs | - |

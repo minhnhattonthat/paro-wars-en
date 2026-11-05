@@ -10,12 +10,13 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
+import credits
 import en_text
 import gfx_labels
 
 ROOT = Path(__file__).resolve().parents[1]
 FONTS = ROOT / "fonts"
-LZ_NONE = re.compile(r"DATA/BTLEND/|DATA/MTIT/|DATA/FIX\.BIN|DATA/OP|DATA/PUP")  # plain files; everything else here is one LZ stream from offset 0 (work/recon/lz.tsv)
+LZ_NONE = re.compile(r"DATA/BTLEND/|DATA/MTIT/|DATA/FIX\.BIN|DATA/MCWGRPH\.BIN|DATA/OP|DATA/PUP")  # plain files; everything else here is one LZ stream from offset 0 (work/recon/lz.tsv)
 
 
 def _font(name, size):
@@ -132,9 +133,13 @@ def _set(data, page, x, y, v):
         data[a] = data[a] & 0xF0 | v
 
 
-def _commonest(row):
-    """A bar's background on this row: read at its ends, because Japanese ink can outnumber it in the middle."""
-    return collections.Counter(row[:4] + row[-4:]).most_common(1)[0][0]
+def _under(row, background, data=None, page=None, y=0):
+    """What each pixel of a row is without the text. background: "row" (a bar's colour, read at its ends, because Japanese ink can outnumber it in the middle), an index, or (x, y) of a clean column of the same art: the rect's row r takes that column's row y + r."""
+    if background == "row":
+        return [collections.Counter(row[:4] + row[-4:]).most_common(1)[0][0]] * len(row)
+    if isinstance(background, int):
+        return [background] * len(row)
+    return [_get(data, page, background[0], background[1] + y)] * len(row)
 
 
 def sampled(data, page, rects, style, h, background):
@@ -145,12 +150,12 @@ def sampled(data, page, rects, style, h, background):
         x, y, w, rh, dy = (*rect, 0)[:5]
         for r in range(rh):
             row = [_get(data, page, x + c, y + r) for c in range(w)]
-            back = _commonest(row) if background == "row" else background
+            under = _under(row, background, data, page, r + dy)
             for c, v in enumerate(row):
-                if v == back or r + dy >= h:
+                if v == under[c] or r + dy >= h:
                     continue
                 per_row[r + dy][v] += 1
-                if any(0 <= c + dx < w and row[c + dx] == back for dx in (-1, 1)):
+                if any(0 <= c + dx < w and row[c + dx] == under[c + dx] for dx in (-1, 1)):
                     edges[v] += 1
     edge = style.edge
     if edge == "auto":
@@ -182,17 +187,17 @@ def draw_label(data, page, rects, text, style, align, background):
         x, y, rw, rh, dy = (*rect, 0)[:5]
         for r in range(rh):
             row = [_get(data, page, x + c, y + r) for c in range(rw)]
-            back = _commonest(row) if background == "row" else background
+            under = _under(row, background, data, page, r + dy)
             for c in range(rw):
                 v = canvas[r + dy][at + c] if r + dy < h else None
                 if background == "row" and (c < 2 or c >= rw - 2) and v is None:
                     continue  # the bar's own frame
-                _set(data, page, x + c, y + r, v if v is not None else back)
+                _set(data, page, x + c, y + r, v if v is not None else under[c])
         at += rw
 
 
 def _files():
-    out = {}
+    out = {credits.STAFF: {"lz": 0, "rects": []}, **{rel: {"lz": None, "rects": []} for rel in credits.SEQ}}
     for page, rects, *_ in gfx_labels.LABELS:
         rel, off, stride, bpp = page
         entry = out.setdefault(rel, {"lz": None if LZ_NONE.match(rel) else 0, "rects": []})
@@ -217,11 +222,17 @@ def lz_at(rel):
 
 
 def spans(rel):
+    if rel == credits.STAFF or rel in credits.SEQ:
+        return credits.spans(rel, _source(rel))
     return FILES[rel]["rects"] if rel in FILES else []
 
 
 def apply(rel, data):
     """The decoded file with its labels redrawn."""
+    if rel == credits.STAFF:
+        return credits.sheet()
+    if rel in credits.SEQ:
+        return credits.patch(data)
     data = bytearray(data)
     for page, rects, text, style, align, background in BY_FILE[rel]:
         draw_label(data, page, rects, text, style, align, background)

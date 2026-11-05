@@ -43,6 +43,13 @@ LABELS = [
     (SELECT, [(80, 232, 48, 16), (104, 200, 24, 16)], "All clear", PLAIN, "c", 0),
 ]
 
+# Mode select's two big signs: VRAM 768,0 and 768,128.
+_MODE = Style(CHUNKY, 48, "auto", "auto", stroke=2)
+LABELS += [
+    (("DATA/DEMO/KABE3.BIN", 0, 128, 8), [(0, 0, 128, 104)], "SCENARIO|MODE", _MODE, "c", 0),
+    (("DATA/DEMO/KABE3.BIN", 0, 128, 8), [(0, 128, 128, 104)], "MAP BATTLE|MODE", _MODE, "c", 0),
+]
+
 # Next and previous page on the button bar: KABE0 and KABE1 both load it at VRAM 576,256.
 for _rel in ("DATA/DEMO/KABE0.BIN", "DATA/DEMO/KABE1.BIN"):
     _page = (_rel, 0x24000, 128, 8)
@@ -89,20 +96,29 @@ for _rel, _top, _n in _columns:
     if _n in _tail:
         LABELS.append((_page, [(0, 24, 96, 24) if _n == 7 else (16, 24, 112, 24)], _tail[_n], _PLATE, "c", 0))
 
-# Place names on the story map (DEMO/WMAP0): 8bpp rows of 16, as wide as the Japanese's black field. The first 16 rows have the whole 128.
+# Place names on the story map (DEMO/WMAP0): 8bpp rows of 16. The game places a name so that the Japanese's field just fits the map, so English keeps to that width (past it the map's edge cuts it).
 _PLACE = Style(TEXT, 15)
-for _i, _t in enumerate(("Great Pen-Kuro Island", "Prince Kingdom", "Lovely Federal States", "Koitsu & Aitsu Fed. Rep.", "Pentaro Kingdom", "Bling-Bling H Island", "Chinkokoko-Kaan Kingdom",
-                         "Fin-Fin Range Kingdom", "February 7th Island", "Nya Continent", "Bow-Wow Nation", "Gwait Region", "Ryuken Region", "Republic of Akashiya Land",
-                         "Panda Beasts' Republic", "Michael Empire")):
-    LABELS.append((("DATA/DEMO/WMAP0.BIN", 0, 128, 8), [(0, _i * 16, 128, 16)], _t, _PLACE, "l", 0))
-for _y, _w, _t in ((272, 88, "Moai Islands Emirate"), (288, 96, "Lip Chaser Island"), (304, 104, "Francis-Pedro Island"), (320, 96, "John Nyanjiro's Land")):
-    LABELS.append((("DATA/DEMO/WMAP0.BIN", 0, 128, 8), [(0, _y, _w, 16)], _t, _PLACE, "l", 0))
+for _i, (_w, _t) in enumerate(((104, "Great Pen-Kuro Island"), (64, "Prince Kingdom"), (96, "Lovely Federal States"), (128, "Koitsu & Aitsu Fed. Rep."), (64, "Pentaro Kingdom"), (80, "Bling-Bling H Isle"),
+                               (104, "Chinkokoko-Kaan Kingdom"), (104, "Fin-Fin Range Kingdom"), (56, "Feb. 7th Isle"), (56, "Nya Continent"), (56, "Bow-Wow"), (72, "Gwait Region"), (48, "Ryuken"),
+                               (104, "Republic of Akashiya Land"), (128, "Panda Beasts' Republic"), (64, "Michael Empire"), (40, "Hawaii"), (88, "Moai Islands Emirate"), (96, "Lip Chaser Island"),
+                               (104, "Francis-Pedro Island"), (96, "John Nyanjiro's Land"))):
+    LABELS.append((("DATA/DEMO/WMAP0.BIN", 0, 128, 8), [(0, _i * 16, _w, 16)], _t, _PLACE, "l", 0))
 
 # Map HUD: country names in FIX.BIN, 4bpp, 16 rows apiece.
 _FIX = ("DATA/FIX.BIN", 0xC000, 64, 4)
 _hud = Style(TEXT, 14, ink=1, edge=8)
 for _i, _t in enumerate(("Pentaro Kingdom", "Lovely States", "Koitsu & Aitsu", "Michael Empire", "Bow-Wow Nation", "Akashiya Republic", "Panda Republic", "Moai Emirate")):
     LABELS.append((_FIX, [(0, _i * 16, 88 if _i not in (5, 6, 7) else 112, 16)], _t, _hud, "l", 0))
+
+# A saved game's row on the memory card screen (MCWGRPH, VRAM 928,0): nation, 第 N 章, ターン, クリア, mode.
+_SAVE = ("DATA/MCWGRPH.BIN", 0xC000, 64, 4)
+_row = Style(TEXT, 15)
+for _y, _h, _t in ((0, 20, "Pentaro Kingdom"), (20, 20, "Michael Empire"), (40, 20, "Akashiya Land"), (60, 20, "Lovely States"), (80, 20, "Koitsu & Aitsu"), (100, 20, "Moai Emirate"), (128, 19, "Panda Republic"), (147, 20, "Bow-Wow Nation")):
+    LABELS.append((_SAVE, [(0, _y, 80, _h)], _t, _row, "c", 0))
+for _x, _y, _w, _t in ((80, 0, 32, "Clear"), (80, 20, 32, "Turn"), (80, 40, 12, "Ch"), (92, 40, 12, ""), (80, 60, 32, "Map")):
+    LABELS.append((_SAVE, [(_x, _y, _w, 20)], _t, _row, "c", 0))
+LABELS.append((_SAVE, [(0, 168, 56, 16)], "Scenario", Style(TEXT, 14), "c", 0))
+LABELS.append((_SAVE, [(0, 184, 56, 16)], "Map Battle", Style(TEXT, 14), "c", 0))
 
 # Mission title cards (DATA/MTIT): a 128x128 4bpp atlas, 8 palettes, then the card's sprites as data: count, {x, y, w, h, u, v}..., panel {x, y, w, h}.
 # Each title gets one or two lines of two 128x24 strips; the furigana go.
@@ -137,6 +153,17 @@ for _n, (_a, _b) in _cards.items():
         _recs += [(32, 112, 128, 24, 0, 48), (160, 112, 128, 24, 0, 72)]
     _table = struct.pack("<I", len(_recs)) + b"".join(struct.pack("<6I", *r) for r in _recs) + struct.pack("<4I", *_box)
     PATCHES[_rel] = [(_MTIT_TABLE, _table.ljust(_card_size[_n] - _MTIT_TABLE, b"\0"))]
+
+# Signs painted on the story backdrops: the art stays, the inks go (DEMO/TXT_AIT4 and BUT2's chess match, MOA2's contest).
+_CLOTH = Style(CHUNKY, 22, 106, 70, lead=3)
+_BUBBLE = Style(TEXT, 15)
+LABELS += [
+    (("DATA/DEMO/BACK10A.BIN", 0, 128, 8), [(68, 40, 60, 56), (0, 168, 124, 56)], "Pound for Pound|in Chess", _CLOTH, "c", (50, 40)),
+    (("DATA/DEMO/BACK11A.BIN", 0, 128, 8), [(64, 40, 64, 56), (0, 168, 124, 56)], "Paro World|Super Sing & Dance Contest", _CLOTH, "c", (50, 40)),
+    (("DATA/DEMO/BACK13A.BIN", 0, 128, 8), [(12, 164, 40, 14)], "Tea King", Style(TEXT, 13), "c", ROW),
+    (("DATA/DEMO/PEN4_01.BIN", 0, 128, 8), [(38, 135, 84, 30)], "Lite-Salt FC|(On Patrol)", _BUBBLE, "c", 0),
+    (("DATA/DEMO/PEN4_01.BIN", 0, 128, 8), [(18, 179, 102, 34)], "Luxury Liner|Paro Nyanko", _BUBBLE, "c", 0),
+]
 
 # Win and lose banners: the same big word in every BTLEND file. The third sprite, "!!", is already fine.
 _BIG = Style(CHUNKY, 108, "auto", "auto", stroke=2)
