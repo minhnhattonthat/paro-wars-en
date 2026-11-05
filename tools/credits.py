@@ -145,7 +145,7 @@ def _rows(text):
 
 
 ROW_H = 10  # the font's rows: a shadow row as in the Japanese would cost 17 lines of room, and the sky is dark enough without
-STAR_NUDGE = {"Pentaro": 2, "John Nyanjiro": 2}  # a backdrop star at screen (78, 60) would land inside the n ("Pemtaro") and the h; 2 px puts it on the stem
+STAR_NUDGE = dict.fromkeys(("Pentaro", "Hanako", "John Nyanjiro", "Nyanyami", "Logo Design", "Package Design"), 2)  # a backdrop star at screen (78, 60) would land inside the first line's n ("Pemtaro"), h or g; 2 px puts it on the stem. These three cards only, whole, so their lines stay aligned
 
 
 def layout():
