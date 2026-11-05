@@ -162,7 +162,7 @@ mb_play	mapbattle	13*[circle w150] w300
 story_pages	storyx	pen	0	w60 8*[circle w80 s]
 info_pages	mission	pen	0	w900 circle w60 circle w60 w300 triangle w120 s right w120 s right w120 s right w120 s right w120 s
 prod_pages	mission	pen	0	w900 circle w60 circle w60 w300 state=15 w300 triangle w200 s triangle w200 s cross w100 right w100 s cross w100 right w100 triangle w200 s triangle w200 s
-battle_speech	attract	until-attack w30 g0x1c=1 g0x20=0 8*[w150 s]	67
+battle_speech	attract	until-attack w30 g0x1c=1 g0x20=0 8*[w150 s]	40
 reinforce	mission	pen	6	w900 circle w60 circle w60 w300 state=27 w400 s w400 s w400 s
 shop_buy	mission	pen	0	w900 circle w60 circle w60 w300 state=10 w300 circle w200 s circle w200 s circle w200 s cross w100 s down w40 circle w200 s circle w200 s cross w100 s down w40 circle w200 s
 locex_deploy	mission	pen	0	w900 circle w60 circle w60 w300 state=14 w300 circle w200 s circle w200 s circle w200 s circle w200 s circle w300 s triangle w200 s
