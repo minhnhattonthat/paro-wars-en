@@ -107,8 +107,11 @@ for _rel, _top, _n in _columns:
     LABELS += _plate((_rel, _top, 64, 4), _n)
 
 # DATA/FLAG.BIN: palette, then nine LZ streams back to back, one 128 x 128 column each: the nation's name strips over its flag. The banner when a turn starts (gfx.py rewrites the streams).
+# The banner shows the name only, so the tails go blank: Bow-Wow's stream doesn't fit its slot otherwise.
 FLAG = "DATA/FLAG.BIN"
-FLAG_STREAMS = [_plate((FLAG, 0, 64, 4), _n) for _n in range(8)] + [[((FLAG, 0, 64, 4), [(0, 0, 128, 24)], "Nya Empire", _PLATE, "c", 0)]]
+_FP = (FLAG, 0, 64, 4)
+FLAG_STREAMS = [_plate(_FP, _n)[:1] + ([(_FP, [(80, 24, 32, 24)], "", _PLATE, "c", 0)] if _n == 2 else [(_FP, [(0, 24, 96, 24) if _n == 7 else (16, 24, 112, 24)], "", _PLATE, "c", 0)] if _n in _tail else []) for _n in range(8)]
+FLAG_STREAMS.append([(_FP, [(0, 0, 128, 24)], "Nya Empire", _PLATE, "c", 0)])
 
 # Place names on the story map (DEMO/WMAP0): 8bpp rows of 16. The game places a name so that the Japanese's field just fits the map, so English keeps to that width (past it the map's edge cuts it).
 # One plain weight in the brightest grey of the Japanese's ramp: no edge, since the game shades the field, and no squeezing, which turned letters to bars.

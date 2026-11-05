@@ -1,4 +1,4 @@
-"""FLAG.BIN keeps its size and its chain of nine streams; only the name strips change."""
+"""FLAG.BIN keeps its size and every stream's offset; only the name strips change."""
 import sys
 from pathlib import Path
 
@@ -10,13 +10,11 @@ import gfx_labels  # noqa: E402
 import lzkc  # noqa: E402
 
 
+OFFSETS = 0x20, 0x884, 0xEE9, 0x163D, 0x1F3D, 0x26FA, 0x2D4F, 0x357D, 0x3A9C
+
+
 def streams(data):
-    out, at = [], 0x20
-    for _ in gfx_labels.FLAG_STREAMS:
-        end = at + 4 + int.from_bytes(data[at:at + 3], "little")
-        out.append(lzkc.decompress(data[at:end], strict=True))
-        at = end
-    return out
+    return [lzkc.decompress(data[at:at + 4 + int.from_bytes(data[at:at + 3], "little")], strict=True) for at in OFFSETS]
 
 
 def test_flag():

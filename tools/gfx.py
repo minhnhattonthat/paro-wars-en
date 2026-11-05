@@ -231,18 +231,19 @@ def spans(rel):
 
 
 def _flag(data):
-    """FLAG.BIN with each stream's name redrawn. The game walks the streams by their length fields, so they may change size as long as the file keeps its own."""
-    out, at = bytearray(data[:0x20]), 0x20
+    """FLAG.BIN with each stream's name redrawn, in that stream's own slot: moving one hangs the game, so its offsets are compiled in somewhere (not found in PAW.EXE)."""
+    out, at = bytearray(data), 0x20
     for labels in gfx_labels.FLAG_STREAMS:
         end = at + 4 + int.from_bytes(data[at:at + 3], "little")
         column = bytearray(lzkc.decompress(data[at:end], strict=True))
         for page, rects, text, style, align, background in labels:
             draw_label(column, page, rects, text, style, align, background)
-        out += lzkc.compress(bytes(column))
+        stream = lzkc.compress(bytes(column))
+        if len(stream) > end - at:
+            raise ValueError(f"FLAG.BIN stream at {at:#x} is {len(stream)} bytes, has {end - at}")
+        out[at:end] = stream + bytes(end - at - len(stream))
         at = end
-    if len(out) > len(data):
-        raise ValueError(f"FLAG.BIN grew to {len(out)}, has {len(data)}")
-    return bytes(out) + bytes(len(data) - len(out))
+    return bytes(out)
 
 
 def apply(rel, data):

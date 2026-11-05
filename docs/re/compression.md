@@ -27,7 +27,7 @@ Containers with an embedded stream (`tools/lz_embed.py`; offsets are per file, r
 | `P_00`-`P_73`, `P_<name>` | P_08: +0x94, length field at the end of a u32 offset list | pixels, then the unit-info text page at +0x48xx | **verified** on P_08 |
 | `S_<name>` | +0x200 | 0x4000 bytes, graphics | **guess**: first block of several |
 | `ITEM.BIN` | +0x600 | 0x8830 bytes, graphics; the text is raw at +0 | **verified** by the sweep |
-| `FLAG.BIN` | 32-byte palette, then 9 streams back to back at +0x20, +0x884, +0xEE9, +0x163D, +0x1F3D, +0x26FA, +0x2D4F, +0x357D, +0x3A9C (not aligned; each ends where its length says) | 0x2000 bytes each: name strips over a flag, 8 nations and ニャー帝国. The turn banner, decoded to 0x150000 | **verified** by a write trace (decoder 0x80013D64) |
+| `FLAG.BIN` | 32-byte palette, then 9 streams back to back at +0x20, +0x884, +0xEE9, +0x163D, +0x1F3D, +0x26FA, +0x2D4F, +0x357D, +0x3A9C (not aligned; each ends where its length says) | 0x2000 bytes each: name strips over a flag, 8 nations and ニャー帝国. The turn banner, decoded to 0x150000. **The offsets are compiled in** (a moved stream decodes garbage and hangs; the table wasn't found, it isn't in PAW.EXE), so a stream keeps its slot, padded | **verified** by a write trace (decoder 0x80013D64) |
 | `BATTLE0-5`, `BK_DT/*` | +0 | backdrops | **verified** |
 
 Noise warning: `lz_embed.py` prints many short false hits. Trust a hit only when the stream reaches the end of the file or the next offset in the header, and the output looks like data.
