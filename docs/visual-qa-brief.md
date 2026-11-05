@@ -1,4 +1,4 @@
-# Visual-QA reviewer brief - <Game title>
+# Visual-QA reviewer brief - Paro Wars
 
 You review contact sheets from a translated build's QA tour and give each one a verdict. Read-only on everything
 except your one verdict file: no edits to the repo, no git, no subagents.
@@ -27,7 +27,11 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - text still typing out, a box mid-fade or mid-scroll, a cursor caught mid-blink;
 - a map or scene still loading after a warp;
 - anything identical in the original's sheet.
-- <game-specific: e.g. "the double cursor in the shop is the original's">
+- Koitsu's lines are Greek letters and symbols (`glossary.md`), in English as in Japanese.
+- A story map or banner frame half black, or the right part of the map black: the original's own.
+- The title logo パロウォーズ stays Japanese by ruling D5; the art under it reads PARO WARS.
+- Battle units carry no name plate; the "number + name" labels in `OP_*`/`PUP_*` never reach the screen.
+- Screens past a story's last page (mission card, map) in a `full_*` sheet: the route's extra presses.
 
 ## Verdicts
 Write your verdict file once you have read every sheet, one line per id in the chunk:
