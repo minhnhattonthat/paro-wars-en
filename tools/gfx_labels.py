@@ -112,15 +112,18 @@ FLAG = "DATA/FLAG.BIN"
 _FP = (FLAG, 0, 64, 4)
 FLAG_STREAMS = [_plate(_FP, _n)[:1] + ([(_FP, [(80, 24, 32, 24)], "", _PLATE, "c", 0)] if _n == 2 else [(_FP, [(0, 24, 96, 24) if _n == 7 else (16, 24, 112, 24)], "", _PLATE, "c", 0)] if _n in _tail else []) for _n in range(8)]
 FLAG_STREAMS.append([(_FP, [(0, 0, 128, 24)], "Nya Empire", _PLATE, "c", 0)])
+# Panda's banner ends in the last 80 px of Akashiya's strip 2 (共和国 in both), so that cell has to read Republic in each.
+FLAG_STREAMS[2] = [(_FP, [(0, 0, 128, 24)], "Akashiya", _PLATE, "r", 0), (_FP, [(0, 24, 32, 24)], "Land", _PLATE, "r", 0), (_FP, [(32, 24, 80, 24)], "Republic", _PLATE, "l", 0)]
+FLAG_STREAMS[6] = [(_FP, [(0, 0, 128, 24)], "Panda Beasts'", _PLATE, "c", 0), (_FP, [(0, 24, 128, 24)], "", _PLATE, "c", 0)]  # c: its tail sprite overlaps this strip's end
 
 # Place names on the story map (DEMO/WMAP0): 8bpp rows of 16. The game places a name so that the Japanese's field just fits the map, so English keeps to that width (past it the map's edge cuts it).
-# One plain weight in the brightest grey of the Japanese's ramp: no edge, since the game shades the field, and no squeezing, which turned letters to bars.
-_PLACE, _PLACE10 = Style(TEXT + "#Regular", 11, 0xE1, "none"), Style(TEXT + "#Regular", 10, 0xE1, "none")
-for _i, (_w, _t, _s) in enumerate(((104, "Great Pen-Kuro Island", _PLACE), (64, "Prince Kingdom", _PLACE10), (96, "Lovely Federal States", _PLACE), (128, "Koitsu & Aitsu Fed. Rep.", _PLACE), (64, "Pentaro Kingdom", _PLACE10), (80, "Bling-Bling H Isle", _PLACE),
-                                   (104, "Chinkoko-Kaan Kingdom", _PLACE), (104, "Fin-Fin Range Kingdom", _PLACE), (56, "Feb. 7th Isle", _PLACE), (56, "Nya Continent", _PLACE10), (56, "Bow-Wow", _PLACE), (72, "Gwait Region", _PLACE), (48, "Ryuken", _PLACE),
-                                   (104, "Republic of Akashiya Land", _PLACE10), (128, "Panda Beasts' Republic", _PLACE), (64, "Michael Empire", _PLACE10), (40, "Hawaii", _PLACE), (88, "Moai Islands Emirate", _PLACE10), (96, "Lip Chaser Island", _PLACE),
-                                   (104, "Francis-Pedro Island", _PLACE), (96, "John Nyanjiro's Land", _PLACE))):
-    LABELS.append((("DATA/DEMO/WMAP0.BIN", 0, 128, 8), [(0, _i * 16, _w, 16)], _t, _s, "l", 0))
+# The game's own pixel font in the brightest grey of the Japanese's ramp: no edge, since the game shades the field. Outline fonts closed every e at this size, so long names take a short form that fits (mask refuses one that doesn't).
+_PLACE = Style(SMALL, ink=0xE1, edge="none")
+for _i, (_w, _t) in enumerate(((104, "Great Pen-Kuro Isle"), (64, "Prince Realm"), (96, "Lovely States"), (128, "Koitsu & Aitsu Fed. Rep."), (64, "Pentaro"), (80, "Bling-Bling H Isle"),
+                               (104, "Chinkoko-Kaan Realm"), (104, "Fin-Fin Range Realm"), (56, "Feb. 7 Isle"), (56, "Nya Land"), (56, "Bow-Wow"), (72, "Gwait Region"), (48, "Ryuken"),
+                               (104, "Akashiya Republic"), (128, "Panda Beasts' Republic"), (64, "Michael Emp."), (40, "Hawaii"), (88, "Moai Emirate"), (96, "Lip Chaser Island"),
+                               (104, "Francis-Pedro Island"), (96, "Nyanjiro's Land"))):
+    LABELS.append((("DATA/DEMO/WMAP0.BIN", 0, 128, 8), [(0, _i * 16, _w, 16)], _t, _PLACE, "l", 0))
 
 # Map HUD: country names in FIX.BIN, 4bpp, 16 rows apiece.
 _FIX = ("DATA/FIX.BIN", 0xC000, 64, 4)
@@ -179,11 +182,11 @@ _CLOTH = Style(CHUNKY, 22, 106, 70, lead=3)
 _BUBBLE = Style(TEXT, 15)
 _TEASIGN = Style(SMALL, ink=0x1E, edge="none")
 LABELS += [
-    (("DATA/DEMO/BACK10A.BIN", 0, 128, 8), [(68, 40, 60, 56), (0, 168, 124, 56)], "Pound for Pound|in Chess", _CLOTH, "c", (50, 40)),
-    (("DATA/DEMO/BACK11A.BIN", 0, 128, 8), [(64, 40, 64, 56), (0, 168, 124, 56)], "Paro World|Super Sing & Dance Contest", _CLOTH, "c", (50, 40)),
+    (("DATA/DEMO/BACK10A.BIN", 0, 128, 8), [(68, 40, 60, 56), (0, 168, 124, 56)], "Pound for Pound|in Chess", _CLOTH, "c", ("clean", 50, 64, 40, 56)),  # the cloth's shading stays: only the Japanese's inks go
+    (("DATA/DEMO/BACK11A.BIN", 0, 128, 8), [(64, 40, 64, 56), (0, 168, 124, 56)], "Paro World|Super Sing & Dance|Contest", _CLOTH, "c", ("clean", 50, 64, 40, 56)),
     (("DATA/DEMO/BACK13A.BIN", 0, 128, 8), [(14, 166, 36, 12)], "Teaism", _TEASIGN, "c", 1),  # 茶会主義 in its 36 px field, and the same sign when the view pans (BACK13B)
     (("DATA/DEMO/BACK13B.BIN", 0, 128, 8), [(78, 38, 36, 12)], "Teaism", _TEASIGN, "c", 1),
-    (("DATA/DEMO/BACK3.BIN", 0, 128, 8), [(44, 284, 20, 10)], "Peace", Style(TEXT + "#Regular", 10, 2, "none"), "c", 6),  # 平和, the plaque in Bow-Wow's office
+    (("DATA/DEMO/BACK3.BIN", 0, 128, 8), [(44, 284, 20, 10)], "Peace", Style(TEXT + "#Regular", 9, 2, "none"), "l", 6),  # 平和, the plaque in Bow-Wow's office; the screen's edge cuts its last 2 px
     (("DATA/DEMO/PEN4_01.BIN", 0, 128, 8), [(38, 135, 84, 34)], "Lite-Salt FC|(On Patrol)", _BUBBLE, "c", 0),
     (("DATA/DEMO/PEN4_01.BIN", 0, 128, 8), [(18, 179, 102, 34)], "Luxury Liner|Paro Nyanko", _BUBBLE, "c", 0),
 ]

@@ -10,7 +10,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Warp:     `python -X utf8 $SKILL/scripts/emu.py build/paro_wars_en.cue --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 60000` -> `work/qa/warp/<name>.png` (scenes: `tools/debug/scenes.tsv`, from a cold boot, so each takes about 1-6 minutes; never ask the user to play to a scene). All scenes: `python -X utf8 tools/debug/warp_all.py [--only REGEX] [--jobs 8]`. One-off RE runs with the state trace: `sh tools/debug/x.sh NAME SCENE "STEPS" [FRAMES]`. State variables: `docs/re/flow.md`
 - Release:  `python -X utf8 tools/release.py` (patch + verify; never publish without the user; written in phase 9)
 - Unpack:   `tools/mkpsxiso/mkpsxiso-2.30-win64/dumpsxiso.exe -x work/disc/tree -s work/disc/layout.xml "rom/Paro Wars (Japan).cue"`, then `python -X utf8 tools/unpack_all.py work/disc/tree work/unpacked work/recon/lz.tsv` (needed by the RE tools; both outputs are gitignored)
-- Extract:  `python -X utf8 tools/extract.py [--force]` -> `script/` from `work/disc/tree` (writes only missing files; `--force` rewrites, keeping `en`, `status`, `notes` by id). Listing: `python -X utf8 tools/script_view.py [NAME [KIND]]`
+- Extract:  `python -X utf8 tools/extract.py [--force]` -> `script/` from `work/disc/tree` (writes only missing files; `--force` rewrites, keeping `en`, `status`, `notes`, `kind` by id). Listing: `python -X utf8 tools/script_view.py [NAME [KIND]]`
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 
 ## Paths

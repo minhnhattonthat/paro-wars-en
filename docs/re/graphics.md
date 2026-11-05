@@ -11,7 +11,7 @@ Images are raw pixels inside LZ files: no TIM headers except `CNTRY_ST`. Typical
 | 2 | Prompts, level and settings labels | `DEMO/KABE0` page at 896,0 | redrawn, `select_*`, `mb_*` |
 | 3 | Button bar: 決定, 戻る, ヘルプ, 次, 前 | `DEMO/KABE0`, `KABE1` | redrawn |
 | 4 | Nation plates with 主力兵器 / データ | `DEMO/KABE4` (8 columns), and 137 copies in 39 scenario files (`tools/gfx_copies.tsv`, from `find_copies.py`) | redrawn, `plate_*` |
-| 5 | Place names on the story map | `DEMO/WMAP0`, 21 rows of 16 | redrawn to the Japanese field's width: the game places them so that field fits the map, and the map cuts anything longer |
+| 5 | Place names on the story map | `DEMO/WMAP0`, 21 rows of 16 | redrawn in the game's own pixel font within the Japanese field's width: the game places them so that field fits the map, and the map cuts anything longer. Long names take a short form (`tl-notes.md`). `full_but_0`, `full_lov_0` |
 | 6 | Map status: labels, 8 nation names | `DEMO/KABE2` row 128 and `KABE3` row 384 | redrawn, `mb_status` |
 | 7 | Mission title cards | `MTIT/MTIT1-12`: atlas plus sprite table; the table is rewritten, the furigana are gone | redrawn, `card_*` |
 | 8 | Win banner かちっ!! | `BTLEND/WIN00-08` | redrawn, `win` |
@@ -22,11 +22,11 @@ Images are raw pixels inside LZ files: no TIM headers except `CNTRY_ST`. Typical
 | 13 | Title screen | `ROGO` logo stays; the rest is already English | none |
 | 14 | Saved game's row: シナリオ, nation, 第N章, ターン:, クリア | `MCWGRPH` at 0xC000, 4bpp, VRAM 928,0 | redrawn, `st_memsave` |
 | 15 | Compass, `TV` on the cat's hat, FIX digits | `FIX` | already Latin |
-| 16 | Signs on story backdrops: chess match, sing and dance contest, Panda's 茶会主義 | `DEMO/BACK10A`, `BACK11A`, `BACK13A`, `BACK13B` | redrawn over the art, `full_ait_4`, `full_moa_2`, `full_moa_3` |
+| 16 | Signs on story backdrops: chess match, sing and dance contest, Panda's 茶会主義 | `DEMO/BACK10A`, `BACK11A`, `BACK13A`, `BACK13B` | redrawn over the art, `full_ait_4`, `full_moa_2`, `full_moa_3`. The cloth banners keep their shading: only colours outside a clean band of cloth are erased (`gfx._under`, "clean") |
 | 17 | `Thank you for playing this game!` | `ENDING/ENDKABE` | already English |
 | 18 | Map bubbles: うすしおFC（警備中）, ごうか客船パロニャン子号 | `DEMO/PEN4_01` | redrawn, `full_pen_4` |
 | 19 | Result lines beside the win banner | engine text | English, `win` |
-| 20 | Turn banner: the nation's name when its turn starts | `FLAG` (`docs/re/compression.md`) | redrawn, `attract`, `full_tak_3` |
+| 20 | Turn banner: the nation's name when its turn starts | `FLAG` (`docs/re/compression.md`). Panda's banner ends in the last 80 px of Akashiya's strip 2, so both read `... Republic` | redrawn, `attract`, `full_tak_3`, `full_pan_4` |
 | 21 | Wall plaque 平和 in Bow-Wow's office | `DEMO/BACK3` | redrawn, `full_bau_6` |
 
 ## Coverage: what this list does and does not rest on

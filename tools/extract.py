@@ -26,7 +26,7 @@ JP = Table.load(ROOT / "tbl" / "jp.tbl")
 SLOTS = [0x8014B000, 0x80155800, 0x8015C800, 0x80160000, 0x80188000, 0x80154000]  # overlay load addresses, docs/re/flow.md
 PAW_BASE = 0x80010010
 PAW_LOADED = 0xBC000  # boot loads only this much of PAW.EXE (docs/re/disc.md)
-PAW_TEXT = [(0x89C, 0xA90), (0x8F404, 0x91E60), (0xA7160, 0xB33B8)]  # read by hand; the rest is code, font and tables
+PAW_TEXT = [(0x89C, 0xA94),(0x8F404, 0x91E60), (0xA7160, 0xB33B8)]  # read by hand; the rest is code, font and tables
 
 OVERLAY_IDS = ["INIT", None, "SELECT", "MAP_DEMO", "GAME_OV", "ENDING", "OPT_OV", "CNTRY_ST", "PROD_OV", "ALLMP_OV", "LOCS_OV", "SUIM_OV",
                "HOKYU_OV", "MEMCARD", "SPLD_OV", "SPABL_OV", "GORYU_OV", "ITCHG_OV", "NSHOP_OV", "SP_WDBZK", "SP_RNBW", "SP_FRST", "SKSN_OV",
@@ -268,7 +268,7 @@ def merge(old, entries):
     for e in entries:
         o = keep.get(e["id"])
         if o:
-            for k in ("en", "status", "notes"):
+            for k in ("en", "status", "notes", "kind"):  # kind too: a label classify() reads as num can be set to text by hand
                 if k in o:
                     e[k] = o[k]
 

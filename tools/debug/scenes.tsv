@@ -142,8 +142,8 @@ enemy_turn	mission	pen	0	w900 circle w60 circle w60 w300 state=25 w600
 win	mission	pen	0	w900 circle w60 circle w60 w300 g0x798=2 until4.10 w640
 lose	mission	pen	0	w900 circle w60 circle w60 w300 g0x798=2 until4.9 g0x798=5 until4.10 w500
 attract	attract
-battle	attract	until-attack w240
-battle_anim	attract	until-attack w30 g0x1c=1 g0x20=0 w500
+battle	attract	until-attack w240	40
+battle_anim	attract	until-attack w30 g0x1c=1 g0x20=0 w500	40
 ending_pen	ending	pen	6	36*[circle w240]
 ending_but	ending	but	6	36*[circle w240]
 ending_tak	ending	tak	5	36*[circle w240]
@@ -161,7 +161,7 @@ mb_play	mapbattle	13*[circle w150] w300
 story_pages	storyx	pen	0	w60 8*[circle w80 s]
 info_pages	mission	pen	0	w900 circle w60 circle w60 w300 triangle w120 s right w120 s right w120 s right w120 s right w120 s
 prod_pages	mission	pen	0	w900 circle w60 circle w60 w300 state=15 w300 triangle w200 s triangle w200 s cross w100 right w100 s cross w100 right w100 triangle w200 s triangle w200 s
-battle_speech	attract	until-attack w30 g0x1c=1 g0x20=0 8*[w150 s]
+battle_speech	attract	until-attack w30 g0x1c=1 g0x20=0 8*[w150 s]	67
 reinforce	mission	pen	6	w900 circle w60 circle w60 w300 state=27 w400 s w400 s w400 s
 shop_buy	mission	pen	0	w900 circle w60 circle w60 w300 state=10 w300 circle w200 s circle w200 s circle w200 s cross w100 s down w40 circle w200 s circle w200 s cross w100 s down w40 circle w200 s
 locex_deploy	mission	pen	0	w900 circle w60 circle w60 w300 state=14 w300 circle w200 s circle w200 s circle w200 s circle w200 s circle w300 s triangle w200 s

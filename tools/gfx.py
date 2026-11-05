@@ -141,6 +141,22 @@ def _under(row, background, data=None, page=None, y=0):
         return [collections.Counter(row[:4] + row[-4:]).most_common(1)[0][0]] * len(row)
     if isinstance(background, int):
         return [background] * len(row)
+    if background[0] == "clean":  # ("clean", x0, x1, y0, h): the art stays. Art is a run of 4+ pixels in that band's colours (shorter runs are highlights in the ink); the rest takes the last art colour to its left
+        _, x0, x1, y0, h = background
+        art = {_get(data, page, x, y0 + r) for x in range(x0, x1) for r in range(h)}
+        keep = [False] * len(row)
+        start = 0
+        for c in range(len(row) + 1):
+            if c == len(row) or row[c] not in art:
+                if c - start >= 4:
+                    keep[start:c] = [True] * (c - start)
+                start = c + 1
+        last = next((v for v, k in zip(row, keep) if k), row[0])
+        out = []
+        for v, k in zip(row, keep):
+            last = v if k else last
+            out.append(last)
+        return out
     return [_get(data, page, background[0], background[1] + y)] * len(row)
 
 

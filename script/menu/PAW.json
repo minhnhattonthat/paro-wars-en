@@ -202,9 +202,10 @@
    "off": 2620,
    "len": 4,
    "jp": "：",
-   "en": "",
-   "status": "todo",
-   "kind": "num",
+   "en": "{x:0}",
+   "status": "done",
+   "kind": "text",
+   "notes": "a colon at fixed x=61 after the unit class: floats after short English classes and hides under long ones",
    "refs": [
     "PAW:8004ae90",
     "PAW:8004fb68"
@@ -268,6 +269,19 @@
    "kind": "num",
    "refs": [
     "PAW:8004fc70"
+   ]
+  },
+  {
+   "id": "PAW:a88",
+   "off": 2696,
+   "len": 12,
+   "jp": "　ｕ／　ｕ",
+   "en": "u{x:18}/{x:36}u",
+   "status": "done",
+   "kind": "text",
+   "notes": "window at x=109; the code's digit windows at 97 and 133 now end at 109 and 145, so tabs put u and the bar back between them",
+   "refs": [
+    "PAW:8004fd34"
    ]
   },
   {
@@ -3194,7 +3208,7 @@
    "off": 597128,
    "len": 8,
    "jp": "なの",
-   "en": "dear",
+   "en": "y'know",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -4207,10 +4221,10 @@
    "en": "　　　　　{x:82}　　　　／　　　",
    "status": "done",
    "kind": "text",
-   "notes": "fuel: the blanks now draw at 6 px, so a tab puts the code's digits back past the bar",
    "refs": [
     "PAW:w800b82d0"
-   ]
+   ],
+   "notes": "fuel: the blanks now draw at 6 px, so a tab puts the code's digits back past the bar"
   },
   {
    "id": "PAW:a8af4",
