@@ -34,7 +34,7 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - Options mixing `ON` and `Off`: so does the Japanese (ＯＮ and なし).
 - A story map or banner frame half black, or the right part of the map black: the original's own.
 - The title logo パロウォーズ stays Japanese by ruling D5; the art under it reads PARO WARS.
-- Faint dashes in the cloth around the chess and contest banners' letters: the cloth is repainted where the Japanese was, and no clean copy of it exists. A flat grey block or a smudge darker than the cloth is still an issue.
+- Slightly uneven tone edges in the cloth behind the chess and contest banners' letters: the cloth is repainted where the Japanese was, and no clean copy of it exists. A flat block, a streak or a smudge is still an issue.
 - A label cut by the map's edge or covered by a sprite or text box: the Japanese label sits at the same place.
 - Battle units carry no name plate; the "number + name" labels in `OP_*`/`PUP_*` never reach the screen.
 - Screens past a story's last page (mission card, map) in a `full_*` sheet: the route's extra presses.

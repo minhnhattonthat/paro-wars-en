@@ -22,7 +22,7 @@ Images are raw pixels inside LZ files: no TIM headers except `CNTRY_ST`. Typical
 | 13 | Title screen | `ROGO` logo stays; the rest is already English | none |
 | 14 | Saved game's row: シナリオ, nation, 第N章, ターン:, クリア | `MCWGRPH` at 0xC000, 4bpp, VRAM 928,0 | redrawn, `st_memsave` |
 | 15 | Compass, `TV` on the cat's hat, FIX digits | `FIX` | already Latin |
-| 16 | Signs on story backdrops: chess match, sing and dance contest, Panda's 茶会主義 | `DEMO/BACK10A`, `BACK11A`, `BACK13A`, `BACK13B` | redrawn over the art, `full_ait_4`, `full_moa_2`, `full_moa_3`. The cloth banners keep their shading: only colours outside a clean band of cloth are erased (`gfx._under`, "clean") |
+| 16 | Signs on story backdrops: chess match, sing and dance contest, Panda's 茶会主義 | `DEMO/BACK10A`, `BACK11A`, `BACK13A`, `BACK13B` | redrawn over the art, `full_ait_4`, `full_moa_2`, `full_moa_3`. The cloth banners keep their shading: only colours outside a clean band of cloth are erased, each pixel taking its nearest cloth pixel (`gfx._clean_map`) |
 | 17 | `Thank you for playing this game!` | `ENDING/ENDKABE` | already English |
 | 18 | Map bubbles: うすしおFC（警備中）, ごうか客船パロニャン子号 | `DEMO/PEN4_01` | redrawn, `full_pen_4` |
 | 19 | Result lines beside the win banner | engine text | English, `win` |

@@ -53,6 +53,9 @@ next:
     li    v0,0x8166
     beq   s2,v0,digit
     li    a0,0x27
+    li    v0,0x8148             ; ？ stands in for an enemy's unit count, in a digit's cell
+    beq   s2,v0,digit
+    li    a0,0x3F
     andi  v0,s2,0x8000
     beqz  v0,pair
     lui   t0,0x800C

@@ -64,7 +64,7 @@ for _rel in ("DATA/DEMO/KABE0.BIN", "DATA/DEMO/KABE1.BIN"):
 # Map status table: VRAM 0,256 (KABE2 row 128, KABE3 row 384): a column of 64x14 labels, then 8 nation names.
 for _rel, _row in (("DATA/DEMO/KABE2.BIN", 128), ("DATA/DEMO/KABE3.BIN", 384)):
     _page = (_rel, _row * 128, 128, 8)
-    _cell = Style(TEXT, 13, "auto", "none")
+    _cell = Style(TEXT, 13, 193, "none")  # the Japanese's commonest ink: sampled per row, thin glyphs like 色 gave a faint one
     _name = Style(TEXT, 13, 0x6F, "none")
     for _i, _t in enumerate(("Nation","Color", "Alliance", "Player", "Controller", "Money", "Science", "Energy", "Cities")):
         LABELS.append((_page, [(0, _i * 14, 64, 14)], _t, _cell, "c", ROW))
@@ -113,8 +113,9 @@ _FP = (FLAG, 0, 64, 4)
 FLAG_STREAMS = [_plate(_FP, _n)[:1] + ([(_FP, [(80, 24, 32, 24)], "", _PLATE, "c", 0)] if _n == 2 else [(_FP, [(0, 24, 96, 24) if _n == 7 else (16, 24, 112, 24)], "", _PLATE, "c", 0)] if _n in _tail else []) for _n in range(8)]
 FLAG_STREAMS.append([(_FP, [(0, 0, 128, 24)], "Nya Empire", _PLATE, "c", 0)])
 # Panda's banner ends in the last 80 px of Akashiya's strip 2 (共和国 in both), so that cell has to read Republic in each.
-FLAG_STREAMS[2] = [(_FP, [(0, 0, 128, 24)], "Akashiya", _PLATE, "r", 0), (_FP, [(0, 24, 36, 24)], "Land", _PLATE, "r", 0), (_FP, [(36, 24, 76, 24)], "Republic", _PLATE, "r", 0)]  # r: Panda's sprite starts near x 36 and cuts anything left of it
-FLAG_STREAMS[6] = [(_FP, [(0, 0, 128, 24)], "Panda Beasts'", _PLATE, "c", 0), (_FP, [(0, 24, 128, 24)], "", _PLATE, "c", 0)]  # c: the tail sprite overlaps this strip's end
+FLAG_STREAMS[2] = [(_FP, [(0, 0, 124, 24)], "Akashiya", _PLATE, "r", 0), (_FP, [(124, 0, 4, 24)], "", _PLATE, "c", 0), (_FP, [(0, 24, 36, 24)], "Land", Style(TEXT, 20, down=-2), "r", 0),  # down: no descender, so centring drops it below its neighbours' baseline
+ (_FP, [(36, 24, 76, 24)], "Republic", _PLATE, "r", 0)]  # r: Panda's sprite starts near x 36 and cuts anything left of it
+FLAG_STREAMS[6] = [(_FP, [(0, 0, 112, 24)], "Panda Beasts'", _PLATE, "r", 0), (_FP, [(112, 0, 16, 24), (0, 24, 128, 24)], "", _PLATE, "c", 0)]  # 112: the tail sprite overlaps this strip's end
 
 # Place names on the story map (DEMO/WMAP0): 8bpp rows of 16. The game places a name so that the Japanese's field just fits the map, so English keeps to that width (past it the map's edge cuts it).
 # The game's own pixel font in the brightest grey of the Japanese's ramp: no edge, since the game shades the field. Outline fonts closed every e at this size, so long names take a short form that fits (mask refuses one that doesn't).
@@ -199,3 +200,4 @@ for _i in range(9):
 for _i in range(8):
     _rel = f"DATA/BTLEND/LOS{_i:02}.BIN"
     LABELS.append(((_rel, 0x200, 128, 8), [(0, 0, 128, 120), (0, 128, 128, 104, 16)], "LOSE", _BIG, "c", 0))
+    LABELS.append(((_rel, 0x200, 128, 8), [(0, 286, 6, 58)], "", _BIG, "c", 0))  # the end of つ, on the !! sprite's left edge

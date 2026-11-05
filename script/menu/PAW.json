@@ -7330,7 +7330,7 @@
    "off": 734132,
    "len": 4,
    "jp": "地雷",
-   "en": "Mine",
+   "en": "{x:2}Mine",
    "status": "done",
    "kind": "text",
    "refs": [

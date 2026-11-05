@@ -17,6 +17,19 @@ def streams(data):
     return [lzkc.decompress(data[at:at + 4 + int.from_bytes(data[at:at + 3], "little")], strict=True) for at in OFFSETS]
 
 
+def test_clean_map_erases_ink_and_keeps_tones():
+    """Two cloth tones split at row 10; ink crosses them. The clean band is x 0-7 and the rect x 8-39."""
+    page = ("x", 0, 40, 8)
+    data = bytearray(([5] * 40) * 10 + ([6] * 40) * 10)
+    for y in range(4, 16):
+        for x in range(20, 28):
+            data[y * 40 + x] = 9
+    under = gfx._clean_map(data, page, [(8, 0, 32, 20)], ("clean", 0, 8, 0, 20))
+    assert set(under.values()) == {5, 6}
+    assert under[24, 2] == 5 and under[24, 17] == 6
+    assert under[10, 3] == 5 and under[35, 16] == 6
+
+
 def test_every_label_fits():
     """A pixel-font label too wide stops the build, so catch it in the pre-commit check, which doesn't build."""
     labels = gfx_labels.LABELS + [label for stream in gfx_labels.FLAG_STREAMS for label in stream]

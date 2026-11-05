@@ -135,32 +135,49 @@ def _set(data, page, x, y, v):
         data[a] = data[a] & 0xF0 | v
 
 
-def _under(row, background, data=None, page=None, y=0):
-    """What each pixel of a row is without the text. background: "row" (a bar's colour, read at its ends, because Japanese ink can outnumber it in the middle), an index, or (x, y) of a clean column of the same art: the rect's row r takes that column's row y + r."""
+def _clean_map(data, page, rects, background):
+    """{(x, y) in the page: the art under the ink}. background: ("clean", x0, x1, y0, h), a band of clean art beside the rects. Art is a run of 4+ pixels in the common colours of that band within 10 rows (shorter runs, rare colours and other rows' tones are highlights and shadows of the ink), less its edge; the rest takes its nearest art pixel, so a tone's edge carries on under the ink."""
+    _, x0, x1, y0, h = background
+    where, at = {}, 0  # (column, row) across the rects, as on screen -> page (x, y)
+    for x, y, w, rh in (rect[:4] for rect in rects):
+        where.update({(at + c, r): (x + c, y + r) for c in range(w) for r in range(rh)})
+        at += w
+    known = {}
+    for r in range(h):
+        row = [_get(data, page, *where[c, r]) for c in range(at)]
+        for near in (range(max(0, r - 10), min(h, r + 11)), range(h)):  # the whole band when the near rows don't know this row's tone
+            band = collections.Counter(_get(data, page, x, y0 + n) for x in range(x0, x1) for n in near)
+            common = {v for v, n in band.items() if n * 20 >= (x1 - x0) * len(near)}
+            keep = [False] * at
+            start = 0
+            for c in range(at + 1):
+                if c == at or row[c] not in common:
+                    if c - start >= 4:
+                        keep[start:c] = [True] * (c - start)
+                    start = c + 1
+            if sum(keep) * 3 >= at:
+                break
+        known.update({(c, r): row[c] for c in range(at) if keep[c]})
+    steps = (-1, 0), (1, 0), (0, -1), (0, 1)
+    fill = {(c, r): v for (c, r), v in known.items() if all((c + a, r + b) in known or (c + a, r + b) not in where for a, b in steps)}
+    queue = collections.deque(fill)
+    while queue:
+        c, r = queue.popleft()
+        for a, b in steps:
+            if (c + a, r + b) in where and (c + a, r + b) not in fill:
+                fill[c + a, r + b] = fill[c, r]
+                queue.append((c + a, r + b))
+    return {where[p]: v for p, v in fill.items()}
+
+
+def _under(row, background, data=None, page=None, y=0, at=None):
+    """What each pixel of a row is without the text. background: "row" (a bar's colour, read at its ends, because Japanese ink can outnumber it in the middle), an index, ("map", _clean_map's result; `at` is the row's first pixel in the page), or (x, y) of a clean column of the same art: the rect's row r takes that column's row y + r."""
     if background == "row":
         return [collections.Counter(row[:4] + row[-4:]).most_common(1)[0][0]] * len(row)
     if isinstance(background, int):
         return [background] * len(row)
-    if background[0] == "clean":  # ("clean", x0, x1, y0, h): the art stays. Art is a run of 4+ pixels in the common colours of that band within 10 rows (shorter runs, rare colours and other rows' tones are highlights and shadows of the ink); the rest takes the last art colour to its left
-        _, x0, x1, y0, h = background
-        for near in (range(max(0, y - 10), min(h, y + 11)), range(h)):  # the whole band when the near rows don't know this row's tone
-            band = collections.Counter(_get(data, page, x, y0 + r) for x in range(x0, x1) for r in near)
-            art = {v for v, n in band.items() if n * 20 >= (x1 - x0) * len(near)}
-            keep = [False] * len(row)
-            start = 0
-            for c in range(len(row) + 1):
-                if c == len(row) or row[c] not in art:
-                    if c - start >= 4:
-                        keep[start:c] = [True] * (c - start)
-                    start = c + 1
-            if sum(keep) * 3 >= len(row):
-                break
-        last = next((v for v, k in zip(row, keep) if k), row[0])
-        out = []
-        for v, k in zip(row, keep):
-            last = v if k else last
-            out.append(last)
-        return out
+    if background[0] == "map":
+        return [background[1][at[0] + c, at[1]] for c in range(len(row))]
     return [_get(data, page, background[0], background[1] + y)] * len(row)
 
 
@@ -172,7 +189,7 @@ def sampled(data, page, rects, style, h, background):
         x, y, w, rh, dy = (*rect, 0)[:5]
         for r in range(rh):
             row = [_get(data, page, x + c, y + r) for c in range(w)]
-            under = _under(row, background, data, page, r + dy)
+            under = _under(row, background, data, page, r + dy, (x, y + r))
             for c, v in enumerate(row):
                 if v == under[c] or r + dy >= h:
                     continue
@@ -201,6 +218,8 @@ def sampled(data, page, rects, style, h, background):
 
 def draw_label(data, page, rects, text, style, align, background):
     """Clear the rects and draw the text across them, left to right. A rect may name its row in the line: (x, y, w, h, dy)."""
+    if isinstance(background, tuple) and background[0] == "clean":
+        background = ("map", _clean_map(data, page, rects, background))
     w = sum(r[2] for r in rects)
     h = max(r[3] + (r[4] if len(r) > 4 else 0) for r in rects)
     canvas = letter(text, style, w, h, align, sampled(data, page, rects, style, h, background))
@@ -209,7 +228,7 @@ def draw_label(data, page, rects, text, style, align, background):
         x, y, rw, rh, dy = (*rect, 0)[:5]
         for r in range(rh):
             row = [_get(data, page, x + c, y + r) for c in range(rw)]
-            under = _under(row, background, data, page, r + dy)
+            under = _under(row, background, data, page, r + dy, (x, y + r))
             for c in range(rw):
                 v = canvas[r + dy][at + c] if r + dy < h else None
                 if background == "row" and (c < 2 or c >= rw - 2) and v is None:
