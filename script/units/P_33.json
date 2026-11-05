@@ -36,7 +36,7 @@
    "off": 18528,
    "len": 52,
    "jp": "軽量、高速な軽戦車。装甲が薄く防御力は弱いが攻撃力",
-   "en": "A light, fast light tank. Thin armor means weak",
+   "en": "A lightweight, fast light tank. Thin armor means",
    "status": "done",
    "kind": "text"
   },
@@ -45,7 +45,7 @@
    "off": 18580,
    "len": 52,
    "jp": "はいい方です。",
-   "en": "defense, but good attack.",
+   "en": "weak defense, but good attack.",
    "status": "done",
    "kind": "text"
   },

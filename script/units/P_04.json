@@ -54,7 +54,7 @@
    "off": 35016,
    "len": 52,
    "jp": "空戦能力ではイーグルサブにも劣らないが、間接攻撃が",
-   "en": "good as the Eagle Saburo in a dogfight, but has no",
+   "en": "good as the Eagle Saburo-Shiro in a dogfight, but",
    "status": "done",
    "kind": "text"
   },
@@ -63,7 +63,7 @@
    "off": 35068,
    "len": 52,
    "jp": "できない。５００爆弾を装備しているので、地上兵器に",
-   "en": "ranged attack. Its 500 Bombs let it hit ground",
+   "en": "has no ranged attack. Its 500 Bombs let it hit",
    "status": "done",
    "kind": "text"
   },
@@ -72,7 +72,7 @@
    "off": 35120,
    "len": 52,
    "jp": "有効な攻撃が可能。",
-   "en": "weapons well.",
+   "en": "ground weapons well.",
    "status": "done",
    "kind": "text"
   },

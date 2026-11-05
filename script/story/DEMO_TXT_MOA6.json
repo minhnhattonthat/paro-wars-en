@@ -45,7 +45,7 @@
    "off": 600,
    "len": 150,
    "jp": "ニャン次郎：「そういうことならワタシの領地を提供　　　　　　　　するニャン。一度も戦争で荒らされて　　　　　　　　ニャイからニャ～ン。」",
-   "en": "Nyanjiro: \"In that case I'll offer my land, nyan. It's never once been ravaged by war, nyaaan.\"",
+   "en": "Nyanjiro: \"In that case I'll offer my land, nyan. It's never once been nyavaged by war, nyaaan.\"",
    "status": "done",
    "kind": "text"
   },
@@ -81,7 +81,7 @@
    "off": 1200,
    "len": 150,
    "jp": "ニャン次郎：「ふへへへへっ！　　　　　　　　　　　　　　　　　　ごくろうだったな～、よしこ～。」　　　",
-   "en": "Nyanjiro: \"Fuhehehehe! Much obliged for all your hard work, Yoshiko.\"",
+   "en": "Nyanjiro: \"Fuhehehehe! Thanks for the legwork, Yoshiko.\"",
    "status": "done",
    "kind": "text"
   },
@@ -171,7 +171,7 @@
    "off": 2700,
    "len": 150,
    "jp": "　ニャー・ムーの世界征服の野望を絶つべく、モアイ　国軍は、最後の死力を振りしぼってニャー・ムーに戦　いを挑む。",
-   "en": "To end Nya-Mu's dream of world conquest, the Moai army summoned the last of its strength and took him on.",
+   "en": "To end Nya-Mu's ambition of world conquest, the Moai army summoned the last of its strength and took him on.",
    "status": "done",
    "kind": "text"
   }

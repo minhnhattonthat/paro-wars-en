@@ -20,7 +20,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 |---|---|---|---|---|
 | ペン太郎 / ペンタロウ | Pentaro | | penguin king; Parodius' Pentarou. `ペンタロウキング３世` = King Pentaro III | Pentarou |
 | ニャン次郎 | Nyanjiro | | full name John Nyanjiro, peddler cat | Nyanjirou |
-| ニャー・ムー | Nya-Mu | | Nyanjiro's true self, Emperor of the Nya Continent; LATE REVEAL, chapter 6 | |
+| ニャー・ムー | Nya-Mu | | Nyanjiro's true self, Emperor of the Nya Continent; LATE REVEAL, last chapter (TAK's is 5) | |
 | アンナパブロワ | Anna Pavlova | | panda leader, speaks with -aru | Anna Paburowa |
 | よしこ女帝 | Empress Yoshiko | | moai leader, speaks with -mo | |
 | ミカエル | Michael | | pig emperor, Parodius' Michael | Mikael |
@@ -51,7 +51,7 @@ Hiragana names (not enforced because the same letters are pronouns): こいつ K
 | ファンファン要塞 | Fan-Fan Fortress | | | |
 | グウェート地方 / グウェート | Gwait | | | Kuwait |
 | リップチェイサー島 | Lip Chaser Island | | | |
-| チンコココ＝カーン王国 | Chinkokoko-Kaan | | rude pun on purpose | |
+| チンココ＝カーン王国 | Chinkoko-Kaan | | rude pun on purpose | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |

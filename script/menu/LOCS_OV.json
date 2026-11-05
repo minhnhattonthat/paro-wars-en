@@ -957,7 +957,7 @@
    "off": 3744,
    "len": 24,
    "jp": "みんな、気をつけるモ～",
-   "en": "Everyone, be careful, mooo!",
+   "en": "Everyone, be careful, mo!",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -969,7 +969,7 @@
    "off": 3768,
    "len": 24,
    "jp": "みんな、気をつけるモ～",
-   "en": "Everyone, be careful, mooo!",
+   "en": "Everyone, be careful, mo!",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -981,7 +981,7 @@
    "off": 3792,
    "len": 16,
    "jp": "やってやるモ～",
-   "en": "I'll show 'em, mooo!",
+   "en": "I'll show 'em, mo!",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -1005,7 +1005,7 @@
    "off": 3840,
    "len": 28,
    "jp": "一気にけちらしちゃうモ～",
-   "en": "I'll blow 'em away in one go, mooo!",
+   "en": "I'll blow 'em away in one go, mo!",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -1017,7 +1017,7 @@
    "off": 3868,
    "len": 16,
    "jp": "やってやるモ～",
-   "en": "I'll show 'em, mooo!",
+   "en": "I'll show 'em, mo!",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -1041,7 +1041,7 @@
    "off": 3896,
    "len": 32,
    "jp": "派手にでむかえてやるモ～！！",
-   "en": "I'll give 'em a flashy welcome, mooo!!",
+   "en": "I'll give 'em a flashy welcome, mo!!",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -1053,7 +1053,7 @@
    "off": 3928,
    "len": 28,
    "jp": "やつら、ゆるさんモ～！！",
-   "en": "I'll never forgive those guys, mooo!!",
+   "en": "I'll never forgive those guys, mo!!",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -1065,7 +1065,7 @@
    "off": 3956,
    "len": 32,
    "jp": "もっと強いやつと戦いたいモ～",
-   "en": "I wanna fight somebody stronger, mooo!",
+   "en": "I wanna fight somebody stronger, mo!",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -1077,7 +1077,7 @@
    "off": 3988,
    "len": 20,
    "jp": "がんばるモ～！！",
-   "en": "I'll do my best, mooo!!",
+   "en": "I'll do my best, mo!!",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -1101,7 +1101,7 @@
    "off": 4024,
    "len": 24,
    "jp": "みんな、気をつけるモ～",
-   "en": "Everyone, be careful, mooo!",
+   "en": "Everyone, be careful, mo!",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -1161,7 +1161,7 @@
    "off": 4136,
    "len": 20,
    "jp": "めんどくさいモ～",
-   "en": "What a drag, mooo!",
+   "en": "What a drag, mo!",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -1173,7 +1173,7 @@
    "off": 4156,
    "len": 16,
    "jp": "ついてないモ～",
-   "en": "Just my luck, mooo!",
+   "en": "Just my luck, mo!",
    "status": "done",
    "kind": "text",
    "refs": [

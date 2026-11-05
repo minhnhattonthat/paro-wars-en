@@ -2149,7 +2149,7 @@
    "off": 594796,
    "len": 17,
    "jp": "タケノコ",
-   "en": "Bamboo",
+   "en": "Bamboo Shoot",
    "status": "done",
    "kind": "text",
    "refs": []
@@ -2626,7 +2626,7 @@
    "off": 596136,
    "len": 10,
    "jp": "竹やぶ",
-   "en": "Bamboo",
+   "en": "Bamboo Shoot",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -3541,7 +3541,7 @@
    "off": 684592,
    "len": 12,
    "jp": "あります！",
-   "en": "are idle!",
+   "en": "left!",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -3553,7 +3553,7 @@
    "off": 684604,
    "len": 16,
    "jp": "未行動の部隊が",
-   "en": "Some units",
+   "en": "Idle units:",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -3709,7 +3709,7 @@
    "off": 685376,
    "len": 16,
    "jp": "自動で初期配置",
-   "en": "Auto initial setup",
+   "en": "Auto-deploy units",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -3833,7 +3833,7 @@
    "off": 690068,
    "len": 32,
    "jp": "空　　　　陸　　　　海　　　",
-   "en": "Air 　　{x:60}Land　　{x:120}Sea 　　",
+   "en": "Air 　　{x:58}Land　　{x:120}Sea 　　",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -4289,7 +4289,7 @@
    "off": 691616,
    "len": 32,
    "jp": "空　　　　陸　　　　海　　　",
-   "en": "Air 　　{x:60}Land　　{x:120}Sea 　　",
+   "en": "Air 　　{x:58}Land　　{x:120}Sea 　　",
    "status": "done",
    "kind": "text",
    "refs": [

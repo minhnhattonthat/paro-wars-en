@@ -45,7 +45,7 @@
    "off": 18580,
    "len": 52,
    "jp": "　スケルスと呼ばれる機体のレーダー反射を限界まで減",
-   "en": "by the Lovely air force, using stealth technology",
+   "en": "by the Lovely air force, using \"Stealthru\" tech",
    "status": "done",
    "kind": "text"
   },
@@ -54,7 +54,7 @@
    "off": 18632,
    "len": 52,
    "jp": "らす技術を駆使することにより敵の防空レーダーに探知",
-   "en": "that cuts its radar reflection to the limit, so it",
+   "en": "that cuts radar reflection to the limit, so it can",
    "status": "done",
    "kind": "text"
   },
@@ -63,7 +63,7 @@
    "off": 18684,
    "len": 52,
    "jp": "されずに地上攻撃を行えるという特徴をもつ。",
-   "en": "can hit ground targets unseen by enemy radar.",
+   "en": "hit ground targets unseen by enemy radar.",
    "status": "done",
    "kind": "text"
   },

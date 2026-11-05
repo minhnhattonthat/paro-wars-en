@@ -12,3 +12,36 @@ Holy Grail = cat food bowl, Divine Fang = can opener, Fairy Sword = knife, Picco
 He stirred up every war to get them back, all for his meal and playtime. The heroes ask why they were treasures at all: "We just kept handing them down because it's tradition, it seems."
 
 `ENDING/TXT_END` is the shared epilogue and the treasure list. Credits are English.
+
+## Plot by chapter
+From the story pass. TAK has no chapter 6 (its reveal is in `TXT_TAK5`), and TAK 3 and PAN 4 play `TXT_AIT4`, so one text serves three stories.
+
+Recurring incidents, which each campaign meets from its own side:
+- **Prince Kingdom:** Nyanjiro's false oil prophecy sends debt-ridden Moai after its gold, and Pentaro Kingdom defends its sister nation.
+- **February 7th Island:** a resort plan or a tip from Nyanjiro sets Bow-Wow against the island's occupiers.
+- **Francis-Pedro Island:** Panda cuts the Penta Alliance's oil, so they invade its southern oil base, then its mainland.
+- **Lip Chaser Island:** a chess quarrel between Koitsu and Takosuke, or the rigged Sing & Dance Contest, becomes a war there.
+- **Bling-Bling H Island:** the drunken liner Paro Nyanko is torpedoed by the Bow-Wow sub Lite-Salt FC.
+- **Fan-Fan Fortress, Gwait:** the region is invaded or carved up by whoever is broke.
+- **Last chapter:** the nation holds all 8 treasures and hands them over for the Peace Memorial Statue; Nyanjiro opens cat food with the Divine Fang and rises as Nya-Mu with the Nya Continent.
+- **Ending:** he confesses the treasures are his old daily things, and the hero shrugs and lets him keep them.
+
+| Ch | PEN | BUT | TAK | LOV |
+|---|---|---|---|---|
+| 0 | Prince Kingdom defended | Fortune-teller Chickeen scares Akashiya into attacking | Resort on February 7th, Bow-Wow invades | Loses rock-paper-scissors, must rescue Prince Kingdom |
+| 1 | February 7th, relief for Bow-Wow | Oil prophecy, grabs Prince Kingdom, Pentaro responds | Panda and Akashiya embargo oil, Lovely invades | Helps Bow-Wow at February 7th |
+| 2 | Francis-Pedro | Chess war, stray shells bring Michael in | Moai and Michael invade Panda on its group trip | Francis-Pedro |
+| 3 | Panda mainland, Michael helps Anna | Crushes the Pact, Panda takes Moai's Divine Box, counter-attack | Chess war (`TXT_AIT4`) | Panda mainland |
+| 4 | Bling-Bling H, Pentaro steps in | Panda and Akashiya invade Bow-Wow, Michael chases Panda | Michael and Moai invade Gwait | Bling-Bling H against Bow-Wow |
+| 5 | Panda and Akashiya invade Bow-Wow, Penta reinforces | Gwait partition, Michael rises | Reveal | Panda and Akashiya invade Bow-Wow, Lovely reinforces |
+| 6 | Reveal | Reveal | - | Reveal |
+
+| Ch | AIT | MOA | PAN | BAU |
+|---|---|---|---|---|
+| 0 | Resort on February 7th, Bow-Wow attacks | Prophecy, invades Prince Kingdom | Resort on February 7th, Bow-Wow invades | Loses rock-paper-scissors, must rescue Prince Kingdom |
+| 1 | Oil cut through Panda, defends Francis-Pedro | Answers Michael's cry against Akashiya | Oil cut, Lovely invades Francis-Pedro | Strikes first at February 7th |
+| 2 | Pentaro blitzes Panda, battle at Prince Kingdom | Rigged contest, Lip Chaser besieged | Clash with Pentaro at Prince Kingdom | Panda cuts oil, invades Francis-Pedro |
+| 3 | Moai and Michael occupy Panda, retaken from Fan-Fan | Grenade at the funny-face parade, war on Panda | Moai and Michael invade Panda | Panda mainland, Anna calls Michael |
+| 4 | Chess war | Panda and Akashiya invade Bow-Wow, Yoshiko chases Panda | Chess war (`TXT_AIT4`) | Bling-Bling H, Pentaro steps in |
+| 5 | Moai and Michael invade Gwait | Gwait partition, Yoshiko rises | Moai and Michael invade Gwait | Panda and Akashiya invade Ryuken, Pentaro helps |
+| 6 | Reveal | Reveal | Reveal | Reveal |

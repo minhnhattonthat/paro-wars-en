@@ -242,3 +242,19 @@ full_tak_4	storyx	tak	4	w60 14*[circle w70 s]
 full_tak_5	storyx	tak	5	w60 21*[circle w70 s]
 st_memsave	mission	pen	0	w900 circle w60 circle w60 state=18 w300 circle w120 circle w300 circle w300 circle w600 s
 credits_roll	ending	pen	6	58*[circle w240] 56*[w150 s]
+help_pen	mission	pen	6	w300 s 6*[circle w200 s] 6*[w300 s]
+help_but	mission	but	6	w300 s 6*[circle w200 s] w300
+help_tak	mission	tak	5	w300 s 6*[circle w200 s] w300
+help_lov	mission	lov	6	w300 s 6*[circle w200 s] w300
+help_ait	mission	ait	6	w300 s 6*[circle w200 s] w300
+help_moa	mission	moa	6	w300 s 6*[circle w200 s] w300
+help_pan	mission	pan	6	w300 s 6*[circle w200 s] w300
+help_bau	mission	bau	6	w300 s 6*[circle w200 s] w300
+locs_pen	mission	pen	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_but	mission	but	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_tak	mission	tak	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_lov	mission	lov	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_ait	mission	ait	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_moa	mission	moa	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_pan	mission	pan	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100
+locs_bau	mission	bau	0	w900 circle w60 circle w60 state=14 w300 m0x8014c664=1 m0x8014c665=0 m0x8014c666=2 m0x8014c667=36 g0x1c=16 w100

@@ -738,7 +738,7 @@
    "off": 67642,
    "len": 26,
    "jp": "国営あいつ＝なんタロウ",
-   "en": "State-run Aitsu-Nantaro",
+   "en": "It owns 3 \"Kire-Rumba!\"",
    "status": "done",
    "kind": "text"
   },
@@ -747,7 +747,7 @@
    "off": 67668,
    "len": 26,
    "jp": "社製の戦闘空母「キレル",
-   "en": "Inc. built its 3 battle",
+   "en": "battle carriers built by",
    "status": "done",
    "kind": "text"
   },
@@ -756,7 +756,7 @@
    "off": 67694,
    "len": 26,
    "jp": "ンバ！」を３隻保有する",
-   "en": "carriers, \"Kire-Rumba!\",",
+   "en": "State-run Aitsu-Nantaro",
    "status": "done",
    "kind": "text"
   },
@@ -765,7 +765,7 @@
    "off": 67720,
    "len": 26,
    "jp": "他、多くの潜水艦を保有",
-   "en": "and it also owns many",
+   "en": "Inc., and many",
    "status": "done",
    "kind": "text"
   },
@@ -1305,7 +1305,7 @@
    "off": 69280,
    "len": 26,
    "jp": "長。世界に軍事スパイを",
-   "en": "Aitsu Pact. It sends",
+   "en": "Aitsu Pact. The nation",
    "status": "done",
    "kind": "text"
   },
@@ -1314,7 +1314,7 @@
    "off": 69306,
    "len": 26,
    "jp": "送り込み、徹底したスパ",
-   "en": "military spies worldwide",
+   "en": "sends spies worldwide",
    "status": "done",
    "kind": "text"
   },

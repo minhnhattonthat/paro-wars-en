@@ -54,7 +54,7 @@
    "off": 750,
    "len": 150,
    "jp": "このまま",
-   "en": "Keep it up,",
+   "en": "Straight through,",
    "status": "done",
    "kind": "text"
   },
@@ -63,7 +63,7 @@
    "off": 900,
    "len": 150,
    "jp": "一気にいけぇぃ！",
-   "en": "all the way!",
+   "en": "all at once!",
    "status": "done",
    "kind": "text"
   },
@@ -117,7 +117,7 @@
    "off": 1800,
    "len": 150,
    "jp": "ミカエル：「Ｏ．Ｋ！」",
-   "en": "Michael: \"O.K.!\"",
+   "en": "Michael: \"O.K., see!\"",
    "status": "done",
    "kind": "text"
   },

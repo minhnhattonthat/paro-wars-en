@@ -36,7 +36,7 @@
    "off": 450,
    "len": 150,
    "jp": "　事件は、ミカエル帝国に観光と商売に訪れた、７つ　の海をかけ巡る謎の行商猫、ジョン・ニャン次郎の問　題発言から始まった。",
-   "en": "It began with a troubling remark by John Nyanjiro, mysterious peddler cat of the seven seas, visiting the Michael Empire on business.",
+   "en": "It began with a troubling remark by John Nyanjiro, mysterious peddler cat of the seven seas, on a sightseeing and sales trip to the Michael Empire.",
    "status": "done",
    "kind": "text"
   },
@@ -117,7 +117,7 @@
    "off": 1800,
    "len": 150,
    "jp": "ニャン次郎：「あそこは、金銀なんかがざっくざく！　　　　　　　　ペンタ国だけに甘い汁を吸わせておく　　　　　　　　ことはニャイと思うけどニャ～ン。」",
-   "en": "Nyanjiro: \"That place is overflowing with gold and silver! No need to let the Pentas have all the gravy, I'd say, nyaaan.\"",
+   "en": "Nyanjiro: \"That place is overflowing with gold and silver! No need to let Penta Kingdom have all the gravy, I'd say, nyaaan.\"",
    "status": "done",
    "kind": "text"
   },
@@ -144,7 +144,7 @@
    "off": 2250,
    "len": 150,
    "jp": "　ペン太郎王国の北東に位置するプリンス王国。　　　小国ではあるが金、銀などの貴重な鉱物資源が豊富で、長年の間ペン太郎王国とは姉妹国関係にあった。",
-   "en": "Prince Kingdom lies northeast of Pentaro Kingdom. Small but rich in gold, silver and other precious minerals, it was a longtime sister nation.",
+   "en": "Prince Kingdom lies northeast of Pentaro Kingdom. Small but rich in gold, silver and other precious minerals, it had long been a sister nation.",
    "status": "done",
    "kind": "text"
   },

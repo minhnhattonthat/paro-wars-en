@@ -43,11 +43,13 @@ LABELS = [
     (SELECT, [(80, 232, 48, 16), (104, 200, 24, 16)], "All clear", PLAIN, "c", 0),
 ]
 
-# Mode select's two big signs: VRAM 768,0 and 768,128.
+# Mode select's two big signs: VRAM 768,0 and 768,128. The select screen loads KABE0's copy; KABE3 holds the same rows.
 _MODE = Style(CHUNKY, 48, "auto", "auto", stroke=2)
 LABELS += [
     (("DATA/DEMO/KABE3.BIN", 0, 128, 8), [(0, 0, 128, 104)], "SCENARIO|MODE", _MODE, "c", 0),
     (("DATA/DEMO/KABE3.BIN", 0, 128, 8), [(0, 128, 128, 104)], "MAP BATTLE|MODE", _MODE, "c", 0),
+    (("DATA/DEMO/KABE0.BIN", 0, 128, 8), [(0, 512, 128, 104)], "SCENARIO|MODE", _MODE, "c", 0),
+    (("DATA/DEMO/KABE0.BIN", 0, 128, 8), [(0, 640, 128, 104)], "MAP BATTLE|MODE", _MODE, "c", 0),
 ]
 
 # Next and previous page on the button bar: KABE0 and KABE1 both load it at VRAM 576,256.

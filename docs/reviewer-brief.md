@@ -13,7 +13,7 @@ Return the report as your final message: subagents cannot write files, so the co
 - Consistency: glossary names and terms exactly (a one-letter slip is what players notice).
 - Things players caught that reviewers missed: jokes and wordplay losing their punch; abbreviated names or terms beyond what the glossary allows; stock phrases that read awkwardly in English. Unit and commander names are puns on real hardware and people: check that the pun survives.
 - Voice: each speaker against their row in the style reference. Speech tics (ニャン, ワン, アル, モ, ブヒ), register and comic intensity must come through in English, not be normalised into neutral prose. A flattened voice is Important, not Minor.
-- Reveals: nothing hints at Nyanjiro's true identity before chapter 6.
+- Reveals: nothing hints at Nyanjiro's true identity before each campaign's last chapter (6, or 5 for TAK, which has no chapter 6).
 - Naturalness: would a reader stumble?
 
 ## Report

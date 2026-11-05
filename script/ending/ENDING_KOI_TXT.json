@@ -261,7 +261,7 @@
    "off": 4200,
    "len": 150,
    "jp": "コイツ：「εβα、ξβηκτνμαγ、πτκξβσ　　　　　τμζνοσζσα。」",
-   "en": "Koitsu: \"εβα, ξβηκτνμαγ, πτκξβστμζνοσζσα.\"",
+   "en": "Koitsu: \"εβα, ξβηκτνμαγ, πτκξβσ τμζνοσζσα.\"",
    "status": "done",
    "kind": "text"
   },
@@ -396,7 +396,7 @@
    "off": 6450,
    "len": 150,
    "jp": "訳：思えばここ数年、戦争ばかりやっていたなあ～。",
-   "en": "Translation: Come to think of it, these last few years have been nothing but war.",
+   "en": "Translation: \"Come to think of it, these last few years have been nothing but war.\"",
    "status": "done",
    "kind": "text"
   },
@@ -414,7 +414,7 @@
    "off": 6750,
    "len": 150,
    "jp": "訳：でも、これからはニャン次郎とも、もちろん、ほか　　のみんなとも仲良くやっていけそうだ。",
-   "en": "Translation: But from now on, it looks like we can get along with Nyanjiro and, of course, everyone else.",
+   "en": "Translation: \"But from now on, it looks like we can get along with Nyanjiro and, of course, everyone else.\"",
    "status": "done",
    "kind": "text"
   },
@@ -432,7 +432,7 @@
    "off": 7050,
    "len": 150,
    "jp": "訳：ニャン次郎は８つのアイテムが戻って、また昔通り　　の生活ができて喜んでいる。",
-   "en": "Translation: Nyanjiro got his 8 items back and is happy to live as he used to.",
+   "en": "Translation: \"Nyanjiro got his 8 items back and is happy to live as he used to.\"",
    "status": "done",
    "kind": "text"
   },
@@ -450,7 +450,7 @@
    "off": 7350,
    "len": 150,
    "jp": "訳：話によると、あいつが持っている猫缶は、現代科学　　では開缶不可能で、あいつの缶切り（神の牙）でし　　か開けられないらしい。本当に良かった。",
-   "en": "Translation: I hear his cat food can't be opened by modern science, only with his can opener (Divine Fang). What a relief.",
+   "en": "Translation: \"I hear his cat food can't be opened by modern science, only with his can opener (Divine Fang). What a relief.\"",
    "status": "done",
    "kind": "text"
   },
@@ -468,7 +468,7 @@
    "off": 7650,
    "len": 150,
    "jp": "訳：でもニャン次郎のやつ、相変わらず、インチキ商売　　は続けているみたいだ。",
-   "en": "Translation: But that Nyanjiro still seems to be running his phony business.",
+   "en": "Translation: \"But that Nyanjiro still seems to be running his phony business.\"",
    "status": "done",
    "kind": "text"
   },
@@ -486,7 +486,7 @@
    "off": 7950,
    "len": 150,
    "jp": "訳：でも、そんなことはどうでもいい。",
-   "en": "Translation: But none of that matters.",
+   "en": "Translation: \"But none of that matters.\"",
    "status": "done",
    "kind": "text"
   },
@@ -504,7 +504,7 @@
    "off": 8250,
    "len": 150,
    "jp": "訳：これから、俺たちみんなは仲良しだ・・・。",
-   "en": "Translation: From now on, we're all friends...",
+   "en": "Translation: \"From now on, we're all friends...\"",
    "status": "done",
    "kind": "text"
   }

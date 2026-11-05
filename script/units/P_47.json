@@ -72,7 +72,7 @@
    "off": 18736,
    "len": 52,
    "jp": "ほぼ満足のいく攻撃力ですが、コイツ・アイツ機構側の",
-   "en": "Almost satisfying attack, but the Koitsu & Aitsu",
+   "en": "Attack is nearly satisfying, but the Koitsu &",
    "status": "done",
    "kind": "text"
   },
@@ -81,7 +81,7 @@
    "off": 18788,
    "len": 52,
    "jp": "対空兵器は命中率がやや低めな傾向があるので、陸指が",
-   "en": "Pact's anti-air tends to be inaccurate, so give it",
+   "en": "Aitsu Pact's anti-air tends to be inaccurate, so",
    "status": "done",
    "kind": "text"
   },
@@ -90,7 +90,7 @@
    "off": 18840,
    "len": 52,
    "jp": "高い指揮官に指揮をまかせるよう心がけましょう。",
-   "en": "a commander with high Land command.",
+   "en": "give it a commander with high Land command.",
    "status": "done",
    "kind": "text"
   },

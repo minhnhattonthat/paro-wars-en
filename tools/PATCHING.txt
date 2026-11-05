@@ -1,0 +1,30 @@
+Paro Wars (PlayStation, SLPM-86016) - unofficial English translation, version {version}
+
+You need your own dump of the Japanese disc. This zip holds a patch only, no game data.
+
+BASE DISC: "Paro Wars (Japan).bin", single-track BIN/CUE, Redump dump
+  Size   {base_size} bytes
+  CRC32  {base_crc}
+  SHA-1  {base_sha}
+
+TO PATCH
+  1. Check your .bin against the hashes above. Any other dump will not patch.
+  2. Patch it with xdelta3 (Delta Patcher is a free GUI for it):
+       xdelta3 -d -s "Paro Wars (Japan).bin" {patch} "Paro Wars (English).bin"
+  3. Copy your .cue beside the new .bin, rename it to match, and change the FILE line inside it to the new name.
+       FILE "Paro Wars (English).bin" BINARY
+  Patched .bin: CRC32 {new_crc}, SHA-1 {new_sha}
+
+TO PLAY
+  Load the .cue in a PlayStation emulator. Tested on PCSX-Redux with a Japanese BIOS (SCPH-5500). Start from a cold boot.
+  Save states from the Japanese game won't work: the game's text and code have moved.
+
+CONTROLS ON THE MENUS: circle confirms, cross goes back. Start skips the intro.
+
+KNOWN ISSUES
+  - The title logo keeps パロウォーズ (no English logo was ever made; the art already reads PARO WARS).
+  - A few short prompts on rare screens were checked for width but never seen in play: transport selection and the landmine message.
+
+This is an unofficial fan translation, not affiliated with the publisher. No pre-patched images are distributed.
+Translated with AI assistance. Fonts and their licences: docs/fonts.md in the repository, github.com/minhnhattonthat/paro-wars-en
+Report bugs: github.com/minhnhattonthat/paro-wars-en/issues

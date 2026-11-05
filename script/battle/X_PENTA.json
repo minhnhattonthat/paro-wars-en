@@ -225,7 +225,7 @@
    "off": 2652,
    "len": 60,
    "jp": "おかみにたてつくたわけものはこうしてやるぅ！",
-   "en": "Fools who defy the crown get thiiis, okay?!",
+   "en": "Fools who defy the state get thiiis, okay?!",
    "status": "done",
    "kind": "text"
   },
@@ -297,7 +297,7 @@
    "off": 3132,
    "len": 60,
    "jp": "なにをするんじゃ！",
-   "en": "What are you doing?!",
+   "en": "What are you doing, okay?!",
    "status": "done",
    "kind": "text"
   },
@@ -468,7 +468,7 @@
    "off": 4272,
    "len": 60,
    "jp": "やったぜっよろしく！",
-   "en": "Did it! Nice to meet you, okay?",
+   "en": "Did it! Thanks, okay?",
    "status": "done",
    "kind": "text"
   },

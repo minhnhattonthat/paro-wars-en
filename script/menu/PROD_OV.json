@@ -189,7 +189,7 @@
    "off": 9536,
    "len": 16,
    "jp": "次回できる数",
-   "en": "Next batch",
+   "en": "Can build",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -393,7 +393,7 @@
    "off": 9804,
    "len": 16,
    "jp": "次回できる数",
-   "en": "Next batch",
+   "en": "Can build",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -597,7 +597,7 @@
    "off": 10064,
    "len": 16,
    "jp": "次回できる数",
-   "en": "Next batch",
+   "en": "Can build",
    "status": "done",
    "kind": "text",
    "refs": [
@@ -801,7 +801,7 @@
    "off": 10332,
    "len": 16,
    "jp": "次回できる数",
-   "en": "Next batch",
+   "en": "Can build",
    "status": "done",
    "kind": "text",
    "refs": [
